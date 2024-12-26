@@ -417,11 +417,33 @@ collections:
             name: 641d15c7
             widget: string
           - hint: >-
-              Original text: This is some text inside of a div block., key:
-              7635fb4f
+              Original text: Biópsia de próstata transperineal em Manaus, key:
+              -10225c6b
             label: Text
-            name: 7635fb4f
+            name: '-10225c6b'
             widget: string
+          - hint: >-
+              Original text: A fusão de imagens é como ter um GPS de alta
+              precisão para mapear a próstata. , key: 6f65bf00
+            label: Text
+            name: 6f65bf00
+            widget: string
+          - hint: 'Original text: Rim, key: 140f6'
+            label: Text
+            name: 140f6
+            widget: string
+          - hint: >-
+              Original text: Tratamento de cálculos no rim e ureter, key:
+              231ca14d
+            label: Text
+            name: 231ca14d
+            widget: string
+          - hint: >-
+              Original text: O cirurgião introduz o aparelho pela uretra (canal
+              da urina) e avança como o mesmo até a bexiga., key: -698b83bf
+            label: Text
+            name: '-698b83bf'
+            widget: text
           - hint: 'Original text: Conheça as especialidades do , key: 48fdd67c'
             label: Text
             name: 48fdd67c
