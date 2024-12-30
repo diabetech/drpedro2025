@@ -16,7 +16,7 @@ slug: cancer-prostata-no-estado-do-amazonas-e-comum
 tags: artigos
 date: 2024-12-30T14:42:11.955Z
 ---
-O câncer de próstata é o câncer visceral mais comum no homem. As estatísticas no estado do Amazonas, mostram resultados bem semelhantes. 2
+O câncer de próstata é o câncer visceral mais comum no homem. As estatísticas no estado do Amazonas, mostram resultados bem semelhantes. 
 
 Segundo o Instituto Nacional do Câncer – INCA, estimam-se cerca de 500 casos de câncer de próstata no Amazonas (cerca de 33 casos por 100.000 habitantes), a grande maioria proveniente da Cidade de Manaus. Isto porque provavelmente há um subdiagnóstico da doença no interior do Estado, onde o subdiagnóstico é significativo. No interior, a incidência é bem menor, cerca de 22.000 casos por 100.000 habitantes).
 
