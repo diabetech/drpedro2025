@@ -20,7 +20,7 @@ O câncer de próstata é o câncer visceral mais comum no homem. As estatístic
 
 Segundo o Instituto Nacional do Câncer – INCA, estimam-se cerca de 500 casos de câncer de próstata no Amazonas (cerca de 33 casos por 100.000 habitantes), a grande maioria proveniente da Cidade de Manaus. Isto porque provavelmente há um subdiagnóstico da doença no interior do Estado, onde o subdiagnóstico é significativo. No interior, a incidência é bem menor, cerca de 22.000 casos por 100.000 habitantes).
 
-![__wf_reserved_inherit](/assets/external/676820d6d8cdd7cccbd06ff2_674df9357e225c210bee2ce7_674df87320fa48f9b0b5afb4_screenshot-2020-06-30-20.50.26-1536x905%252520(1).png)
+![](/assets/external/676820d6d8cdd7cccbd06ff2_674df9357e225c210bee2ce7_674df87320fa48f9b0b5afb4_screenshot-2020-06-30-20.50.26-1536x905%252520(1).png)
 
 *Incidência de cânceres estimada para 2020 para o estado do Amazonas. O câncer de próstata é o mais frequente no estado e na cidade de Manaus.*
 
