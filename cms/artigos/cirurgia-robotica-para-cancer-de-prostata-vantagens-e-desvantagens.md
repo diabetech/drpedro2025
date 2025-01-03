@@ -94,4 +94,4 @@ Não. Os resultados oncológicos da cirurgia robótica são os mesmos da cirurgi
 
 Sim, normalmente a recuperação é mais rápida, a dor no pós-operatória menor, o resultado estético superior, o tempo de hospitalização mais curto e o retorno às atividades laborativas mais precoce.
 
-Se você e, por favor está com dúvidas ou deseja mais informações sobre o procedimento **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
+Se você e, por favor está com dúvidas ou deseja mais informações sobre o procedimento **[entre em contato conosco](https://api.whatsapp.com/send?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
