@@ -57,9 +57,7 @@ Procure atendimento médico imediato em caso de:
 
 ### **Tratamento moderno e minimamente invasivo**
 
-
-
-<iframe width="2094" height="945" src="https://www.youtube.com/embed/EkKko3Fk3g8" title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width=“auto” height=“auto” src="https://www.youtube.com/embed/EkKko3Fk3g8" title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ‍A ureterolitotripsia com laser representa atualmente o padrão-ouro para tratamento dos cálculos urinários localizados no ureter e nos rins com tamanho de até 2 cm.. Este procedimento minimamente invasivo é realizado através do próprio canal da urina, eliminando a necessidade de cortes externos e, consequentemente, de cicatrizes.
 
