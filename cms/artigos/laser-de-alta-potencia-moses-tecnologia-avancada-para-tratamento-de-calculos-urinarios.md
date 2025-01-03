@@ -62,12 +62,23 @@ Procure atendimento médico imediato em caso de:
     width="100%"
     height="500"
     src="https://www.youtube.com/embed/EkKko3Fk3g8"
+    title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento?"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen
+    id="responsive-video"
     style="max-width: 800px; margin: 0 auto; display: block;"
   ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
 </div>
 
 ‍A ureterolitotripsia com laser representa atualmente o padrão-ouro para tratamento dos cálculos urinários localizados no ureter e nos rins com tamanho de até 2 cm.. Este procedimento minimamente invasivo é realizado através do próprio canal da urina, eliminando a necessidade de cortes externos e, consequentemente, de cicatrizes.
@@ -114,8 +125,6 @@ Os benefícios incluem:
 * Recuperação pós-operatória mais rápida.
 * Pouco desconforto pós-operatório.
 * Ausência de cicatrizes externas.
-
-
 
 ## **Indicações e resultados**
 
