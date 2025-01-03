@@ -659,7 +659,27 @@ figcaption {
   line-height: 1.6;
 }
 
-.text-rich-text h1, .text-rich-text h2, .text-rich-text h3, .text-rich-text h4 {
+.text-rich-text h1 {
+  color: #234f68;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.text-rich-text h2 {
+  color: #234f68;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+.text-rich-text h3 {
+  color: #234f68;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.text-rich-text h4 {
   color: #234f68;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
@@ -1245,6 +1265,10 @@ figcaption {
 .padding-section-medium {
   padding-top: 5rem;
   padding-bottom: 5rem;
+}
+
+.padding-section-medium.is-fix {
+  padding-bottom: 1rem;
 }
 
 .container-medium {
@@ -5808,6 +5832,19 @@ figcaption {
 
   .fs-styleguide_row {
     flex-wrap: wrap;
+  }
+
+  .text-rich-text h1 {
+    font-size: 2.2rem;
+  }
+
+  .text-rich-text h2 {
+    margin-bottom: .5rem;
+    font-size: 2rem;
+  }
+
+  .text-rich-text h3 {
+    font-size: 1.5rem;
   }
 
   .max-width-full-mobile-portrait {
