@@ -24,6 +24,7 @@ O duplo J é colocado em benefício do paciente, para evitar dor no pós-operat�
 ## Por quanto tempo o duplo J fica dentro do corpo após a cirurgia?
 
 Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excepcionais é necessário deixar o cateter por mais tempo. **A média de tempo na maior parte dos casos é de 7-14 dias**.<div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
@@ -52,3 +53,5 @@ Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excep
 Existem duas formas. Quando o **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus-faca-um-procedimento-urologico-minimamente-invasivo-com-dr-pedro-henrique-cabral/)** prevê que o cateter vá ser necessário apenas por poucos dias, um fio bem fino exteriorizado pelo canal da urina e o duplo J é deixado. O cateter é removido puxando-se este fio no consultório mesmo, procedimento muito rápido (alguns segundos) e pouco doloroso.
 
 Quando há indicação de permanência do duplo J por mais tempo, o cateter é deixado sem fio externo e retirado no centro cirúrgico por CISTOSCOPIA (endoscopia da bexiga através do canal da urina), sob sedação leve. O paciente acorda alguns minutos após o procedimento e vai para casa no mesmo dia, sem necessidade de internação.
+
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para mais informações sobre procedimentos urológicos. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
