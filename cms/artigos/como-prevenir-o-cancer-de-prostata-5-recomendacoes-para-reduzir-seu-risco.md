@@ -115,4 +115,4 @@ Se você se enquadra em alguma dessas categorias, **as recomendações que estam
 
 Seguir estas nossas recomendações pode reduzir significativamente seu risco de desenvolver câncer de **próstata**. Lembre-se, a prevenção é sempre o melhor caminho para uma vida longa e saudável.
 
-Você tem dúvidas ou preocupações sobre o câncer de próstata? Não hesite em **[entrar em contato conosco](https://web.whatsapp.com/send/?phone=5592981270310)** e agendar uma consulta para obter informações personalizadas sobre o seu caso. Seu bem-estar é nossa prioridade, e estamos aqui para apoiá-lo!
+Você tem dúvidas ou preocupações sobre o câncer de próstata? Não hesite em **[entrar em contato conosco](https://api.whatsapp.com/send?phone=5592981270310)** e agendar uma consulta para obter informações personalizadas sobre o seu caso. Seu bem-estar é nossa prioridade, e estamos aqui para apoiá-lo!
