@@ -69,4 +69,4 @@ Com a técnica correta, a chance de recidiva é baixa, ocorrendo apenas em 3-5% 
 * Menor chance de hérnia ou de infecção de ferida operatória.
 * Resultado estético superior.
 
-Se você está com dúvidas ou deseja mais informações  **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592981270310)** **para uma avaliação.**
+Se você está com dúvidas ou deseja mais informações  **[entre em contato conosco](https://api.whatsapp.com/send?phone=5592981270310)** **para uma avaliação.**
