@@ -64,30 +64,6 @@ O campo do diagnóstico do **câncer de próstata** está em constante evoluçã
 * [**Biópsia transperineal** **com fusão de imagens**:](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/) um procedimento minimamente invasivo que combina imagens de ressonância magnética com ultrassom em tempo real.
 * **Biomarcadores urinários e sanguíneos**: testes que podem detectar a presença de moléculas 
 
-  <div style="text-align: center; margin-bottom: 20px;">
-    <iframe
-      width="100%"
-      height="500"
-      src="https://www.youtube.com/embed/MnAOA5Kqe4o"
-      title="Biópsia de próstata transperineal com fusão de imagens"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      id="responsive-video"
-      style="max-width: 800px; margin: 0 auto; display: block;"
-    ></iframe>
-    <script>
-      function adjustIframeHeight() {
-        var iframe = document.getElementById('responsive-video');
-        if (window.innerWidth < 768) {
-          iframe.style.height = '300px'; // Altura para celular
-        } else {
-          iframe.style.height = '500px'; // Altura para desktop
-        }
-      }  </script>
-  </div>
-
 ## **Fatores de risco e grupos prioritários**
 
 Entender os fatores de risco é importante para determinar quem deve priorizar o rastreamento do câncer de **próstata**. Idade, histórico familiar e etnia são os principais fatores a serem considerados.
