@@ -8,34 +8,3 @@ functions = "functions"
   to = "/.netlify/functions/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "/github/*"
-  to = "https://github.com/:splat"
-  status = 200
-  force = true
-  [redirects.headers]
-    X-From = "Netlify"
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
-    Access-Control-Allow-Headers = "*"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
-    Access-Control-Allow-Headers = "*"
-    Connection = "keep-alive"
-    Keep-Alive = "timeout=5, max=1000"
-
-[[headers]]
-  for = "/github/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
-    Access-Control-Allow-Headers = "*"
-    Connection = "keep-alive"
-    Keep-Alive = "timeout=5, max=1000"
-    Cache-Control = "no-store"
-    Content-Type = "application/x-git-upload-pack-result"
