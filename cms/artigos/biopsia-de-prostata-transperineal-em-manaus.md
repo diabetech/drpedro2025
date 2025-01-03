@@ -18,19 +18,37 @@ date: 2025-01-03T20:43:08.781Z
 ---
 **Neste artigo, vamos explicar sobre a biópsia de próstata pela via perineal com fusão de imagens, uma técnica inovadora implementada em Manaus pelo nosso grupo. Ela está revolucionando o diagnóstico do câncer de próstata na cidade. Como Urologista especializado neste procedimento, compartilharei informações importantes sobre esta abordagem mais segura e eficaz.**
 
-‍
-
-## A Importância da biópsia de próstata
-
-‍
+## A importância da biópsia de próstata
 
 A **[próstata](https://uroconsult.com.br/artigos/a-prostata-e-sua-importancia-na-saude-masculina/)** é uma glândula do sistema genital masculino fundamental para reprodução por produzir componentes do sêmen. No entanto, é o órgão onde ocorre o principal câncer no homem: o câncer de próstata, que acomete milhares de brasileiros anualmente. Segundo dados do Instituto Nacional de Câncer (INCA), cerca de 65.840 novos casos de câncer de próstata ocorrem por ano no Brasil.
 
 Neste cenário, **a biópsia de próstata é o único procedimento capaz de diagnosticar precocemente o câncer de próstata**. Tradicionalmente realizada pela via transretal (ou seja, por dentro do ânus), a biópsia evoluiu, e a abordagem pela via perineal (pela pele) é considerada atualmente a melhor opção, oferecendo maior segurança e eficácia diagnóstica.
 
-## **Vantagens da biópsia transperineal com fusão de imagens**
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/TgSXaEAzg6c"
+    title="Biópsia de próstata via transperineal com fusão de imagens: conheça as vantagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
-‍
+## **Vantagens da biópsia transperineal com fusão de imagens**
 
 A biópsia de próstata transperineal apresenta vantagens significativas:
 
@@ -43,13 +61,9 @@ A biópsia de próstata transperineal apresenta vantagens significativas:
 
 Uma das principais vantagens desse método é a drástica redução no risco de infecções. Isso se deve ao fato de que **o procedimento é realizado através da pele entre o escroto e o ânus (períneo), evitando a passagem da agulha de biópsia pelo reto, onde há fezes** e alta concentração de bactérias.
 
-![__wf_reserved_inherit](/assets/external/676820d6d8cdd7cccbd0700c_674e1e102bdeb21099b92317_image25201.png)
-
-Mapeamento da próstata
+![Mapeamento da próstata](/assets/external/676820d6d8cdd7cccbd0700c_674e1e102bdeb21099b92317_image25201.png "Mapeamento da próstata")
 
 ## **Tecnologia de ponta: fusão de imagens**
-
-‍
 
 Como pioneiro em biópsias de próstata com fusão de imagens em Manaus, fico feliz em **ter trazido à cidade esta tecnologia que está redefinindo os padrões de precisão diagnóstica**. A fusão de imagens é como ter um GPS de alta precisão para mapear a próstata. Sem esta tecnologia, a biópsia é feita às cegas, de modo intuitivo e menos preciso.
 
@@ -61,11 +75,7 @@ Esta tecnologia avançada combina imagens de ressonância magnética (RM) com ul
 4. **Diminuição de resultados falso-negativos;**
 5. **Melhor planejamento de tratamento.**
 
-‍
-
 ## **O procedimento passo a passo**
-
-‍
 
 Entender como é feita a biópsia perineal pode ajudar a aliviar a ansiedade dos pacientes. Aqui está uma visão geral do procedimento:
 
@@ -80,19 +90,13 @@ Entender como é feita a biópsia perineal pode ajudar a aliviar a ansiedade dos
 
 O procedimento geralmente leva cerca de 30 minutos e os pacientes podem ir para casa no mesmo dia.
 
-‍
-
 ## **Benefícios para os pacientes de Manaus**
-
-‍
 
 Para os habitantes de Manaus e região, a disponibilidade da biópsia perineal com fusão de imagens representa um avanço significativo na saúde masculina ao permitir um diagnóstico acurado daquele que é o câncer mais comum no homem. Esta técnica não apenas oferece um diagnóstico mais preciso, mas também proporciona:
 
 * **Menor tempo de recuperação**, permitindo um rápido retorno às atividades diárias;
 * **Redução do estresse e ansiedade** associados ao procedimento;
 * **Maior confiabilidade nos resultados**, minimizando a necessidade de repetir a biópsia.
-
-‍
 
 ## **Diagnóstico preciso ao seu alcance**
 
