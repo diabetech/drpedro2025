@@ -26,12 +26,36 @@ Segundo o Instituto Nacional do Câncer – INCA, estimam-se cerca de 500 casos 
 
 ## Como fazer o diagnóstico de câncer de próstata?
 
-‍A suspeita de que um paciente tenha câncer de próstata surge quando o Urologista faz o toque retal e palpa um nódulo ou área endurecida na próstata, ou quando o [exame de PSA](https://uroconsult.com.br/prostata/exame-de-psa-para-check-up-de-prostata/) está elevado. A recomendação atual é que todos os pacientes com suspeita de câncer de próstata realizem um ressonância nuclear magnética multiparamétrica de próstata. Este exame de imagem permite a identificação de lesões suspeitas de câncer de próstata, porém apenas a biópsia de próstata permite o diagnóstico de certeza do câncer de próstata. Em todo estado do Amazonas, apenas em Manaus há disponibilidade da ressonância de próstata e da biópsia de próstata.
+‍A suspeita de que um paciente tenha câncer de próstata surge quando o Urologista faz o toque retal e palpa um nódulo ou área endurecida na próstata, ou quando o **[exame de PSA](https://uroconsult.com.br/artigos/o-exame-de-psa/)** está elevado. A recomendação atual é que todos os pacientes com suspeita de câncer de próstata realizem um ressonância nuclear magnética multiparamétrica de próstata. Este exame de imagem permite a identificação de lesões suspeitas de câncer de próstata, porém apenas a biópsia de próstata permite o diagnóstico de certeza do câncer de próstata. Em todo estado do Amazonas, apenas em Manaus há disponibilidade da ressonância de próstata e da biópsia de próstata.
 
 ## É verdade que a incidência de câncer de próstata é menor no Amazonas? Por que?‍
 
 Sim, enquanto no Amazonas a incidência é de cerca de 33 casos/100.000 habitantes, em São Paulo e outros estados o número de casos é o dobro (cerca de 60-70 casos por 100.000 habitantes). A provável explicação é o subdiagnóstico pela escassez de recursos.
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/k3HNMhOnejY"
+    title="5 objetivos da prostatectomia para câncer de próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
+
 ## Quais os tratamentos para câncer de próstata disponíveis em Manaus?
 
-Na cidade de Manaus, existem as seguintes opções terapêuticas para o câncer de próstata: radioterapia pélvica, braquiterapia, prostatectomia radical aberta e prostatectomia radical laparoscópica. O tratamento mais sofisticado para o câncer de próstata – a [prostatectomia radical robótica](https://uroconsult.com.br/prostata/prostatectomia-radical-videolaparoscopica/) – ainda não está disponível na cidade. No entanto, oferecemos aos nossos pacientes a opção de realizarmos o procedimento em São Paulo, em parceria com equipe cirúrgica paulista experiente.
+Na cidade de Manaus, existem as seguintes opções terapêuticas para o câncer de próstata: radioterapia pélvica, braquiterapia, prostatectomia radical aberta e prostatectomia radical laparoscópica. O tratamento mais sofisticado para o câncer de próstata – a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** radical robótica – ainda não está disponível na cidade. No entanto, oferecemos aos nossos pacientes a opção de realizarmos o procedimento em São Paulo, em parceria com equipe cirúrgica paulista experiente.
