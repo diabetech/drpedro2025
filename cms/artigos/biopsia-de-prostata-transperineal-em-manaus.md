@@ -1,108 +1,105 @@
 ---
-f_destaque: true
-f_post-summary: >-
-  Descrição detalhada da biópsia de próstata via perineal com fusão de imagens
-  em Manaus, incluindo vantagens da técnica, processo do procedimento e
-  benefícios para pacientes.
 title: Biópsia de próstata transperineal em Manaus
+created-on: 2024-12-02T20:54:14.776Z
+updated-on: 2024-12-26T05:17:03.926Z
+published-on: 2024-12-26T05:17:03.926Z
+f_destaque: true
+f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700a_mwaqyl0z.jpeg
   alt: null
-f_especialidades: cms/especialidades/biopsia.md
+f_post-summary: Descrição detalhada da biópsia de próstata via perineal com
+  fusão de imagens em Manaus, incluindo vantagens da técnica, processo do
+  procedimento e benefícios para pacientes.
+layout: "[artigos].html"
 slug: biopsia-de-prostata-transperineal-em-manaus
-updated-on: '2024-12-26T05:17:03.926Z'
-created-on: '2024-12-02T20:54:14.776Z'
-published-on: '2024-12-26T05:17:03.926Z'
-layout: '[artigos].html'
 tags: artigos
+date: 2025-01-03T20:43:08.781Z
 ---
-
 **Neste artigo, vamos explicar sobre a biópsia de próstata pela via perineal com fusão de imagens, uma técnica inovadora implementada em Manaus pelo nosso grupo. Ela está revolucionando o diagnóstico do câncer de próstata na cidade. Como Urologista especializado neste procedimento, compartilharei informações importantes sobre esta abordagem mais segura e eficaz.**
 
-‍
+## A importância da biópsia de próstata
 
-A Importância da biópsia de próstata
-------------------------------------
-
-‍
-
-A [**próstata**](https://uroconsult.com.br/prostata/) é uma glândula do sistema genital masculino fundamental para reprodução por produzir componentes do sêmen. No entanto, é o órgão onde ocorre o principal câncer no homem: o câncer de próstata, que acomete milhares de brasileiros anualmente. Segundo dados do Instituto Nacional de Câncer (INCA), cerca de 65.840 novos casos de câncer de próstata ocorrem por ano no Brasil.
+A **[próstata](https://uroconsult.com.br/artigos/a-prostata-e-sua-importancia-na-saude-masculina/)** é uma glândula do sistema genital masculino fundamental para reprodução por produzir componentes do sêmen. No entanto, é o órgão onde ocorre o principal câncer no homem: o câncer de próstata, que acomete milhares de brasileiros anualmente. Segundo dados do Instituto Nacional de Câncer (INCA), cerca de 65.840 novos casos de câncer de próstata ocorrem por ano no Brasil.
 
 Neste cenário, **a biópsia de próstata é o único procedimento capaz de diagnosticar precocemente o câncer de próstata**. Tradicionalmente realizada pela via transretal (ou seja, por dentro do ânus), a biópsia evoluiu, e a abordagem pela via perineal (pela pele) é considerada atualmente a melhor opção, oferecendo maior segurança e eficácia diagnóstica.
 
-**Vantagens da biópsia transperineal com fusão de imagens**
------------------------------------------------------------
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/TgSXaEAzg6c"
+    title="Biópsia de próstata via transperineal com fusão de imagens: conheça as vantagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
-‍
+## **Vantagens da biópsia transperineal com fusão de imagens**
 
 A biópsia de próstata transperineal apresenta vantagens significativas:
 
-*   **Menor risco de infecção;**
-*   **Não há risco de sangramento retal;**
-*   **Acesso mais preciso a algumas áreas da próstata;**
-*   **Paciente não precisa utilizar antibióticos após o procedimento;**
-*   **Maior precisão no diagnóstico com a tecnologia de fusão de imagens;**
-*   **Ao contrário da biópsia transretal, não há mortalidade associada à biópsia transperineal.**
+* **Menor risco de infecção;**
+* **Não há risco de sangramento retal;**
+* **Acesso mais preciso a algumas áreas da próstata;**
+* **Paciente não precisa utilizar antibióticos após o procedimento;**
+* **Maior precisão no diagnóstico com a tecnologia de fusão de imagens;**
+* **Ao contrário da biópsia transretal, não há mortalidade associada à biópsia transperineal.**
 
 Uma das principais vantagens desse método é a drástica redução no risco de infecções. Isso se deve ao fato de que **o procedimento é realizado através da pele entre o escroto e o ânus (períneo), evitando a passagem da agulha de biópsia pelo reto, onde há fezes** e alta concentração de bactérias.
 
-![__wf_reserved_inherit](/assets/external/676820d6d8cdd7cccbd0700c_674e1e102bdeb21099b92317_image25201.png)
+![Mapeamento da próstata](/assets/external/676820d6d8cdd7cccbd0700c_674e1e102bdeb21099b92317_image25201.png "Mapeamento da próstata")
 
-Mapeamento da próstata
-
-**Tecnologia de ponta: fusão de imagens**
------------------------------------------
-
-‍
+## **Tecnologia de ponta: fusão de imagens**
 
 Como pioneiro em biópsias de próstata com fusão de imagens em Manaus, fico feliz em **ter trazido à cidade esta tecnologia que está redefinindo os padrões de precisão diagnóstica**. A fusão de imagens é como ter um GPS de alta precisão para mapear a próstata. Sem esta tecnologia, a biópsia é feita às cegas, de modo intuitivo e menos preciso.
 
 Esta tecnologia avançada combina imagens de ressonância magnética (RM) com ultrassonografia em tempo real, permitindo:
 
-1.  **Localização exata de áreas suspeitas;**
-2.  **Maior precisão na coleta de amostras;**
-3.  **Redução do número de amostras necessárias;**
-4.  **Diminuição de resultados falso-negativos;**
-5.  **Melhor planejamento de tratamento.**
+1. **Localização exata de áreas suspeitas;**
+2. **Maior precisão na coleta de amostras;**
+3. **Redução do número de amostras necessárias;**
+4. **Diminuição de resultados falso-negativos;**
+5. **Melhor planejamento de tratamento.**
 
-‍
-
-**O procedimento passo a passo**
---------------------------------
-
-‍
+## **O procedimento passo a passo**
 
 Entender como é feita a biópsia perineal pode ajudar a aliviar a ansiedade dos pacientes. Aqui está uma visão geral do procedimento:
 
-1.  **Na véspera da biópsia:** de posse das imagens da sua ressonância, eu estudarei o seu caso e farei o carregamento das imagens relevantes para aparelho de biópsia.
-2.  **Preparação:** O único preparo necessário é o jejum. Ao chegar na Clínica, será instalado um acesso venoso. Na sala de procedimento, você será sedado por um anestesista para que não sinta nada durante a biópsia.
-3.  **Posicionamento:** O paciente é colocado em posição de litotomia, ou seja, deitado com as pernas abertas afastadas.
-4.  **Assepsia e antissepsia:** O períneo (área entre o ânus e o escroto) é cuidadosamente limpo e preparado.
-5.  **Mapeamento da próstata:** fazemos um ultrassom e a fusão em tempo real com as imagens da ressonância nuclear magnética.
-6.  **Acesso:** nenhuma incisão é realizada. A pele é apenas perfurada por uma agulha fina para as biópsias.
-7.  **Coleta de amostras:** Guiado por imagens de ultrassom e ressonância superpostas em tempo real, eu coleto as amostras necessárias.
-8.  **Envio das amostras para exame pelo patologista.**
+1. **Na véspera da biópsia:** de posse das imagens da sua ressonância, eu estudarei o seu caso e farei o carregamento das imagens relevantes para aparelho de biópsia.
+2. **Preparação:** O único preparo necessário é o jejum. Ao chegar na Clínica, será instalado um acesso venoso. Na sala de procedimento, você será sedado por um anestesista para que não sinta nada durante a biópsia.
+3. **Posicionamento:** O paciente é colocado em posição de litotomia, ou seja, deitado com as pernas abertas afastadas.
+4. **Assepsia e antissepsia:** O períneo (área entre o ânus e o escroto) é cuidadosamente limpo e preparado.
+5. **Mapeamento da próstata:** fazemos um ultrassom e a fusão em tempo real com as imagens da ressonância nuclear magnética.
+6. **Acesso:** nenhuma incisão é realizada. A pele é apenas perfurada por uma agulha fina para as biópsias.
+7. **Coleta de amostras:** Guiado por imagens de ultrassom e ressonância superpostas em tempo real, eu coleto as amostras necessárias.
+8. **Envio das amostras para exame pelo patologista.**
 
 O procedimento geralmente leva cerca de 30 minutos e os pacientes podem ir para casa no mesmo dia.
 
-‍
-
-**Benefícios para os pacientes de Manaus**
-------------------------------------------
-
-‍
+## **Benefícios para os pacientes de Manaus**
 
 Para os habitantes de Manaus e região, a disponibilidade da biópsia perineal com fusão de imagens representa um avanço significativo na saúde masculina ao permitir um diagnóstico acurado daquele que é o câncer mais comum no homem. Esta técnica não apenas oferece um diagnóstico mais preciso, mas também proporciona:
 
-*   **Menor tempo de recuperação**, permitindo um rápido retorno às atividades diárias;
-*   **Redução do estresse e ansiedade** associados ao procedimento;
-*   **Maior confiabilidade nos resultados**, minimizando a necessidade de repetir a biópsia.
+* **Menor tempo de recuperação**, permitindo um rápido retorno às atividades diárias;
+* **Redução do estresse e ansiedade** associados ao procedimento;
+* **Maior confiabilidade nos resultados**, minimizando a necessidade de repetir a biópsia.
 
-‍
-
-**Diagnóstico preciso ao seu alcance**
---------------------------------------
+## **Diagnóstico preciso ao seu alcance**
 
 A biópsia de próstata pela via perineal em Manaus representa um progresso para Urologia na região amazônica. Com menor risco de complicações e maior precisão diagnóstica, está mudando o panorama do diagnóstico do câncer de próstata. Agora, nossos pacientes são beneficiados com a técnica recomendada nas principais Diretrizes Médicas Mundiais.
 
-Se você necessita realizar uma biópsia de próstata, por favor [**entre em contato conosco**](https://web.whatsapp.com/send/?phone=5592982252490) **– assistente para biópsias e cirurgias.**
+Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
