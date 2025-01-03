@@ -23,6 +23,7 @@ Ao contrário de modismos na Medicina, que surgem e desaparecem rápido, o robô
 Primeiro, porque o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)** é o câncer visceral mais comum em homens com mais de 40 anos. Em segundo lugar, porque a cirurgia para câncer de próstata apresenta um desafio principal a mais: o órgão deve ser retirado por inteiro, mas preservando-se o máximo possível duas estruturas fundamentais: 1. os nervos da ereção que estão em contato direto com a próstata; 2. o músculo que nos possibilita segurar a urina.
 
 Nos anos 80, quando surgiu a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** a céu aberto para o câncer de próstata, era comum os pacientes usarem fraldas por perda de urina grave após a cirurgia, bem como ficarem sem a capacidade de obter ereções satisfatórias. <div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
@@ -65,6 +66,7 @@ Por este motivo, através de algumas parceiras com grandes hospitais (Sírio Lib
 ### Operando com robô, tenho mais chance de ficar curado de câncer de próstata?
 
 Não. Os resultados oncológicos da cirurgia robótica são os mesmos da cirurgia a céu aberto.<div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
@@ -91,3 +93,5 @@ Não. Os resultados oncológicos da cirurgia robótica são os mesmos da cirurgi
 ### Além da impotência e da continência, há outras vantagens da cirurgia robótica?
 
 Sim, normalmente a recuperação é mais rápida, a dor no pós-operatória menor, o resultado estético superior, o tempo de hospitalização mais curto e o retorno às atividades laborativas mais precoce.
+
+Se você e, por favor está com dúvidas ou deseja mais informações sobre o procedimento **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
