@@ -126,4 +126,4 @@ Para os habitantes de Manaus e região, a disponibilidade da biópsia perineal c
 
 A biópsia de próstata pela via perineal em Manaus representa um progresso para Urologia na região amazônica. Com menor risco de complicações e maior precisão diagnóstica, está mudando o panorama do diagnóstico do câncer de próstata. Agora, nossos pacientes são beneficiados com a técnica recomendada nas principais Diretrizes Médicas Mundiais.
 
-Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
+Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://api.whatsapp.com/send?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
