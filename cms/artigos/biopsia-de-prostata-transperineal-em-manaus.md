@@ -86,9 +86,33 @@ Entender como é feita a biópsia perineal pode ajudar a aliviar a ansiedade dos
 5. **Mapeamento da próstata:** fazemos um ultrassom e a fusão em tempo real com as imagens da ressonância nuclear magnética.
 6. **Acesso:** nenhuma incisão é realizada. A pele é apenas perfurada por uma agulha fina para as biópsias.
 7. **Coleta de amostras:** Guiado por imagens de ultrassom e ressonância superpostas em tempo real, eu coleto as amostras necessárias.
-8. **Envio das amostras para exame pelo patologista.**
+8. **Envio das amostras para exame pelo patologista.** 2gloVcorGnQ
 
 O procedimento geralmente leva cerca de 30 minutos e os pacientes podem ir para casa no mesmo dia.
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/2gloVcorGnQ"
+    title="Biopsia de Próstata Transperineal com Fusão de Imagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Benefícios para os pacientes de Manaus**
 
