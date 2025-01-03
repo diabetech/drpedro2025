@@ -16,7 +16,7 @@ slug: como-prevenir-o-cancer-de-prostata-5-recomendacoes-para-reduzir-seu-risco
 tags: artigos
 date: 2025-01-03T22:31:07.547Z
 ---
-Os principais fatores de risco para o câncer de próstata são a idade, a raça negra e o histórico familiar de câncer de próstata (predisposição genética). Ao contrário de outros tipos de câncer associados a um hábito específico, como ocorre com câncer de pulmão e tabagismo, **não existe um hábito, remédio ou alimento específico que possa prevenir o câncer de próstata**.
+Os principais fatores de risco para o câncer de próstata são a idade, a raça negra e o histórico familiar de câncer de próstata (predisposição genética). Ao contrário de outros tipos de câncer associados a um hábito específico, como ocorre com câncer de pulmão e tabagismo, **não existe um hábito, remédio ou alimento específico que possa prevenir o** [**câncer de próstata**.](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)
 
 No entanto, como urologista dedicado ao tratamento do câncer de próstata, sempre **explico aos meus pacientes que há evidências científicas de que fatores ambientais e estilo de vida podem promover o desenvolvimento do câncer de próstata**.
 
