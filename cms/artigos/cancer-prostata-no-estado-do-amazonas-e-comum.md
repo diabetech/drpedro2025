@@ -7,7 +7,7 @@ f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fe5_older-man-looking-at-male-doctor-in-front-of-him201.jpg
-  alt: null
+  alt: Idoso em consulta no urologista.
 f_post-summary: Análise epidemiológica do câncer de próstata no Amazonas,
   incluindo incidência, métodos diagnósticos disponíveis e opções de tratamento
   na região.
@@ -16,7 +16,7 @@ slug: cancer-prostata-no-estado-do-amazonas-e-comum
 tags: artigos
 date: 2024-12-30T14:42:11.955Z
 ---
-O câncer de próstata é o câncer visceral mais comum no homem. As estatísticas no estado do Amazonas, mostram resultados bem semelhantes. 
+O **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)** é o câncer visceral mais comum no homem. As estatísticas no estado do Amazonas, mostram resultados bem semelhantes. 
 
 Segundo o Instituto Nacional do Câncer – INCA, estimam-se cerca de 500 casos de câncer de próstata no Amazonas (cerca de 33 casos por 100.000 habitantes), a grande maioria proveniente da Cidade de Manaus. Isto porque provavelmente há um subdiagnóstico da doença no interior do Estado, onde o subdiagnóstico é significativo. No interior, a incidência é bem menor, cerca de 22.000 casos por 100.000 habitantes).
 
@@ -59,3 +59,5 @@ Sim, enquanto no Amazonas a incidência é de cerca de 33 casos/100.000 habitant
 ## Quais os tratamentos para câncer de próstata disponíveis em Manaus?
 
 Na cidade de Manaus, existem as seguintes opções terapêuticas para o câncer de próstata: radioterapia pélvica, braquiterapia, prostatectomia radical aberta e prostatectomia radical laparoscópica. O tratamento mais sofisticado para o câncer de próstata – a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** radical robótica – ainda não está disponível na cidade. No entanto, oferecemos aos nossos pacientes a opção de realizarmos o procedimento em São Paulo, em parceria com equipe cirúrgica paulista experiente.
+
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para agendar sua avaliação. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
