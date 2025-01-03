@@ -48,12 +48,23 @@ A melhor forma de evitar estas mortes é realizar o rastreamento do câncer de p
 
 É importante ressaltar que na maioria das vezes estes sintomas são causados pelo crescimento benigno da próstata, e não por câncer de próstata. Se não tratados, eles podem evoluir para retenção urinária, que é **quando o homem não consegue mais urinar e necessita utilizar uma sonda vesical**. Nestes casos, está indicada a realização de uma [cirurgia prostática para tratamento da hiperplasia prostática benigna.](https://uroconsult.com.br/prostata/)
 
+## **A importância dos exames preventivos**
+
+A prevenção é sempre o melhor caminho para manter a saúde da próstata. Recomendo a todos os meus pacientes a realização de exames preventivos regulares. Eis os principais:
+
+1. **Exame de toque retal**: permite avaliar o tamanho, a consistência e a presença de nódulos na próstata. Embora muitos homens se sintam desconfortáveis com este exame, ele é rápido, indolor e fornece informações valiosas.
+2. **PSA (Antígeno Prostático Específico)**: um exame de sangue que ajuda a detectar alterações na próstata. Níveis elevados de PSA podem indicar inflamação, aumento da próstata ou câncer.
+3. **Ultrassonografia**: feita através do abdome, é absolutamente indolor e um bom exame para avaliar a bexiga e o tamanho da próstata.
+4. **Ressonância magnética**: Utilizada para uma avaliação mais precisa, especialmente em casos suspeitos para câncer de próstata ou em pacientes em programação de cirurgia para HPB. A ressonância multiparamétrica da próstata é o único exame de imagem que identifica áreas suspeitas de câncer.
+
+A Sociedade Brasileira de Urologia recomenda que homens a partir dos 50 anos realizem rastreamento do câncer de próstata. Para grupos de risco, como homens negros ou com histórico familiar de **câncer de próstata**, a recomendação é iniciar aos 45 anos.
+
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
     height="500"
-    src="https://www.youtube.com/watch?v=PLOYpsDIiGQ"
-    title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento?"
+    src="https://www.youtube.com/watch?v=270ZnBqTaG4"
+    title="Elevação do PSA. Quais são as causas?"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
@@ -71,17 +82,6 @@ A melhor forma de evitar estas mortes é realizar o rastreamento do câncer de p
       }
     }  </script>
 </div>
-
-## **A importância dos exames preventivos**
-
-A prevenção é sempre o melhor caminho para manter a saúde da próstata. Recomendo a todos os meus pacientes a realização de exames preventivos regulares. Eis os principais:
-
-1. **Exame de toque retal**: permite avaliar o tamanho, a consistência e a presença de nódulos na próstata. Embora muitos homens se sintam desconfortáveis com este exame, ele é rápido, indolor e fornece informações valiosas.
-2. **PSA (Antígeno Prostático Específico)**: um exame de sangue que ajuda a detectar alterações na próstata. Níveis elevados de PSA podem indicar inflamação, aumento da próstata ou câncer.
-3. **Ultrassonografia**: feita através do abdome, é absolutamente indolor e um bom exame para avaliar a bexiga e o tamanho da próstata.
-4. **Ressonância magnética**: Utilizada para uma avaliação mais precisa, especialmente em casos suspeitos para câncer de próstata ou em pacientes em programação de cirurgia para HPB. A ressonância multiparamétrica da próstata é o único exame de imagem que identifica áreas suspeitas de câncer.
-
-A Sociedade Brasileira de Urologia recomenda que homens a partir dos 50 anos realizem rastreamento do câncer de próstata. Para grupos de risco, como homens negros ou com histórico familiar de **câncer de próstata**, a recomendação é iniciar aos 45 anos.
 
 ## **Tratamentos modernos para problemas da próstata**
 
