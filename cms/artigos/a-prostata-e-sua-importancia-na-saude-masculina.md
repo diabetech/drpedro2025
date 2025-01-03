@@ -108,6 +108,6 @@ Um estudo publicado no “European Urology”, em 2022, demonstrou que homens qu
 
 A detecção precoce de problemas prostáticos aumenta significativamente as chances de tratamento bem-sucedido. Como urologista especializado em Manaus, utilizo tecnologias de ponta e procedimentos minimamente invasivos, baseados na literatura médica. Minha prática incorpora inovações validadas pelas principais diretrizes médicas mundiais, oferecendo aos pacientes tratamentos eficazes e seguros.
 
-Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://web.whatsapp.com/send/?phone=5592982252490)** dedicada a procedimentos urológicos.
+Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://api.whatsapp.com/send?phone=5592982252490)** dedicada a procedimentos urológicos.
 
 ‍
