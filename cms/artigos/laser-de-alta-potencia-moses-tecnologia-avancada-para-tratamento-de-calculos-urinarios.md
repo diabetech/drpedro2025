@@ -8,7 +8,7 @@ f_destaque: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07019_moses_2_120h_3b.jpg
-  alt: null
+  alt: "Laser de alta potência "
 f_post-summary: Os lasers de alta potência trouxeram avanços significativos no
   tratamento de cálculos urinários. Este sistema inovador permite procedimentos
   minimamente invasivos com segurança e alta eficácia aos pacientes.
@@ -19,7 +19,7 @@ date: 2025-01-03T15:47:23.285Z
 ---
 ## **Como se formam os cálculos urinários e qual o melhor tratamento?**
 
-‍Os cálculos urinários, popularmente conhecidos como pedras nos rins, formam-se quando há uma concentração elevada de determinados cristais na urina. Em concentração alta, estes cristais se agregam e formam um cálculo. 
+‍Os **[cálculos urinários](https://uroconsult.com.br/artigos/laser-para-tratamento-de-calculos-no-rim-e-ureter/)**, popularmente conhecidos como pedras nos rins, formam-se quando há uma concentração elevada de determinados cristais na urina. Em concentração alta, estes cristais se agregam e formam um cálculo. 
 
 Os fatores que causam isso são:
 
@@ -29,8 +29,6 @@ Os fatores que causam isso são:
 * Dieta rica em proteínas (cálculos de ácido úrico).
 * Infecções urinárias de repetição (cálculos de estruvita).
 * Alterações metabólicas.
-
-### ‍
 
 ### **Sintomas dos cálculos urinários**
 
@@ -53,15 +51,13 @@ Procure atendimento médico imediato em caso de:
 
 **Importante**: cálculos urinários localizados nos rins, principalmente quando pequenos, não costumam causar dor. Isto não significa que não necessitem de tratamento. Quando a dor ou uma complicação infecciosa ocorrem, o paciente pode desenvolver um quadro agudo mais grave e necessitar de tratamento de urgência.
 
-‍
-
 ### **Tratamento moderno e minimamente invasivo**
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
     height="500"
-    src="https://www.youtube.com/embed/EkKko3Fk3g8"
+    src="https://www.youtube.com/embed/c3vliBZ8Nbw"
     title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento?"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -95,8 +91,6 @@ A tecnologia laser pulveriza o cálculo de forma mais eficiente que os métodos 
 * Recuperação pós-operatória mais rápida.
 * Retorno mais ágil às atividades cotidianas.
 
-‍
-
 ## **O que é o Laser MOSES e como funciona?**
 
 ‍O Laser MOSES e outros lasers de alta potência representam uma evolução significativa no tratamento de cálculos urinários. Utilizando um sistema patenteado de modulação dos pulsos do laser, esta tecnologia otimiza a transmissão de energia que quebra o cálculo durante o procedimento. De acordo com estudos publicados no **[Journal of Endourology](https://www.endourology.org/journals/journal-of-endourology)**, o sistema demonstra:
@@ -104,8 +98,6 @@ A tecnologia laser pulveriza o cálculo de forma mais eficiente que os métodos 
 * Redução de até 20% no tempo do procedimento.
 * 33% mais eficiência na fragmentação dos cálculos.
 * 50% menos movimentação das pedras durante o procedimento.
-
-‍
 
 ## **O procedimento e seus benefícios**‍
 
@@ -140,8 +132,6 @@ Os benefícios incluem:
 
 A combinação do Holmium laser com equipamentos de visualização digital de alta definição proporciona resultados superiores, com maior taxa de sucesso no tratamento e menor chance de cálculos residuais após a cirurgia.
 
-‍‍
-
 ## **O caminho para fazer esta cirurgia em Manaus**
 
-‍Se você tem cálculos urinários e busca um tratamento eficaz e minimamente invasivo em Manaus, a ureterolitotripsia com laser MOSES pode ser a solução ideal. Para mais informações sobre este procedimento ou esclarecer dúvidas, entre em contato com nossa **[assistente dedicada](https://web.whatsapp.com/send/?phone=5592982252490)** pelo **WhatsApp (92) 98225-2490.**
+‍Se você tem cálculos urinários e busca um tratamento eficaz e minimamente invasivo em Manaus, a ureterolitotripsia com laser MOSES pode ser a solução ideal. Para mais informações sobre este procedimento ou esclarecer dúvidas, **[entre em contato](https://uroconsult.com.br/contato/)** com nossa assistente dedicada pelo **[WhatsApp (92) 98225-2490](https://web.whatsapp.com/send/?phone=5592982252490).**
