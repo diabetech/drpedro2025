@@ -59,7 +59,29 @@ A prevenção é sempre o melhor caminho para manter a saúde da próstata. Reco
 
 A Sociedade Brasileira de Urologia recomenda que homens a partir dos 50 anos realizem rastreamento do câncer de próstata. Para grupos de risco, como homens negros ou com histórico familiar de **câncer de próstata**, a recomendação é iniciar aos 45 anos.
 
-<iframe width="1058" height="595" src="https://www.youtube.com/embed/270ZnBqTaG4" title="Elevação do PSA. Quais são as causas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/270ZnBqTaG4"
+    title="Elevação do PSA. Quais são as causas?"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Tratamentos modernos para problemas da próstata**
 
