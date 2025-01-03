@@ -29,7 +29,7 @@ Ao longo da vida, diversos problemas podem afetar a próstata. Os mais comuns s�
 
 * **Hiperplasia prostática benigna (HPB)**: é o aumento benigno da próstata, que pode causar dificuldade para urinar. A HPB afeta cerca de 50% dos homens aos 60 anos e até 90% dos homens aos 85 anos. É uma doença benigna e, portanto, não cancerosa, mas pode causar obstrução do fluxo urinário e piorar de modo significativo a qualidade de vida.
 * **Prostatite**: Inflamação da próstata.. A prostatite aguda é geralmente causada por infecções bacterianas e requer tratamento imediato. Em geral é uma complicação da hiperplasia prostática benigna.
-* **[Câncer de próstata](https://uroconsult.com.br/prostata/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**: O tipo de câncer mais comum em homens no Brasil, excluindo o câncer de pele. Segundo o [Instituto Nacional de Câncer (INCA)](https://www.gov.br/inca/pt-br), são estimados cerca de 65 mil novos casos por ano no país. A cada ano, cerca de 15-20 mil brasileiros morrem de câncer de próstata. A grande maioria das mortes ocorre pelo diagnóstico tardio, em uma fase em que o câncer já saiu da próstata.
+* **[Câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**: O tipo de câncer mais comum em homens no Brasil, excluindo o câncer de pele. Segundo o [Instituto Nacional de Câncer (INCA)](https://www.gov.br/inca/pt-br), são estimados cerca de 65 mil novos casos por ano no país. A cada ano, cerca de 15-20 mil brasileiros morrem de câncer de próstata. A grande maioria das mortes ocorre pelo diagnóstico tardio, em uma fase em que o câncer já saiu da próstata.
 
 A melhor forma de evitar estas mortes é realizar o rastreamento do câncer de próstata (periódico prostático). As Diretrizes Médicas da [Associação Americana de Urologia](https://www.auanet.org/) afirmam afirmam que, quando detectado precocemente e ainda localizado, o câncer de próstata tem uma alta taxa de sucesso no tratamento, muitas vezes superior a 80-90%.
 
@@ -46,7 +46,7 @@ A melhor forma de evitar estas mortes é realizar o rastreamento do câncer de p
 * Dor na região pélvica ou perineal.
 * Diminuição no volume de sêmen ejaculado.
 
-É importante ressaltar que na maioria das vezes estes sintomas são causados pelo crescimento benigno da próstata, e não por câncer de próstata. Se não tratados, eles podem evoluir para retenção urinária, que é **quando o homem não consegue mais urinar e necessita utilizar uma sonda vesical**. Nestes casos, está indicada a realização de uma [cirurgia prostática para tratamento da hiperplasia prostática benigna.](https://uroconsult.com.br/prostata/)
+É importante ressaltar que na maioria das vezes estes sintomas são causados pelo crescimento benigno da próstata, e não por câncer de próstata. Se não tratados, eles podem evoluir para retenção urinária, que é **quando o homem não consegue mais urinar e necessita utilizar uma sonda vesical**. Nestes casos, está indicada a realização de uma [cirurgia prostática para tratamento da hiperplasia prostática benigna.](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)
 
 ## **A importância dos exames preventivos**
 
@@ -59,37 +59,15 @@ A prevenção é sempre o melhor caminho para manter a saúde da próstata. Reco
 
 A Sociedade Brasileira de Urologia recomenda que homens a partir dos 50 anos realizem rastreamento do câncer de próstata. Para grupos de risco, como homens negros ou com histórico familiar de **câncer de próstata**, a recomendação é iniciar aos 45 anos.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/watch?v=270ZnBqTaG4"
-    title="Elevação do PSA. Quais são as causas?"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
+<iframe width="1058" height="595" src="https://www.youtube.com/embed/270ZnBqTaG4" title="Elevação do PSA. Quais são as causas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Tratamentos modernos para problemas da próstata**
 
 A boa notícia é que dispomos de tratamentos avançados para os problemas prostáticos. Para a hiperplasia prostática benigna, por exemplo, além dos medicamentos tradicionais, existem diversos procedimentos **minimamente invasivos**.
 
-No caso do câncer de próstata, a **[cirurgia robótica](https://uroconsult.com.br/prostata/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** tem revolucionado o tratamento. Como especialista em cirurgia urológica robótica, posso afirmar que esta técnica oferece maior precisão, menos dor pós-operatória e recuperação mais rápida para os pacientes. A cirurgia robótica permite uma visualização tridimensional ampliada e movimentos mais precisos, o que resulta em melhor preservação dos nervos responsáveis pela continência urinária e função sexual.
+No caso do câncer de próstata, a **[cirurgia robótica](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** tem revolucionado o tratamento. Como especialista em cirurgia urológica robótica, posso afirmar que esta técnica oferece maior precisão, menos dor pós-operatória e recuperação mais rápida para os pacientes. A cirurgia robótica permite uma visualização tridimensional ampliada e movimentos mais precisos, o que resulta em melhor preservação dos nervos responsáveis pela continência urinária e função sexual.
 
-Para o diagnóstico preciso do câncer de próstata, utilizo a **[biópsia transperineal com fusão de imagens](https://uroconsult.com.br/prostata/biopsia-de-prostata-pela-via-perineal-em-manaus/)**. Esta técnica inovadora combina imagens de ressonância magnética e ultrassom em tempo real, permitindo maior acurácia na detecção de tumores. Comparada à biópsia tradicional, esta técnica reduz o risco de infecções e permite uma amostragem mais precisa das áreas suspeitas, pois é realizado através da pele entre o escroto e o ânus (períneo), evitando a passagem da agulha de biópsia pelo reto, onde há fezes e alta concentração de bactérias.
+Para o diagnóstico preciso do câncer de próstata, utilizo a **[biópsia transperineal com fusão de imagens](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)**. Esta técnica inovadora combina imagens de ressonância magnética e ultrassom em tempo real, permitindo maior acurácia na detecção de tumores. Comparada à biópsia tradicional, esta técnica reduz o risco de infecções e permite uma amostragem mais precisa das áreas suspeitas, pois é realizado através da pele entre o escroto e o ânus (períneo), evitando a passagem da agulha de biópsia pelo reto, onde há fezes e alta concentração de bactérias.
 
 ## **Hábitos para uma próstata saudável**
 
@@ -108,6 +86,6 @@ Um estudo publicado no “European Urology”, em 2022, demonstrou que homens qu
 
 A detecção precoce de problemas prostáticos aumenta significativamente as chances de tratamento bem-sucedido. Como urologista especializado em Manaus, utilizo tecnologias de ponta e procedimentos minimamente invasivos, baseados na literatura médica. Minha prática incorpora inovações validadas pelas principais diretrizes médicas mundiais, oferecendo aos pacientes tratamentos eficazes e seguros.
 
-Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://web.whatsapp.com/send/?phone=5592981270310)** dedicada a procedimentos urológicos.
+Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://web.whatsapp.com/send/?phone=5592982252490)** dedicada a procedimentos urológicos.
 
 ‍
