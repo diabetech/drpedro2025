@@ -86,4 +86,4 @@ Muitos homens evitam os exames de **próstata** por medo ou vergonha. É importa
 
 ## **A importância de agir agora**
 
-O câncer de **próstata**, quando detectado precocemente, tem altas chances de cura. Não deixe que o medo ou a desinformação o impeçam de cuidar da sua saúde. Está na hora de priorizar sua saúde? **[Entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://web.whatsapp.com/send/?phone=5592982252490)** para agendar sua avaliação. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
+O câncer de **próstata**, quando detectado precocemente, tem altas chances de cura. Não deixe que o medo ou a desinformação o impeçam de cuidar da sua saúde. Está na hora de priorizar sua saúde? **[Entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para agendar sua avaliação. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
