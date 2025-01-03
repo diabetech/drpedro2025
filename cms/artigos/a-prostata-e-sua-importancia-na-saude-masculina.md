@@ -33,7 +33,7 @@ Ao longo da vida, diversos problemas podem afetar a próstata. Os mais comuns s�
 
 A melhor forma de evitar estas mortes é realizar o rastreamento do câncer de próstata (periódico prostático). As Diretrizes Médicas da [Associação Americana de Urologia](https://www.auanet.org/) afirmam afirmam que, quando detectado precocemente e ainda localizado, o câncer de próstata tem uma alta taxa de sucesso no tratamento, muitas vezes superior a 80-90%.
 
-## **Sintomas que podem indicar problemas prostáticos**
+### **Sintomas que podem indicar problemas prostáticos**
 
 É necessário estar atento aos sinais que nosso corpo nos dá. Alguns sintomas que podem indicar problemas na próstata incluem:
 
@@ -83,7 +83,7 @@ A Sociedade Brasileira de Urologia recomenda que homens a partir dos 50 anos rea
     }  </script>
 </div>
 
-## **Tratamentos modernos para problemas da próstata**
+### **Tratamentos modernos para problemas da próstata**
 
 A boa notícia é que dispomos de tratamentos avançados para os problemas prostáticos. Para a hiperplasia prostática benigna, por exemplo, além dos medicamentos tradicionais, existem diversos procedimentos **minimamente invasivos**.
 
