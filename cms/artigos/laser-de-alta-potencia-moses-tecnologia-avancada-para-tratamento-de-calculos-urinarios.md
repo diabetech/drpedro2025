@@ -134,4 +134,4 @@ A combinação do Holmium laser com equipamentos de visualização digital de al
 
 ## **O caminho para fazer esta cirurgia em Manaus**
 
-‍Se você tem cálculos urinários e busca um tratamento eficaz e minimamente invasivo em Manaus, a ureterolitotripsia com laser MOSES pode ser a solução ideal. Para mais informações sobre este procedimento ou esclarecer dúvidas, **[entre em contato](https://uroconsult.com.br/contato/)** com nossa assistente dedicada pelo **[WhatsApp (92) 98225-2490](https://web.whatsapp.com/send/?phone=5592982252490).**
+‍Se você tem cálculos urinários e busca um tratamento eficaz e minimamente invasivo em Manaus, a ureterolitotripsia com laser MOSES pode ser a solução ideal. Para mais informações sobre este procedimento ou esclarecer dúvidas, **[entre em contato](https://uroconsult.com.br/contato/)** com nossa assistente dedicada pelo **[WhatsApp (92) 98225-2490](https://api.whatsapp.com/send?phone=5592982252490).**
