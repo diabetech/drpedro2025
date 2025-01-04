@@ -35,6 +35,8 @@ A **infertilidade masculina** é mais comum do que muitos imaginam. De acordo co
 
 O **PSA ([Antígeno Prostático Específico](https://www.uroconsult.com.br/prostata/exame-de-psa-para-check-up-de-prostata/))** é uma proteína produzida pela próstata presente no sangue.. Níveis elevados de PSA no sangue podem indicar inflamação/infecção (prostatite), hiperplasia benigna da próstata (HPB) ou câncer de próstata. Se seu exame de PSA apresentar-se elevado, é fundamental realizar uma avaliação com um urologista.
 
+
+
 ## **5. Aumento da próstata**
 
 O aumento da próstata, ou **hiperplasia prostática benigna (HPB)**, é uma condição comum em homens mais velhos. Além da dificuldade para urinar, outros sintomas podem incluir aumento da frequência urinária, especialmente à noite, e urgência miccional. Um urologista pode avaliar o tamanho da próstata e recomendar o tratamento mais adequado.
