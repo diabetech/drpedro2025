@@ -71,7 +71,7 @@ Veja as figuras abaixo para entender a diferença entre a cirurgia laparoscópic
 
 ![Cirurgia robótica: os instrumentos introduzidos no corpo do paciente são conectados aos braços do robô. O cirurgião sentado no console controla estes braços.](/assets/external/676820d6d8cdd7cccbd06ff8_674dfd89e8ac15213b154dea_sala-robotica2-1536x102425201.jpeg "Cirurgia robótica: os instrumentos introduzidos no corpo do paciente são conectados aos braços do robô. O cirurgião sentado no console controla estes braços.")
 
-### **Qual a melhor entre estas 4 técnicas?**‍
+**Qual a melhor entre estas 4 técnicas?**‍
 
 A escolha do melhor método para realização da cirurgia deve ser feita em conjunto pelo paciente e seu Urologista, após discussão das vantagens, desvantagens e custos de cada uma. A melhor técnica para um paciente pode não ser a melhor técnica para outro. Dito isto, a Prostatectomia Robótica é atualmente considerada a melhor cirurgia. **Atualmente temos operado nossos pacientes que optam por Robótica em São Paulo, nos hospitais Sírio-Libanês e Nove de Julho. Quando o paciente opta por cirurgia em Manaus, realizamos a técnica laparoscópica intraperitoneal.**
 
