@@ -33,9 +33,29 @@ A **infertilidade masculina** é mais comum do que muitos imaginam. De acordo co
 
 ## **4. Exame de PSA alterado**
 
-O **PSA ([Antígeno Prostático Específico](https://www.uroconsult.com.br/prostata/exame-de-psa-para-check-up-de-prostata/))** é uma proteína produzida pela próstata presente no sangue.. Níveis elevados de PSA no sangue podem indicar inflamação/infecção (prostatite), hiperplasia benigna da próstata (HPB) ou câncer de próstata. Se seu exame de PSA apresentar-se elevado, é fundamental realizar uma avaliação com um urologista.
-
-
+O **PSA ([Antígeno Prostático Específico](https://uroconsult.com.br/artigos/o-exame-de-psa/))** é uma proteína produzida pela próstata presente no sangue.. Níveis elevados de PSA no sangue podem indicar inflamação/infecção (prostatite), hiperplasia benigna da próstata (HPB) ou câncer de próstata. Se seu exame de PSA apresentar-se elevado, é fundamental realizar uma avaliação com um urologista.<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/270ZnBqTaG4"
+    title="Elevação do PSA. Quais são as causas?"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **5. Aumento da próstata**
 
@@ -45,11 +65,11 @@ O aumento da próstata, ou **hiperplasia prostática benigna (HPB)**, é uma con
 
 **Cálculos renais**, também conhecidos como pedras nos rins, podem causar dor intensa quando se deslocam do rim e ficam presos no canal do ureter. Se um exame de imagem detectar a presença de cálculos, mesmo na ausência de sintomas, é importante consultar um urologista para avaliar a necessidade de tratamento e prevenir uma crise de dor das mais intensas descritas na Medicina: a cólica renal.
 
-Se você possui um cálculo renal e necessita de avaliação para avaliar a necessidade de tratamento e qual o melhor **[procedimento minimamente invasivo](https://www.uroconsult.com.br/rim/laser-calculos-renais/)** para tratá-lo, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490).**
+Se você possui um cálculo renal e necessita de avaliação para avaliar a necessidade de tratamento e qual o melhor **[procedimento minimamente invasivo](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** para tratá-lo, por favor **[entre em contato conosco](https://uroconsult.com.br/contato/).**
 
 ## **7. Presença de um nódulo renal em um exame de imagem**
 
-A descoberta de um **nódulo renal** em um exame de imagem, mesmo que acidental e assintomático, requer avaliação urológica. Ao contrário de um [cisto renal](https://www.uroconsult.com.br/urologista/cistosrenais/), que é benigno na maior parte das vezes, **um nódulo renal sólido representa é maligno na maioria das vezes.**  Em suas últimas diretrizes sobre câncer de rim, a **[Sociedade Americana de Urologia](https://www.auanet.org/guidelines-and-quality/guidelines/oncology-guidelines/renal-cancer)** enfatiza que o diagnóstico precoce do câncer renal aumenta significativamente as chances de cura e permite tratamentos menos invasivos, que **[preservam o rim](https://www.uroconsult.com.br/urologista/cirurgia-robotica-preserva-o-rim/)** sem a necessidade de remover todo o órgão.
+A descoberta de um **nódulo renal** em um exame de imagem, mesmo que acidental e assintomático, requer avaliação urológica. Ao contrário de um cisto renal, que é benigno na maior parte das vezes, **um nódulo renal sólido representa é maligno na maioria das vezes.**  Em suas últimas diretrizes sobre câncer de rim, a **[Sociedade Americana de Urologia](https://www.auanet.org/guidelines-and-quality/guidelines/oncology-guidelines/renal-cancer)** enfatiza que o diagnóstico precoce do câncer renal aumenta significativamente as chances de cura e permite tratamentos menos invasivos, que **preservam o rim** sem a necessidade de remover todo o órgão.
 
 ## **8. Presença de um caroço ou nódulo no testículo**
 
@@ -67,4 +87,4 @@ Estes oito motivos muito claros para você deve consultar um urologista. No enta
 4. pacientes com mais de 50 anos, homens e mulheres, devido ao risco aumentado para câncer de bexiga.
 5. Homens e mulheres com história familiar de câncer de rim.
 
-**[Entre em contato conosco](https://api.whatsapp.com/send?phone=5592982252490)! Estou à disposição para esclarecer suas dúvidas e aconselhá-lo sobre o caminho a seguir.**
+**Entre em contato conosco! Estou à disposição para esclarecer suas dúvidas e aconselhá-lo sobre o caminho a seguir.**
