@@ -34,6 +34,7 @@ A **infertilidade masculina** é mais comum do que muitos imaginam. De acordo co
 ## **4. Exame de PSA alterado**
 
 O **PSA ([Antígeno Prostático Específico](https://uroconsult.com.br/artigos/o-exame-de-psa/))** é uma proteína produzida pela próstata presente no sangue.. Níveis elevados de PSA no sangue podem indicar inflamação/infecção (prostatite), hiperplasia benigna da próstata (HPB) ou câncer de próstata. Se seu exame de PSA apresentar-se elevado, é fundamental realizar uma avaliação com um urologista.<div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
@@ -87,4 +88,4 @@ Estes oito motivos muito claros para você deve consultar um urologista. No enta
 4. pacientes com mais de 50 anos, homens e mulheres, devido ao risco aumentado para câncer de bexiga.
 5. Homens e mulheres com história familiar de câncer de rim.
 
-**Entre em contato conosco! Estou à disposição para esclarecer suas dúvidas e aconselhá-lo sobre o caminho a seguir.**
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)! Estou à disposição para esclarecer suas dúvidas e aconselhá-lo sobre o caminho a seguir.**
