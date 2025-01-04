@@ -17,13 +17,13 @@ slug: tratamento-do-cancer-de-prostata-prostatectomia-laparoscopica-simples-e-ro
 tags: artigos
 date: 2025-01-04T16:33:13.215Z
 ---
-A Prostatectomia Radical é a cirurgia realizada para o tratamento do câncer de próstata. Neste procedimento, a próstata é completamente removida juntamente com as vesículas seminais. É considerada uma das cirurgias mais desafiadoras da Urologia, pois o cirurgião deve remover completamente a próstata com câncer, preservando, simultaneamente, os nervos responsáveis pela ereção peniana e o músculo responsável pela contenção de urina.
+A Prostatectomia Radical é a cirurgia realizada para o tratamento do **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**. Neste procedimento, a próstata é completamente removida juntamente com as vesículas seminais. É considerada uma das cirurgias mais desafiadoras da **[Urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa-especialidade-medica-essencial/)**, pois o cirurgião deve remover completamente a próstata com câncer, preservando, simultaneamente, os nervos responsáveis pela ereção peniana e o músculo responsável pela contenção de urina.
 
 Apesar dos recentes aprimoramentos na técnica cirúrgica e uso da tecnologia para otimizar resultados, ainda existe a possibilidade de ocorrência de dois efeitos colaterais principais:
 
 Impotência ou disfunção erétil = incapacidade de obter ereção satisfatória após a cirurgia.
 
-Incontinência = incapacidade de segurar a urina, com vazamento de urina durante a tosse, espirro ou esforços físicos.
+Incontinência = **[incapacidade de segurar a urina](https://uroconsult.com.br/artigos/tratamento-da-perda-de-urina-em-mulheres/)**, com vazamento de urina durante a tosse, espirro ou esforços físicos.
 
 ## **Quais são as técnicas de Prostatectomia Radical?**
 
@@ -59,7 +59,7 @@ Existem 4 técnicas principais:
 
 **Videolaparoscópica** – através de incisões menores no abdome através do qual são colocados instrumentos cirúrgicos finos manuseados pelo cirurgião.
 
-**Robótica** – com o auxílio do robô cirúrgico. Atualmente, a cirurgia robótica é considerada o padrão-ouro, isto é, o melhor método cirúrgico de tratamento do câncer de próstata. Ainda indisponível na cidade de Manaus, pois a plataforma robótica ainda não foi instalada em nenhum hospital público ou privado. Quando optam por robótica, costumamos operar nossos pacientes em São Paulo (Hospital Nove de Julho ou Sírio Libanês).
+**Robótica** – com o auxílio do robô cirúrgico. Atualmente, a **[cirurgia robótica](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** é considerada o padrão-ouro, isto é, o melhor método cirúrgico de tratamento do câncer de próstata. Ainda indisponível na cidade de Manaus, pois a plataforma robótica ainda não foi instalada em nenhum hospital público ou privado. Quando optam por robótica, costumamos operar nossos pacientes em São Paulo (Hospital Nove de Julho ou Sírio Libanês).
 
 Veja as figuras abaixo para entender a diferença entre a cirurgia laparoscópica simples e a cirurgia robótica.
 
