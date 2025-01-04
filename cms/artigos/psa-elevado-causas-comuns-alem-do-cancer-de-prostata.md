@@ -21,9 +21,29 @@ A elevação do PSA no exame de sangue causa muita preocupação nos pacientes, 
 
 ## **O que é o PSA e quando se eleva?**
 
-O **[PSA (Antígeno Prostático Específico)](https://uroconsult.com.br/artigos/o-exame-de-psa/)** é uma proteína produzida pela próstata e presente no sangue dos homens. Seu aumento pode ocorrer por diversas razões. As 3 principais causas são o crescimento benigno da próstata (HPB), a inflamação prostática (prostatite) e o câncer de próstata. Atualmente, a ressonância magnética de próstata é a principal ferramenta para investigar homens com elevação de PSA, pois é o único exame de imagem capaz de detectar imagens indicativas de câncer de próstata.
-
-
+O **[PSA (Antígeno Prostático Específico)](https://uroconsult.com.br/artigos/o-exame-de-psa/)** é uma proteína produzida pela próstata e presente no sangue dos homens. Seu aumento pode ocorrer por diversas razões. As 3 principais causas são o crescimento benigno da próstata (HPB), a inflamação prostática (prostatite) e o câncer de próstata. Atualmente, a ressonância magnética de próstata é a principal ferramenta para investigar homens com elevação de PSA, pois é o único exame de imagem capaz de detectar imagens indicativas de câncer de próstata.<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/270ZnBqTaG4"
+    title="Elevação do PSA. Quais são as causas?"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Entendendo o PSA livre e total** 
 
