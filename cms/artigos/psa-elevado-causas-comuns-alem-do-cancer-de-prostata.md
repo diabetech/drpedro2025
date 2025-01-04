@@ -22,6 +22,7 @@ A elevação do PSA no exame de sangue causa muita preocupação nos pacientes, 
 ## **O que é o PSA e quando se eleva?**
 
 O **[PSA (Antígeno Prostático Específico)](https://uroconsult.com.br/artigos/o-exame-de-psa/)** é uma proteína produzida pela próstata e presente no sangue dos homens. Seu aumento pode ocorrer por diversas razões. As 3 principais causas são o crescimento benigno da próstata (HPB), a inflamação prostática (prostatite) e o câncer de próstata. Atualmente, a ressonância magnética de próstata é a principal ferramenta para investigar homens com elevação de PSA, pois é o único exame de imagem capaz de detectar imagens indicativas de câncer de próstata.<div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
@@ -137,4 +138,4 @@ Diante de um PSA alterado, é fundamental a avaliação por um urologista experi
 
 ## **Como podemos auxiliar?**
 
-Se você possui dúvidas sobre o exame PSA com níveis alterados ou gostaria de esclarecimentos sobre o diagnóstico do câncer de próstata, estamos à disposição para auxiliar. Entre em contato com nossa **[assistente dedicada](https://api.whatsapp.com/send?phone=5592982252490)** pelo WhatsApp: (92) 98127-0310.
+Se você possui dúvidas sobre o exame PSA com níveis alterados ou gostaria de esclarecimentos sobre o diagnóstico do câncer de próstata, estamos à disposição para auxiliar. Entre em contato com nossa **[assistente dedicada](https://api.whatsapp.com/send?phone=5592982252490)** pelo WhatsApp: (92) 982252490.
