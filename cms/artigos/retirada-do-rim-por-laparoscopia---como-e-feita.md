@@ -7,7 +7,7 @@ f_destaque: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fe5_older-man-looking-at-male-doctor-in-front-of-him201.jpg
-  alt: null
+  alt: ""
 f_post-summary: Uma breve análise das indicações para nefrectomia total vs.
   parcial, detalhando os procedimentos cirúrgicos, riscos e benefícios da
   abordagem laparoscópica.
@@ -28,15 +28,13 @@ A principal indicação de nefrectomia é o câncer de rim, mas esta cirurgia ta
 
 ‍
 
-![__wf_reserved_inherit](/assets/external/676820d6d8cdd7cccbd06fe6_674df3644cea1b3420da55d2_nefrectomia-esquema.png)
-
-*Nefrectomia videolaparoscópica: representação esquemática.*
+![Nefrectomia videolaparoscópica: representação esquemática.](/assets/external/676820d6d8cdd7cccbd06fe6_674df3644cea1b3420da55d2_nefrectomia-esquema.png "Nefrectomia videolaparoscópica: representação esquemática.")
 
 ## Quanto é feita a remoção total e quando é feita a remoção parcial do rim?
 
-Isto depende da doença do paciente e do julgamento do cirurgião em cada caso. Quando o rim já não funciona porque foi danificado por litíase urinária ou por infecção crônica, a retirada de todo o órgão se faz necessária, assim como **naqueles casos em que é imprescindível retirar por completo um tumor renal muito grande.**
+Isto depende da doença do paciente e do julgamento do cirurgião em cada caso. Quando o rim já não funciona porque foi danificado por litíase urinária ou por infecção crônica, a retirada de todo o órgão se faz necessária, assim como **naqueles casos em que é imprescindível retirar por completo um tumor renal muito grande.** 
 
-Por outro lado, em casos de câncer renal menor ou outras doenças que acometam apenas uma parte do rim, pode-se fazer a nefrectomia parcial, também por laparoscopia ou robótica.
+Por outro lado, em casos de câncer renal menor ou outras doenças que acometam apenas uma parte do rim, pode-se fazer a nefrectomia parcial, também por **laparoscopia** ou robótica.
 
 ## Como o rim, que é um órgão grande, é retirado através dos “furinhos” da laparoscopia?‍
 
@@ -48,23 +46,17 @@ O tempo médio de internação dos nossos pacientes é de 1 a 2 dias. Mas isto v
 
 ## Quais as vantagens da Nefrectomia por vídeo-cirurgia?
 
-A Nefrectomia vídeo-assistida (laparoscópica ou [robótica](https://uroconsult.com.br/urologista/cirurgia-robotica-preserva-o-rim/)) está estabelecida como a melhor cirurgia para a remoção do rim, exceto naqueles casos em que não seja factível (pouco frequentes atualmente).
+A Nefrectomia vídeo-assistida (laparoscópica ou **[robótica](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**) está estabelecida como a melhor cirurgia para a remoção do rim, exceto naqueles casos em que não seja factível (pouco frequentes atualmente).
 
 Diversos estudos na literatura médica, com milhares de pacientes seguidos por mais de 15 anos, demonstraram segurança oncológica e as seguintes vantagens:
 
-– Menos dor no pós-operatório
-
-– Menor necessidade de uso de analgésicos
-
-– Menor tempo de hospitalização
-
-– Retorno mais rápido às atividades profissionais
-
-– Menor tempo de convalescença
-
-– Menor chance de hérnia ou de infecção de ferida operatória
-
-– Resultado estético superior.
+* Menos dor no pós-operatório.
+* Menor necessidade de uso de analgésicos.
+* Menor tempo de hospitalização.
+* Retorno mais rápido às atividades profissionais.
+* Menor tempo de convalescença.
+* Menor chance de hérnia ou de infecção de ferida operatória.
+* Resultado estético superior.
 
 ## Há um risco maior de o câncer renal recidivar após vídeo-cirurgia em relação à cirurgia aberta?
 
@@ -79,3 +71,5 @@ Os principais são:
 * Necessidade de conversão para cirurgia aberta.
 
 Hoje, são todos infrequentes, ocorrendo de modo combinado em menos de 5% dos casos.
+
+Lembre-se: não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre laparoscopia** **ou precisa de uma avaliação,** [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
