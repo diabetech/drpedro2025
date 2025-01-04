@@ -791,19 +791,19 @@ collections:
             label: Text
             name: '-f5c4b5f'
             widget: string
-          - hint: 'Original text: Page Not Found, key: -40b0787c'
+          - hint: 'Original text: Página não encontrada, key: -4c3434f9'
             label: Text
-            name: '-40b0787c'
+            name: '-4c3434f9'
             widget: string
           - hint: >-
-              Original text: The page you are looking for doesn't exist or has
-              been moved, key: 556d64d8
+              Original text: A página que você está procurando não existe ou foi
+              movida, key: 2b3059b6
             label: Text
-            name: 556d64d8
+            name: 2b3059b6
             widget: string
-          - hint: 'Original text: Go Home, key: 6b29b517'
+          - hint: 'Original text: Ir para página inicial, key: 33d6a9c4'
             label: Text
-            name: 6b29b517
+            name: 33d6a9c4
             widget: string
           - hint: 'Original text: Agendar, key: 23fafdc6'
             label: Text
