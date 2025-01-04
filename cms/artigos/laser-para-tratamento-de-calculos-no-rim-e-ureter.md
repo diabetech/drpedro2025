@@ -93,3 +93,5 @@ Aumento da frequência miccional, dor leve ao urinar, dor na região lombar dura
 ### Preciso me preocupar com sangramento após a cirurgia?
 
 Não. Observar a urina com sangue pode assustar o paciente, mas é esperado no pós-operatório e resolve-se em alguns dias. Este sangramento, apesar de deixar a urina vermelha, não causa anemia ou qualquer consequência mais séria ao organismo.
+
+Se você deseja saber mais sobre as inovações e tratamentos disponíveis ou como cuidar melhor da sua saúde urológica, entre em contato conosco para obter mais informações. Cuidar da sua saúde é sempre o melhor caminho!   **[Clique aqui para falar com nossa assistente](https://api.whatsapp.com/send?phone=5592982252490)!**
