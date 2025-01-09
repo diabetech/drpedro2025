@@ -4119,6 +4119,7 @@ figcaption {
 }
 
 .link-numero {
+  vertical-align: text-bottom;
   text-decoration: none;
 }
 
@@ -4366,6 +4367,11 @@ figcaption {
 .wrapper-leia {
   grid-column-gap: .3rem;
   display: flex;
+}
+
+.linha-link {
+  text-decoration: underline;
+  display: inline;
 }
 
 @media screen and (max-width: 991px) {
