@@ -19,13 +19,15 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-![Cirurgião e robô utilizado na cirurgia.](/assets/images/robotica-p-500.jpg)
+![Cirurgião e módulo dos braços robóticos](/assets/images/robotica-p-500.jpg)
 
-A prostatectomia robótica é uma técnica avançada e precisa para o tratamento do câncer de próstata. Este artigo explora como o procedimento funciona, seus benefícios e o que esperar durante a recuperação. Descubra por que é considerada a melhor opção para preservar a qualidade de vida.
+A prostatectomia robótica é a melhor técnica para o tratamento do câncer de próstata. Este artigo mostra como o procedimento funciona, seus benefícios e o que esperar durante a recuperação.
 
 ## O que é prostatectomia robótica e quando está indicada?
 
-A prostatectomia robótica é uma evolução tecnológica da cirurgia tradicional para remoção da próstata, está consolidada na urologia para cirurgias complexas, amplamente indicada para o tratamento de [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/). Utiliza um sistema robótico avançado, como o Da Vinci, que permite maior precisão durante o procedimento, reduzindo riscos e complicações. Essa técnica é indicada especialmente para pacientes com tumores restritos à próstata e boa saúde geral, proporcionando uma maior chance de preservação de funções essenciais, como a potência sexual, a capacidade de ereção e também a capacidade de segurar urina, a continência urinária.
+A prostatectomia robótica é uma evolução tecnológica da video-cirurgia tradicional para remoção da próstata. Em rel
+
+Utiliza um sistema robótico avançado, como o Da Vinci, que permite maior precisão durante o procedimento, reduzindo riscos e complicações. Essa técnica é indicada especialmente para pacientes com tumores restritos à próstata e boa saúde geral, proporcionando uma maior chance de preservação de funções essenciais, como a potência sexual, a capacidade de ereção e também a capacidade de segurar urina, a continência urinária.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
