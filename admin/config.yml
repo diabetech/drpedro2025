@@ -737,11 +737,13 @@ collections:
             label: Text
             name: '-9e3988e'
             widget: string
-          - hint: >-
-              Original text: Clique aqui para iniciar uma conversa, key:
-              6ff3e98e
+          - hint: 'Original text: Clique aqui, key: -732fde3d'
             label: Text
-            name: 6ff3e98e
+            name: '-732fde3d'
+            widget: string
+          - hint: 'Original text:  para iniciar uma conversa, key: 2b3b458b'
+            label: Text
+            name: 2b3b458b
             widget: string
           - hint: 'Original text: Agendamento de biópsias e cirurgias, key: 2c536112'
             label: Text
@@ -832,6 +834,16 @@ collections:
           - hint: 'Original text: Compartilhe esse artigo, key: 105fd482'
             label: Text
             name: 105fd482
+            widget: string
+          - hint: 'Original text: Confira mais artigos, key: -5ccc7df1'
+            label: Text
+            name: '-5ccc7df1'
+            widget: string
+          - hint: >-
+              Original text: Nenhum artigo relacionado encontrado, key:
+              -57e1cd6f
+            label: Text
+            name: '-57e1cd6f'
             widget: string
           - hint: 'Original text: Urologia, key: -3025dab6'
             label: Text
