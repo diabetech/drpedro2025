@@ -7,10 +7,11 @@ f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: ""
-f_post-summary: A prostatectomia robótica é uma técnica avançada e precisa para
-  o tratamento do câncer de próstata. Este artigo explora como o procedimento
-  funciona, seus benefícios e o que esperar durante a recuperação. Descubra por
-  que é considerada a melhor opção para preservar a qualidade de vida.
+f_post-summary: >-
+  A prostatectomia robótica é o "padrão-ouro" para o tratamento do câncer de
+  próstata lozalizado.
+
+  Entenda alguns fundamentos desta cirurgia neste artigo.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-01-08T22:31:06.262Z
