@@ -114,7 +114,7 @@ A recuperação após uma [prostatectomia robótica](https://uroconsult.com.br/a
 2. **Quanto tempo fico internado?**\
    Em geral, o paciente recebe alta no primeiro dia após a cirurgia.
 3. **Quando posso voltar às atividades normais?**\
-   Você irá se alimentar com uma dieta líquida no mesmo dia da cirurgia. No dia seguinte, irá caminhar por 5-10 minutos, comer uma dieta com comidas mais sólidas e receber alta. Após a alta, atividades leves são permitidas. Após 6-7 dias, você retirará a sonda e poderá dirigir a partir do décimo dia de pós-operatórios. Dependo da sua profissão, poderá retomar o trabalho com 14 dias. Exercícios mais intensos em academia podem ser realizados a partir de 3 ou 4 semanas.
+   Você irá se alimentar com uma dieta líquida no mesmo dia da cirurgia. No dia seguinte, irá caminhar por 5-10 minutos, comer uma dieta com comidas mais sólidas e receber alta. Após a alta, atividades leves são permitidas. Após 6-7 dias, você retirará a sonda e poderá dirigir a partir do décimo dia de pós-operatórios. Dependo da sua profissão, poderá retomar o trabalho com 14 dias. Exercícios mais intensos em academia podem ser realizados a partir de 3 ou 4 semanas. Você pode tentar ter relações a partir de 25 dias após a cirurgia.
 4. **A recuperação funcional é garantida?**\
    A preservação da potência sexual e da continência urinária depende de fatores como idade, estágio do câncer, doenças pré-existentes e características anatômicas de cada paciente. **Fazer cirurgia robótica não é uma garantia de recuperação da continência urinária e da ereção**, mas a técnica robótica aumenta consideravelmente as chances de bons resultados funcionais.
 5. **Quais são os riscos da cirurgia?**\
@@ -124,4 +124,4 @@ A recuperação após uma [prostatectomia robótica](https://uroconsult.com.br/a
 
 A prostatectomia robótica oferece aos pacientes maior segurança, recuperação mais rápida e melhor qualidade de vida após a cirurgia, consolidando-se como referência no tratamento do câncer de próstata.
 
-Se você ou um familiar necessita realizar esse procedimento, por favor [entre em contato](https://api.whatsapp.com/send?phone=5592982252490) com nossa **assistente especializada para biópsias e cirurgias.**
+Se você ou um familiar necessita realizar esse procedimento, por favor [entre em contato](https://api.whatsapp.com/send?phone=5592982252490) com nossa **assistente especializada para cirurgias e biópsias de próstata.**
