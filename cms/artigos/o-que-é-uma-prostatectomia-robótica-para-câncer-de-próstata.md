@@ -21,7 +21,7 @@ seo:
 ---
 ![Cirurgião e módulo dos braços robóticos](/assets/images/robotica-p-500.jpg)
 
-A prostatectomia robótica é a melhor técnica para o tratamento do câncer de próstata. Este artigo mostra como o procedimento funciona, seus benefícios e o que esperar durante a recuperação.
+A prostatectomia robótica é a melhor técnica para o tratamento do câncer de próstata. Este artigo mostra como o procedimento funciona, seus benefícios e o que esperar da sua recuperação após a cirurgia.
 
 ## O que é prostatectomia robótica e quando está indicada?
 
