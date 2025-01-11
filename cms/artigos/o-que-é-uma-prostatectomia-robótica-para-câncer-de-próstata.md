@@ -34,9 +34,9 @@ A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional
 
 
 
-### Por que a prostatectomia robótica é melhor do que as outras técnicas cirúrgicas?
+### Quais são os benefícios em relação a outras técnicas?
 
-Porque os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais são:
+Os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais são:
 
 1. o esfíncter urinário (músculo responsável pela contenção da urina);
 
@@ -53,8 +53,10 @@ A prostatectomia robótica é melhor não porque oferece ao paciente uma maior c
 
 4. a recuperação é mais rápida, com menos dor, menor tempo de hospitalização e afastamento do trabalho.
 
+5. menor risco de infecção de ferida operária e hérnias incisionais.
 
-O robô da Vinci, criado por uma empresa americana, também está indicado no tratamento de outras doenças urológicas. Saiba mais sobre isso no vídeo abaixo.
+
+O robô da Vinci, criado por uma empresa americana, também está indicado no tratamento de outras doenças urológicas. Saiba mais sobre isso no **vídeo abaixo**.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -82,7 +84,13 @@ O robô da Vinci, criado por uma empresa americana, também está indicado no tr
 
 ### Como o robô cirúrgico atua durante o procedimento?
 
-Durante a cirurgia, o robô atua como uma extensão das mãos do cirurgião. Controlado de uma estação de trabalho, o médico manipula braços robóticos equipados com câmeras e instrumentos. A câmera oferece uma visão 3D aumentada do campo cirúrgico, enquanto os instrumentos realizam movimentos delicados com precisão milimétrica, impossíveis para mãos humanas. O principal objetivo é minimizar danos a estruturas sensíveis próximas à próstata, como nervos responsáveis pela ereção e músculos que controlam a urina.
+Durante a cirurgia, o robô atua como uma extensão das mãos do cirurgião. 
+
+O robô cirúrgico tem duas partes principais: **o console e os braços robóticos**. Veja os vídeos abaixo de cirurgia realizados por mim. Note como **o cirurgião, sentado no console, controla os movimentos dos braços robóticos com precisão milimétrica**. Como já explicamos, o objetivo retirar o câncer minimizando danos a estruturas sensíveis próximas à próstata, como nervos responsáveis pela ereção e músculos que controlam a urina.
+
+<iframe width="1264" height="711" src="https://www.youtube.com/embed/cz9Joxc_xYo" title="Descubra como funciona a cirurgia robótica #CirurgiaRobótica #UrologistaManaus #urooncologista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -107,17 +115,6 @@ Durante a cirurgia, o robô atua como uma extensão das mãos do cirurgião. Con
       }
     }  </script>
 </div>
-
-### Quais são os benefícios em relação a outras técnicas?
-
-A [cirurgia robótica](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/) apresenta múltiplas vantagens:
-
-* **Menor tempo de recuperação:** Alta hospitalar mais rápida, muitas vezes em até 24 horas.
-* **Menos dor e sangramento:** Os cortes são menores e mais precisos.
-* **Melhores resultados funcionais:** Maior preservação das funções urinária e sexual.
-* **Cicatriz mínima:** Melhora estética em comparação à cirurgia aberta.
-
-Estes fatores fazem da técnica robótica a preferência tanto de médicos quanto de pacientes.
 
 ## Principais dúvidas sobre a recuperação e resultados
 
