@@ -1,5 +1,5 @@
 ---
-title: O que é uma prostatectomia robótica para câncer de próstata?
+title: O que é  prostatectomia robótica para câncer de próstata?
 created-on: 2025-01-08T22:31:06.173Z
 updated-on: 2025-01-08T22:31:06.204Z
 published-on: 2025-01-08T22:31:06.239Z
@@ -21,13 +21,40 @@ seo:
 ---
 ![Cirurgião e módulo dos braços robóticos](/assets/images/robotica-p-500.jpg)
 
-A prostatectomia robótica é a melhor técnica para o tratamento do câncer de próstata. Este artigo mostra como o procedimento funciona, seus benefícios e o que esperar da sua recuperação após a cirurgia.
+Estudos científicos nos últimos 20 anos estabeleceram a prostatectomia robótica como a melhor técnica para o tratamento do câncer de próstata. Este artigo explica como o procedimento funciona, seus benefícios e o que você pode esperar em relação à recuperação pós-operatória.
 
-## O que é prostatectomia robótica e quando está indicada?
+### O que é a prostatectomia robótica e quando está indicada
 
-A prostatectomia robótica é uma evolução tecnológica da video-cirurgia tradicional para remoção da próstata. Em rel
+A prostatectomia robótica é a cirurgia de retirada de TODA a próstata e das vesículas seminais assistida pelo robô cirúrgico. Esta cirurgia está indicada quando o paciente possui câncer de próstata localizado na próstata e tem intenção curativa, ou seja, o seu objetivo primordial é curar o paciente do câncer.
+A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional. Possui 3 vantagens principais:
 
-Utiliza um sistema robótico avançado, como o Da Vinci, que permite maior precisão durante o procedimento, reduzindo riscos e complicações. Essa técnica é indicada especialmente para pacientes com tumores restritos à próstata e boa saúde geral, proporcionando uma maior chance de preservação de funções essenciais, como a potência sexual, a capacidade de ereção e também a capacidade de segurar urina, a continência urinária.
+1. Visão tridimensional de alta resolução / realidade aumentada.
+2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional).Filtro do tremor natural das mãos.
+3.  Filtro do tremor natural das mãos.
+
+
+
+### Por que a prostatectomia robótica é melhor do que as outras técnicas cirúrgicas?
+
+Porque os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais são:
+
+1. o esfíncter urinário (músculo responsável pela contenção da urina);
+
+2. Os nervos erigentes, responsáveis pela ereção peniana.
+
+
+A prostatectomia robótica é melhor não porque oferece ao paciente uma maior chance de cura do câncer, pois a chance de cura é a mesma da cirurgia aberta, mas porque:
+
+1. o risco de incontinência urinária (incapacidade de segurar a urina) é menor.
+
+2. existe maior chance de preservação da ereção.
+
+3. praticamente eliminou a necessidade de transfusão sanguínea durante a retirada da próstata.
+
+4. a recuperação é mais rápida, com menos dor, menor tempo de hospitalização e afastamento do trabalho.
+
+
+O robô da Vinci, criado por uma empresa americana, também está indicado no tratamento de outras doenças urológicas. Saiba mais sobre isso no vídeo abaixo.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
