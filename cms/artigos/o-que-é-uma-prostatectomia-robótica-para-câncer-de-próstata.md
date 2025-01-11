@@ -32,7 +32,7 @@ A prostatectomia robótica é a cirurgia de retirada de TODA a próstata e das v
 A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional. Possui 3 vantagens principais:
 
 1. Visão tridimensional de alta resolução / realidade aumentada.
-2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional).Filtro do tremor natural das mãos.
+2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional).
 3. Filtro do tremor natural das mãos.
 
 ### Quais são os benefícios em relação a outras técnicas?
