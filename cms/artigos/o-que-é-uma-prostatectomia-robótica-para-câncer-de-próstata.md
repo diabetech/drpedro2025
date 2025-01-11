@@ -1,7 +1,7 @@
 ---
-title: O que é  prostatectomia robótica para câncer de próstata?
-created-on: 2025-01-08T22:31:06.173Z
-updated-on: 2025-01-08T22:31:06.204Z
+title: Guia rápido sobre a prostatectomia robótica para tratar o câncer de próstata.
+created-on: ""
+updated-on: ""
 published-on: 2025-01-08T22:31:06.239Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
