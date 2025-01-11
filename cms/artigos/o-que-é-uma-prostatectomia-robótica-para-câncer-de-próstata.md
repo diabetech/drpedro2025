@@ -27,6 +27,8 @@ Estudos científicos nos últimos 20 anos estabeleceram a **prostatectomia robó
 ### O que é a prostatectomia robótica e quando está indicada
 
 A prostatectomia robótica é a cirurgia de retirada de TODA a próstata e das vesículas seminais assistida pelo robô cirúrgico. Esta cirurgia está indicada quando o paciente possui câncer de próstata localizado na próstata e tem intenção curativa, ou seja, **o seu objetivo primordial é curar o paciente do câncer.**
+
+
 A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional. Possui 3 vantagens principais:
 
 1. Visão tridimensional de alta resolução / realidade aumentada.
