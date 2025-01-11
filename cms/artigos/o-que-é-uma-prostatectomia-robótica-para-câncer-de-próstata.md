@@ -8,8 +8,8 @@ f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: ""
 f_post-summary: >-
-  A prostatectomia robótica é o "padrão-ouro" para o tratamento do câncer de
-  próstata lozalizado.
+  A prostatectomia robótica é o "padrão ouro" para o tratamento do câncer de
+  próstata localizado.
 
   Entenda alguns fundamentos desta cirurgia neste artigo.
 tags: artigos
@@ -110,14 +110,18 @@ Veja os vídeos abaixo de cirurgias realizados por mim. Note como **o cirurgião
 
 ## Principais dúvidas sobre a recuperação e resultados
 
-A recuperação após uma [prostatectomia robótica](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/) é frequentemente mais tranquila do que em outras técnicas, mas algumas dúvidas são comuns:
+A recuperação após uma [prostatectomia robótica](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/) é frequentemente mais tranquila e sem intercorrências.
+
+Em geral, o principal incômodo ao paciente é causado por sonda deixada no interior da bexiga por um período de 6 ou 7 dias após a cirurgia, essencial enquanto a sutura (costura) que une a bexiga à uretra (canal da urina) cicatriza.
+
+Algumas dúvidas comuns são:
 
 1. **Quanto tempo dura a cirurgia?**\
-   O procedimento dura entre 1h30 min e 3h e 30 minutos, dependendo da complexidade do caso, do tamanho da próstata, da experiência do cirurgião e da necessidade ou não de retirada de gânglios pélvicos.
+   Em geral entre 1h30 min e 3h e 30 minutos, dependendo da complexidade do caso, do tamanho da próstata, da experiência do cirurgião e da necessidade ou não de retirada de gânglios pélvicos.
 2. **Quanto tempo fico internado?**\
    Em geral, o paciente recebe alta no primeiro dia após a cirurgia.
 3. **Quando posso voltar às atividades normais?**\
-   Você irá se alimentar com uma dieta líquida no mesmo dia da cirurgia. No dia seguinte, irá caminhar por 5-10 minutos, comer uma dieta com comidas mais sólidas e receber alta. Após a alta, atividades leves são permitidas. Após 6-7 dias, você retirará a sonda e poderá dirigir a partir do décimo dia de pós-operatórios. Dependo da sua profissão, poderá retomar o trabalho com 14 dias. Exercícios mais intensos em academia podem ser realizados a partir de 3 ou 4 semanas. Você pode tentar ter relações a partir de 25 dias após a cirurgia.
+   Você irá se alimentar com uma dieta líquida no mesmo dia da cirurgia. No dia seguinte, irá caminhar por 5-10 minutos, comer uma dieta com comidas mais sólidas e receber alta se estiver tudo bem. Após a alta, atividades leves e caminhadas são permitidas. Após 6-7 dias, você retirará a sonda e poderá dirigir a partir do décimo dia de pós-operatório. Dependo da sua profissão, poderá retomar o trabalho com 14 dias. Exercícios mais intensos em academia podem ser realizados a partir de 3 ou 4 semanas. Você pode tentar ter relações a partir de 25 dias após a cirurgia.
 4. **A recuperação funcional é garantida?**\
    A preservação da potência sexual e da continência urinária depende de fatores como idade, estágio do câncer, doenças pré-existentes e características anatômicas de cada paciente. **Fazer cirurgia robótica não é uma garantia de recuperação da continência urinária e da ereção**, mas a técnica robótica aumenta consideravelmente as chances de bons resultados funcionais.
 5. **Quais são os riscos da cirurgia?**\
