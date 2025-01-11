@@ -37,7 +37,7 @@ A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional
 
 ### Quais são os benefícios em relação a outras técnicas?
 
-Os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais são:
+Os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais estruturas são:
 
 1. o esfíncter urinário (músculo responsável pela contenção da urina);
 2. Os nervos erigentes, responsáveis pela ereção peniana.
@@ -45,8 +45,8 @@ Os movimentos mais precisos das pinças robóticas associados ao sistema de imag
 A prostatectomia robótica é melhor não porque oferece ao paciente uma maior chance de cura do câncer, pois a chance de cura é a mesma da cirurgia aberta, mas porque:
 
 1. o risco de incontinência urinária (incapacidade de segurar a urina) é menor.
-2. existe maior chance de preservação da ereção.
-3. praticamente eliminou a necessidade de transfusão sanguínea durante a retirada da próstata.
+2. há maior chance de preservação da ereção.
+3. menos sangramento e risco mínimo de transfusão sanguínea.
 4. a recuperação é mais rápida, com menos dor, menor tempo de hospitalização e afastamento do trabalho.
 5. menor risco de infecção de ferida operária e hérnias incisionais.
 
