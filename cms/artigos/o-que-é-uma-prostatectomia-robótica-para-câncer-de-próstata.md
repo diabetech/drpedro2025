@@ -32,7 +32,7 @@ A prostatectomia robótica é a cirurgia de retirada de TODA a próstata e das v
 A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional. Possui 3 vantagens principais:
 
 1. Visão tridimensional de alta resolução / realidade aumentada.
-2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional).
+2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional) e precisão milimétrica.
 3. Filtro do tremor natural das mãos.
 
 ### Quais são os benefícios em relação a outras técnicas?
@@ -48,7 +48,7 @@ A prostatectomia robótica é melhor não porque oferece ao paciente uma maior c
 2. há maior chance de preservação da ereção.
 3. menos sangramento e risco mínimo de transfusão sanguínea.
 4. a recuperação é mais rápida, com menos dor, menor tempo de hospitalização e afastamento do trabalho.
-5. menor risco de infecção de ferida operária e hérnias incisionais.
+5. menor risco de infecção de ferida operária e hérnias nos cortes (incisões).
 
 O robô da Vinci, criado por uma empresa americana, também está indicado no tratamento de outras doenças urológicas. Saiba mais sobre isso no **vídeo abaixo**.
 
@@ -78,9 +78,9 @@ O robô da Vinci, criado por uma empresa americana, também está indicado no tr
 
 ### Como o robô cirúrgico atua durante o procedimento?
 
-Durante a cirurgia, o robô atua como uma extensão das mãos do cirurgião. 
+Durante a cirurgia, o robô atua como uma extensão das mãos do cirurgião e tem duas partes principais: **o console e os braços robóticos**. 
 
-O robô cirúrgico tem duas partes principais: **o console e os braços robóticos**. Veja os vídeos abaixo de cirurgia realizados por mim. Note como **o cirurgião, sentado no console, controla os movimentos dos braços robóticos com precisão milimétrica**. Como já explicamos, o objetivo retirar o câncer minimizando danos a estruturas sensíveis próximas à próstata, como nervos responsáveis pela ereção e músculos que controlam a urina.
+Veja os vídeos abaixo de cirurgias realizados por mim. Note como **o cirurgião, sentado no console, controla os movimentos dos braços robóticos a uma certa distância**. Como já explicamos, o objetivo retirar o câncer minimizando danos a estruturas sensíveis próximas à próstata, como nervos responsáveis pela ereção e músculos que controlam a urina.
 
 <iframe width="1264" height="711" src="https://www.youtube.com/embed/cz9Joxc_xYo" title="Descubra como funciona a cirurgia robótica #CirurgiaRobótica #UrologistaManaus #urooncologista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
