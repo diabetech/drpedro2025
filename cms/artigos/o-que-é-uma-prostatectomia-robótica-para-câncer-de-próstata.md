@@ -30,31 +30,22 @@ A cirurgia robótica é a evolução tecnológica da vídeo-cirurgia tradicional
 
 1. Visão tridimensional de alta resolução / realidade aumentada.
 2. Pinças que permitem 7 graus de liberdade de movimentos (em oposição ao movimento único de abrir e fechar das pinças de vídeo-cirurgia convencional).Filtro do tremor natural das mãos.
-3.  Filtro do tremor natural das mãos.
-
-
+3. Filtro do tremor natural das mãos.
 
 ### Quais são os benefícios em relação a outras técnicas?
 
 Os movimentos mais precisos das pinças robóticas associados ao sistema de imagem de qualidade superior possibilitam maior preservação de estruturas anatômicas importantes situadas profundamente na pelve do paciente. As duas principais são:
 
 1. o esfíncter urinário (músculo responsável pela contenção da urina);
-
 2. Os nervos erigentes, responsáveis pela ereção peniana.
-
 
 A prostatectomia robótica é melhor não porque oferece ao paciente uma maior chance de cura do câncer, pois a chance de cura é a mesma da cirurgia aberta, mas porque:
 
 1. o risco de incontinência urinária (incapacidade de segurar a urina) é menor.
-
 2. existe maior chance de preservação da ereção.
-
 3. praticamente eliminou a necessidade de transfusão sanguínea durante a retirada da próstata.
-
 4. a recuperação é mais rápida, com menos dor, menor tempo de hospitalização e afastamento do trabalho.
-
 5. menor risco de infecção de ferida operária e hérnias incisionais.
-
 
 O robô da Vinci, criado por uma empresa americana, também está indicado no tratamento de outras doenças urológicas. Saiba mais sobre isso no **vídeo abaixo**.
 
@@ -90,8 +81,6 @@ O robô cirúrgico tem duas partes principais: **o console e os braços robótic
 
 <iframe width="1264" height="711" src="https://www.youtube.com/embed/cz9Joxc_xYo" title="Descubra como funciona a cirurgia robótica #CirurgiaRobótica #UrologistaManaus #urooncologista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
@@ -121,15 +110,15 @@ O robô cirúrgico tem duas partes principais: **o console e os braços robótic
 A recuperação após uma [prostatectomia robótica](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/) é frequentemente mais tranquila do que em outras técnicas, mas algumas dúvidas são comuns:
 
 1. **Quanto tempo dura a cirurgia?**\
-   O procedimento dura entre 2 e 4 horas, dependendo da complexidade do caso e da experiência do cirurgião.
+   O procedimento dura entre 1h30 min e 3h e 30 minutos, dependendo da complexidade do caso, do tamanho da próstata, da experiência do cirurgião e da necessidade ou não de retirada de gânglios pélvicos.
 2. **Quanto tempo fico internado?**\
-   Em geral, o paciente recebe alta em 24 horas, salvo complicações.
+   Em geral, o paciente recebe alta no primeiro dia após a cirurgia.
 3. **Quando posso voltar às atividades normais?**\
-   Após uma semana, atividades leves são permitidas. Exercícios mais intensos e o trabalho podem ser retomados em cerca de 4 a 6 semanas.
+   Você irá se alimentar com uma dieta líquida no mesmo dia da cirurgia. No dia seguinte, irá caminhar por 5-10 minutos, comer uma dieta com comidas mais sólidas e receber alta. Após a alta, atividades leves são permitidas. Após 6-7 dias, você retirará a sonda e poderá dirigir a partir do décimo dia de pós-operatórios. Dependo da sua profissão, poderá retomar o trabalho com 14 dias. Exercícios mais intensos em academia podem ser realizados a partir de 3 ou 4 semanas.
 4. **A recuperação funcional é garantida?**\
-   A preservação da potência sexual e da continência urinária depende de fatores como idade, estágio do câncer e condições pré-existentes. No entanto, a técnica robótica aumenta consideravelmente as chances de bons resultados funcionais.
+   A preservação da potência sexual e da continência urinária depende de fatores como idade, estágio do câncer, doenças pré-existentes e características anatômicas de cada paciente. **Fazer cirurgia robótica não é uma garantia de recuperação da continência urinária e da ereção**, mas a técnica robótica aumenta consideravelmente as chances de bons resultados funcionais.
 5. **Quais são os riscos da cirurgia?**\
-   Como qualquer cirurgia, há riscos como infecção, sangramento ou reações adversas à anestesia, mas esses são minimizados devido à precisão robótica.
+   Como qualquer cirurgia, há risco de infecção, sangramento, reações adversas à anestesia, náuseas e vômitos, mas esse risco é baixo.
 
 ## Prostatectomia robótica: segurança e qualidade de vida no seu tratamento
 
