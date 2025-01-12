@@ -5,12 +5,10 @@ updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd0700f_aass.jpg
+  url: /assets/images/screenshot-2025-01-12-at-19.03.10.png
   alt: Dr. Pedro Henrique Cabral | Urologista
-f_post-summary: Descubra o que é urologia, uma especialidade médica que cuida da
-  saúde do sistema urinário e reprodutor masculino. Entenda as principais áreas
-  de atuação, tratamentos modernos e quando procurar um urologista
-  especializado.
+f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
+  por um Urologista.
 layout: "[artigos].html"
 slug: o-que-e-urologia-entenda-essa-especialidade-medica-essencial
 tags: artigos
@@ -109,8 +107,14 @@ Muitas pessoas hesitam em procurar um urologista, seja por vergonha ou por não 
 
 Além disso, homens acima de 50 anos (ou 45 anos para grupos de risco) devem realizar check-ups urológicos anuais para rastreamento do câncer de próstata, conforme **[recomendações da Sociedade Brasileira de Urologia](https://portaldaurologia.org.br/publico/recomendacoes/).**
 
+## **O que devo checar antes de marcar minha consulta?**
+
+Ao agendar uma consulta com um urologista, é fundamental verificar se o médico possui o Registro de Qualificação de Especialista (RQE) na área de urologia junto ao Conselho Federal de Medicina. O RQE é um documento que comprova que o profissional completou a formação adequada e é reconhecido como especialista. Isso garante que você está se consultando com alguém capacitado para diagnosticar e tratar doenças urológicas. Colocamos **[aqui o link do CFM](https://portal.cfm.org.br/busca-medicos)** onde você pode checar esta informação.
+
+
+
 ## **Cuidando da sua saúde urológica**
 
 A urologia é uma especialidade médica essencial para a saúde e qualidade de vida de homens e mulheres. Como urologista especializado em Manaus, estou comprometido em oferecer técnicas avançadas e procedimentos minimamente invasivos já consolidados na literatura médica séria e validados nas principais diretrizes médicas mundiais.
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
+Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde.
