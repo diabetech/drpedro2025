@@ -113,4 +113,4 @@ Além disso, homens acima de 50 anos (ou 45 anos para grupos de risco) devem rea
 
 A urologia é uma especialidade médica essencial para a saúde e qualidade de vida de homens e mulheres. Como urologista especializado em Manaus, estou comprometido em oferecer técnicas avançadas e procedimentos minimamente invasivos já consolidados na literatura médica séria e validados nas principais diretrizes médicas mundiais.
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
+Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde.
