@@ -6,11 +6,11 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd07010_dsdsd.jpeg
+  url: /assets/images/consultório-close.png
   alt: Idoso em consulta no urologista
-f_post-summary: Entenda por que o diagnóstico precoce é crucial para o
-  tratamento bem-sucedido do câncer de próstata. Conheça os exames de
-  rastreamento, fatores de risco e as mais recentes tecnologias disponíveis para
+f_post-summary: Entenda como o diagnóstico precoce é fundamental para o
+  tratamento bem-sucedido do câncer de próstata. Conheça os fatores de risco, os
+  exames de rastreamento e as mais recentes tecnologias disponíveis para
   detecção da doença.
 layout: "[artigos].html"
 slug: cancer-de-prostata-a-importancia-do-diagnostico-precoce
@@ -86,4 +86,4 @@ Muitos homens evitam os exames de **próstata** por medo ou vergonha. É importa
 
 ## **A importância de agir agora**
 
-O câncer de **próstata**, quando detectado precocemente, tem altas chances de cura. Não deixe que o medo ou a desinformação o impeçam de cuidar da sua saúde. Está na hora de priorizar sua saúde? **[Entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para agendar sua avaliação. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
+O câncer de **próstata**, quando detectado precocemente, tem altas chances de cura. Não deixe que o medo ou a desinformação o impeçam de cuidar da sua saúde. **[Entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para avaliarmos o seu caso individualmente.
