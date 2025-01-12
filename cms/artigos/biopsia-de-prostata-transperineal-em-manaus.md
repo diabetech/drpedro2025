@@ -1,7 +1,7 @@
 ---
 title: Biópsia de próstata transperineal em Manaus
-created-on: 2024-12-02T20:54:14.776Z
-updated-on: 2024-12-26T17:48:46.209Z
+created-on: ""
+updated-on: ""
 published-on: 2025-01-03T15:37:57.055Z
 f_destaque: true
 f_especialidades: cms/especialidades/biopsia.md
@@ -78,4 +78,4 @@ Para os habitantes de Manaus e região, a disponibilidade da biópsia perineal c
 
 A biópsia de próstata pela via perineal em Manaus representa um progresso para Urologia na região amazônica. Com menor risco de complicações e maior precisão diagnóstica, está mudando o panorama do diagnóstico do câncer de próstata. Agora, nossos pacientes são beneficiados com a técnica recomendada nas principais Diretrizes Médicas Mundiais.
 
-Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
+Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para cirurgias e biópsias de próstata.**
