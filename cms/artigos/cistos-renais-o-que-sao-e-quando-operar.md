@@ -20,30 +20,7 @@ Cistos renais são bolsas de líquido que se formam no rim. Podem estar associad
 
 ## Um cisto renal pode ser câncer?
 
-Sim. Em alguns casos, o cisto pode ser, na realidade, um câncer de rim, ou seja, um tumor renal cístico. Em pacientes com cisto renal, um investigação cuidadosa com exames complementares de imagem como a ultrassonografia e a tomografia computadorizada de abdome deve ser realizada para definir se o cisto renal é apenas um cisto simples ou um cisto tumoral.<div style="text-align: center; margin-bottom: 20px;">
-
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/ENmm29wnM-c"
-    title="Cirurgia com laser para cálculos renais"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
+Sim. Em alguns casos, o cisto pode ser, na realidade, um câncer de rim, ou seja, um tumor renal cístico. Em pacientes com cisto renal, um investigação cuidadosa com exames complementares de imagem como a ultrassonografia e a tomografia computadorizada de abdome deve ser realizada para definir se o cisto renal é apenas um cisto simples ou um cisto tumoral.
 
 ## Quando cistos renais devem ser operados?
 
