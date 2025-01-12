@@ -5,7 +5,7 @@ updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd0700f_aass.jpg
+  url: /assets/images/screenshot-2025-01-12-at-19.03.10.png
   alt: Dr. Pedro Henrique Cabral | Urologista
 f_post-summary: Descubra o que é urologia, uma especialidade médica que cuida da
   saúde do sistema urinário e reprodutor masculino. Entenda as principais áreas
