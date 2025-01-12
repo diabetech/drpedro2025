@@ -1,7 +1,7 @@
 ---
 title: A próstata e sua importância na saúde masculina
-created-on: 2024-12-02T10:22:02.645Z
-updated-on: 2024-12-26T05:17:25.388Z
+created-on: ""
+updated-on: ""
 published-on: 2024-12-26T05:17:25.388Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
@@ -17,7 +17,7 @@ date: 2025-01-03T20:20:44.181Z
 ---
 Como **urologista** especializado no tratamento cirúrgico de doenças prostáticas, frequentemente me deparo com dúvidas sobre a **próstata**. Neste artigo, explicarei sobre a próstata, suas funções, suas principais doenças e sobre os cuidados necessários com este órgão.
 
-## **O que é a próstata e suas funções**
+## **O que é a próstata e para que serve?**
 
 A próstata é uma **glândula** do **sistema reprodutor masculino**. Está localizada abaixo da bexiga e envolve a uretra. Seu tamanho é comparável ao de uma noz e pesa cerca de 20 gramas em um adulto jovem.
 
@@ -108,6 +108,6 @@ Um estudo publicado no “European Urology”, em 2022, demonstrou que homens qu
 
 A detecção precoce de problemas prostáticos aumenta significativamente as chances de tratamento bem-sucedido. Como urologista especializado em Manaus, utilizo tecnologias de ponta e procedimentos minimamente invasivos, baseados na literatura médica. Minha prática incorpora inovações validadas pelas principais diretrizes médicas mundiais, oferecendo aos pacientes tratamentos eficazes e seguros.
 
-Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://api.whatsapp.com/send?phone=5592982252490)** dedicada a procedimentos urológicos.
+Se você tem dúvidas sobre sua saúde prostática ou deseja realizar exames preventivos, não hesite em buscar ajuda especializada. Para mais informações, **[entre em contato com nossa assistente](https://api.whatsapp.com/send?phone=5592982252490)** para agendar uma consulta.
 
 ‍
