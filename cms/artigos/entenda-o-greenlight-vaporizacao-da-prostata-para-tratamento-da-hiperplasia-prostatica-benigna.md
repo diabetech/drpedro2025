@@ -1,5 +1,6 @@
 ---
-title: "Entenda o GreenLight:  tratamento da Hiperplasia Prostática Benigna"
+title: 'Laser Verde "GreenLight" para tratamento da hiperplasia da próstata:
+  quando fazer?'
 created-on: 2024-12-02T10:15:41.536Z
 updated-on: 2024-12-26T05:17:32.240Z
 published-on: 2024-12-26T05:17:32.240Z
@@ -8,8 +9,8 @@ f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06f52_green-light-pedro-henrique.jpg
   alt: null
-f_post-summary: Excelente técnica para tratamento cirúrgico da HPB que temos
-  oferecido aos nossos pacientes em Manaus.
+f_post-summary: Excelente técnica para tratamento da HPB que temos oferecido aos
+  nossos pacientes em Manaus.
 layout: "[artigos].html"
 slug: entenda-o-greenlight-vaporizacao-da-prostata-para-tratamento-da-hiperplasia-prostatica-benigna
 tags: artigos
@@ -27,20 +28,23 @@ Baseado em minha experiência clínica e nos dados da literatura médica, o trat
 
 O laser verde (daí o nome GreenLight) está associado a um **menor risco de sangramento** em relação à **ressecção transuretral de próstata convencional** (RTU de próstata). Além disso, **o aparelho que é introduzido através da uretra é mais fino**. Por último, nesta cirurgia é possível (embora não garantido) a tentativa de preservar a ejaculação.
 
-Estas características tornam o GreenLight uma opção segura e eficaz especialmente para três grupos de pacientes:
+### **Quando devo escolher o GreenLight?**
+
+As características citadas acima tornam o GreenLight uma opção segura e eficaz especialmente para:
 
 1. homens com o canal da urina (uretra) mais fino.
 2. homens com risco alto de sangramento (como aqueles que usam anticoagulantes).
 3. homens que desejam muito preservar a ejaculação.
+4. homens com próstata menor do que 70 gramas.
 
-É importante lembrar que, assim como outras técnicas de tratamento da hiperplasia benigna da próstata, **o GreenLight não causa perda de ereção peniana**.
 
-### **Quem é candidato ao tratamento GreenLight?**
 
-O GreenLight é uma excelente opção para homens que:
+### **Quem é o melhor candidato ao tratamento GreenLight?**
+
+Em resumo, o GreenLight é uma excelente opção para homens que:
 
 * Sofrem de sintomas moderados a graves de HPB.
-* Possuem próstatas de até 60 gramas.
+* Possuem próstatas de até 70 gramas.
 * Não responderam adequadamente ao tratamento medicamentoso.
 * Têm contra-indicações para cirurgias mais invasivas.
 * Usam anticoagulantes ou têm alto risco de sangramento.
