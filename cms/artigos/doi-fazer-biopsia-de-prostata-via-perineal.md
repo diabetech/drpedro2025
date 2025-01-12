@@ -6,7 +6,7 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd07009_gettyimages-1473559507-1024x1024-transformed-1-1-1.jpeg
+  url: /assets/images/screenshot-2025-01-12-at-19.35.25.png
   alt: Paciente sendo consultado no urologista.
 f_post-summary: Guia informativo sobre biópsia de próstata transperineal,
   abordando procedimento, anestesia, recuperação e medidas para reduzir
@@ -22,31 +22,9 @@ date: 2025-01-03T23:47:00.906Z
 
 A [**biópsia de** **próstata** **transperineal**](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/) é um procedimento minimamente invasivo que coleta pequenas amostras de tecido da próstata para análise, através de uma agulha muito fina.. Diferentemente da biópsia tradicional via retal, este método acessa a próstata através da pele entre o escroto e o ânus (períneo). Esta abordagem oferece várias vantagens, menor risco de infecção e maior precisão no diagnóstico.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/mhbPptLAzCE"
-    title="Como funciona a biópsia de próstata transperineal com fusão de imagens?"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
+<iframe width="668" height="376" src="https://www.youtube.com/embed/MnAOA5Kqe4o?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6" title="Biópsia de próstata transperineal com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## **Preparação para o exame: Anestesia e medidas de conforto**
+## **Preparação para o exame: anestesia e medidas de conforto**
 
 Uma das principais preocupações dos pacientes é a dor durante o procedimento. Entretanto, é **importante ressaltar que realizo a biópsia transperineal sempre sob sedação anestésica**, para conforto dos meus pacientes. Aqui está o que você pode esperar:
 
@@ -84,4 +62,4 @@ Estes sintomas são normalmente pouco intensos e passageiros. **A maioria dos pa
 
 A **biópsia de próstata via perineal com fusão de imagens** representa um avanço significativo para o diagnóstico do câncer de próstata, oferecendo maior precisão e conforto aos nossos pacientes. Realizamos biópsias sempre com a presença de um anestesista e uso de sedação, minimizando dor, ansiedade e desconforto.
 
-Se você precisa realizar uma biópsia de próstata e está em Manaus ou região, entre em contato conosco. **[Clique aqui](https://api.whatsapp.com/send?phone=5592982252490)** para falar diretamente com nossa assistente especializada em biópsias e cirurgias, ou ligue para (92) 98225-2490.
+Se você precisa realizar uma biópsia de próstata e está em Manaus ou região, fale diretamente com nossa assistente especializada em biópsias de próstata [clicando aqui](https://api.whatsapp.com/send?phone=5592982252490) ou ligue para (92) 98225-2490.
