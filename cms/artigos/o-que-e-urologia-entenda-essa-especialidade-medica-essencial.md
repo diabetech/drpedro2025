@@ -7,10 +7,8 @@ f_destaque: false
 f_main-image:
   url: /assets/images/screenshot-2025-01-12-at-19.03.10.png
   alt: Dr. Pedro Henrique Cabral | Urologista
-f_post-summary: Descubra o que é urologia, uma especialidade médica que cuida da
-  saúde do sistema urinário e reprodutor masculino. Entenda as principais áreas
-  de atuação, tratamentos modernos e quando procurar um urologista
-  especializado.
+f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
+  por um Urologista.
 layout: "[artigos].html"
 slug: o-que-e-urologia-entenda-essa-especialidade-medica-essencial
 tags: artigos
@@ -108,6 +106,12 @@ Muitas pessoas hesitam em procurar um urologista, seja por vergonha ou por não 
 * Infecções urinárias recorrentes.
 
 Além disso, homens acima de 50 anos (ou 45 anos para grupos de risco) devem realizar check-ups urológicos anuais para rastreamento do câncer de próstata, conforme **[recomendações da Sociedade Brasileira de Urologia](https://portaldaurologia.org.br/publico/recomendacoes/).**
+
+## **O que devo checar antes de marcar minha consulta?**
+
+Ao agendar uma consulta com um urologista, é fundamental verificar se o médico possui o Registro de Qualificação de Especialista (RQE) na área de urologia junto ao Conselho Federal de Medicina. O RQE é um documento que comprova que o profissional completou a formação adequada e é reconhecido como especialista. Isso garante que você está se consultando com alguém capacitado para diagnosticar e tratar doenças urológicas. Colocamos **[aqui o link do CFM](https://portal.cfm.org.br/busca-medicos)** onde você pode checar esta informação.
+
+
 
 ## **Cuidando da sua saúde urológica**
 
