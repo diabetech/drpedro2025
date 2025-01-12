@@ -8,9 +8,8 @@ f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fe5_older-man-looking-at-male-doctor-in-front-of-him201.jpg
   alt: Idoso em consulta no urologista.
-f_post-summary: Análise epidemiológica do câncer de próstata no Amazonas,
-  incluindo incidência, métodos diagnósticos disponíveis e opções de tratamento
-  na região.
+f_post-summary: No Amazonas, o câncer de próstata é mais ou menos comum do que
+  no restante do país?
 layout: "[artigos].html"
 slug: cancer-prostata-no-estado-do-amazonas-e-comum
 tags: artigos
@@ -32,32 +31,8 @@ Segundo o Instituto Nacional do Câncer – INCA, estimam-se cerca de 500 casos 
 
 Sim, enquanto no Amazonas a incidência é de cerca de 33 casos/100.000 habitantes, em São Paulo e outros estados o número de casos é o dobro (cerca de 60-70 casos por 100.000 habitantes). A provável explicação é o subdiagnóstico pela escassez de recursos.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/k3HNMhOnejY"
-    title="5 objetivos da prostatectomia para câncer de próstata"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
-
 ## Quais os tratamentos para câncer de próstata disponíveis em Manaus?
 
 Na cidade de Manaus, existem as seguintes opções terapêuticas para o câncer de próstata: radioterapia pélvica, braquiterapia, prostatectomia radical aberta e prostatectomia radical laparoscópica. O tratamento mais sofisticado para o câncer de próstata – a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** radical robótica – ainda não está disponível na cidade. No entanto, oferecemos aos nossos pacientes a opção de realizarmos o procedimento em São Paulo, em parceria com equipe cirúrgica paulista experiente.
 
-**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para agendar sua avaliação. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para avaliarmos você e conversarmos sobre o melhor tratamento no seu caso.
