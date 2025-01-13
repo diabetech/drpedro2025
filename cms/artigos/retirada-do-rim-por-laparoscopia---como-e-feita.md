@@ -6,8 +6,8 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
-  url: /assets/images/screenshot-2025-01-13-at-07.17.50.png
-  alt: ""
+  url: /assets/images/screenshot-2025-01-13-at-12.48.12.jpg
+  alt: Laparoscopia para rim
 f_post-summary: Uma breve análise das indicações para nefrectomia total vs.
   parcial, detalhando os procedimentos cirúrgicos, riscos e benefícios da
   abordagem laparoscópica.
