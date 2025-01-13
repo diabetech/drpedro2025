@@ -5,7 +5,7 @@ updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_main-image:
-  url: /assets/images/screenshot-2025-01-12-at-19.03.10.png
+  url: /assets/images/screenshot-2025-01-13-at-07.21.01.png
   alt: Dr. Pedro Henrique Cabral | Urologista
 f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
   por um Urologista.
@@ -59,30 +59,6 @@ Os principais métodos diagnósticos incluem:
 3. **Procedimentos endoscópicos**: cistoscopia (endoscopia da bexiga) para visualizar o interior da bexiga e diagnosticar um câncer de bexiga, por exemplo.
 4. **Biópsias**: coleta de amostras de tecido para análise, como a **[biópsia de próstata](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)**.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/mhbPptLAzCE"
-    title="Como funciona a biópsia de próstata transperineal com fusão de imagens?"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
-
 Quanto aos tratamentos, eles variam desde abordagens medicamentosas até intervenções cirúrgicas. Alguns exemplos de tratamentos urológicos incluem:
 
 1. **Medicamentos**: para tratar infecções ou controlar sintomas da HPB (crescimento benigno), por exemplo.
@@ -110,8 +86,6 @@ Além disso, homens acima de 50 anos (ou 45 anos para grupos de risco) devem rea
 ## **O que devo checar antes de marcar minha consulta?**
 
 Ao agendar uma consulta com um urologista, é fundamental verificar se o médico possui o Registro de Qualificação de Especialista (RQE) na área de urologia junto ao Conselho Federal de Medicina. O RQE é um documento que comprova que o profissional completou a formação adequada e é reconhecido como especialista. Isso garante que você está se consultando com alguém capacitado para diagnosticar e tratar doenças urológicas. Colocamos **[aqui o link do CFM](https://portal.cfm.org.br/busca-medicos)** onde você pode checar esta informação.
-
-
 
 ## **Cuidando da sua saúde urológica**
 
