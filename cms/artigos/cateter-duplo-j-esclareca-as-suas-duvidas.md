@@ -8,8 +8,8 @@ f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07003_screenshot-2020-03-16-19.12.42-e1584400691226.png
   alt: Cateter duplo J
-f_post-summary: Guia informativo sobre o cateter duplo J, incluindo sua função,
-  tempo de permanência, possíveis efeitos colaterais e métodos de retirada.
+f_post-summary: Guia informativo sobre o cateter duplo J. Assista em
+  procedimento de retirada de duplo J.
 layout: "[artigos].html"
 slug: cateter-duplo-j-esclareca-as-suas-duvidas
 tags: artigos
@@ -21,9 +21,21 @@ Após cirurgias para **[cálculos urinários](https://uroconsult.com.br/artigos/
 
 O duplo J é colocado em benefício do paciente, para evitar dor no pós-operatório e outras complicações como estenose (obstrução por cicatrização anômala) do ureter. Porém, por ser um corpo estranho, pode causar alguns sintomas adversos como dor ao urinar, urgência miccional (necessidade de correr para urinar), dor nas costas ao urinar, frequência miccional elevada e sangramento na urina. Estes sintomas costumam ser leves e são aliviados com os remédios prescritos no pós-operatório.‍
 
+<iframe width="668" height="376" src="https://www.youtube.com/embed/sCCm_rZhD9A?list=PL2N9o0WBU1CblocDYlfT7XmIvop6F2JL0" title="Cateter duplo J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Por quanto tempo o duplo J fica dentro do corpo após a cirurgia?
 
-Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excepcionais é necessário deixar o cateter por mais tempo. **A média de tempo na maior parte dos casos é de 7-14 dias**.<div style="text-align: center; margin-bottom: 20px;">
+Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excepcionais é necessário deixar o cateter por mais tempo. **A média de tempo na maior parte dos casos é de 7-14 dias**.
+
+## Como é retirado o duplo J?
+
+Existem duas formas. Quando o **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus-faca-um-procedimento-urologico-minimamente-invasivo-com-dr-pedro-henrique-cabral/)** prevê que o cateter vá ser necessário apenas por poucos dias, um fio bem fino exteriorizado pelo canal da urina e o duplo J é deixado. O cateter é removido puxando-se este fio no consultório mesmo, procedimento muito rápido (alguns segundos) e pouco doloroso.
+
+Quando há indicação de permanência do duplo J por mais tempo, o cateter é deixado sem fio externo e retirado no centro cirúrgico por CISTOSCOPIA (endoscopia da bexiga através do canal da urina), sob sedação leve. O paciente acorda alguns minutos após o procedimento e vai para casa no mesmo dia, sem necessidade de internação. 
+
+Assista **no vídeo abaixo** um procedimento de retirada de duplo J em tempo real.
+
+<div style="text-align: center; margin-bottom: 20px;">
 
   <iframe
     width="100%"
@@ -48,10 +60,4 @@ Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excep
     }  </script>
 </div>
 
-## Como é retirado o duplo J?
-
-Existem duas formas. Quando o **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus-faca-um-procedimento-urologico-minimamente-invasivo-com-dr-pedro-henrique-cabral/)** prevê que o cateter vá ser necessário apenas por poucos dias, um fio bem fino exteriorizado pelo canal da urina e o duplo J é deixado. O cateter é removido puxando-se este fio no consultório mesmo, procedimento muito rápido (alguns segundos) e pouco doloroso.
-
-Quando há indicação de permanência do duplo J por mais tempo, o cateter é deixado sem fio externo e retirado no centro cirúrgico por CISTOSCOPIA (endoscopia da bexiga através do canal da urina), sob sedação leve. O paciente acorda alguns minutos após o procedimento e vai para casa no mesmo dia, sem necessidade de internação.
-
-**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para mais informações sobre procedimentos urológicos. Juntos, podemos garantir que você esteja no caminho certo para uma vida longa e saudável.
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para mais informações sobre procedimentos urológicos. Estamos prontos para auxiliar você no que for necessário.

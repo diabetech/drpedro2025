@@ -1,5 +1,5 @@
 ---
-title: Exame de PSA para check up de próstata
+title: Tenho PSA alto. É câncer de próstata?
 created-on: 2024-12-02T18:06:15.012Z
 updated-on: 2024-12-02T18:06:15.012Z
 published-on: 2024-12-22T14:26:25.060Z
@@ -58,6 +58,6 @@ O ideal é realizar o PSA e o toque retal, pois existem alguns tumores de próst
 
 ## Como devo me preparar para o exame de PSA?
 
-Em geral, o laboratório responsável pelo exame recomenda 48 horas de abstinência sexual e a não realização de atividades que envolvam compressão do períneo (região do corpo entre o escroto e o ânus), como andar de bicicleta ou moto. Apesar disto, costumamos explicar para os nossos pacientes que, na realidade, o aumento de PSA produzido nestas circunstâncias tende a ser muito discreto e clinicamente não relevante. 
+Em geral, o laboratório responsável pelo exame recomenda 48 horas de abstinência sexual e a não realização de atividades que envolvam compressão do períneo (região do corpo entre o escroto e o ânus), como andar de bicicleta ou moto. Apesar disto, costumamos explicar para os nossos pacientes que, na realidade, o aumento de PSA produzido nestas circunstâncias tende a ser muito discreto e clinicamente não relevante.
 
-**[Entre em contato conosco](https://api.whatsapp.com/send?phone=5592982252490)! Nossa assistente especializada está pronta** **para esclarecer suas dúvidas sobre o exame psa.**
+**[Entre em contato conosco. ](https://api.whatsapp.com/send?phone=5592982252490)**Estamos à disposição.

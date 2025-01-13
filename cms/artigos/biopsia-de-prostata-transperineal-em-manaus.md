@@ -1,16 +1,15 @@
 ---
 title: Biópsia de próstata transperineal em Manaus
-created-on: 2024-12-02T20:54:14.776Z
-updated-on: 2024-12-26T17:48:46.209Z
+created-on: ""
+updated-on: ""
 published-on: 2025-01-03T15:37:57.055Z
 f_destaque: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700a_mwaqyl0z.jpeg
   alt: null
-f_post-summary: Descrição detalhada da biópsia de próstata via perineal com
-  fusão de imagens em Manaus, incluindo vantagens da técnica, processo do
-  procedimento e benefícios para pacientes.
+f_post-summary: Aprenda sobre a biópsia de próstata pela via perineal com fusão
+  de imagens, exame em que somos os pioneiros na Região Norte.
 layout: "[artigos].html"
 slug: biopsia-de-prostata-transperineal-em-manaus
 tags: artigos
@@ -51,6 +50,10 @@ Esta tecnologia avançada combina imagens de ressonância magnética (RM) com ul
 4. **Diminuição de resultados falso-negativos;**
 5. **Melhor planejamento de tratamento.**
 
+Veja o vídeo abaixo para entender melhor.
+
+<iframe width="668" height="376" src="https://www.youtube.com/embed/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6" title="Demonstração real de uma biópsia de próstata com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **O procedimento passo a passo**
 
 Entender como é feita a biópsia perineal pode ajudar a aliviar a ansiedade dos pacientes. Aqui está uma visão geral do procedimento:
@@ -78,4 +81,4 @@ Para os habitantes de Manaus e região, a disponibilidade da biópsia perineal c
 
 A biópsia de próstata pela via perineal em Manaus representa um progresso para Urologia na região amazônica. Com menor risco de complicações e maior precisão diagnóstica, está mudando o panorama do diagnóstico do câncer de próstata. Agora, nossos pacientes são beneficiados com a técnica recomendada nas principais Diretrizes Médicas Mundiais.
 
-Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para biópsias e cirurgias.**
+Se você necessita realizar uma biópsia de próstata, por favor **[entre em contato conosco](https://web.whatsapp.com/send/?phone=5592982252490)** **– assistente para cirurgias e biópsias de próstata.**

@@ -6,7 +6,7 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd06fe5_older-man-looking-at-male-doctor-in-front-of-him201.jpg
+  url: /assets/images/screenshot-2025-01-13-at-07.17.50.png
   alt: ""
 f_post-summary: Uma breve análise das indicações para nefrectomia total vs.
   parcial, detalhando os procedimentos cirúrgicos, riscos e benefícios da
