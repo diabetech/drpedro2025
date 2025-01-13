@@ -8,9 +8,8 @@ f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700a_mwaqyl0z.jpeg
   alt: null
-f_post-summary: Descrição detalhada da biópsia de próstata via perineal com
-  fusão de imagens em Manaus, incluindo vantagens da técnica, processo do
-  procedimento e benefícios para pacientes.
+f_post-summary: Aprenda sobre a biópsia de próstata pela via perineal com fusão
+  de imagens, exame em que somos os pioneiros na Região Norte.
 layout: "[artigos].html"
 slug: biopsia-de-prostata-transperineal-em-manaus
 tags: artigos
@@ -50,6 +49,10 @@ Esta tecnologia avançada combina imagens de ressonância magnética (RM) com ul
 3. **Redução do número de amostras necessárias;**
 4. **Diminuição de resultados falso-negativos;**
 5. **Melhor planejamento de tratamento.**
+
+Veja o vídeo abaixo para entender melhor.
+
+<iframe width="668" height="376" src="https://www.youtube.com/embed/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6" title="Demonstração real de uma biópsia de próstata com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **O procedimento passo a passo**
 
