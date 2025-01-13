@@ -21,7 +21,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-![Cirurgião e módulo dos braços robóticos]()
+![]()
 
 Estudos científicos nos últimos 20 anos estabeleceram a **prostatectomia robótica como a melhor técnica para o tratamento do câncer de próstata**. Este artigo explica como o procedimento funciona, seus benefícios e o que você pode esperar em relação à recuperação pós-operatória.
 
