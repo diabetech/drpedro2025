@@ -1,16 +1,15 @@
 ---
-title: Os 5 objetivos da prostatectomia para câncer de próstata
+title: "Pentafecta: os 5 objetivos da prostatectomia robótica para câncer de próstata"
 created-on: 2024-12-02T20:46:50.589Z
 updated-on: 2024-12-02T20:48:57.502Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/external/676820d6d8cdd7cccbd07008_aa.jpeg
+  url: /assets/images/screenshot-2025-01-12-at-21.09.09.png
   alt: Paciente pronto para prostectomia.
-f_post-summary: Análise detalhada dos cinco objetivos fundamentais da
-  prostatectomia robótica para câncer de próstata, incluindo benefícios da
-  técnica, taxas de sucesso e importância para qualidade de vida do paciente.
+f_post-summary: Análise dos cinco objetivos fundamentais da prostatectomia
+  robótica para câncer de próstata e por que atingí-los é importante.
 layout: "[artigos].html"
 slug: os-5-objetivos-da-prostatectomia-para-cancer-de-prostata
 tags: artigos
