@@ -6,7 +6,7 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
-  url: /assets/images/screenshot-2025-01-12-at-17.15.25.png
+  url: /assets/images/biopsia.jpg
   alt: Idoso em consulta no urologista
 f_post-summary: Entenda como o diagnóstico precoce é fundamental para o
   tratamento bem-sucedido do câncer de próstata. Conheça os fatores de risco, os
