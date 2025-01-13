@@ -845,234 +845,6 @@ collections:
             label: Text
             name: '-57e1cd6f'
             widget: string
-          - hint: 'Original text: Urologia, key: -3025dab6'
-            label: Text
-            name: '-3025dab6'
-            widget: string
-          - hint: >-
-              Original text: Referência em Urologia Minimamente Invasiva em
-              Manaus, é um Uro-oncologista certificado em cirurgia robótica e
-              professor da Univ. Federal do Amazonas., key: c2beae6
-            label: Text
-            name: c2beae6
-            widget: text
-          - hint: 'Original text: Jornada Profissional, key: 2879de66'
-            label: Text
-            name: 2879de66
-            widget: string
-          - hint: >-
-              Original text: A trajetória do Dr. Pedro Henrique Cabral, key:
-              -3c617b5
-            label: Text
-            name: '-3c617b5'
-            widget: string
-          - hint: >-
-              Original text: Uma jornada de constante evolução e pioneirismo na
-              urologia, da graduação às mais modernas técnicas cirúrgicas.
-              Conheça os principais marcos da trajetória do Dr. Pedro Henrique
-              Cabral., key: -89b4aea
-            label: Text
-            name: '-89b4aea'
-            widget: text
-          - hint: 'Original text: 2006, key: 1774c4'
-            label: Text
-            name: 1774c4
-            widget: string
-          - hint: 'Original text: Início promissor na medicina, key: -3d66bab0'
-            label: Text
-            name: '-3d66bab0'
-            widget: string
-          - hint: >-
-              Original text: Graduação em Medicina pela Universidade Federal do
-              Amazonas., key: -7f1b0ede
-            label: Text
-            name: '-7f1b0ede'
-            widget: string
-          - hint: 'Original text: 2007/2012, key: -44b67c17'
-            label: Text
-            name: '-44b67c17'
-            widget: string
-          - hint: 'Original text: Especialização e reconhecimento, key: 29b21583'
-            label: Text
-            name: 29b21583
-            widget: string
-          - hint: >-
-              Original text: Residência em cirurgia geral e Urologia em São
-              Paulo, key: -474cad2e
-            label: Text
-            name: '-474cad2e'
-            widget: string
-          - hint: >-
-              Original text: Torna-se membro titular da Sociedade Brasileira de
-              Urologia., key: -282ac371
-            label: Text
-            name: '-282ac371'
-            widget: string
-          - hint: >-
-              Original text: Especialização em Laparoscopia e Robótica no
-              Hospital Henri Mondor (França)., key: 3236c939
-            label: Text
-            name: 3236c939
-            widget: string
-          - hint: 'Original text: 2013, key: 1774e0'
-            label: Text
-            name: '1774e0'
-            widget: string
-          - hint: 'Original text: Pioneirismo cirúrgico em Manaus, key: -27ce01cf'
-            label: Text
-            name: '-27ce01cf'
-            widget: string
-          - hint: >-
-              Original text: Realiza a primeira prostatectomia laparoscópica
-              extraperitoneal de Manaus., key: 14fbb775
-            label: Text
-            name: 14fbb775
-            widget: string
-          - hint: 'Original text: 2015, key: 1774e2'
-            label: Text
-            name: '1774e2'
-            widget: string
-          - hint: 'Original text: De aluno a professor, key: 2ea4e3fc'
-            label: Text
-            name: 2ea4e3fc
-            widget: string
-          - hint: >-
-              Original text: Aprovado em concurso público, retorna à sua
-              universidade de origem agora como professor, formando a nova
-              geração de médicos., key: -5d93629b
-            label: Text
-            name: '-5d93629b'
-            widget: text
-          - hint: 'Original text: 2022, key: 1774fe'
-            label: Text
-            name: 1774fe
-            widget: string
-          - hint: 'Original text: Aprimoramento em cirurgia robótica, key: -71a4e2a7'
-            label: Text
-            name: '-71a4e2a7'
-            widget: string
-          - hint: >-
-              Original text: Pós-Graduação em cirurgia robótica pelo Hospital
-              Albert Einstein., key: 6fb055c6
-            label: Text
-            name: 6fb055c6
-            widget: string
-          - hint: 'Original text: 2020, key: 1774fc'
-            label: Text
-            name: 1774fc
-            widget: string
-          - hint: 'Original text: Certificação de excelência, key: 331f340c'
-            label: Text
-            name: 331f340c
-            widget: string
-          - hint: >-
-              Original text: Certificação em cirurgia robótica pela Intuitive e
-              Sociedade Brasileira de Urologia., key: 31d4fa7e
-            label: Text
-            name: 31d4fa7e
-            widget: string
-          - hint: 'Original text: 2023, key: 1774ff'
-            label: Text
-            name: 1774ff
-            widget: string
-          - hint: 'Original text: Inovação na Região Norte, key: 4a97e94e'
-            label: Text
-            name: 4a97e94e
-            widget: string
-          - hint: >-
-              Original text: Torna-se o primeiro a realizar biópsias
-              transperineais com fusão de imagens na Região Norte., key:
-              1cf2755e
-            label: Text
-            name: 1cf2755e
-            widget: text
-          - hint: >-
-              Original text: Estatísticas que demonstram a experiência do Dr.
-              Pedro Henrique Cabral., key: -1f843880
-            label: Text
-            name: '-1f843880'
-            widget: string
-          - hint: >-
-              Original text: Conheça os números que destacam sua experiência:,
-              key: 798e8431
-            label: Text
-            name: '798e8431'
-            widget: string
-          - hint: 'Original text: Anos de formação., key: 59f20508'
-            label: Text
-            name: 59f20508
-            widget: string
-          - hint: 'Original text: 4500, key: 187041'
-            label: Text
-            name: '187041'
-            widget: string
-          - hint: 'Original text: Cirurgias realizadas., key: 2a445a07'
-            label: Text
-            name: 2a445a07
-            widget: string
-          - hint: 'Original text: 1500, key: 171324'
-            label: Text
-            name: '171324'
-            widget: string
-          - hint: 'Original text: Cirurgias minimamente invasivas., key: -7f110bcd'
-            label: Text
-            name: '-7f110bcd'
-            widget: string
-          - hint: >-
-              Original text: Serviços de urologia de alta qualidade, key:
-              365b5d90
-            label: Text
-            name: 365b5d90
-            widget: string
-          - hint: >-
-              Original text: Combinamos as tecnologias atuais com mais de 12
-              anos de experiência em cirurgias urológicas. Da prevenção ao
-              tratamento, oferecemos atendimento personalizado e procedimentos
-              minimamente invasivos realizados com precisão e segurança., key:
-              -3e9107f7
-            label: Text
-            name: '-3e9107f7'
-            widget: text
-          - hint: 'Original text: Como funciona o atendimento, key: -237743f2'
-            label: Text
-            name: '-237743f2'
-            widget: string
-          - hint: >-
-              Original text: Entenda o processo de atendimento especializado,
-              key: -52d07128
-            label: Text
-            name: '-52d07128'
-            widget: string
-          - hint: 'Original text: Da consulta ao acompanhamento, key: 49788de5'
-            label: Text
-            name: 49788de5
-            widget: string
-          - hint: 'Original text: Passo a passo do atendimento, key: 5a8a99fe'
-            label: Text
-            name: 5a8a99fe
-            widget: string
-          - hint: 'Original text: Consulta inicial, key: -2a66c616'
-            label: Text
-            name: '-2a66c616'
-            widget: string
-          - hint: 'Original text: Avaliação completa e personalizada, key: 41829eec'
-            label: Text
-            name: 41829eec
-            widget: string
-          - hint: 'Original text: Procedimentos, key: -7d3b2eca'
-            label: Text
-            name: '-7d3b2eca'
-            widget: string
-          - hint: 'Original text: Realização do procedimento, key: -5181c6ed'
-            label: Text
-            name: '-5181c6ed'
-            widget: string
-          - hint: >-
-              Original text: Cirurgias minimamente invasivas com tecnologia
-              avançada, key: -39051614
-            label: Text
-            name: '-39051614'
-            widget: string
           - hint: 'Original text: Especialidades em urologia, key: 21f6cb02'
             label: Text
             name: 21f6cb02
@@ -1201,6 +973,46 @@ collections:
             label: Text
             name: 1094a6ac
             widget: text
+          - hint: 'Original text: Como funciona o atendimento, key: -237743f2'
+            label: Text
+            name: '-237743f2'
+            widget: string
+          - hint: >-
+              Original text: Entenda o processo de atendimento especializado,
+              key: -52d07128
+            label: Text
+            name: '-52d07128'
+            widget: string
+          - hint: 'Original text: Da consulta ao acompanhamento, key: 49788de5'
+            label: Text
+            name: 49788de5
+            widget: string
+          - hint: 'Original text: Passo a passo do atendimento, key: 5a8a99fe'
+            label: Text
+            name: 5a8a99fe
+            widget: string
+          - hint: 'Original text: Consulta inicial, key: -2a66c616'
+            label: Text
+            name: '-2a66c616'
+            widget: string
+          - hint: 'Original text: Avaliação completa e personalizada, key: 41829eec'
+            label: Text
+            name: 41829eec
+            widget: string
+          - hint: 'Original text: Procedimentos, key: -7d3b2eca'
+            label: Text
+            name: '-7d3b2eca'
+            widget: string
+          - hint: 'Original text: Realização do procedimento, key: -5181c6ed'
+            label: Text
+            name: '-5181c6ed'
+            widget: string
+          - hint: >-
+              Original text: Cirurgias minimamente invasivas com tecnologia
+              avançada, key: -39051614
+            label: Text
+            name: '-39051614'
+            widget: string
           - hint: 'Original text: Perguntas, key: -69d8925d'
             label: Text
             name: '-69d8925d'
@@ -1384,6 +1196,236 @@ collections:
             label: Text
             name: 58ac9afd
             widget: text
+          - hint: >-
+              Original text: Serviços de urologia de alta qualidade, key:
+              365b5d90
+            label: Text
+            name: 365b5d90
+            widget: string
+          - hint: >-
+              Original text: Combinamos as tecnologias atuais com mais de 12
+              anos de experiência em cirurgias urológicas. Da prevenção ao
+              tratamento, oferecemos atendimento personalizado e procedimentos
+              minimamente invasivos realizados com precisão e segurança., key:
+              -3e9107f7
+            label: Text
+            name: '-3e9107f7'
+            widget: text
+          - hint: 'Original text: Urologia, key: -3025dab6'
+            label: Text
+            name: '-3025dab6'
+            widget: string
+          - hint: >-
+              Original text: Referência em Urologia Minimamente Invasiva em
+              Manaus, é um Uro-oncologista certificado em cirurgia robótica e
+              professor da Univ. Federal do Amazonas., key: c2beae6
+            label: Text
+            name: c2beae6
+            widget: text
+          - hint: 'Original text: Jornada Profissional, key: 2879de66'
+            label: Text
+            name: 2879de66
+            widget: string
+          - hint: >-
+              Original text: A trajetória do Dr. Pedro Henrique Cabral, key:
+              -3c617b5
+            label: Text
+            name: '-3c617b5'
+            widget: string
+          - hint: >-
+              Original text: Uma jornada de constante evolução e pioneirismo na
+              urologia, da graduação às mais modernas técnicas cirúrgicas.
+              Conheça os principais marcos da trajetória do Dr. Pedro Henrique
+              Cabral., key: -89b4aea
+            label: Text
+            name: '-89b4aea'
+            widget: text
+          - hint: 'Original text: 2006, key: 1774c4'
+            label: Text
+            name: 1774c4
+            widget: string
+          - hint: 'Original text: Início na Medicina, key: 3048d404'
+            label: Text
+            name: 3048d404
+            widget: string
+          - hint: >-
+              Original text: Graduação em Medicina pela Universidade Federal do
+              Amazonas., key: -7f1b0ede
+            label: Text
+            name: '-7f1b0ede'
+            widget: string
+          - hint: 'Original text: 2006 - 2012, key: -7bcfb832'
+            label: Text
+            name: '-7bcfb832'
+            widget: string
+          - hint: 'Original text: Especialização e reconhecimento, key: 29b21583'
+            label: Text
+            name: 29b21583
+            widget: string
+          - hint: >-
+              Original text: Residência médicas em São Paulo: Cirurgia Geral e
+              Urologia., key: 7034a62
+            label: Text
+            name: 7034a62
+            widget: string
+          - hint: >-
+              Original text: Especialização em Laparoscopia e Robótica na
+              França., key: 32ceaf0d
+            label: Text
+            name: 32ceaf0d
+            widget: string
+          - hint: >-
+              Original text: Torna-se membro titular da Soc. Brasileira de
+              Urologia, key: 542368bb
+            label: Text
+            name: 542368bb
+            widget: string
+          - hint: >-
+              Original text: Tonar-se membro internacional da Associação
+              Européia de Urologia, key: 46c2ed0
+            label: Text
+            name: 46c2ed0
+            widget: string
+          - hint: 'Original text: 2013, key: 1774e0'
+            label: Text
+            name: '1774e0'
+            widget: string
+          - hint: 'Original text: Pioneirismo cirúrgico em Manaus, key: -27ce01cf'
+            label: Text
+            name: '-27ce01cf'
+            widget: string
+          - hint: >-
+              Original text: Realiza a primeira prostatectomia laparoscópica
+              extraperitoneal de Manaus., key: 14fbb775
+            label: Text
+            name: 14fbb775
+            widget: string
+          - hint: 'Original text: 2014, key: 1774e1'
+            label: Text
+            name: '1774e1'
+            widget: string
+          - hint: 'Original text: De aluno a professor, key: 2ea4e3fc'
+            label: Text
+            name: 2ea4e3fc
+            widget: string
+          - hint: >-
+              Original text: Aprovado em concurso público, retorna à sua
+              Universidade de origem agora como professor, formando a nova
+              geração de médicos., key: -1c001e7b
+            label: Text
+            name: '-1c001e7b'
+            widget: text
+          - hint: 'Original text: 2017-2018, key: -fec6fd2'
+            label: Text
+            name: '-fec6fd2'
+            widget: string
+          - hint: 'Original text: Aperfeiçoamento e novos horizontes, key: 3b188423'
+            label: Text
+            name: 3b188423
+            widget: string
+          - hint: >-
+              Original text: Capacitação em Cirurgia Robótica pelo Hospital
+              Sírio Libanês., key: 6ce74331
+            label: Text
+            name: 6ce74331
+            widget: string
+          - hint: >-
+              Original text: Início da parceria com os hospitais Nove de Julho e
+              Sírio-Libanês para operar pacientes de Manaus em São Paulo., key:
+              44df8043
+            label: Text
+            name: 44df8043
+            widget: text
+          - hint: 'Original text: 2019, key: 1774e6'
+            label: Text
+            name: '1774e6'
+            widget: string
+          - hint: 'Original text: Certificação e excelência, key: -486fe3d2'
+            label: Text
+            name: '-486fe3d2'
+            widget: string
+          - hint: >-
+              Original text: Certificação em Cirurgia Robótica pela Intuitive
+              Surgical e pela Sociedade Brasileira de Urologia., key: 255abc02
+            label: Text
+            name: 255abc02
+            widget: text
+          - hint: 'Original text: 2020, key: 1774fc'
+            label: Text
+            name: 1774fc
+            widget: string
+          - hint: 'Original text: Novas técnicas, key: 5f3c4345'
+            label: Text
+            name: 5f3c4345
+            widget: string
+          - hint: >-
+              Original text: Implementação da Microcirurgia Urológica para
+              tratamento de varicocele e reversão de vasectomias no Hospital
+              Check Up em Manaus., key: 3ee74b41
+            label: Text
+            name: 3ee74b41
+            widget: text
+          - hint: 'Original text: 2022, key: 1774fe'
+            label: Text
+            name: 1774fe
+            widget: string
+          - hint: 'Original text: Aprimoramento em cirurgia robótica, key: -71a4e2a7'
+            label: Text
+            name: '-71a4e2a7'
+            widget: string
+          - hint: >-
+              Original text: Pós-Graduação em cirurgia robótica pelo Hospital
+              Albert Einstein., key: 6fb055c6
+            label: Text
+            name: 6fb055c6
+            widget: string
+          - hint: 'Original text: 2023, key: 1774ff'
+            label: Text
+            name: 1774ff
+            widget: string
+          - hint: 'Original text: Inovação na Região Norte, key: 4a97e94e'
+            label: Text
+            name: 4a97e94e
+            widget: string
+          - hint: >-
+              Original text: Torna-se o primeiro a realizar biópsias
+              transperineais com fusão de imagens na Região Norte., key:
+              1cf2755e
+            label: Text
+            name: 1cf2755e
+            widget: text
+          - hint: >-
+              Original text: Estatísticas que demonstram a experiência do Dr.
+              Pedro Henrique Cabral., key: -1f843880
+            label: Text
+            name: '-1f843880'
+            widget: string
+          - hint: >-
+              Original text: Conheça os números que destacam sua experiência:,
+              key: 798e8431
+            label: Text
+            name: '798e8431'
+            widget: string
+          - hint: 'Original text: Anos de formação., key: 59f20508'
+            label: Text
+            name: 59f20508
+            widget: string
+          - hint: 'Original text: 4500, key: 187041'
+            label: Text
+            name: '187041'
+            widget: string
+          - hint: 'Original text: Cirurgias realizadas., key: 2a445a07'
+            label: Text
+            name: 2a445a07
+            widget: string
+          - hint: 'Original text: 1500, key: 171324'
+            label: Text
+            name: '171324'
+            widget: string
+          - hint: 'Original text: Cirurgias minimamente invasivas., key: -7f110bcd'
+            label: Text
+            name: '-7f110bcd'
+            widget: string
           - hint: "Original text: Artigos do Dr.\_Pedro Henrique Cabral, key: 3cf9a5b2"
             label: Text
             name: 3cf9a5b2
@@ -1942,19 +1984,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-7314d2f'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-662526a4'
             widget: object
             fields:
@@ -1969,6 +1998,19 @@ collections:
                 required: false
           - label: Image
             name: 284fdb18
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-7314d2f'
             widget: object
             fields:
               - name: url
