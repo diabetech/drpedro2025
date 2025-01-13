@@ -1,5 +1,5 @@
 ---
-title: Exame de PSA para check up de próstata
+title: Tenho PSA alto. É câncer de próstata?
 created-on: 2024-12-02T18:06:15.012Z
 updated-on: 2024-12-02T18:06:15.012Z
 published-on: 2024-12-22T14:26:25.060Z
