@@ -13,6 +13,8 @@ layout: "[artigos].html"
 slug: o-que-e-urologia-entenda-essa-especialidade-medica-essencial
 tags: artigos
 date: 2025-01-04T00:27:10.035Z
+seo:
+  og:image: /assets/images/screenshot-2025-01-13-at-07.21.01.png
 ---
 Como **uro-oncologista** atuante em Manaus, frequentemente me deparo com dúvidas sobre o que exatamente faz um profissional da minha área. A **urologia** é uma especialidade médica fascinante e abrangente, importante para a saúde de homens e mulheres. Neste artigo, vou explicar de forma clara e objetiva o que é urologia, suas principais áreas de atuação e quando você deve procurar um urologista.
 
