@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A prostatectomia robótica representa um importante avanço no tratamento do** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, combinando precisão cirúrgica com recuperação mais rápida. Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura, com acompanhamento pré e pós-operatório em sua cidade de origem. Este artigo oferece um guia completo sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o planejamento inicial até o acompanhamento a longo prazo.
+A prostatectomia robótica é considerada o tratamento padrão-ouro para o** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, combinando precisão cirúrgica com recuperação mais rápida. Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura, com acompanhamento pré e pós-operatório em sua cidade de origem. Este artigo oferece um guia completo sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o planejamento inicial até o acompanhamento a longo prazo.
 
 ## Como é realizada a prostatectomia robótica
 
