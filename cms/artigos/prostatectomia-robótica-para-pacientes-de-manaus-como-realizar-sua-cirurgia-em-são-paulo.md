@@ -20,48 +20,31 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A prostatectomia robótica é considerada o tratamento padrão-ouro para o** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, combinando precisão cirúrgica com recuperação mais rápida. Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura, com acompanhamento pré e pós-operatório em sua cidade de origem. Este artigo oferece um guia completo sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o planejamento inicial até o acompanhamento a longo prazo.
+A prostatectomia robótica é considerada o tratamento padrão-ouro para o** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, porque agrega um excelente resultado oncológico (90% dos pacientes com câncer de próstata localizado ficam curados) com melhores resultados funcionais, ou seja, maior chance de recuperar a continência urinária e a ereção. Além disso, a recuperação é mais rápida e menos dolorosa.
+
+Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura. **Afirmamos isso pois realizamos cirurgia robótica em São Paulo já há 7 anos**, com excelentes resultados e com a comodidade do acompanhamento antes e depois da cirurgia comigo aqui mesmo em Manaus, junto de familiares e no conforto de casa.
+
+Este artigo oferece um guia completo sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o planejamento inicial até o acompanhamento a longo prazo.
 
 ## Como é realizada a prostatectomia robótica
 
-A **[prostatectomia robótica](https://uroconsult.com.br/artigos/o-que-%C3%A9-uma-prostatectomia-rob%C3%B3tica-para-c%C3%A2ncer-de-pr%C3%B3stata/)** é uma cirurgia minimamente invasiva que remove completamente a próstata e as vesículas seminais através de pequenas incisões no abdome. O procedimento utiliza o sistema robótico Da Vinci, que oferece visão tridimensional em alta definição e instrumentos com movimentos precisos, permitindo uma dissecção meticulosa das estruturas ao redor da próstata.
+A **[prostatectomia robótica](https://uroconsult.com.br/artigos/o-que-%C3%A9-uma-prostatectomia-rob%C3%B3tica-para-c%C3%A2ncer-de-pr%C3%B3stata/)** é uma cirurgia minimamente invasiva que remove completamente a próstata e as vesículas seminais através de pequenas incisões no abdome. O procedimento utiliza o sistema robótico Da Vinci, que oferece visão tridimensional em alta definição e instrumentos com movimentos precisos e sem tremor, permitindo uma dissecção meticulosa das estruturas ao redor da próstata.
 
-Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um console, controlando os braços robóticos que realizam os movimentos dentro do corpo do paciente. Esta tecnologia permite maior precisão na preservação dos feixes neurovasculares responsáveis pela ereção e do esfíncter urinário, essencial para o controle da urina.
+Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um console, controlando os braços robóticos que realizam os movimentos dentro do corpo do paciente. Esta tecnologia **permite maior precisão na preservação dos feixes neurovasculares responsáveis pela ereção e do esfíncter urinário, essencial para o controle da urina**.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/DKwedb3Vbi8"
-    title="Dinâmica de uma cirurgia robótica para câncer de próstata"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div>
+<iframe width="1266" height="712" src="https://www.youtube.com/embed/xMK56iSeqQU" title="Veja como acontece uma cirurgia robótica #cancerderim #cancerdeprostata #cirurgiarobotica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Vantagens da técnica robótica
 
-A cirurgia robótica representa um avanço significativo no tratamento do câncer de próstata, oferecendo benefícios importantes em **[comparação com a cirurgia tradicional](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**:
+A cirurgia robótica representa um avanço significativo no tratamento do câncer de próstata, oferecendo benefícios importantes em **[comparação com a cirurgia convencional por vídeo ou aberta](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**:
 
-* Menor sangramento durante a cirurgia.
+* Aumenta as chances de recuperação da capacidade de segurar urina (continência urinária), que costuma ser mais rápida do que nas outras técnicas cirúrgicas.
+* Aumenta as chances de recuperação da ereção.
 * Redução significativa da dor pós-operatória.
-* Recuperação mais rápida das funções urinárias e sexuais.
-* Alta hospitalar em 24-48 horas.
-* Retorno mais rápido às atividades diárias.
-* Cicatrizes menores e resultado estético superior.
+* Menor sangramento durante a cirurgia.
+* Menor tempo de hospitalização: apenas 48 horas para a maioria dos pacientes.
+* Retorno mais rápido às atividades cotidianas.
+* Menor risco de infecções de infecções de ferias operatórias e hérnias incisionais.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -89,11 +72,29 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 ## Jornada do paciente de Manaus a São Paulo
 
-Desenvolvemos um protocolo específico para **atender pacientes de Manaus**. O processo inicia com uma avaliação detalhada em nosso consultório em Manaus, onde realizamos os exames necessários e discutimos o plano de tratamento. Após confirmar a indicação cirúrgica, nossa equipe auxilia no planejamento da viagem e coordena todo o processo com o hospital em São Paulo.
+Desenvolvemos um protocolo específico para **atender pacientes de Manaus**. O processo inicia com uma consulta presencial para avaliação individualizada do caso em nosso consultório em Manaus.
 
-Para garantir a segurança e eficácia do tratamento, estabelecemos parcerias com hospitais de excelência em São Paulo, como o Hospital Sírio-Libanês e o Hospital Nove de Julho. Nossa assistente dedicada ajuda na organização de todos os aspectos práticos, desde a reserva de hotel até o agendamento de consultas pré-operatórias.
+Nesta consulta, eu avalio seu estado de saúde, condição física e todos os seus exames.
 
-### Cobertura do procedimento
+Em geral, analisamos principalmente 3 exames: o seu PSA, a ressonância nuclear magnética e o resultado da biópsia de próstata.
+
+Apenas após obter todas estas informações, podemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você.
+
+Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar uma data para procedimento em São Paulo e orientá-lo durante todo o processo.
+
+
+
+### Em que hospital de São Paulo farei minha cirurgia?
+
+Para garantir a segurança e eficácia do tratamento, estabelecemos parcerias com hospitais de excelência em São Paulo, como o Hospital Nove de Julho, o Sírio-Libanês e a Beneficente Portuguesa. Nossa assistente dedicada a cirurgias ajuda na organização de todos os aspectos práticos da sua viagem.
+
+A definição do Hospital depende da cobertura do seu plano de saúde e da sua preferência pessoal.
+
+### O meu plano cobre cirurgia robótica?
+
+Todos os planos cobrem a prostatectomia laparoscópica e toda cirurgia robótica é uma laparo
+
+A cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde), então 
 
 Nossa equipe auxilia no processo de autorização da **prostatectomia robótica** junto ao seu plano de saúde, incluindo:
 
