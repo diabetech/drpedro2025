@@ -30,7 +30,7 @@ Este artigo oferece um guia completo sobre como realizar a prostatectomia robót
 
 A **[prostatectomia robótica](https://uroconsult.com.br/artigos/o-que-%C3%A9-uma-prostatectomia-rob%C3%B3tica-para-c%C3%A2ncer-de-pr%C3%B3stata/)** é uma cirurgia minimamente invasiva que remove completamente a próstata e as vesículas seminais através de pequenas incisões no abdome. O procedimento utiliza o sistema robótico Da Vinci, que oferece visão tridimensional em alta definição e instrumentos com movimentos precisos e sem tremor, permitindo uma dissecção meticulosa das estruturas ao redor da próstata.
 
-Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um console, controlando os braços robóticos que realizam os movimentos dentro do corpo do paciente. Esta tecnologia **permite maior precisão na preservação dos feixes neurovasculares responsáveis pela ereção e do esfíncter urinário, essencial para o controle da urina**.
+Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um console, controlando os braços robóticos que realizam os movimentos dentro do corpo do paciente (veja o vídeo para compreender). Esta tecnologia **permite maior precisão na preservação dos feixes neurovasculares, responsáveis pela ereção, e do esfíncter urinário, essencial para o controle da urina**.
 
 <iframe width="1266" height="712" src="https://www.youtube.com/embed/xMK56iSeqQU" title="Veja como acontece uma cirurgia robótica #cancerderim #cancerdeprostata #cirurgiarobotica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**. 
 
-**1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do caso em nosso consultório em Manaus.
+**1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
 
 Nesta consulta, eu avalio seu estado de saúde, sua condição física e todos os seus exames. Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
