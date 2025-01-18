@@ -104,7 +104,13 @@ O plano irá cobrir a sua internação, mas os Hospitais em São Paulo cobram um
 
 A **preparação adequada** é fundamental para o sucesso da prostatectomia robótica.
 
-**4o PASSO.** Depois de agendada a data, você realizará ainda em Manaus os exames de avaliação pré-operatórios, e risco cirúrgico cardiológico.Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia 
+**4o PASSO.** Depois de agendada a data, você realizará ainda em Manaus os exames pré-operatórios e o risco cirúrgico cardiológico.
+
+**5o PASSO.** Retorno comigo com todos os exames e avaliação cardiológica 
+
+
+
+Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia 
 
 Durante este período, nossa equipe fornece orientações detalhadas sobre jejum, medicações e os cuidados necessários.
 
