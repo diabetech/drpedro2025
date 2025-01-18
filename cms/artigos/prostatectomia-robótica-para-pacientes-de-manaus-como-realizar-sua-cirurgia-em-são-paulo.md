@@ -72,17 +72,15 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 ## Jornada do paciente de Manaus a São Paulo
 
-Desenvolvemos um protocolo específico para **atender pacientes de Manaus**. O processo inicia com uma consulta presencial para avaliação individualizada do caso em nosso consultório em Manaus.
+Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**. 
 
-Nesta consulta, eu avalio seu estado de saúde, condição física e todos os seus exames.
+**1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do caso em nosso consultório em Manaus.
 
-Em geral, analisamos principalmente 3 exames: o seu PSA, a ressonância nuclear magnética e o resultado da biópsia de próstata.
+Nesta consulta, eu avalio seu estado de saúde, sua condição física e todos os seus exames. Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
-Apenas após obter todas estas informações, podemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você.
+Apenas após obter todas estas informações, podemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, **se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você**.
 
-Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar uma data para procedimento em São Paulo e orientá-lo durante todo o processo.
-
-
+**2o. PASSO.** Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar uma data para procedimento em São Paulo e orientá-lo durante todo o processo.
 
 ### Em que hospital de São Paulo farei minha cirurgia?
 
@@ -90,11 +88,11 @@ Para garantir a segurança e eficácia do tratamento, estabelecemos parcerias co
 
 A definição do Hospital depende da cobertura do seu plano de saúde e da sua preferência pessoal.
 
-### O meu plano cobre cirurgia robótica?
+### O meu plano cobre a cirurgia robótica?
 
-Todos os planos cobrem a prostatectomia laparoscópica e toda cirurgia robótica é uma laparo
+Os hospitais onde operamos em São Paulo aceitam **SIM** vários bons planos de saúdes. Após a sua consulta, fazemos essa pesquisa de rede credenciada para você, para sabermos qual Hospital aceita seu plano. A técnica robótica consta no roll da ANS (Agência Nacional de Saúde), então 
 
-A cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde), então 
+
 
 Nossa equipe auxilia no processo de autorização da **prostatectomia robótica** junto ao seu plano de saúde, incluindo:
 
