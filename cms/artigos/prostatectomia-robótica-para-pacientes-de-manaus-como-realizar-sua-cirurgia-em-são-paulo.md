@@ -106,7 +106,18 @@ A **preparação adequada** é fundamental para o sucesso da prostatectomia rob�
 
 **4o PASSO.** Depois de agendada a data, você realizará ainda em Manaus os exames pré-operatórios e o risco cirúrgico cardiológico.
 
-**5o PASSO.** Retorno comigo com todos os exames e avaliação cardiológica 
+**5o PASSO.** Retorno comigo com todos os exames e avaliação cardiológica, para esclarecimentos de todos os detalhes para sua viagem, orientações pré-operatórias e para montarmos sua pasta de viagem com tudo aquilo que não pode ser esquecido.
+
+Nesta consulta, orientarei você quanto ao:
+
+* Termo de consentimento para cirurgia.
+* Tempo de jejum pré-operatório, que é de 8 horas.
+* Remédios que necessitem de suspensão antes da cirurgia.
+* Recomendações alimentares para a véspera da cirurgia 
+* Data e hora da internação.
+* Local da internação
+
+
 
 
 
