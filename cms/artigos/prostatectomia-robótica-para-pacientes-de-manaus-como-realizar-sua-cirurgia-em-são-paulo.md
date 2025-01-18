@@ -76,7 +76,7 @@ Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
 **1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
 
-Nesta consulta, eu avalio seu estado de saúde, sua condição física e todos os seus exames. Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
+Nesta consulta, eu avalio seu estado de saúde, condição física e todos os seus exames. Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
 Apenas após obter todas estas informações, podemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, **se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você**.
 
