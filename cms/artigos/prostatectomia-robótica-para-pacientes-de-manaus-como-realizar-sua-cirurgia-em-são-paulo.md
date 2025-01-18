@@ -1,13 +1,13 @@
 ---
 title: "Prostatectomia robótica para pacientes de Manaus: como realizar sua
   cirurgia em São Paulo"
-created-on: 2025-01-14T14:21:20.199Z
-updated-on: 2025-01-14T14:21:20.253Z
+created-on: ""
+updated-on: ""
 published-on: 2025-01-14T14:21:20.285Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/outro-robô-_1_.jpg
+  url: /assets/images/robô-em-preto.jpg
   alt: Robô utilizado para Prostatectomia.
 f_post-summary: Este artigo oferece um guia completo para pacientes de Manaus
   sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o
@@ -121,24 +121,26 @@ Nesta consulta, orientarei você quanto ao:
 
 Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
 
-**6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde.
+**6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde. É obrigatório um acompanhante maior de idade durante a internação.
 
 ### Acompanhamento pós-operatório
 
-O acompanhamento após a cirurgia é estruturado para oferecer segurança e comodidade ao paciente de Manaus. O primeiro retorno ocorre 7 dias após a cirurgia, ainda em São Paulo, para retirada da sonda vesical. Após este procedimento, o paciente está liberado para retornar a Manaus, onde continuarei o acompanhamento.
+O acompanhamento após a cirurgia é estruturado para oferecer segurança e comodidade ao paciente de Manaus.
+
+Após a realização da cirurgia, o paciente geralmente recebe alta no primeiro ou segundo dia de pós-operatório. No quarto ou quinto dia de pós-operatório, você poderá retornar para Manaus. O primeiro retorno ocorre 7 dias após a cirurgia, em Manaus, para retirada da sonda vesical. Nesta consulta, iniciaremos a reabilitação peniana precoce.
 
 As consultas subsequentes seguem um **cronograma específico**:
 
-1. Avaliação presencial em 30 dias para verificar a continência urinária.
-2. Retorno em 60 dias para avaliar a função sexual e o PSA.
-3. Acompanhamento trimestral no primeiro ano.
-4. Consultas semestrais a partir do segundo ano.
+1. Avaliação presencial em 30 dias para avaliar a continência urinária e função sexual inicial.
+2. Retorno em 60 dias para avaliar a função sexual, continência urinária e PSA.
+3. Acompanhamento trimestral nos primeiros 18 meses.
+4. Consultas semestrais a partir de então.
 
 ### Recuperação e retorno às atividades
 
-A recuperação após a prostatectomia robótica é geralmente mais **rápida e confortável** em comparação com a cirurgia tradicional. Na primeira semana, o paciente deve realizar caminhadas leves e manter repouso relativo. Após a retirada da sonda vesical, iniciamos exercícios específicos para fortalecer a musculatura do assoalho pélvico, fundamentais para a recuperação da continência urinária.
+A recuperação após a prostatectomia robótica é geralmente mais **rápida e confortável** em comparação à cirurgia tradicional. Na primeira semana, o paciente deve realizar caminhadas leves e manter repouso relativo. Após a retirada da sonda vesical, iniciamos exercícios específicos para fortalecer a musculatura do assoalho pélvico, para recuperação da continência urinária.
 
-O retorno ao trabalho pode ocorrer em aproximadamente 2 a 3 semanas, dependendo da atividade profissional. Atividades físicas mais intensas são liberadas gradualmente a partir da quarta semana. A recuperação da continência urinária e da função sexual é progressiva, podendo levar alguns meses, variando de acordo com fatores individuais como idade, condição física prévia e extensão da preservação dos feixes neurovasculares durante a cirurgia.
+O retorno ao trabalho pode ocorrer em aproximadamente 2 a 3 semanas, dependendo da atividade profissional. Atividades físicas mais intensas são liberadas gradualmente a partir da terceira semana. A recuperação da continência urinária e da função sexual é progressiva, variando de acordo com fatores individuais como idade, condição física prévia, doenças concomitantes, tamanho do tumor e grau de preservação dos feixes neurovasculares.
 
 ## Acompanhamento contínuo e qualidade de vida
 
