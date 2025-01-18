@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A prostatectomia robótica é considerada o tratamento padrão-ouro para o** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, porque agrega um excelente resultado oncológico (90% dos pacientes com câncer de próstata localizado ficam curados) com melhores resultados funcionais, ou seja, maior chance de recuperar a continência urinária e a ereção. Além disso, a recuperação é mais rápida e menos dolorosa.
+A prostatectomia robótica é a melhor técnica cirúrgica para tratamento do** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, porque agrega um excelente resultado oncológico (90% dos pacientes com câncer de próstata localizado ficam curados) com melhores resultados funcionais, ou seja, maior chance de recuperar a continência urinária e a ereção. Além disso, a recuperação é mais rápida e menos dolorosa.
 
 Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura. **Afirmamos isso pois realizamos cirurgia robótica em São Paulo já há 7 anos**, com excelentes resultados e com a comodidade do acompanhamento antes e depois da cirurgia comigo aqui mesmo em Manaus, junto de familiares e no conforto de casa.
 
@@ -120,8 +120,6 @@ Nesta consulta, orientarei você quanto ao:
 Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
 
 **6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde.
-
-
 
 ### Acompanhamento pós-operatório
 
