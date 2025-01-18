@@ -76,7 +76,7 @@ Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
 **1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
 
-Nesta consulta, avaliaremos seu estado de saúde, condição física e todos os seus exames. 
+Nesta consulta, avaliaremos seu estado de saúde, condição física e os seus exames. 
 
 Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
