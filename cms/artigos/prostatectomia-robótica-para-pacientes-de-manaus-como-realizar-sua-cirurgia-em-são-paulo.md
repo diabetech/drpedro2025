@@ -117,15 +117,11 @@ Nesta consulta, orientarei você quanto ao:
 * Data e hora da internação.
 * Local da internação
 
+Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
+
+**A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde.
 
 
-
-
-Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia 
-
-Durante este período, nossa equipe fornece orientações detalhadas sobre jejum, medicações e os cuidados necessários.
-
-No dia da cirurgia, o paciente é internado pela manhã. O procedimento é realizado sob anestesia geral, com duração média de 2 a 3 horas. Após a cirurgia, o paciente permanece internado por 24 a 48 horas para monitoramento e controle adequado da dor. Durante este período, iniciamos a mobilização precoce e a alimentação gradual.
 
 ### Acompanhamento pós-operatório
 
