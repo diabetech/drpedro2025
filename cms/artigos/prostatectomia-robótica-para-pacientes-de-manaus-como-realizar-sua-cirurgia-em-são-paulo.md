@@ -119,7 +119,7 @@ Nesta consulta, orientarei você quanto ao:
 
 Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
 
-**A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde.
+**6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde.
 
 
 
