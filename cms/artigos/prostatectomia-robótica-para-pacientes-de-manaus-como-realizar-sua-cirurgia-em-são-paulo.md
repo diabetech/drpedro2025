@@ -90,21 +90,23 @@ A definição do Hospital depende da cobertura do seu plano de saúde e da sua p
 
 ### O meu plano cobre a cirurgia robótica?
 
-Os hospitais onde operamos em São Paulo aceitam **SIM** vários bons planos de saúdes. Após a sua consulta, fazemos essa pesquisa de rede credenciada para você, para sabermos qual Hospital aceita seu plano. A técnica robótica consta no roll da ANS (Agência Nacional de Saúde), então 
+Os hospitais onde operamos em São Paulo aceitam **SIM** vários bons planos de saúdes. Após a sua consulta, fazemos essa pesquisa de rede credenciada para você, para sabermos qual Hospital aceita seu plano. 
 
+O plano irá cobrir a sua internação, mas os Hospitais em São Paulo cobram uma taxa para cirurgia robótica, referente ao uso do robô e às pinças robóticas. Isto ocorre porque a cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde) e não tem cobertura completa pelos seguros de saúde. **Este valor é pago diretamente ao Hospital**, no momento da internação já em São Paulo.
 
+**3o PASSO.** Definido o hospital, nossa equipe **agenda uma data** e cuida de todo o processo de autorização d**a prostatectomia robótica** junto ao seu plano de saúde, incluindo:
 
-Nossa equipe auxilia no processo de autorização da **prostatectomia robótica** junto ao seu plano de saúde, incluindo:
-
-* Verificação da cobertura do procedimento.
-* Preparação dos exames necessários.
-* Orientação sobre custos não cobertos pelo convênio.
-* Assistência na obtenção de autorizações prévias.
-* Esclarecimento sobre taxas hospitalares e honorários médicos.
+* Envio da documentação para autorizar a cirurgia.
+* Esclarecimento sobre honorários médicos.
+* Esclarecimento sobre reembolso dos honorários médicos.
 
 ### Preparação para a cirurgia
 
-A **preparação adequada** é fundamental para o sucesso da prostatectomia robótica. Recomendo que o paciente chegue a São Paulo com 2 dias de antecedência para realizar os exames pré-operatórios e a consulta pré-anestésica. Durante este período, nossa equipe fornece orientações detalhadas sobre jejum, medicações e os cuidados necessários.
+A **preparação adequada** é fundamental para o sucesso da prostatectomia robótica.
+
+**4o PASSO.** Depois de agendada a data, você realizará ainda em Manaus os exames de avaliação pré-operatórios, e risco cirúrgico cardiológico.Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia 
+
+Durante este período, nossa equipe fornece orientações detalhadas sobre jejum, medicações e os cuidados necessários.
 
 No dia da cirurgia, o paciente é internado pela manhã. O procedimento é realizado sob anestesia geral, com duração média de 2 a 3 horas. Após a cirurgia, o paciente permanece internado por 24 a 48 horas para monitoramento e controle adequado da dor. Durante este período, iniciamos a mobilização precoce e a alimentação gradual.
 
