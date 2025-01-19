@@ -90,6 +90,12 @@ Apenas após esta avaliação minuciosa, poderedemos definir se existe indicaç�
 
 Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar fazer a pesquisa da rende credenciada. Ela estará dedicada a orientá-lo durante todo o processo.
 
+##### O meu plano cobre a cirurgia robótica?
+
+Os hospitais onde operamos em São Paulo aceitam **SIM** vários bons planos de saúdes. Após a sua consulta, fazemos essa pesquisa de rede credenciada para você, para sabermos qual Hospital aceita seu plano. 
+
+O plano irá cobrir a sua internação, mas os Hospitais em São Paulo cobram uma taxa para cirurgia robótica, referente ao uso do robô e às pinças robóticas. Isto ocorre porque a cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde) e não tem cobertura completa pelos seguros de saúde. **Este valor é pago diretamente ao Hospital**, no momento da internação em São Paulo.
+
 ### **3a. ETAPA**
 
 ##### Em que hospital de São Paulo farei minha cirurgia?
@@ -97,12 +103,6 @@ Depois disso, você receberá um estimativa do investimento financeiro necessár
 Para garantir a segurança e eficácia do tratamento, estabelecemos parcerias com hospitais de excelência em São Paulo, como o Hospital Nove de Julho, o Sírio-Libanês e a Beneficente Portuguesa. 
 
 A definição do Hospital depende da cobertura do seu plano de saúde e da sua preferência pessoal. Nossa assistente dedicada a cirurgias ajuda na organização de todos os aspectos práticos da sua viagem.
-
-##### O meu plano cobre a cirurgia robótica?
-
-Os hospitais onde operamos em São Paulo aceitam **SIM** vários bons planos de saúdes. Após a sua consulta, fazemos essa pesquisa de rede credenciada para você, para sabermos qual Hospital aceita seu plano. 
-
-O plano irá cobrir a sua internação, mas os Hospitais em São Paulo cobram uma taxa para cirurgia robótica, referente ao uso do robô e às pinças robóticas. Isto ocorre porque a cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde) e não tem cobertura completa pelos seguros de saúde. **Este valor é pago diretamente ao Hospital**, no momento da internação em São Paulo.
 
 **3o PASSO.** Definido o hospital, nossa equipe **agenda uma data** e cuida de todo o processo de autorização d**a prostatectomia robótica** junto ao seu plano de saúde, incluindo:
 
