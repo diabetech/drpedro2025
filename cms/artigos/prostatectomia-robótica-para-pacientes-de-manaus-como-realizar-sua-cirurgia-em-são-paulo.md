@@ -38,19 +38,19 @@ Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um
 
 A cirurgia robótica representa um avanço significativo no tratamento do câncer de próstata, oferecendo benefícios em **[comparação com a cirurgia convencional por vídeo ou aberta](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**:
 
-* Aumenta as chances de recuperação da capacidade de segurar urina (continência urinária), que costuma ser mais rápida do que nas outras técnicas cirúrgicas.
-* Aumenta as chances de recuperação da ereção.
+* Aumenta as chances e a velocidade de recuperação da capacidade de segurar urina (continência urinária).
+* Melhora as chances de recuperação da ereção.
 * Redução significativa da dor pós-operatória.
 * Menor sangramento durante a cirurgia.
 * Menor tempo de hospitalização: apenas 48 horas para a maioria dos pacientes.
 * Retorno mais rápido às atividades cotidianas.
-* Menor risco de infecções de infecções de ferias operatórias e hérnias incisionais.
+* Menor risco de infecções de infecções de feridas operatórias e hérnias incisionais.
 
 ## Jornada do paciente de Manaus a São Paulo
 
 Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
-![](/assets/images/fluxograma-jornada-2.png)
+![](/assets/images/fluxograma-final.jpg)
 
 ### **1a. ETAPA**
 
