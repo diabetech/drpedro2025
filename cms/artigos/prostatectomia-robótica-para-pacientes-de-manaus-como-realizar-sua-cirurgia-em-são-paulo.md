@@ -118,7 +118,7 @@ A **preparação adequada** é fundamental para o sucesso da prostatectomia rob�
 
 O passo seguinte será passar mais uma vez comigo para a **consulta pré-operatória final**, cerca de 7 dias antes da sua viagem para São Paulo.
 
-Nesta consulta, leve todos os exames e avaliação cardiológica, para esclarecimentos de **todos** os detalhes para sua viagem e orientações pré-operatórias minuciosas. Neste momento, montaremos sua pasta de viagem com tudo aquilo que não pode ser esquecido.
+Nesta consulta, leve todos os exames e avaliação cardiológica, para esclarecimentos de **todos** os detalhes para sua viagem e orientações pré-operatórias minuciosas. Montaremos sua pasta de viagem com tudo aquilo que não pode ser esquecido.
 
 Nesta momento, orientarei você quanto ao:
 
