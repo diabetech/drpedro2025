@@ -36,7 +36,7 @@ Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um
 
 ### Vantagens da técnica robótica
 
-A cirurgia robótica representa um avanço significativo no tratamento do câncer de próstata, oferecendo benefícios importantes em **[comparação com a cirurgia convencional por vídeo ou aberta](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**:
+A cirurgia robótica representa um avanço significativo no tratamento do câncer de próstata, oferecendo benefícios em **[comparação com a cirurgia convencional por vídeo ou aberta](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)**:
 
 * Aumenta as chances de recuperação da capacidade de segurar urina (continência urinária), que costuma ser mais rápida do que nas outras técnicas cirúrgicas.
 * Aumenta as chances de recuperação da ereção.
@@ -108,8 +108,6 @@ Nesta momento, orientarei você quanto ao:
 * Recomendações alimentares para a véspera da cirurgia.
 * Data e hora da internação.
 * Local da internação.
-
-
 
 ### **5a. ETAPA**
 
