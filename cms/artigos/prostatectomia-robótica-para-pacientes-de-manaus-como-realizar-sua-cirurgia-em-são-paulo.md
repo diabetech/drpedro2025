@@ -104,7 +104,7 @@ Para garantir a segurança e eficácia do tratamento, estabelecemos parcerias co
 
 A definição do Hospital depende da cobertura do seu plano de saúde e da sua preferência pessoal. Nossa assistente dedicada a cirurgias ajuda na organização de todos os aspectos práticos da sua viagem.
 
-**3o PASSO.** Definido o hospital, nossa equipe **agenda uma data** e cuida de todo o processo de autorização d**a prostatectomia robótica** junto ao seu plano de saúde, incluindo:
+Definido o hospital, será agendada a data da sua cirurgia e você poderá providenciar as passagens aéreas e hospedagem. Nossa equipe cuidará do processo de autorização da prostatectomia robótica junto ao seu plano de saúde, incluindo:
 
 * Envio da documentação para autorizar a cirurgia.
 * Esclarecimento sobre honorários médicos.
