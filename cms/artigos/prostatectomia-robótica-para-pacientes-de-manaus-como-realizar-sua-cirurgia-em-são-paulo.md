@@ -110,7 +110,7 @@ Definido o hospital, será agendada a data da sua cirurgia e você poderá provi
 * Esclarecimento sobre honorários médicos.
 * Esclarecimento sobre reembolso dos honorários médicos.
 
-### **3a. ETAPA**
+### **4a. ETAPA**
 
 ##### Preparação para a cirurgia
 
