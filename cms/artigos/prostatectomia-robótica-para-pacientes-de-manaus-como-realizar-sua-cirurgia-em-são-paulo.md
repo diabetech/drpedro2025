@@ -76,7 +76,7 @@ Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
 ![](/assets/images/fluxograma-jornada-2.png)
 
-**1o. PASSO**
+### **1a. ETAPA**
 
 O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
 
@@ -84,9 +84,11 @@ Nesta consulta, avaliaremos seu estado de saúde, condição física e os seus e
 
 Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
-Apenas após obter todas estas informações, podemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, **se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você**.
+### **2a. ETAPA**
 
-**2o. PASSO.** Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar uma data para procedimento em São Paulo e orientá-lo durante todo o processo.
+Apenas após esta avaliação minuciosa, poderedemos definir se existe indicação de prostatectomia robótica no seu caso, ou seja, **se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você**.
+
+Depois disso, você receberá um estimativa do investimento financeiro necessário e, caso você decida operar com nosso time, nossa concierge irá agendar uma data para procedimento em São Paulo e orientá-lo durante todo o processo.
 
 ### Em que hospital de São Paulo farei minha cirurgia?
 
