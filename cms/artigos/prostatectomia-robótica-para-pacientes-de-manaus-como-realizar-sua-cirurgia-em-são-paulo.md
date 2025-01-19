@@ -72,9 +72,13 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 ## Jornada do paciente de Manaus a São Paulo
 
-Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**. 
+Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
-**1o. PASSO**. O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
+![](/assets/images/fluxograma-jornada-2.png)
+
+**1o. PASSO**
+
+O processo inicia com uma consulta presencial para avaliação individualizada do seu caso em nosso consultório em Manaus.
 
 Nesta consulta, avaliaremos seu estado de saúde, condição física e os seus exames. 
 
