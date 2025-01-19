@@ -137,17 +137,17 @@ Nesta momento, orientarei você quanto ao:
 
 ### **5a. ETAPA**
 
-##### Quant
+##### Quando vou internar?
 
+A internação em geral ocorre **na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde. É obrigatório um acompanhante maior de idade durante a internação.
 
-
-**6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde. É obrigatório um acompanhante maior de idade durante a internação.
-
-### Acompanhamento pós-operatório
+##### Quanto tempo ficarei internado?
 
 O acompanhamento após a cirurgia é estruturado para oferecer segurança e comodidade ao paciente de Manaus.
 
-Após a realização da cirurgia, o paciente geralmente recebe alta no primeiro ou segundo dia de pós-operatório. No quarto ou quinto dia de pós-operatório, você poderá retornar para Manaus. O primeiro retorno ocorre 7 dias após a cirurgia, em Manaus, para retirada da sonda vesical. Nesta consulta, iniciaremos a reabilitação peniana precoce.
+Após a realização da cirurgia, o paciente geralmente recebe alta no primeiro ou segundo dia de pós-operatório. Depois disso, descansa no hotel por 48 horas e inicia caminhadas em superfície plana. No quarto ou quinto dia de pós-operatório, você poderá retornar para Manaus. O primeiro retorno ocorre 7 dias após a cirurgia, em Manaus, para retirada da sonda vesical. Nesta consulta, iniciaremos a reabilitação peniana precoce.
+
+### Acompanhamento pós-operatório
 
 As consultas subsequentes seguem um **cronograma específico**:
 
