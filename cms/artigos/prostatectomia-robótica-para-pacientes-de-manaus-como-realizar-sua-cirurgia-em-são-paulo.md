@@ -110,6 +110,12 @@ Definido o hospital, será agendada a data da sua cirurgia e você poderá provi
 * Esclarecimento sobre honorários médicos.
 * Esclarecimento sobre reembolso dos honorários médicos.
 
+**Quanto tempo antes da cirurgia devo chegar em São Paulo?**
+
+Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
+
+
+
 ### **4a. ETAPA**
 
 ##### Preparação para a cirurgia
@@ -129,7 +135,13 @@ Nesta momento, orientarei você quanto ao:
 * Data e hora da internação.
 * Local da internação.
 
-Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
+
+
+### **5a. ETAPA**
+
+##### Quant
+
+
 
 **6o PASSO. A internação em geral ocorre na véspera da cirurgia à noite quando a cirurgia é de manhã cedo**, ou no dia cirurgia quando a cirurgia ocorrer de tarde. É obrigatório um acompanhante maior de idade durante a internação.
 
