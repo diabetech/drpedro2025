@@ -112,9 +112,7 @@ Definido o hospital, será agendada a data da sua cirurgia e você poderá provi
 
 **Quanto tempo antes da cirurgia devo chegar em São Paulo?**
 
-Recomendo que o paciente chegue a São Paulo no dia anterior à cirurgia.
-
-
+Recomendo sempre que o paciente chegue a São Paulo na véspera da cirurgia.
 
 ### **4a. ETAPA**
 
