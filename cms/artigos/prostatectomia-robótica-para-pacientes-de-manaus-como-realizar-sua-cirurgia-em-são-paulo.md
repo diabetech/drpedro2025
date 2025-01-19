@@ -110,13 +110,13 @@ Definido o hospital, será agendada a data da sua cirurgia e você poderá provi
 * Esclarecimento sobre honorários médicos.
 * Esclarecimento sobre reembolso dos honorários médicos.
 
-### Preparação para a cirurgia
+### **3a. ETAPA**
 
-A **preparação adequada** é fundamental para o sucesso da prostatectomia robótica.
+##### Preparação para a cirurgia
 
-**4o PASSO.** Depois de agendada a data, você realizará ainda em Manaus os exames pré-operatórios e o risco cirúrgico cardiológico.
+A **preparação adequada** é fundamental para o sucesso da prostatectomia robótica. Depois de agendada a data, você realizará ainda em Manaus os exames pré-operatórios e o risco cirúrgico cardiológico.
 
-**5o PASSO.** Retorno comigo com todos os exames e avaliação cardiológica, para esclarecimentos de todos os detalhes para sua viagem, orientações pré-operatórias e para montarmos sua pasta de viagem com tudo aquilo que não pode ser esquecido.
+Retorno comigo com todos os exames e avaliação cardiológica, para esclarecimentos de todos os detalhes para sua viagem, orientações pré-operatórias e para montarmos sua pasta de viagem com tudo aquilo que não pode ser esquecido.
 
 Nesta consulta, orientarei você quanto ao:
 
