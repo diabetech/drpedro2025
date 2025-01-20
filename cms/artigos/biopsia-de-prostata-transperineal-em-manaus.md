@@ -19,7 +19,7 @@ date: 2025-01-09T18:46:47.304Z
 
 ## A importância da biópsia de próstata
 
-A **[próstata](https://uroconsult.com.br/prostata/)** é uma glândula do sistema genital masculino fundamental para reprodução por produzir componentes do sêmen.  o órgão onde ocorre o principal câncer no homem: o câncer de próstata, que acomete milhares de brasileiros anualmente. Segundo dados do Instituto Nacional de Câncer (INCA), cerca de 65.840 novos casos de câncer de próstata ocorrem por ano no Brasil.
+A **[próstata](https://uroconsult.com.br/prostata/)** é uma glândula do sistema genital masculino fundamental para reprodução por produzir componentes do sêmen.  o órgão onde ocorre o câncer mais comum no homem: o câncer de próstata, que acomete milhares de brasileiros anualmente. Segundo dados do Instituto Nacional de Câncer (INCA), cerca de 65.840 novos casos de câncer de próstata ocorrem por ano no Brasil.
 
 Neste cenário, **a biópsia de próstata é o único procedimento capaz de diagnosticar precocemente o câncer de próstata**. Tradicionalmente realizada pela via transretal (ou seja, por dentro do ânus), a biópsia evoluiu, e a abordagem pela via perineal (pela pele) é considerada atualmente a melhor opção, oferecendo maior segurança e eficácia diagnóstica.
 
