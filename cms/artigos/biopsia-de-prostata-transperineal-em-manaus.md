@@ -15,7 +15,7 @@ slug: biopsia-de-prostata-transperineal-em-manaus
 tags: artigos
 date: 2025-01-09T18:46:47.304Z
 ---
-**Neste artigo, vamos explicar sobre a biópsia de próstata pela via perineal com fusão de imagens, uma técnica inovadora implementada em Manaus pelo nosso grupo. Ela está revolucionando o diagnóstico do câncer de próstata na cidade. Como Urologista especializado neste procedimento, compartilharei informações importantes sobre esta abordagem mais segura e eficaz.**
+**Neste artigo, abordaremos a biópsia de próstata pela via perineal com fusão de imagens, uma técnica inovadora implementada em Manaus pelo nosso grupo. Como Urologista especializado neste procedimento, compartilharei informações importantes sobre esta técnica de biópsia mais segura e eficaz.**
 
 ## A importância da biópsia de próstata
 
