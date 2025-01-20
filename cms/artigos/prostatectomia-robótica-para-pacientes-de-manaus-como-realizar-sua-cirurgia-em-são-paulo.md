@@ -32,7 +32,29 @@ A **[prostatectomia robótica](https://uroconsult.com.br/artigos/o-que-%C3%A9-um
 
 Durante a cirurgia, que dura entre 2 e 3 horas, o cirurgião opera sentado em um console, controlando os braços robóticos que realizam os movimentos dentro do corpo do paciente (veja o vídeo para compreender). Esta tecnologia **permite maior precisão na preservação dos feixes neurovasculares, responsáveis pela ereção, e do esfíncter urinário, essencial para o controle da urina**.
 
-<iframe width="1266" height="712" src="https://www.youtube.com/embed/xMK56iSeqQU" title="Veja como acontece uma cirurgia robótica #cancerderim #cancerdeprostata #cirurgiarobotica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/xMK56iSeqQU"
+    title="Veja como acontece uma cirurgia robótica #cancerderim #cancerdeprostata #cirurgiarobotica"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### Vantagens da técnica robótica
 
