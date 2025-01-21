@@ -6,7 +6,7 @@ published-on: 2024-12-26T05:17:16.017Z
 f_destaque: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/robô-bp-em-verde.jpg
+  url: /assets/images/biópsia-de-próstata-2-1-.jpg
   alt: Cirurgia robótica para câncer de próstata
 f_post-summary: Análise das vantagens e desvantagens da cirurgia robótica para
   câncer de próstata, incluindo benefícios em relação à qualidade de vida
