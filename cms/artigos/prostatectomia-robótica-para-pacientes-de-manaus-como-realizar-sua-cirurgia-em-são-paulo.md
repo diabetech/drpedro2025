@@ -7,7 +7,7 @@ published-on: 2025-01-14T14:21:20.285Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/fluxograma-versão-final.png
+  url: /assets/images/outro-robô-_1_.jpg
   alt: Robô utilizado para Prostatectomia.
 f_post-summary: Este artigo oferece um guia completo para pacientes de Manaus
   sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o
@@ -72,7 +72,7 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
-![](/assets/images/outro-robô-_1_.jpg)
+![](/assets/images/fluxograma-versão-final.png)
 
 ### **1**ª **ETAPA**
 
