@@ -7,7 +7,7 @@ published-on: 2025-01-14T14:21:20.285Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/robô-em-preto.jpg
+  url: /assets/images/fluxograma-versão-final.png
   alt: Robô utilizado para Prostatectomia.
 f_post-summary: Este artigo oferece um guia completo para pacientes de Manaus
   sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o
@@ -72,15 +72,15 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
-![](/assets/images/fluxograma-final.jpg)
+![](/assets/images/outro-robô-_1_.jpg)
 
-### **1a. ETAPA**
+### **1**ª **ETAPA**
 
 Realizamos uma **consulta presencial** para avaliação individualizada do seu caso em nosso consultório em Manaus. Nesta consulta, avaliaremos seu estado de saúde, condição física e os seus exames. 
 
 Existem 3 exames principais: [o PSA](https://uroconsult.com.br/artigos/psa-elevado-causas-comuns-alem-do-cancer-de-prostata/), a ressonância nuclear magnética e o resultado da [biópsia de próstata](https://uroconsult.com.br/artigos/quais-sao-os-tipos-de-biopsia-de-prostata/).
 
-### **2a. ETAPA**
+### **2**ª **ETAPA**
 
 Apenas após esta avaliação minuciosa, poderemos definir se existe **indicação de prostatectomia robótica** no seu caso, ou seja, **se a prostatectomia radical robótica ira beneficiá-lo e é o melhor tratamento para você**.
 
@@ -92,7 +92,7 @@ Os hospitais onde operamos em São Paulo aceitam vários bons planos de saúdes.
 
 O plano irá cobrir a sua internação, mas os Hospitais em São Paulo cobram uma taxa para cirurgia robótica, referente ao uso do robô e às pinças robóticas. Isto ocorre porque a cirurgia robótica não consta no roll da ANS (Agência Nacional de Saúde) e não tem cobertura completa pelos seguros de saúde. **Este valor é pago diretamente ao Hospital**, no momento da internação em São Paulo.
 
-### **3a. ETAPA**
+### **3**ª **ETAPA**
 
 ##### Em que hospital de São Paulo farei minha cirurgia?
 
@@ -110,7 +110,7 @@ Definido o hospital, será agendada **a data da sua cirurgia** e você poderá p
 
 Recomendo sempre que o paciente chegue a São Paulo na véspera da cirurgia.
 
-### **4a. ETAPA**
+### **4**ª **ETAPA**
 
 ##### Preparação para a cirurgia
 
@@ -129,7 +129,7 @@ Nesta momento, orientarei você quanto ao:
 * Data e hora da internação.
 * Local da internação.
 
-### **5a. ETAPA**
+### **5**ª **ETAPA**
 
 ##### Quando vou internar?
 
