@@ -21,7 +21,29 @@ Após cirurgias para **[cálculos urinários](https://uroconsult.com.br/artigos/
 
 O duplo J é colocado em benefício do paciente, para evitar dor no pós-operatório e outras complicações como estenose (obstrução por cicatrização anômala) do ureter. Porém, por ser um corpo estranho, pode causar alguns sintomas adversos como dor ao urinar, urgência miccional (necessidade de correr para urinar), dor nas costas ao urinar, frequência miccional elevada e sangramento na urina. Estes sintomas costumam ser leves e são aliviados com os remédios prescritos no pós-operatório.‍
 
-<iframe width="668" height="376" src="https://www.youtube.com/embed/sCCm_rZhD9A?list=PL2N9o0WBU1CblocDYlfT7XmIvop6F2JL0" title="Cateter duplo J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/sCCm_rZhD9A"
+    title="Cateter duplo J"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## Por quanto tempo o duplo J fica dentro do corpo após a cirurgia?
 

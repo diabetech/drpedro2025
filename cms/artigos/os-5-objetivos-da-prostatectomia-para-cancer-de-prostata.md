@@ -6,7 +6,7 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/screenshot-2025-01-12-at-21.09.09.png
+  url: /assets/images/screenshot-2025-01-13-at-12.47.41.png
   alt: Paciente pronto para prostectomia.
 f_post-summary: Análise dos cinco objetivos fundamentais da prostatectomia
   robótica para câncer de próstata e por que atingí-los é importante.
