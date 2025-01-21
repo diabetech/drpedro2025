@@ -6,7 +6,7 @@ published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
-  url: /assets/images/biópsia-de-próstata-2.jpg
+  url: /assets/images/biópsia-de-próstata-2-1-.jpg
   alt: Paciente sendo consultado no urologista.
 f_post-summary: Guia informativo sobre biópsia de próstata transperineal,
   abordando procedimento, anestesia, recuperação e medidas para reduzir
