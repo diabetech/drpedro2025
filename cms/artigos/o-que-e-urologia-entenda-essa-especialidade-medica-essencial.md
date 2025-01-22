@@ -5,7 +5,7 @@ updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_main-image:
-  url: /assets/images/image-1-.jpeg
+  url: ""
   alt: Dr. Pedro Henrique Cabral | Urologista
 f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
   por um Urologista.
@@ -65,7 +65,7 @@ Quanto aos tratamentos, eles variam desde abordagens medicamentosas até interve
 
 1. **Medicamentos**: para tratar infecções ou controlar sintomas da HPB (crescimento benigno), por exemplo.
 2. **Litotripsia**: procedimento para quebrar cálculos renais.
-3. **Cirurgias minimamente invasivas**: como a **[prostatectomia robótica para câncer de próstata](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)**, [cirurgia com laser para cálculos renais](https://uroconsult.com.br/rim/) ou [cirurgia laparoscópica para câncer de rim](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia---como-e-feita/).
+3. **Cirurgias minimamente invasivas**: como a **[prostatectomia robótica para câncer de próstata](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)**, **[cirurgia com laser para cálculos renais](https://uroconsult.com.br/rim/)** ou **[cirurgia laparoscópica para câncer de rim](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia---como-e-feita/)**.
 4. **Sling feminino**: para tratar incontinência urinária
 5. **Tratamentos para disfunção erétil**: desde medicamentos orais até próteses penianas
 
