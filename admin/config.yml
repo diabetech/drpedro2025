@@ -1515,6 +1515,30 @@ collections:
             name: '-2b76429'
             widget: string
           - hint: >-
+              Original text: Especialista com formação internacional em Cirurgia
+              Robótica e Urologia Minimamente Invasiva., key: -4197c44c
+            label: Text
+            name: '-4197c44c'
+            widget: text
+          - hint: >-
+              Original text: Av. Mario Ypiranga 315, The Office, sala 1005.,
+              key: -6ad249bf
+            label: Text
+            name: '-6ad249bf'
+            widget: string
+          - hint: 'Original text: Cirurgias e biópsias de próstata, key: 2cc98e05'
+            label: Text
+            name: 2cc98e05
+            widget: string
+          - hint: 'Original text: Links, key: 4605f99'
+            label: Text
+            name: 4605f99
+            widget: string
+          - hint: 'Original text: Canal no Youtube, key: -3cb95af7'
+            label: Text
+            name: '-3cb95af7'
+            widget: string
+          - hint: >-
               Original text: Seja bem-vindo ao nosso consultório de Urologia em
               Manaus, projetado para atender você com excelência., key:
               -244254e1
@@ -1597,30 +1621,6 @@ collections:
               key: 4ae30052
             label: Text
             name: 4ae30052
-            widget: string
-          - hint: >-
-              Original text: Especialista com formação internacional em Cirurgia
-              Robótica e Urologia Minimamente Invasiva., key: -4197c44c
-            label: Text
-            name: '-4197c44c'
-            widget: text
-          - hint: >-
-              Original text: Av. Mario Ypiranga 315, The Office, sala 1005.,
-              key: -6ad249bf
-            label: Text
-            name: '-6ad249bf'
-            widget: string
-          - hint: 'Original text: Cirurgias e biópsias de próstata, key: 2cc98e05'
-            label: Text
-            name: 2cc98e05
-            widget: string
-          - hint: 'Original text: Links, key: 4605f99'
-            label: Text
-            name: 4605f99
-            widget: string
-          - hint: 'Original text: Canal no Youtube, key: -3cb95af7'
-            label: Text
-            name: '-3cb95af7'
             widget: string
       - label: Links
         name: links
@@ -1739,10 +1739,6 @@ collections:
             label: Link
             name: 58c71aac
             widget: string
-          - hint: 'Original link: #saibamais, key: -43b282ab'
-            label: Link
-            name: '-43b282ab'
-            widget: string
           - hint: 'Original link: https://g.co/kgs/YrwgpqR, key: 76bd86a3'
             label: Link
             name: 76bd86a3
@@ -1775,6 +1771,10 @@ collections:
           - hint: 'Original link: https://uroconsult.com.br/artigos/, key: -14b5af49'
             label: Link
             name: '-14b5af49'
+            widget: string
+          - hint: 'Original link: #saibamais, key: -43b282ab'
+            label: Link
+            name: '-43b282ab'
             widget: string
       - label: Images
         name: images
@@ -2188,6 +2188,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-44c68fe5'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-760f7546'
             widget: object
             fields:
@@ -2215,19 +2228,6 @@ collections:
                 required: false
           - label: Image
             name: 1f0189c6
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-44c68fe5'
             widget: object
             fields:
               - name: url
