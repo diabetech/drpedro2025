@@ -62,4 +62,4 @@ Estes sintomas são normalmente pouco intensos e passageiros. **A maioria dos pa
 
 A **biópsia de próstata via perineal com fusão de imagens** representa um avanço significativo para o diagnóstico do câncer de próstata, oferecendo maior precisão e conforto aos nossos pacientes. Realizamos biópsias sempre com a presença de um anestesista e uso de sedação, minimizando dor, ansiedade e desconforto.
 
-Se você precisa realizar uma biópsia de próstata e está em Manaus ou região, fale diretamente com nossa assistente especializada em biópsias de próstata [clicando aqui](https://api.whatsapp.com/send?phone=5592982252490) ou ligue para (92) 98225-2490.
+Se você precisa realizar uma biópsia de próstata e está em Manaus ou região, fale diretamente com nossa assistente especializada em biópsias de próstata** [clicando aqui](https://api.whatsapp.com/send?phone=5592982252490)** ou ligue para (92) 98225-2490.
