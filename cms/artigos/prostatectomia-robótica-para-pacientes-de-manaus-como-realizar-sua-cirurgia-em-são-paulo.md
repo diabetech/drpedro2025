@@ -7,7 +7,7 @@ published-on: 2025-01-14T14:21:20.285Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/robô-em-preto-1-1-1-.jpg
+  url: /assets/images/outro-robô-2-1-.jpeg
   alt: Robô utilizado para Prostatectomia.
 f_post-summary: Este artigo oferece um guia completo para pacientes de Manaus
   sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o
@@ -149,6 +149,30 @@ As consultas subsequentes seguem um **cronograma específico**:
 2. Retorno em 60 dias para avaliar a função sexual, continência urinária e PSA.
 3. Acompanhamento trimestral nos primeiros 18 meses.
 4. Consultas semestrais a partir de então.
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/j2zaLQv1bWo"
+    title="Os 5 objetivos da prostatectomia para câncer de próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### Recuperação e retorno às atividades
 
