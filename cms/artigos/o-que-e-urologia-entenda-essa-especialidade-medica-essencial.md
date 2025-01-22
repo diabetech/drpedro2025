@@ -5,7 +5,7 @@ updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_main-image:
-  url: ""
+  url: /assets/images/image-1-.jpeg
   alt: Dr. Pedro Henrique Cabral | Urologista
 f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
   por um Urologista.
