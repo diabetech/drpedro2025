@@ -111,7 +111,7 @@ O diagnóstico diferencial é fundamental, pois outros problemas de saúde podem
 
 A gonorréia pode afetar várias partes do corpo **além da região genital**. O sexo oral desprotegido pode resultar em infecção da garganta (faringite gonocócica), que frequentemente é assintomática, mas pode transmitir a bactéria. Infecções retais e oculares também são possíveis, cada uma com seus sintomas específicos e necessidades de tratamento particulares.
 
-## Quando procurar atendimento médico
+### Quando procurar atendimento médico
 
 **É essencial buscar avaliação médica nas seguintes situações:**
 
