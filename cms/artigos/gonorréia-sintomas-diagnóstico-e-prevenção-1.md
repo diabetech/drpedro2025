@@ -16,7 +16,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A gonorréia é uma das **infecções sexualmente transmissíveis (ISTs)** mais comuns, causada pela bactéria *Neisseria gonorrhoeae*. De acordo com dados recentes dos[Centros de Controle e Prevenção de Doenças](https://www.cdc.gov/index.html), mais de um milhão de novos casos são registrados anualmente. Este artigo explica os principais sintomas, formas de diagnóstico e a importância do tratamento precoce desta infecção.
+A gonorréia é uma das **infecções sexualmente transmissíveis (ISTs)** mais comuns, causada pela bactéria *Neisseria gonorrhoeae*. De acordo com dados recentes dos [Centros de Controle e Prevenção de Doenças](https://www.cdc.gov/index.html), mais de um milhão de novos casos são registrados anualmente. Este artigo explica os principais sintomas, formas de diagnóstico e a importância do tratamento precoce desta infecção.
 
 ## O que é gonorréia?
 
