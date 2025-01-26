@@ -43,7 +43,7 @@ Os tratamentos mais comuns incluem:
 
 * Para um **diagnóstico clínico preciso** e **tratamento personalizado**. Tratar qualquer corrimento como se fosse gonorréia irá expor o paciente desnecessariamente a antibióticos não eficazes para o seu caso.
 * **Seguir o plano de tratamento indicado pelo especialista** assegura não apenas a resolução da infecção, mas também evita a transmissão não intencional para outras pessoas. Além disso, baseado no seu relato, o urologista poderá fazer recomendações sobre o tratamento da parceira ou parceiro.
-* Porque o urologista irá avaliar os exames necessários para diagnóstico de outras ISTs que você pode ter adquirido com a relação desprotegida.
+* Porque o **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus/)** irá avaliar os exames necessários para diagnóstico de outras ISTs que você pode ter adquirido com a relação desprotegida.
 
 ## Por que tratar o parceiro ou parceira é importante?
 
