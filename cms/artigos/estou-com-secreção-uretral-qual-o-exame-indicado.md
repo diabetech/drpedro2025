@@ -1,13 +1,14 @@
 ---
-title: Estou com secreção uretral. Qual o exame indicado?
+title: "Teste molecular da secreção uretral: por que você deve fazer se estiver
+  com corrimento?"
 created-on: 2025-01-30T11:54:12.064Z
 updated-on: 2025-01-30T11:54:12.103Z
 published-on: 2025-01-30T11:54:12.131Z
 f_destaque: false
 f_main-image:
   url: /assets/images/coletaswab.jpg
-f_post-summary: Entenda melhor como funciona o teste PCR e sua importância para
-  o diagnóstico do corrimento uretral.
+f_post-summary: Entenda sobre o exame de PCR e sua importância para o
+  diagnóstico do corrimento uretral.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-01-30T11:54:12.159Z
@@ -16,9 +17,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-**O exame de PCR oferece resultados precisos de forma rápida e não invasiva para secreção uretral. Entenda melhor como funciona este teste e sua importância para o diagnóstico do corrimento uretral.** 
+Antigamente, a maioria dos pacientes com corrimento uretral eram tratados de forma empírica, ou seja, presumida. O médico associava dois ou mais antibióticos para tratar as bactérias mais comuns.
 
-## O que é o teste PCR para secreção uretral?
+**Atualmente, o teste molecular (PCR do corrimento) oferece resultados precisos de forma rápida e não invasiva para secreção uretral.** Entenda melhor como funciona este teste e sua importância para o diagnóstico de pacientes com secreção uretral. Este testes ja está disponível na cidade de Manaus.
+
+## O que é o teste PCR da secreção uretral?
 
 O **PCR (Reação em Cadeia da Polimerase)** é um método molecular altamente sensível que identifica o material genético (DNA) dos microrganismos presentes na secreção uretral. **Esta tecnologia revolucionou o diagnóstico das infecções da uretra por sua precisão excepcional e capacidade de detectar múltiplos patógenos simultaneamente.**
 
