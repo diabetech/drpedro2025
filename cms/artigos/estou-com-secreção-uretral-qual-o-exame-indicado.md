@@ -5,6 +5,7 @@ created-on: 2025-01-30T11:54:12.064Z
 updated-on: 2025-01-30T11:54:12.103Z
 published-on: 2025-01-30T11:54:12.131Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/coletaswab.jpg
 f_post-summary: Entenda sobre o exame de PCR e sua importância para o
