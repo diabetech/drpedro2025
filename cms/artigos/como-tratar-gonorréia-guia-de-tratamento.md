@@ -4,6 +4,7 @@ created-on: 2025-01-26T21:14:40.866Z
 updated-on: 2025-01-26T21:14:40.890Z
 published-on: 2025-01-26T21:14:40.915Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/medicine-3308108_640.jpg
 f_post-summary: Este texto apresenta as informações mais importantes que você
@@ -16,7 +17,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Muitos homens recorrem à automedicação para o tratamento do corrimento uretral, o que pode agravar o quadro clínico e dificultar tratamentos futuros. Este texto apresenta as informações mais importantes que você precisa conhecer.
+Muitos homens recorrem à automedicação para o tratamento do corrimento uretral pelo gonococo (bactéria que causa a gonorréia). Isto pode agravar o quadro clínico e dificultar tratamentos futuros. Este texto apresenta as informações mais importantes sobre este tema.
 
 ## Quais são os pilares do tratamento correto?
 
