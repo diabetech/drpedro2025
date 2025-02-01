@@ -5,7 +5,7 @@ created-on: 2024-12-04T19:11:54.352Z
 updated-on: 2024-12-04T19:15:23.662Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/endourologia.md
+f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07018_dr20pedro20henrique20cabral.jpeg
   alt: Dr. Pedro Henrique Cabral | Urologista
