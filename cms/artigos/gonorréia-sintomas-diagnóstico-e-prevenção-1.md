@@ -4,6 +4,7 @@ created-on: 2025-01-25T22:01:30.804Z
 updated-on: 2025-01-25T22:01:30.846Z
 published-on: 2025-01-25T22:01:30.884Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/a-professional-medical-office-scene-with_72h9xyd6ryyi7n_kwxln7g_kw8t6edescyjlqic1e7ura-1-.jpeg
 f_post-summary: Este artigo explica os principais sintomas, formas de
@@ -16,11 +17,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A gonorréia é uma das **infecções sexualmente transmissíveis (ISTs)** mais comuns, causada pela bactéria *Neisseria gonorrhoeae*. De acordo com dados recentes dos [Centros de Controle e Prevenção de Doenças](https://www.cdc.gov/index.html), mais de um milhão de novos casos são registrados anualmente. Este artigo explica os principais sintomas, formas de diagnóstico e a importância do tratamento precoce desta infecção.
+A gonorréia é uma das **infecções sexualmente transmissíveis (ISTs)** mais comuns. De acordo com dados recentes dos [Centros de Controle e Prevenção de Doenças](https://www.cdc.gov/index.html), mais de um milhão de novos casos são registrados anualmente. Este artigo explica os principais sintomas, formas de diagnóstico e a importância do tratamento precoce desta infecção.
 
 ## O que é gonorréia?
 
-A gonorréia é uma infecção bacteriana que acomete principalmente as membranas mucosas do sistema urogenital. A bactéria causadora **pode infectar a uretra**, o colo do útero, o reto e, em alguns casos, a garganta ou os olhos. A transmissão ocorre principalmente através do **contato sexual desprotegido**, seja vaginal, anal ou oral. Após um único contato sem proteção com uma pessoa infectada, o risco de transmissão pode chegar a 20%. 
+A gonorréia é uma infecção bacteriana que acomete principalmente as membranas mucosas do sistema urogenital. A bactéria causadora, chamada *Neisseria gonorrhoeae (gonococo),* **pode infectar a uretra de homens e mulheres**, o colo do útero, o reto e, em alguns casos, a garganta ou os olhos. A transmissão ocorre principalmente através do **contato sexual desprotegido**, seja vaginal, anal ou oral. Após o contato sexual desprotegido com uma pessoa infectada, o risco de transmissão pode chegar a 20%. 
 
 ### Principais sinais e sintomas
 
