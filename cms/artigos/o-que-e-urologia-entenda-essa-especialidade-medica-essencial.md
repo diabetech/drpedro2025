@@ -4,6 +4,7 @@ created-on: 2024-12-02T21:02:12.419Z
 updated-on: 2024-12-02T21:02:12.419Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/image-1-.jpeg
   alt: Dr. Pedro Henrique Cabral | Urologista
@@ -93,4 +94,4 @@ Ao agendar uma consulta com um urologista, é fundamental verificar se o médico
 
 A urologia é uma especialidade médica essencial para a saúde e qualidade de vida de homens e mulheres. Como urologista especializado em Manaus, estou comprometido em oferecer técnicas avançadas e procedimentos minimamente invasivos já consolidados na literatura médica séria e validados nas principais diretrizes médicas mundiais.
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde.
+Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/)
