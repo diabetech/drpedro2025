@@ -88,4 +88,4 @@ A preparação adequada é fundamental para garantir resultados precisos. Os pac
 
 ## Agilidade e precisão: a importância do diagnóstico precoce
 
-A detecção precoce de infecções urinárias através do PCR **permite um tratamento direcionado e mais eficaz**. Se você apresenta sintomas urinários ou teve contato de risco, não hesite em entrar em contato com nossa **[assistente dedicada a procedimentos urológicos](https://api.whatsapp.com/send?phone=5592981270310)** para agendar sua avaliação e realizar o teste PCR com toda segurança.
+A detecção precoce da infecção através do PCR **permite um tratamento direcionado e mais eficaz**. Se você apresenta sintomas urinários ou teve contato de risco, não hesite em entrar em contato conosco para agendar sua avaliação e realizar o teste PCR.
