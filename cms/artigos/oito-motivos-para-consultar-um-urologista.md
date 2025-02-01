@@ -4,6 +4,7 @@ created-on: 2024-12-02T21:06:05.322Z
 updated-on: 2024-12-02T21:06:05.322Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07013_decfef.jpg
   alt: null
@@ -80,7 +81,7 @@ Se você notar um caroço no testículo, procure um urologista. O diagnóstico p
 
 ## **A importância da avaliação urológica regular**
 
-Estes oito motivos muito claros para você deve consultar um urologista. No entanto, é portuno lembrar que a ausência de sintomas não garante a ausência de problemas. Muitas condições urológicas, incluindo o câncer de próstata em estágios iniciais, são absolutamente assintomáticas. Por isso, sempre recomendo avaliações preventivas nos seguintes casos:
+A ausência de sintomas não garante a ausência de problemas. Muitas condições urológicas, incluindo o câncer de próstata em estágios iniciais, são absolutamente assintomáticas. Por isso, sempre recomendo avaliações preventivas nos seguintes casos:
 
 1. todos os homens a partir dos 40 anos.
 2. homens a partir de 15 anos, para avaliação de varicocele, fertilidade e prevenção do câncer de testículo avançado.
