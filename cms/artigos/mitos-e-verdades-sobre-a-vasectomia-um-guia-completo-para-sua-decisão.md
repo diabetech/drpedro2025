@@ -4,6 +4,7 @@ created-on: 2025-01-22T17:14:30.176Z
 updated-on: 2025-01-22T17:14:30.206Z
 published-on: 2025-01-22T17:14:30.243Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/vasectomia-semen-e-óvulo.jpg
 f_post-summary: Como urologista especializado em procedimentos minimamente
