@@ -3,7 +3,7 @@ title: "Câncer de próstata: a importância do diagnóstico precoce"
 created-on: 2024-12-02T21:04:18.695Z
 updated-on: 2024-12-02T21:04:18.695Z
 published-on: 2024-12-22T14:26:25.060Z
-f_destaque: false
+f_destaque: true
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/images/biopsia.jpg
