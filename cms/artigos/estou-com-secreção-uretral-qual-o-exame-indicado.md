@@ -5,6 +5,7 @@ created-on: 2025-01-30T11:54:12.064Z
 updated-on: 2025-01-30T11:54:12.103Z
 published-on: 2025-01-30T11:54:12.131Z
 f_destaque: false
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/coletaswab.jpg
 f_post-summary: Entenda sobre o exame de PCR e sua importância para o
@@ -87,4 +88,4 @@ A preparação adequada é fundamental para garantir resultados precisos. Os pac
 
 ## Agilidade e precisão: a importância do diagnóstico precoce
 
-A detecção precoce de infecções urinárias através do PCR **permite um tratamento direcionado e mais eficaz**. Se você apresenta sintomas urinários ou teve contato de risco, não hesite em entrar em contato com nossa **[assistente dedicada a procedimentos urológicos](https://api.whatsapp.com/send?phone=5592981270310)** para agendar sua avaliação e realizar o teste PCR com toda segurança.
+A detecção precoce da infecção através do PCR **permite um tratamento direcionado e mais eficaz**. Se você apresenta sintomas urinários ou teve contato de risco, não hesite em entrar em contato conosco para agendar sua avaliação e realizar o teste PCR.
