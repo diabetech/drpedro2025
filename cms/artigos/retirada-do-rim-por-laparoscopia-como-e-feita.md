@@ -8,9 +8,8 @@ f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/laparoscopia-para-rim-1-.jpeg
   alt: Laparoscopia para rim
-f_post-summary: Uma breve análise das indicações para nefrectomia total vs.
-  parcial, detalhando os procedimentos cirúrgicos, riscos e benefícios da
-  abordagem laparoscópica.
+f_post-summary: Aprenda as indicações para nefrectomia total e parcial e sobre
+  as vantagens da vídeo-cirurgia para tratar o câncer de rim.
 layout: "[artigos].html"
 slug: retirada-do-rim-por-laparoscopia---como-e-feita
 tags: artigos
