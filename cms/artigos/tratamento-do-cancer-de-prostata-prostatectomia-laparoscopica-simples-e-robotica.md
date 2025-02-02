@@ -27,30 +27,6 @@ Incontinência = **[incapacidade de segurar a urina](https://uroconsult.com.br/a
 
 ## **Quais são as técnicas de Prostatectomia Radical?**
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/k3HNMhOnejY"
-    title="5 objetivos da prostatectomia para câncer de próstata"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div> 
-
 Existem 4 técnicas principais:
 
 **Perineal** – através de um corte na região entre o escroto e o ânus. Pode ser útil em obesos, mas é pouco realizada mundialmente e poucos cirurgiões ainda a realizam.
