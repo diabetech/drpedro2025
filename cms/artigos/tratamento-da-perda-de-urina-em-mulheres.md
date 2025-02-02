@@ -24,7 +24,7 @@ A incontinência urinária de esforço pode prejudicar muito a vida da mulher à
 
 A paciente em geral opera de manhã cedo e recebe alta no fim da tarde, no mesmo dia da cirurgia.
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda quando necessário. **Se você tem** **dúvidas sobre oa ou precisa de uma avaliação especializada tratamento da perda de urina**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
+Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda quando necessário. **Se você tem** **dúvidas sobre oa ou precisa de uma avaliação especializada para tratamento da perda de urina**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/)
 
 ![Sling – tela que é colocada sob a uretra para restaurar a continência urinária em mulheres.](/assets/external/676820d6d8cdd7cccbd06ff0_674df79acc90b144c69b4b8c_sling25201.jpeg "Sling – tela que é colocada sob a uretra para restaurar a continência urinária em mulheres.")
 
