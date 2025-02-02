@@ -5,7 +5,7 @@ created-on: 2024-12-02T18:36:45.619Z
 updated-on: 2024-12-02T18:36:45.619Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/endourologia.md
+f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06ff3_cirugia-1030x585-1201.jpg
   alt: Centro cirurgico
@@ -27,33 +27,9 @@ Incontinência = **[incapacidade de segurar a urina](https://uroconsult.com.br/a
 
 ## **Quais são as técnicas de Prostatectomia Radical?**
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/k3HNMhOnejY"
-    title="5 objetivos da prostatectomia para câncer de próstata"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    id="responsive-video"
-    style="max-width: 800px; margin: 0 auto; display: block;"
-  ></iframe>
-  <script>
-    function adjustIframeHeight() {
-      var iframe = document.getElementById('responsive-video');
-      if (window.innerWidth < 768) {
-        iframe.style.height = '300px'; // Altura para celular
-      } else {
-        iframe.style.height = '500px'; // Altura para desktop
-      }
-    }  </script>
-</div> 
-
 Existem 4 técnicas principais:
 
-**Perineal** – através de um corte na região entre o escroto e o ânus. Pode ser útil em obesos, mas é pouco realizada mundialmente.
+**Perineal** – através de um corte na região entre o escroto e o ânus. Pode ser útil em obesos, mas é pouco realizada mundialmente e poucos cirurgiões ainda a realizam.
 
 **A céu aberto** – feita por via abdominal, através de uma incisão no abdome inferior.
 
@@ -87,4 +63,4 @@ A chance de algum grau de incontinência urinária (vazamento de urina) é de ce
 
 Atualmente, com os avanços na técnica cirúrgica e advento do robô, a maioria dos pacientes obtém ereção satisfatória após a cirurgia. **Com uso da plataforma robótica, estudos têm demonstrado que 80-90% dos homens mais jovens e sem outras doenças como diabetes ficam potentes.** Homens mais idosos, diabéticos e aqueles que já têm algum grau de disfunção erétil antes da cirurgia têm risco maior de ficarem impotentes. O tamanho e tipo do tumor também é importante, pois para remover um câncer maior e mais agressivo o cirurgião às vezes precisa “sacrificar” os nervos responsáveis pela ereção. Afinal, **o mais importante é a remoção completa do tumor (princípio oncológico).**
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
+**Se você foi diagnosticado com câncer de próstata e tem** **dúvidas sobre o melhor tratamento**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Nosso propósito é auxiliá-lo a tomar a melhor decisão.
