@@ -4,7 +4,7 @@ created-on: 2024-12-02T20:36:20.218Z
 updated-on: 2024-12-02T20:36:20.218Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/rim.md
+f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07003_screenshot-2020-03-16-19.12.42-e1584400691226.png
   alt: Cateter duplo J
@@ -82,4 +82,4 @@ Assista **no vídeo abaixo** um procedimento de retirada de duplo J em tempo rea
     }  </script>
 </div>
 
-**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para mais informações sobre procedimentos urológicos. Estamos prontos para auxiliar você no que for necessário.
+**[Entre em contato conosco](https://uroconsult.com.br/contato/)** para mais informações sobre procedimentos urológicos. Estamos prontos para auxiliar você.
