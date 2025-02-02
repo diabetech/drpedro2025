@@ -4,7 +4,7 @@ created-on: 2024-12-02T19:28:04.587Z
 updated-on: 2024-12-02T19:35:26.836Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/rim.md
+f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06ffe_1f9b1adc14e3e8e900677d13168e58cc.jpg
   alt: Cálculos urinários
@@ -67,7 +67,7 @@ Os materiais ainda são caros, mas esta cirurgia é coberta pela maior parte dos
 
 ## Como é feita a cirurgia?
 
-O cirurgião introduz o aparelho pela uretra (canal da urina) e avança como o mesmo até a bexiga. Depois disto, entra com este aparelho dentro do canal do ureter que conduz urina do rim para a bexiga. 
+O cirurgião introduz o aparelho pela uretra (canal da urina) e avança o mesmo até a bexiga. Em seguida, progride o mesmo através do ureter até o local onde está o cálculo.
 
 ![Fibra do Holmium laser utilizada para quebra dos cálculos urinários.](/assets/external/676820d6d8cdd7cccbd07002_674e0a44a979254a030ba42c_674e09a2084e6fe21d3a4e23_fibra-do-laser.jpeg "Fibra do Holmium laser utilizada para quebra dos cálculos urinários.")
 
