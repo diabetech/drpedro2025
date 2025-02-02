@@ -4,7 +4,7 @@ created-on: 2024-12-02T17:55:18.359Z
 updated-on: 2024-12-02T17:55:18.359Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/endourologia.md
+f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/laparoscopia-para-rim-1-.jpeg
   alt: Laparoscopia para rim
