@@ -4,7 +4,7 @@ created-on: 2024-12-02T17:44:30.136Z
 updated-on: 2024-12-02T17:44:30.136Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/urologia-feminina.md
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fa6_mulher-no-dia-a-dia2201.png
   alt: null
@@ -16,6 +16,8 @@ slug: urologia-e-saude-da-mulher
 tags: artigos
 date: 2025-01-04T16:33:11.028Z
 ---
+A Urologia não é uma especialidade médica exclusiva para homens. O Urologista também trata as doenças do aparelho urinário feminino.
+
 Dentre as principais doenças urológicas que acometem as mulheres estão:
 
 1. **[Infecções urinárias](https://uroconsult.com.br/artigos/infeccoes-urinarias-de-repeticao/).**
