@@ -1,5 +1,5 @@
 ---
-title: Retirada do rim por laparoscopia – Como é feita?
+title: "Tratamento do câncer de rim por laparoscopia: como é realizado?"
 created-on: 2024-12-02T17:55:18.359Z
 updated-on: 2024-12-02T17:55:18.359Z
 published-on: 2024-12-22T14:26:25.060Z
@@ -17,9 +17,9 @@ date: 2025-01-04T01:14:53.033Z
 ---
 A NEFRECTOMIA é o procedimento cirúrgico para remover o rim ou parte dele.
 
-Na nefrectomia radical: o cirurgião remove todo o rim.
+**Na nefrectomia radical**: o cirurgião remove todo o rim.
 
-Na nefrectomia parcial: o cirurgião remove apenas a parte doente do rim, preservando o tecido renal saudável.
+**Na nefrectomia parcial**: o cirurgião remove apenas a parte doente do rim, preservando o tecido renal saudável.
 
 A principal indicação de nefrectomia é o câncer de rim, mas esta cirurgia também é feita para remover rins seriamente danificados por cálculos urinários ou outras doenças.
 
