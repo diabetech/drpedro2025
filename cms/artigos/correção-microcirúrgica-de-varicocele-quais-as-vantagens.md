@@ -1,5 +1,6 @@
 ---
-title: "Correção microcirúrgica de varicocele: quais as vantagens?"
+title: "Correção microcirúrgica de varicocele: por que você deve optar por
+  microcirurgia?"
 created-on: 2025-02-03T00:19:28.250Z
 updated-on: 2025-02-03T00:19:28.290Z
 published-on: 2025-02-03T00:19:28.326Z
@@ -66,7 +67,7 @@ As diretrizes médicas indicam cirurgia para varicocele nas seguintes situaçõe
 **SEMPRE** que você tenha acesso a um **Urologista treinado em microcirurgia**, pois a correção microcirúrgica oferece benefícios clinicamente comprovados:
 
 * **Baixo risco de recorrência** (retorno das varizes): a visualização ampliada permite tratar um maior número de veias.
-* **Preservação da artéria testicular**: a ampliação de imagem do microscópio permite ao Urologista identificar e preservar a artéria que leva sangue para os testículos. A lesão desta artéria causa redução do fluxo sanguíneo para o testículo, inflamação pós-operatória e redução do testículo.
+* **Preservação da artéria testicular**: a ampliação de imagem do microscópio permite ao Urologista identificar e **preservar a artéria que leva sangue para os testículos**. A lesão desta artéria causa redução do fluxo sanguíneo para o testículo, inflamação pós-operatória e redução do testículo. Com a microcirurgia, este risco reduziu-se de 5% (na cirurgia convencional sem microscpio) para 1%.
 * **Hidrocele quase inexistente (<1%)**: a chance de “água nos testículos” após a cirurgia é baixíssima, pois a varicocelectomia microcirúrgica preserva os vasos linfáticos testiculares.
 * **Menos dor pós-operatória:** incisão subinguinal de 2-3 cm reduz trauma tecidual.
 * **Recuperação acelerada**: retorno às atividades em 48-72 horas.
