@@ -5,19 +5,19 @@ created-on: 2024-12-04T19:11:54.352Z
 updated-on: 2024-12-04T19:15:23.662Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/cirurgia-robotica.md
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07018_dr20pedro20henrique20cabral.jpeg
   alt: Dr. Pedro Henrique Cabral | Urologista
-f_post-summary: >
-  Este artigo visa educar pacientes sobre a Urologia, esclarecendo dúvidas
-  comuns e destacando os avanços na área.
+f_post-summary: Aprenda sobre a Urologia como especialidade, sobre as doenças
+  tratadas por esta especialidade e os principais tratamentos oferecidos aos
+  pacientes.
 layout: "[artigos].html"
 slug: urologista-em-manaus-faca-um-procedimento-urologico-minimamente-invasivo-com-dr-pedro-henrique-cabral
 tags: artigos
 date: 2025-01-03T23:15:40.773Z
 ---
-**A Urologia é uma especialidade médica importantíssima para a saúde e bem-estar de homens e mulheres. Em Manaus, pacientes buscando cuidados urológicos de excelência podem contar com profissionais altamente qualificados como o** **Dr. Pedro Henrique O. Cabral, um dos principais especialistas na área. Este artigo visa educar pacientes sobre a Urologia, esclarecendo dúvidas comuns e destacando os avanços na área.**
+A Urologia é uma especialidade médica importantíssima para a saúde e bem-estar de homens e mulheres. Em Manaus, pacientes buscando cuidados urológicos de excelência podem contar com profissionais altamente qualificados como o Dr. Pedro Henrique O. Cabral, um dos principais especialistas na área. **Este artigo visa educar pacientes sobre a Urologia**, esclarecendo dúvidas comuns e destacando os avanços na área.
 
 ## **Urologia: O que é e como pode ajudar?**
 
