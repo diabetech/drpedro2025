@@ -6,8 +6,8 @@ published-on: 2025-02-04T02:11:48.175Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
-  url: ""
-  alt: Palpação da próstata durante o toque retal.
+  url: /assets/images/a-photo-of-a-pair-of-blue-latex-surgical_rxlswjegsqgu6c1t4iiikg_-q8jib2gta-ad7ohvdyfhg-1-.jpeg
+  alt: ""
 f_post-summary: O exame de toque retal é um dos mais importantes em Urologia.
 tags: artigos
 layout: "[artigos].html"
