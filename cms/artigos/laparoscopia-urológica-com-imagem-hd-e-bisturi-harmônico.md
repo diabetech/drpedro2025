@@ -1,5 +1,5 @@
 ---
-title: "Laparoscopia Urológica com imagem HD e bisturi harmônico "
+title: "Laparoscopia urológica com imagem HD e bisturi harmônico "
 created-on: 2025-02-04T02:18:43.037Z
 updated-on: 2025-02-04T02:18:43.057Z
 published-on: 2025-02-04T02:18:43.068Z
@@ -32,7 +32,7 @@ A laparoscopia, como todo procedimento, envolve riscos, que são minimizados q
 
 ### **Qual a minha formação em laparoscopia?** 
 
-Desde minha Residência Médica em São Paulo, realizo cirurgias laparoscópicas. Durante a Residência em Urologia, ganhei muito experiência com este método. Em 2012, fiz uma especialização na França em Laparoscopia e Robótica, para aprofundar conhecimentos e em 2014 obtive o Título de Laparoscopista da Sociedade Brasileira de Vídeo-Cirurgia e Robótica (SOBRACIL).
+Desde minha Residência Médica em São Paulo, realizo cirurgias laparoscópicas. Durante a Residência em Urologia, ganhei muito experiência com este método. Em 2012, fiz uma especialização na França em Laparoscopia e Robótica, para aprofundar conhecimentos e, em 2014, obtive o Título de Laparoscopista da Sociedade Brasileira de Vídeo-Cirurgia e Robótica (SOBRACIL).
 
 ### **A laparoscopia está disponível em Manaus?**
 
