@@ -6,7 +6,7 @@ published-on: 2025-02-04T13:00:28.583Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
-  url: /assets/images/zamithfilho_phc-2123-1-1-.jpg
+  url: /assets/images/urofluxometria.jpeg
 f_post-summary: "A urofluxometria é um exame bastante simples e näo-invasivo,
   porém de fundamental importância principalmente para pacientes com dificuldade
   miccional. "
