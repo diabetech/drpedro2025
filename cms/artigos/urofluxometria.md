@@ -72,3 +72,7 @@ São indicações de Urofluxometria: 
 ### O que Esperar Durante o Exame: 
 
 O procedimento é rápido e indolor. Você será orientado a urinar em um recipiente especial conectado a um aparelho que mede o fluxo de urina em termos de volume e velocidade. Os resultados ajudam a identificar anormalidades no padrão de micção.
+
+### Urofluxometria com Urologista em Manaus 
+
+Caso você tenha dificuldade de urinar e necessita fazer uma Urofluxometria em Manaus, [entre em contato conosco](https://api.whatsapp.com/send?phone=5592981270310). Ficaremos felizes em realizar seu exame.
