@@ -3528,7 +3528,7 @@ figcaption {
 .filters2_filters-wrapper {
   max-width: 19rem;
   position: sticky;
-  top: 10vh;
+  top: 5vh;
 }
 
 .filters2_form_component {
@@ -3699,7 +3699,7 @@ figcaption {
   display: grid;
 }
 
-.blog_list.destaques {
+.blog_list.destaques, .blog_list.destaques-on {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
   grid-template-columns: 1fr 1fr;
