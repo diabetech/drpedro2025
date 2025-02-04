@@ -1,6 +1,6 @@
 ---
-title: "Transuretral Ressecção da Próstata (RTU): uma excelente opção de
-  tratamento da hiperplasia prostática benigna "
+title: "Transuretral Ressecção da Próstata (RTU): uma ótima opção de tratamento
+  da hiperplasia prostática benigna "
 created-on: 2025-02-04T01:58:11.433Z
 updated-on: 2025-02-04T01:58:11.451Z
 published-on: 2025-02-04T01:58:11.481Z
@@ -9,9 +9,9 @@ f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/images/transuretral-resseccao-da-prostata.jpg
   alt: Transuretral Ressecção da Próstata
-f_post-summary: A Ressecção Transuretral da Próstata (RTU) é a **cirurgia mais
+f_post-summary: A Ressecção Transuretral da Próstata (RTU) é a cirurgia mais
   frequentemente realizada no mundo para tratar problemas urinários causados
-  pelo crescimento benigno da próstata.**
+  pelo crescimento benigno da próstata.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-02-04T01:58:11.492Z
@@ -113,3 +113,5 @@ Você provavelmente ficará no hospital por 1 a 2 dias. Um cateter urinário ser
 ###  Resultados 
 
 A ressecção endoscópica de próstata estabeleceu-se na literatura médica como uma técnica eficaz e com efeitos duradouros por 15 anos ou mais. Ela alivia os sintomas na grande maioria dos casos e está associada a bons índices de sucesso. Porém, como toda técnica cirúrgica, possui eventuais complicações.
+
+Se você possui hiperplasia prostática benigna e deseja saber as melhores opções para tratá-lo, [agende uma avaliação conosco](https://web.whatsapp.com/send/?phone=5592982252490). Explicaremos sobre os diversos métodos disponível (RTU, GreenLight e Holep) e **definiremos o método que melhor de adequa a você**.
