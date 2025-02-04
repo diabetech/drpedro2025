@@ -57,6 +57,22 @@ A RTU também pode ser realizada para tratar ou prevenir complicações devido a
 
 ![Imagem recriada em computador demonstrando a visão que o cirurgião tem da próstata obstruindo a uretra. ](/assets/images/imagem-recriada-em-computador-demonstrando-a-visão-que-o-cirurgião-tem-da-próstata-obstruindo-a-uretra-1-.png "Imagem recriada em computador demonstrando a visão que o cirurgião tem da próstata obstruindo a uretra. ")
 
+### Riscos 
+
+Os riscos da RTU podem incluir: 
+
+* Dificuldade temporária para urinar. 
+* Sangramento na urina. 
+* Ardência temporária para urinar. 
+* Infecção do trato urinário. 
+* Dificuldade em controlar a urina. 
+* Necessidade de retratamento. 
+
+**Efeitos esperados** 
+
+* Orgasmo seco, ou seja, você tem o orgasmo, mas não ocorre saída de esperma. 
+* A função erétil não é prejudicada com a ressecção de próstata.
+
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
@@ -80,22 +96,6 @@ A RTU também pode ser realizada para tratar ou prevenir complicações devido a
       }
     }  </script>
 </div>
-
-### Riscos 
-
-Os riscos da RTU podem incluir: 
-
-* Dificuldade temporária para urinar. 
-* Sangramento na urina. 
-* Ardência temporária para urinar. 
-* Infecção do trato urinário. 
-* Dificuldade em controlar a urina. 
-* Necessidade de retratamento. 
-
-**Efeitos esperados** 
-
-* Orgasmo seco, ou seja, você tem o orgasmo, mas não ocorre saída de esperma. 
-* A função erétil não é prejudicada com a ressecção de próstata. 
 
 ### Como se preparar 
 
