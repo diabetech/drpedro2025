@@ -6,7 +6,7 @@ published-on: 2025-02-04T13:00:28.583Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
-  url: /assets/images/urofluxometria.jpeg
+  url: /assets/images/screenshot-2025-02-04-at-10.36.46.jpeg
 f_post-summary: "A urofluxometria é um exame bastante simples e näo-invasivo,
   porém de fundamental importância principalmente para pacientes com dificuldade
   miccional. "
@@ -72,3 +72,7 @@ São indicações de Urofluxometria: 
 ### O que Esperar Durante o Exame: 
 
 O procedimento é rápido e indolor. Você será orientado a urinar em um recipiente especial conectado a um aparelho que mede o fluxo de urina em termos de volume e velocidade. Os resultados ajudam a identificar anormalidades no padrão de micção.
+
+### Urofluxometria com Urologista em Manaus 
+
+Caso você tenha dificuldade de urinar e necessita fazer uma Urofluxometria em Manaus, [entre em contato conosco](https://api.whatsapp.com/send?phone=5592981270310). Ficaremos felizes em realizar seu exame.
