@@ -1,5 +1,5 @@
 ---
-title: Exame de toque retal
+title: "Exame de toque retal: preciso fazer mesmo?"
 created-on: 2025-02-04T02:11:48.153Z
 updated-on: 2025-02-04T02:11:48.164Z
 published-on: 2025-02-04T02:11:48.175Z
