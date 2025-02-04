@@ -57,6 +57,8 @@ A RTU também pode ser realizada para tratar ou prevenir complicações devido a
 
 ![Imagem recriada em computador demonstrando a visão que o cirurgião tem da próstata obstruindo a uretra. ](/assets/images/imagem-recriada-em-computador-demonstrando-a-visão-que-o-cirurgião-tem-da-próstata-obstruindo-a-uretra-1-.png "Imagem recriada em computador demonstrando a visão que o cirurgião tem da próstata obstruindo a uretra. ")
 
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/a7gqGVRJZQs" title="Ressecção endoscópica da próstata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Riscos 
 
 Os riscos da RTU podem incluir: 
