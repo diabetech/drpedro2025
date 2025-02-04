@@ -6,7 +6,7 @@ published-on: 2025-02-04T02:11:48.175Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
-  url: /assets/images/palpação-da-próstata-durante-o-toque-retal.png
+  url: ""
   alt: Palpação da próstata durante o toque retal.
 f_post-summary: O exame de toque retal é um dos mais importantes em Urologia.
 tags: artigos
@@ -28,3 +28,5 @@ Nos pacientes assintomáticos, o exame deve ser feito em homens com mais de 45 a
 ### Quais são os riscos do câncer de próstata? 
 
 O toque retal é praticamente isento de riscos. É rápido, durando apenas cerca de 10 segundos. A maioria dos pacientes não relata dor, mas apenas um desconforto leve.
+
+![Palpação da próstata durante o toque retal.](/assets/images/palpação-da-próstata-durante-o-toque-retal.png "Palpação da próstata durante o toque retal.")
