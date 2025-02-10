@@ -5,6 +5,9 @@ updated-on: 2025-02-10T19:59:43.150Z
 published-on: 2025-02-10T19:59:43.162Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
+f_main-image:
+  url: /assets/images/endoscopia-1-.jpeg
+  alt: Cistoscopia.
 f_post-summary: A cistoscopia permite visualização precisa do interior da bexiga
   e da uretra sem a necessidade de intervenções cirúrgicas complexas. Este
   procedimento, é utilizado para investigar desde manifestações urinárias
