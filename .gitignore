@@ -3,3 +3,5 @@ cms/_data/._images.json
 cms/_data/._links.json
 cms/_data/._texts.json
 cms/_data/settings/._site.json
+._*
+.DS_Store
