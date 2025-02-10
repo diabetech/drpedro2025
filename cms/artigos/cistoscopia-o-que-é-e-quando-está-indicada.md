@@ -20,28 +20,25 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A cistoscopia destaca-se como um dos maiores avanços no diagnóstico urológico moderno, permitindo a visualização precisa do interior da bexiga e da uretra sem a necessidade de intervenções cirúrgicas complexas. Este procedimento, é utilizado para investigar desde manifestações urinárias persistentes até alterações suspeitas.
-
 ## O que é a cistoscopia?
 
-O **exame endoscópico da bexiga** utiliza um instrumento de alta precisão denominado cistoscópio - um dispositivo óptico flexível que integra um sistema de visualização em alta definição com iluminação especializada. Este equipamento avançado percorre delicadamente a uretra até alcançar a cavidade vesical, permitindo um mapeamento detalhado do trato urinário inferior.
+A cistoscopia é a endoscopia da bexiga. Permite a visualização precisa do interior da bexiga e da uretra sem incisões. Utiliza um instrumento de alta precisão denominado cistoscópio acoplado a uma câmera de alta definição. Este equipamento avançado percorre delicadamente a uretra até alcançar a cavidade vesical, permitindo uma avaliação detalhada do trato urinário inferior.
 
 ### Principais indicações da cistoscopia
 
-A cistoscopia está indicada em diversas **situações clínicas que requerem uma avaliação direta da bexiga:**
+A cistoscopia está indicada em diversas **situações clínicas, como:**
 
-* Investigação de sangue na urina (hematúria).
+* Investigação de sangramento na urina (hematúria). A cistoscopia é o exame padrão-ouro para o diagnóstico do câncer de bexiga, que é uma importante causa de sangramento em idosos e fumantes.
 * Sintomas urinários persistentes sem causa definida.
-* Avaliação de tumores de bexiga.
+* Seguimento de pacientes com tumor de bexiga.
 * Investigação de infecções urinárias de repetição.
 * Avaliação de dor ao urinar sem causa aparente.
-* Dificuldade para urinar que sugira obstrução.
 
 ## Como é realizado o procedimento?
 
-O exame é realizado em ambiente hospitalar, sempre com a presença de um anestesista para garantir o conforto do paciente. Na maioria dos casos, utilizamos sedação leve ou anestesia local com gel anestésico na uretra. Em algumas situações específicas, como quando é necessário realizar biópsias, optamos pela anestesia geral ou raquianestesia.
+O exame é realizado em ambiente hospitalar, sempre com a presença de um anestesista para realizar a sedação anestésica. Nestas condições, o exame é seguro e indolor.
 
-**O procedimento é minimamente invasivo e dura em média 15-20 minutos.** Durante o exame, introduzimos o cistoscópio pela uretra e preenchemos a bexiga com soro fisiológico para melhor visualização de suas paredes. Isto pode causar uma leve sensação de vontade de urinar, que é normal e esperada.
+**O procedimento é minimamente invasivo, sem incisões e dura em média 10-15 minutos.** Durante o exame, introduzimos o cistoscópio pela uretra e preenchemos a bexiga com soro fisiológico para melhor visualização de suas paredes.
 
 </div>
 
@@ -71,14 +68,11 @@ O exame é realizado em ambiente hospitalar, sempre com a presença de um aneste
 
 ### Cistoscopia no diagnóstico de tumores vesicais
 
-A cistoscopia assume função essencial na detecção de neoplasias vesicais. O exame possibilita a identificação imediata de alterações mucosas suspeitas, permitindo a coleta direcionada de material para análise (biópsia).
+A cistoscopia é o principal exame diagnóstico para neoplasias vesicais. O exame possibilita a identificação imediata de alterações mucosas suspeitas.
 
-Quando identificamos uma lesão suspeita, realizamos dois procedimentos importantes:
+Quando a cistoscopia demonstra lesões na bexiga, realizamos uma b**iópsia vesical:** dependendo do tamanho e características da lesão, podemos realizar:
 
-1. **Citologia urinária:** coletamos uma amostra do líquido da bexiga para análise laboratorial, buscando células cancerosas.
-2. **Biópsia vesical:** dependendo do tamanho e características da lesão, podemos realizar:
-
-   * Pequenas biópsias durante a própria cistoscopia.
+1. * Pequenas biópsias durante a própria cistoscopia.
    * Ressecção transuretral de tumor de bexiga (RTU) sob anestesia geral ou raquianestesia para lesões maiores.
 
 Em casos específicos, utilizamos uma tecnologia avançada chamada cistoscopia com luz violeta (diagnóstico fotodinâmico), que aumenta significativamente nossa capacidade de detectar lesões planas e superficiais, como o carcinoma in situ (CIS). Esta técnica permite uma visualização mais precisa de áreas suspeitas que poderiam passar despercebidas na cistoscopia convencional.
