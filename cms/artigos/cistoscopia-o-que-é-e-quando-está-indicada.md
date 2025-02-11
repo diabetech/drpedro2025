@@ -6,7 +6,7 @@ published-on: 2025-02-10T19:59:43.162Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
-  url: /assets/images/endoscopia-1-.jpeg
+  url: /assets/images/foto-cistoscopia.jpg
   alt: Cistoscopia.
 f_post-summary: A cistoscopia permite visualização precisa do interior da bexiga
   e da uretra sem a necessidade de intervenções cirúrgicas complexas. Este
@@ -22,17 +22,17 @@ seo:
 ---
 ## O que é a cistoscopia?
 
-A cistoscopia é a endoscopia da bexiga. Permite a visualização precisa do interior da bexiga e da uretra sem incisões. Utiliza um instrumento de alta precisão denominado cistoscópio acoplado a uma câmera de alta definição. Este equipamento avançado percorre delicadamente a uretra até alcançar a cavidade vesical, permitindo uma avaliação detalhada do trato urinário inferior.
+A cistoscopia é o exame de endoscopia da bexiga. Permite a visualização precisa do interior da bexiga e da uretra sem incisões. Utiliza um instrumento de alta precisão denominado cistoscópio acoplado a uma câmera de alta definição. Este equipamento avançado percorre delicadamente a uretra até alcançar a cavidade da bexiga, permitindo uma avaliação detalhada do órgão.
 
 ### Principais indicações da cistoscopia
 
 A cistoscopia está indicada em diversas **situações clínicas, como:**
 
-* Investigação de sangramento na urina (hematúria). A cistoscopia é o exame padrão-ouro para o diagnóstico do câncer de bexiga, que é uma importante causa de sangramento em idosos e fumantes.
-* Sintomas urinários persistentes sem causa definida.
+* Investigação de sangramento na urina (**hematúria**). A cistoscopia é o exame padrão-ouro para o diagnóstico do câncer de bexiga, que é uma importante causa de sangramento em idosos e fumantes.
 * Seguimento de pacientes com tumor de bexiga.
 * Investigação de infecções urinárias de repetição.
 * Avaliação de dor ao urinar sem causa aparente.
+* Sintomas urinários persistentes sem causa definida.
 
 ## Como é realizado o procedimento?
 
@@ -68,12 +68,13 @@ O exame é realizado em ambiente hospitalar, sempre com a presença de um aneste
 
 ### Cistoscopia no diagnóstico de tumores vesicais
 
-A cistoscopia é o principal exame diagnóstico para neoplasias vesicais. O exame possibilita a identificação imediata de alterações mucosas suspeitas.
+A cistoscopia é o principal exame diagnóstico para neoplasias vesicais. O exame possibilita a identificação imediata de alterações suspeitas no revestimento interno da bexiga.
 
-Quando a cistoscopia demonstra lesões na bexiga, realizamos uma b**iópsia vesical:** dependendo do tamanho e características da lesão, podemos realizar:
+Quando a cistoscopia demonstra um tumor na bexiga, realizamos:
 
-1. * Pequenas biópsias durante a própria cistoscopia.
-   * Ressecção transuretral de tumor de bexiga (RTU) sob anestesia geral ou raquianestesia para lesões maiores.
+1. uma **biópsia vesical,** ou seja, removemos um pequeno fragmento para análise pelo patologista no microscópio; ou
+
+2. fazemos a retirada completa do tumor, ou seja, a [ressecção endoscópica de bexiga](https://studio.youtube.com/video/Kip-fDpLoMU/edit).
 
 Em casos específicos, utilizamos uma tecnologia avançada chamada cistoscopia com luz violeta (diagnóstico fotodinâmico), que aumenta significativamente nossa capacidade de detectar lesões planas e superficiais, como o carcinoma in situ (CIS). Esta técnica permite uma visualização mais precisa de áreas suspeitas que poderiam passar despercebidas na cistoscopia convencional.
 
@@ -87,9 +88,13 @@ A recuperação após uma cistoscopia é geralmente rápida e sem intercorrênci
 4. Desconforto na região inferior do abdome.
 5. Urgência para urinar.
 
+### Quanto tempo ficarei no Hospital?
+
+A cistoscopia é realizada como Day Clinic, ou seja, o paciente não fica internado e recebe alta sem nenhuma sonda logo depois do procedimento, quando estiver bem acordado.
+
 ### Cuidados pós-procedimento
 
-Para uma recuperação adequada, recomendo **alguns cuidados específicos após a cistoscopia:**
+Recomendamos **alguns cuidados específicos após a cistoscopia:**
 
 * Aumentar a ingestão de líquidos nas primeiras 48 horas.
 * Manter repouso relativo no dia do exame.
@@ -99,8 +104,8 @@ Para uma recuperação adequada, recomendo **alguns cuidados específicos após 
 
 ### Segurança e resultados
 
-A cistoscopia é um procedimento seguro quando realizado por um** [urologista experiente](https://uroconsult.com.br/artigos/urologista-em-manaus/)** em ambiente hospitalar adequado. Com as técnicas e equipamentos modernos, as complicações são raras e geralmente leves. Após o exame, caso sejam identificadas alterações que necessitem de tratamento, discutiremos todas as opções terapêuticas disponíveis.
+A cistoscopia é um procedimento seguro quando realizado por um** [urologista experiente](https://uroconsult.com.br/artigos/urologista-em-manaus/)** em ambiente adequado (hospital ou Day Hospital). Com as técnicas e equipamentos modernos, as complicações são raras e geralmente leves e passageiras. Após o exame, caso sejam identificadas alterações que necessitem de tratamento, discutiremos todas as opções terapêuticas disponíveis.
 
 ## Cuidando da sua saúde urológica
 
-A cistoscopia representa uma ferramenta diagnóstica essencial na urologia moderna. Se você apresenta manifestações urinárias persistentes ou necessita desta avaliação especializada, **[entre em contato](https://api.whatsapp.com/send?phone=5592982252490) - assistente dedicada a procedimentos urológicos**: (92) 98225-2490. Oferecemos atendimento especializado utilizando os recursos tecnológicos mais avançados disponíveis.
+A cistoscopia representa uma ferramenta diagnóstica essencial na urologia moderna. Se você apresenta sangramento na urina ou qualquer uma das indicações citadas acima, **[entre em contato](https://api.whatsapp.com/send?phone=5592982252490) - assistente dedicada a procedimentos urológicos**: (92) 98225-2490. Ficaremos felizes em auxiliar.
