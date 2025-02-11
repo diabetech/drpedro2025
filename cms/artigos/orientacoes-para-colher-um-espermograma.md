@@ -16,15 +16,15 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A coleta correta do espermograma é essencial para assegurar a qualidade do exame. Os detalhes influenciam os resultados. Este artigo orienta como colher uma amostra adequada para exame.
+O espermograma é o exame de análise do sêmen, coletado por masturbação no laboratório. A coleta correta do esperma é essencial para assegurar a qualidade do espermograma. Os detalhes influenciam os resultados. Este artigo orienta você como colher uma amostra adequada.
 
 ## O que é o espermograma e sua importância
 
-O espermograma é um exame que **analisa a qualidade do sêmen**. Existem três **parâmetros principais:** a concentração, a motilidade (movimentação) e morfologia (forma) dos espermatozóides. O resultado do espermograma, portanto, **reflete sua saúde reprodutiva do homem.**
+O espermograma **analisa a qualidade do sêmen**. Existem três **parâmetros principais:** a concentração, a motilidade (movimentação) e morfologia (forma) dos espermatozóides. O resultado do espermograma, portanto, **reflete a saúde reprodutiva do homem.**
 
-Novos espermatozóides são produzidos regularmente nos testículos, levando entre 42 e 90 dias para amadurecer. Por este motivo, mudanças decorrentes de cirurgias, estilo de vida ou exposições a toxinas só serão observadas após este período.
+Novos espermatozóides são produzidos regularmente nos testículos, levando entre **42 e 90 dias para amadurecer**. Por este motivo, mudanças decorrentes de cirurgias, estilo de vida ou exposições a toxinas só serão observadas após este período.
 
-Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias entre elas, permitindo uma avaliação mais precisa da qualidade do sêmen ao longo do tempo.
+Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias entre elas, o que permite uma avaliação mais precisa da qualidade do sêmen ao longo do tempo.
 
 ### Orientações para obter uma amostra adequada
 
