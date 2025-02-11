@@ -8,10 +8,9 @@ f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/foto-cistoscopia.jpg
   alt: Cistoscopia.
-f_post-summary: A cistoscopia permite visualização precisa do interior da bexiga
-  e da uretra sem a necessidade de intervenções cirúrgicas complexas. Este
-  procedimento, é utilizado para investigar desde manifestações urinárias
-  persistentes até alterações suspeitas.
+f_post-summary: A cistoscopia é o exame de endoscopia da bexiga. Permite a
+  visualização precisa do interior da bexiga e da uretra sem incisões. Está
+  indicada principalmente para investigação da hematúria (sangramento na urina).
 tags: artigos
 layout: "[artigos].html"
 date: 2025-02-10T19:59:43.175Z
@@ -101,6 +100,12 @@ Recomendamos **alguns cuidados específicos após a cistoscopia:**
 * Evitar atividades físicas intensas por 2-3 dias.
 * Tomar os medicamentos prescritos conforme orientação.
 * Observar a cor da urina e a presença de sangue.
+
+### Onde posso fazer uma cistoscopia em Manaus?
+
+O paciente normalmente passa comigo em consulta e, depois de estudar o seu caso, optamos por fazer a cistoscopia quando ela está indicada.
+
+Realizamos o exame normalmente no CHeck Up Hospital ou no Day Hospital Vieiralves, ambos com estrutura bastante adequada para a cistoscopia.
 
 ### Segurança e resultados
 
