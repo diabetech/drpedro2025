@@ -1,10 +1,10 @@
 ---
-title: Orientações para colher um espermograma de modo adequado
+title: Orientações para coleta do espermograma
 created-on: 2025-02-09T17:52:23.203Z
 updated-on: 2025-02-09T17:52:23.222Z
 published-on: 2025-02-09T17:52:23.237Z
 f_destaque: false
-f_especialidades: cms/especialidades/urologia-geral.md
+f_especialidades: cms/especialidades/microcirurgia-e-infertilidade-masculina.md
 f_main-image:
   url: /assets/images/analysis-2030265_640.jpg
 f_post-summary: Este artigo ensina como colher uma amostra adequada para espermograma.
@@ -28,9 +28,9 @@ Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias e
 
 ### Orientações para obter uma amostra adequada
 
-Para assegurar um resultado confiável, siga estas orientações:
+Para assegurar um resultado confiável, **siga estas orientações**:
 
-* Abstinência sexual por 2 a 4 dias antes da coleta.
+* Abstinência sexual por 2 a 4 dias antes da coleta. Em outras palavras, **última ejaculação deve acontecer cerca de 3 dias antes da coleta**.
 * Não desperdiçar o sêmen. É muito importante colher todo ejaculado, principalmente as primeiras gotas.
 * Evitar contato direto do pênis com o frasco coletor.
 * Não urinar imediatamente antes da coleta.
