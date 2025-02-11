@@ -1,13 +1,13 @@
 ---
-title: Orientações para colher um espermograma de modo adequado
+title: Orientações para coleta do espermograma
 created-on: 2025-02-09T17:52:23.203Z
 updated-on: 2025-02-09T17:52:23.222Z
 published-on: 2025-02-09T17:52:23.237Z
 f_destaque: false
-f_especialidades: cms/especialidades/urologia-geral.md
+f_especialidades: cms/especialidades/microcirurgia-e-infertilidade-masculina.md
 f_main-image:
   url: /assets/images/analysis-2030265_640.jpg
-f_post-summary: Este artigo explica como colher uma amostra adequada para espermograma.
+f_post-summary: Este artigo ensina como colher uma amostra adequada para espermograma.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-02-09T17:52:23.252Z
@@ -16,21 +16,21 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A coleta correta do espermograma é essencial para assegurar a qualidade do exame. Os detalhes influenciam os resultados. Este artigo orienta como colher uma amostra adequada para exame.
+O espermograma é o exame de análise do sêmen, coletado por masturbação no laboratório. A coleta correta do esperma é essencial para assegurar a qualidade do espermograma. Os detalhes influenciam os resultados. Este artigo orienta você como colher uma amostra adequada.
 
 ## O que é o espermograma e sua importância
 
-O espermograma é um exame que **analisa a qualidade do sêmen**. Existem três **parâmetros principais:** a concentração, a motilidade (movimentação) e morfologia (forma) dos espermatozóides. O resultado do espermograma, portanto, **reflete sua saúde reprodutiva do homem.**
+O espermograma **analisa a qualidade do sêmen**. Existem três **parâmetros principais:** a concentração, a motilidade (movimentação) e morfologia (forma) dos espermatozóides. O resultado do espermograma, portanto, **reflete a saúde reprodutiva do homem.**
 
-Novos espermatozóides são produzidos regularmente nos testículos, levando entre 42 e 90 dias para amadurecer. Por este motivo, mudanças decorrentes de cirurgias, estilo de vida ou exposições a toxinas só serão observadas após este período.
+Novos espermatozóides são produzidos regularmente nos testículos, levando entre **42 e 90 dias para amadurecer**. Por este motivo, mudanças decorrentes de cirurgias, estilo de vida ou exposições a toxinas só serão observadas após este período.
 
-Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias entre elas, permitindo uma avaliação mais precisa da qualidade do sêmen ao longo do tempo.
+Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias entre elas, o que permite uma avaliação mais precisa da qualidade do sêmen ao longo do tempo.
 
 ### Orientações para obter uma amostra adequada
 
-Para assegurar um resultado confiável, siga estas orientações:
+Para assegurar um resultado confiável, **siga estas orientações**:
 
-* Abstinência sexual por 2 a 4 dias antes da coleta.
+* Abstinência sexual por 2 a 4 dias antes da coleta. Em outras palavras, **última ejaculação deve acontecer cerca de 3 dias antes da coleta**.
 * Não desperdiçar o sêmen. É muito importante colher todo ejaculado, principalmente as primeiras gotas.
 * Evitar contato direto do pênis com o frasco coletor.
 * Não urinar imediatamente antes da coleta.
