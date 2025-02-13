@@ -56,28 +56,6 @@ As técnicas endoscópicas de última geração dispensam cortes externos, sendo
 * ** [Vaporização a Laser Verde (GreenLight):](https://uroconsult.com.br/artigos/entenda-o-greenlight/)** Combina precisão e segurança, especialmente para pacientes em uso de anticoagulantes, com uretra mais estreita e próstatas de até 60g-70g. O laser vaporiza o tecido prostático, minimizando sangramentos e preservando a ejaculação em muitos casos.
 * **[Enucleação a Laser de Holmium (HoLEP):](https://uroconsult.com.br/artigos/holep-tratamento-moderno-e-minimamente-invasivo-para-pr%C3%B3stata-aumentada/)** Tecnologia de ponta para próstatas de todos os tamanhos, incluindo as mais volumosas. Remove completamente a parte central ou núcleo da próstata (adenoma), reduzindo significativamente o risco de recidiva. Apesar do alto custo, é a escolha ideal para próstatas entre 80 e 120g, com recuperação rápida  (alta em 24h) e menor desconforto pós-operatório.
 * **[Cirurgia robótica:](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** Opção para próstatas muito grandes (acima de 120g), combinando precisão milimétrica e visão 3D ampliada. O robô permite acesso anatômico otimizado, preservando estruturas críticas e reduzindo riscos de sangramento.
-    <iframe
-      width="100%"
-      height="500"
-      src="https://www.youtube.com/embed/l_G_xiZSp88"
-      title="Cirurgia Robótica para Crescimento Benigno da Próstata"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      id="responsive-video"
-      style="max-width: 800px; margin: 0 auto; display: block;"
-    ></iframe>
-    <script>
-      function adjustIframeHeight() {
-        var iframe = document.getElementById('responsive-video');
-        if (window.innerWidth < 768) {
-          iframe.style.height = '300px'; // Altura para celular
-        } else {
-          iframe.style.height = '500px'; // Altura para desktop
-        }
-      }  </script>
-  </div> 
 
 ### **Resultados e recuperação**
 
