@@ -7,9 +7,8 @@ f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/hematúria-1-1-.png
-f_post-summary: Quando ocorre alteração na coloração da urina, devido à presença
-  de sangue - condição denominada hematúria - é um sinal de alerta que requer
-  avaliação de um urologista especializado.
+f_post-summary: A presença de sangue na urina - condição denominada hematúria -
+  é um sinal de alerta que requer avaliação urológica especializada.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-02-14T16:50:52.318Z
@@ -18,7 +17,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-O sistema urinário é responsável pela eliminação de resíduos do organismo, produzindo normalmente urina clara e amarelada. Quando ocorre alteração desta coloração devido à presença de sangue - condição denominada hematúria - é um sinal de alerta que requer avaliação de um **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/).**
+O sistema urinário é responsável pela eliminação de resíduos do organismo, produzindo normalmente urina clara e amarelada. A presença de sangue na urina - condição denominada hematúria - é um sinal de alerta que requer avaliação urológica especializada.
 
 ## Compreendendo a hematúria e suas manifestações
 
@@ -40,8 +39,6 @@ Por este motivo, **todo paciente com mais de 60 anos de idade com sangramento na
 ![](/assets/images/hematuriaa.png)
 
 Hematúria com coágulos enegrecidos ao fundo.
-
-
 
 ## Qual a relação entre tabagismo e câncer de bexiga?
 
