@@ -18,30 +18,30 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A **infecção do trato urinário (ITU)** afeta milhões de mulheres anualmente, que experimentam** [episódios recorrentes](https://uroconsult.com.br/artigos/infeccoes-urinarias-de-repeticao/)** que impactam significativamente sua qualidade de vida. Metade das mulheres têm pelo menos uma infecção urinária durante a vida.
+A **infecção do trato urinário (ITU) é a infecção bacteriana mais comum em mulheres**. Estima-se que metade das mulheres apresentará pelo menos uma infecção urinária durante a vida. Muitas experimentam** [episódios recorrentes](https://uroconsult.com.br/artigos/infeccoes-urinarias-de-repeticao/)**, com impacto significativo à sua qualidade de vida. 
 
 ### Compreendendo a infecção urinária
 
 Existem basicamente dois tipos de infecção urinária: 
 
 * **a pielonefrite:** acomete os rins. É uma infecção rara, grave, causando febre, calafrios e dor lombar.
-* **a cistite:** acomete a bexiga e representa a infecção bacteriana mais comum em mulheres.
+* **a cistite:** acomete a bexiga e não costuma ser grave ou causar febre. Os principais sintomas são dor ao urinar, aumento da frequência urinaria e dor na parte de baixo do abdome.
 
-## Por que a cistite ocorre mais em mulheres?
+### Por que a cistite ocorre mais em mulheres?
 
-A infecção urinária ocorre quando bactérias, principalmente a Escherichia coli (E. coli), normalmente presente no intestino, atingem a bexiga e causam a inflamação desse órgão.
+A infecção urinária ocorre quando bactérias, principalmente a *Escherichia coli (E. coli)*, normalmente presente no intestino, atingem a bexiga e causam a inflamação desse órgão.
 
-A **anatomia feminina é um fator determinante** pois a uretra feminina é curta (2 a 5 cm) e próxima à região anal, o que facilita a ascensão de bactérias até a bexiga. Em homens a cistite é mais rara pois a uretra é bem mais longa.
+A **anatomia feminina é um fator determinante** pois a uretra feminina é curta (3 a 5 cm) e próxima à região anal, o que facilita a ascensão de bactérias até a bexiga. Os homens estão protegidos por uma uretra bem mais longa (uretra peniana). Para saber sobre a infecção da uretra em homens, [clique aqui.](https://uroconsult.com.br/artigos/estou-com-secrecao-uretral-qual-o-exame-indicado/)
 
-O risco aumentado em mulheres também se relaciona com mudanças hormonais ao longo da vida. Na menopausa, a redução do estrogênio modifica o ambiente vaginal, tornando-o mais vulnerável à colonização por bactérias. Durante a gestação, alterações anatômicas e fisiológicas elevam a susceptibilidade a infecções. 
+O risco aumentado em mulheres também se relaciona com mudanças hormonais ao longo da vida. **Na menopausa, a redução do estrogênio modifica o ambiente vaginal, tornando-o mais vulnerável à colonização por bactérias**. Durante a gestação, alterações anatômicas e fisiológicas elevam a susceptibilidade a infecções. 
 
 ### Manifestações clínicas importantes
 
-A apresentação da infecção urinária pode variar em intensidade. Os sinais mais característicos incluem desconforto ao urinar, dor no baixo ventre e aumento da frequência urinária. A urina pode apresentar-se turva ou com odor desagradável. Em alguns casos, pode haver a presença de sangue -** [hematúria](https://uroconsult.com.br/artigos/hemat%C3%BAria-diagn%C3%B3stico-e-tratamento-do-sangramento-urin%C3%A1rio/),** um sinal que sempre requer avaliação médica. Pode haver ainda urgência miccional, ou seja, necessidade súbita e intensa de urinar, que pode ser difícil de adiar.
+A apresentação da infecção urinária pode variar em intensidade. Os sinais mais característicos incluem **desconforto ao urinar, dor no baixo ventre e aumento da frequência urinária**. A urina pode apresentar-se turva ou com odor desagradável. Em alguns casos, pode haver a presença de sangue -** [hematúria](https://uroconsult.com.br/artigos/hemat%C3%BAria-diagn%C3%B3stico-e-tratamento-do-sangramento-urin%C3%A1rio/),** um sinal que sempre requer avaliação médica. Pode haver ainda urgência miccional, ou seja, necessidade súbita e intensa de urinar, que pode ser difícil de adiar.
 
 Esses sintomas não são específicos para infecção urinárias e doenças podem causá-los. Cálculos urinários no ureter, por exemplo, podem produzir os mesmos sintomas de uma cistite. Por este motivo, é importante uma avaliação com um **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/).**
 
-### Abordagem diagnóstica 
+### Abordagem diagnóstica
 
 O **clima quente e úmido da região de Manaus** pode favorecer o desenvolvimento de infecções urinárias em mulheres. O diagnóstico adequado envolve uma anamnese com objetivo de investigar o histórico de infecções prévias e fatores predisponentes. 
 
@@ -62,13 +62,9 @@ A **duração do tratamento varia conforme a apresentação clínica**. Casos n�
 Para a mulher que tem cistites primárias, ou seja, sem um fator desencadeante específico, recomenda-se:
 
 1. Ingerir líquidos em maior quantidade, não obrigatoriamente água, mas também sucos de frutas (de preferência de polpa e naturais), água de coco, chás (chá verde, mate, chá branco) ou alimentos com alto conteúdo hídrico (sopas, vitaminas, caldos, frutas). De modo geral, recomenda-se aumentar em 1 litro e meio a ingestão de líquidos.
-
 2. Não reter a urina. Quando tiver vontade de urinar, pare o que está fazendo e vá urinar. Reter a urina impede que o fluxo urinário exerça sua função de lavar as vias urinárias e pode causar disfunções miccionais.
-
 3. Esvaziar a bexiga após relações sexuais, mesmo se não estiver com vontade de urinar. Esvaziar também ao acordar e antes de dormir. Sentar no vaso sanitário e ligar a torneira pode auxiliar.
-
 4. Evitar o uso interno de sabonetes íntimos bactericidas, que devem ser usados apenas externamente e não dentro da vagina.
-
 5. Controlar a constipação intestinal (intestino preso). Isto em geral pode ser conseguido através de uma alimentação rica em fibras. São alimentos ricos em fibra: granola, aveia, frutas ingeridas com o “bagaço” como laranja ou tangerina, brócolis, couve-flor, repolho, uvas-passas, cereais matinais integrais, feijão-fradinho, pupunha, arroz integral e ervilha, dentre outros.
 
 ### Tratamento especializado em Manaus
