@@ -59,6 +59,30 @@ Os melhores candidatos ao procedimento são homens que:
 * Têm sintomas urinários graves com prejuízo à qualidade de vida.
 * Preferem uma solução definitiva e duradoura.
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/Np8U0eQ4tpY"
+    title="Holep: entenda a enucleação da próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
+
 ## O procedimento passo a passo
 
 A cirurgia HoLEP é realizada sob anestesia geral ou raquianestesia com sedação, em ambiente hospitalar. A **duração depende do tamanho da próstata**. O procedimento é realizado através da uretra, utilizando um endoscópio especial equipado com o laser de Holmium.
@@ -66,8 +90,6 @@ A cirurgia HoLEP é realizada sob anestesia geral ou raquianestesia com sedaçã
 Durante a cirurgia, o laser é usado para separar precisamente o tecido prostático aumentado de sua cápsula externa, preservando estruturas importantes. O tecido é então fragmentado e removido, permitindo a desobstrução completa do canal urinário. Ao final do procedimento, é mantida uma **sonda vesical por 24 horas para irrigar a bexiga e drenar urina.**
 
 **Veja o vídeo abaixo.**
-
-
 
 ### Recuperação e resultados esperados
 
