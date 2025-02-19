@@ -104,3 +104,7 @@ Falso. Embora o ideal seja vacinar antes do início da vida sexual, a imunizaç�
 **"A vacina pode causar efeitos colaterais graves?"** 
 
 Não há motivo para preocupação. As vacinas contra o HPV possuem um perfil de segurança robusto, respaldado por décadas de estudos científicos rigorosos e aprovado pelas principais agências de saúde globais.
+
+## **Orientação especializada para sua proteção contra HPV**
+
+Proteja-se contra o HPV com orientação especializada. Em consulta, avaliaremos seu caso individualmente e forneceremos todas as recomendações necessárias para sua imunização, incluindo o direcionamento para clínicas de vacinação credenciadas. **[Entre em contato com nossa assistente dedicada](https://api.whatsapp.com/send?phone=5592981270310)** para agendar sua avaliação.
