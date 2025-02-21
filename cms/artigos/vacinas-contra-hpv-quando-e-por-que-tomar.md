@@ -19,7 +19,7 @@ seo:
 ---
 **A vacinação contra o vírus HPV é uma medida comprovadamente eficaz para a prevenção da DST mais comum no mundo: a infecção por HPV.  Como o HPV é responsável por 90% dos casos de câncer do colo do útero e está associado a cânceres de pênis, ânus e garganta, então pode-se afirmar que a vacinação para HPV previne o câncer.**
 
-## Tipos de vacina contra HPV
+### Tipos de vacina contra HPV
 
 O sistema público de saúde oferece a **vacina quadrivalente**, que protege contra quatro tipos do vírus HPV (6, 11, 16 e 18). Os tipos 16 e 18 são chamados de alto risco porque podem dar origem a um câncer. Em mulheres, eles são responsáveis por 71% dos casos de câncer do colo do útero. Já os tipos 6 e 11 são os principais causadores de verrugas genitais, chamadas de condiloma.
 
@@ -65,7 +65,7 @@ Nenhuma vacina regride lesões do HPV. Você deve, portanto, tratar-se. Mas pode
 
 ### Eficácia e segurança: por que confiar nas vacinas contra HPV?
 
-As vacinas contra HPV estão entre as mais seguras do mundo, com eficácia comprovada de até 90% na prevenção de cânceres e verrugas genitais. Estudos globais (incluindo dados da **[OMS](https://www.who.int/pt/about)** e ANVISA) acompanharam mais de 270 milhões de doses aplicadas, confirmando a sua segurança. **Nenhum estudo vinculou a vacina à infertilidade, autismo ou doenças autoimunes.**
+As vacinas contra HPV estão entre as mais seguras do mundo, com eficácia comprovada na prevenção de cânceres e verrugas genitais. Estudos globais (incluindo dados da **[OMS](https://www.who.int/pt/about)** e ANVISA) acompanharam mais de 270 milhões de doses aplicadas, confirmando a sua segurança. **Nenhum estudo vinculou a vacina à infertilidade, autismo ou doenças autoimunes.**
 
 ####  Efeitos colaterais possíveis (leves e transitórios):
 
