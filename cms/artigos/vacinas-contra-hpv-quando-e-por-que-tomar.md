@@ -50,7 +50,7 @@ A vacinação para HPV é recomendada para diferentes grupos, conforme idade e p
 
 **Adultos (15-45 anos)**
 
-* **Proteção tardia:** mesmo quem já iniciou a vida sexual pode e deve vacinar para HPV, pois a vacina protege contra outros sorotipos aos quais o indivíduo ainda não foi exposto. Estudos demonstram 88% o risco de novos cânceres associados ao HPV.
+* **Proteção tardia:** mesmo quem já iniciou a vida sexual pode e deve vacinar para HPV, pois a vacina protege contra outros sorotipos aos quais o indivíduo ainda não foi exposto.
 
 **Grupos especiais** 
 
