@@ -71,11 +71,11 @@ As vacinas contra HPV estão entre as mais seguras do mundo, com eficácia compr
 
 * **Reações locais:** Dor, vermelhidão ou inchaço no local da aplicação (20–30% dos casos).
 * **Sintomas gerais:** Febre baixa (1–5% dos casos) ou mal-estar leve, que desaparecem em 24–48 horas.\
-  (Fonte: Sociedade Brasileira de Imunizações, 2023)
+  *(Fonte: Sociedade Brasileira de Imunizações, 2023)*
 
 ####  Segurança reforçada:
 
-* **Zero associação com doenças graves**
+* Não existe associação descrita com doenças graves.
 
 ### Como se vacinar contra o HPV com a nonavalente em Manaus?
 
@@ -95,7 +95,7 @@ As vacinas contra HPV estão entre as mais seguras do mundo, com eficácia compr
 
 **"A vacina é só para meninas?"** 
 
-Não. A vacinação contra o HPV é recomendada tanto para homens quanto para mulheres. Nos homens, ela previne cânceres de pênis, ânus e orofaringe (garganta), além de desempenhar um papel fundamental na redução da transmissão do vírus e aparecimento de verrugas genitais.
+Não. A vacinação contra o HPV é recomendada tanto para homens quanto para mulheres. Nos homens, ela previne cânceres de pênis, ânus e orofaringe (garganta). Além disso, protege contra o aparecimento de verrugas genitais benignas e reduz a transmissão e circulação do vírus na comunidade.
 
 **"Após o início da vida sexual, a vacina perde a eficácia?"** 
 
