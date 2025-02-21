@@ -27,7 +27,7 @@ Em nosso consultório, prescrevemos a **vacina nonavalente**, uma opção **mais
 
 * HPV 6 e 11: responsáveis por verrugas genitais.
 * HPV 16 e 18: principais causadores de câncer do colo de útero.
-* HPV 31, 33, 45, 52 e 58: tipos adicionais também associados ao desenvolvimento de câncer.
+* HPV 31, 33, 45, 52 e 58: tipos menos comuns mas também associados ao desenvolvimento de câncer.
 
 Além da proteção para verrugas genitais, a vacina nonavalente previne até 90% dos cânceres associados ao HPV, incluindo:
 
