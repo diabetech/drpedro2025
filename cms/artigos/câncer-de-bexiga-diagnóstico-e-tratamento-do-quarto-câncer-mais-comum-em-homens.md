@@ -93,6 +93,31 @@ O tratamento depende de fatores como o estadiamento (extensão da doença), grau
 ### Para tumores superficiais (não invadem o músculo):
 
 * **Ressecção transuretral do tumor (RTU-B):** Removemos o tumor por via endoscópica através da uretra, sem necessidade de cortes externos.
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/78Ri5SCEvTg"
+    title="Câncer de Bexiga - Tratamento Endoscópico"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
+
 * **Terapia intravesical:** Aplicamos medicamentos dentro da bexiga por meio de uma sonda, para reduzir recorrências e progressão da doença. O principal destes medicamentos é a onco-BCG.
 
 ### **Para tumores profundos (músculo-invasivos):**
