@@ -1,12 +1,12 @@
 ---
-title: "Câncer de Rim: da crescente incidência à nefrectomia parcial"
+title: "Câncer de Rim: o que você deve saber?"
 created-on: 2025-02-22T01:18:48.216Z
 updated-on: 2025-02-22T01:18:48.258Z
 published-on: 2025-02-22T01:18:48.291Z
 f_destaque: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/nefrectomia-parcial2.jpeg
+  url: /assets/images/laparoscopia-rim.jpg
 f_post-summary: Através dos exames de imagem modernos, podemos diagnosticar a
   doença em fases iniciais, permitindo a cura do paciente através de cirurgias
   preservadoras renais - as chamadas nefrectomias parciais.
