@@ -29,8 +29,6 @@ Ao contrário do que o nome possa sugerir, a plataforma robótica não é um sis
 
 A grande vantagem da cirurgia robótica está na tecnologia avançada incorporada, que proporciona qualidade de imagem superior e movimentos articulados e precisos no interior do corpo humano durante o procedimento.
 
-![]()
-
 O sistema é composto por três partes principais que trabalham em perfeita sincronia:
 
 <div style="text-align: center; margin-bottom: 20px;">
