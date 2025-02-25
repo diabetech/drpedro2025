@@ -90,7 +90,7 @@ A torre de comando integra todo o sistema. Possui diversos componentes:
 
 ## Benefícios para o paciente com câncer de próstata
 
-A integração destas três partes na [cirurgia robótica oferece vantagens](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/) em comparação com técnicas cirúrgicas convencionais:
+A integração destas três partes na **[cirurgia robótica oferece vantagens](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/)** em comparação com técnicas cirúrgicas convencionais:
 
 * **Menor sangramento:** A visualização precisa de vasos sanguíneos permite coagulação meticulosa.
 * **Preservação de estruturas:** Maior chance de manter a função sexual e a continência urinária.
