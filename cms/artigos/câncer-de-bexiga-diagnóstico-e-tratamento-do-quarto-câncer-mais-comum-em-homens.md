@@ -18,26 +18,26 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-O câncer de bexiga ocupa a **[quarta posição entre os tipos de câncer mais comuns em homens](https://www.pfizer.com.br/sua-saude/oncologia/cancer-de-bexiga#:~:text=O%20c%C3%A2ncer%20de%20bexiga%20%C3%A9%20o%20quarto%20mais%20comum%20em,s%C3%A3o%20os%20grupos%20mais%20afetados.).** Este tumor representa aproximadamente 7% de todos os casos de câncer masculino, sendo superado apenas pelos **[cânceres de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/),** pulmão e cólon. Com o diagnóstico precoce, as chances de cura aumentam significativamente.
+O câncer de bexiga ocupa a **[quarta posição entre os tipos de câncer mais comuns em homens](https://www.pfizer.com.br/sua-saude/oncologia/cancer-de-bexiga#:~:text=O%20c%C3%A2ncer%20de%20bexiga%20%C3%A9%20o%20quarto%20mais%20comum%20em,s%C3%A3o%20os%20grupos%20mais%20afetados.).** Representa aproximadamente 7% de todos os casos de câncer masculino, sendo superado apenas pelos **[cânceres de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/),** pulmão e cólon. Com o diagnóstico precoce, as chances de cura aumentam significativamente.
 
 ## O que é o câncer de bexiga?
 
-O câncer de bexiga se desenvolve nas células do revestimento interno do órgão. Em mais de 90% dos casos, encontramos o tipo conhecido como carcinoma urotelial (também chamado de carcinoma de células transicionais). Existem outros tipos menos frequentes, como o carcinoma de células escamosas e o adenocarcinoma.
+O câncer de bexiga é um tumor do revestimento interno do órgão, ou seja, da parte da bexiga em contato com a urina. **Quando o indivíduo fuma, diversas substâncias tóxicas e carcinogênicas são eliminadas na urina e entram em contato com as células da bexiga, causando o câncer**.  O tipo mais comum (90% dos casos) é o carcinoma urotelial (também chamado de carcinoma de células transicionais).
 
 ## Quais são os principais fatores de risco para o câncer de bexiga?
 
 O conhecimento dos fatores de risco ajuda na prevenção desta doença:
 
-1. **Tabagismo:** Fumar aumenta em até quatro vezes o risco de desenvolver câncer de bexiga. Aproximadamente 70% dos casos estão diretamente relacionados ao tabagismo.
-2. **Exposição ocupacional:** Profissionais das indústrias têxtil, de tintas, borracha, couro, petroquímica, alumínio e impressão apresentam maior risco devido ao contato com determinadas substâncias tóxicas, como as aminas aromáticas e hidrocarbonetos policíclicos.
-3. **Idade:** A incidência cresce significativamente após os 60 anos, com idade média de 73 anos no momento do diagnóstico.
-4. **Sexo masculino:** Homens têm risco aproximadamente três vezes maior em comparação às mulheres.
-5. **Histórico familiar:** Ter parentes de primeiro grau com este tumor eleva o risco individual.
+1. **Tabagismo:** fumar aumenta em até quatro vezes o risco de desenvolver câncer de bexiga. Aproximadamente 70% dos casos estão diretamente relacionados ao tabagismo.
+2. **Exposição ocupacional:** profissionais das indústrias têxtil, de tintas, borracha, couro, petroquímica, alumínio e impressão apresentam maior risco devido ao contato com determinadas substâncias tóxicas, como as aminas aromáticas e hidrocarbonetos policíclicos.
+3. **Idade:** a incidência cresce significativamente após os 60 anos, com idade média de 7 anos no momento do diagnóstico.
+4. **Sexo masculino:** homens têm risco aproximadamente três vezes maior em comparação às mulheres.
+5. **Histórico familiar:** ter parentes de primeiro grau com este tumor eleva o risco individual.
 6. **Infecções crônicas da bexiga e cálculo vesical:** estão relacionados a um tipo de tumor chamado carcinoma de células escamosas.
 
 ### Notei sangue na urina. Pode ser câncer de bexiga?
 
-O sangue na urina (**[hematúria](https://uroconsult.com.br/artigos/hematuria-diagnostico-e-tratamento-do-sangramento-urinario/)**) aparece em cerca de 85% dos pacientes com câncer de bexiga e merece atenção imediata pois é o sintoma mais comum em pacientes com câncer de bexiga. Este sangramento pode ser visível a olho nu (hematúria macroscópica) ou detectável apenas em exames laboratoriais (hematúria microscópica). A presença de coágulos (pedaços enegrecidos de sangue na urina) deve ser sempre considerado um sinal de alerta para câncer de bexiga.
+O sangue na urina (**[hematúria](https://uroconsult.com.br/artigos/hematuria-diagnostico-e-tratamento-do-sangramento-urinario/)**) aparece em cerca de 85% dos pacientes com câncer de bexiga e merece atenção imediata pois é o sintoma mais comum em pacientes com câncer de bexiga. Este sangramento pode ser visível a olho nu (hematúria macroscópica) ou detectável apenas em exames laboratoriais (hematúria microscópica). **A presença de coágulos (pedaços enegrecidos de sangue na urina) deve ser sempre considerado um sinal de alerta para câncer de bexiga**.
 
 Todo paciente tabagista ou idoso com hematúria deve ser submetido a uma **[cistoscopia](https://uroconsult.com.br/artigos/cistoscopia-o-que-e-e-quando-esta-indicada/)** (endoscopia da bexiga).
 
