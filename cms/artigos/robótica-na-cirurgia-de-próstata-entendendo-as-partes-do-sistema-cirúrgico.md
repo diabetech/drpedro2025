@@ -1,5 +1,5 @@
 ---
-title: "O Robô Cirúrgico: entendendo a plataforma robótica para cirurgias"
+title: "O Robô Cirúrgico: entendendo a plataforma robótica"
 created-on: 2025-02-25T15:51:38.456Z
 updated-on: 2025-02-25T15:51:38.491Z
 published-on: 2025-02-25T15:51:38.523Z
