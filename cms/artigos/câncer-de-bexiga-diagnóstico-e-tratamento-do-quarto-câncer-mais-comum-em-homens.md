@@ -1,6 +1,5 @@
 ---
-title: "Câncer de Bexiga: diagnóstico e tratamento do quarto câncer mais comum
-  em homens"
+title: "Câncer de Bexiga: diagnóstico e tratamento de um câncer muito comum"
 created-on: 2025-02-25T11:18:44.788Z
 updated-on: 2025-02-25T11:18:44.840Z
 published-on: 2025-02-25T11:18:44.883Z
