@@ -21,11 +21,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A maioria dos casos de **[câncer renal](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** podem ser tratados uando detectado precocemente, permite um tratamento  que une cura oncológica, preservação funcional e segurança pós-operatória — a **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indica-se a nefrectomia radical, ou seja, a remoção total do rim.
+Para o tratamento moderno do **[câncer renal,](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** recomendamos uma cirurgia que concilie cura oncológica, preservação da função renal e segurança pós-operatória — a **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indicava-se a nefrectomia radical, ou seja, a remoção total do rim.
 
 ## O que significa Trifecta no tratamento do câncer de rim?
 
-O termo Trifecta se refere aos três objetivos principais de uma cirurgia para tratamento do câncer renal na atualidade:
+O termo Trifecta se refere aos três objetivos principais do tratamento cirúrgico do câncer renal na atualidade:
 
 1. **Remoção completa do câncer**: remoção total do tumor com margens cirúrgicas limpas (negativas).
 2. **Preservação máxima da função renal:** ou seja, perda de função renal < 10% em relação a antes da cirurgia.
