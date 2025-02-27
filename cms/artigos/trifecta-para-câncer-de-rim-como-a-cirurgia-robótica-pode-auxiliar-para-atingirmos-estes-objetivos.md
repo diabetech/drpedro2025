@@ -1,6 +1,6 @@
 ---
-title: "Trifecta para câncer de rim: como a cirurgia robótica pode auxiliar para
-  atingirmos estes objetivos?"
+title: "Trifecta no câncer renal: como a cirurgia robótica contribui para
+  alcançar esses objetivos?"
 created-on: 2025-02-27T16:35:53.738Z
 updated-on: 2025-02-27T16:35:53.784Z
 published-on: 2025-02-27T16:35:53.817Z
@@ -21,7 +21,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-O **[câncer renal](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)**, quando detectado precocemente, permite uma abordagem que une cura oncológica, preservação funcional e segurança pós-operatória — a **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indica-se a nefrectomia radical, ou seja, a remoção total do rim.
+A maioria dos casos de **[câncer renal](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** podem ser tratados uando detectado precocemente, permite um tratamento  que une cura oncológica, preservação funcional e segurança pós-operatória — a **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indica-se a nefrectomia radical, ou seja, a remoção total do rim.
 
 ## O que significa Trifecta no tratamento do câncer de rim?
 
@@ -97,6 +97,7 @@ As principais diretrizes urológicas mundiais, como a da **[Associação Europei
 ## Posso fazer cirurgia robótica morando em Manaus?
 
 [](https://www.youtube.com/watch?v=EtSwm4qoiHo)<div style="text-align: center; margin-bottom: 20px;">
+
   <iframe
     width="100%"
     height="500"
