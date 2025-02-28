@@ -28,6 +28,30 @@ Solicitamos habitualmente duas amostras de sêmen com intervalo de 7 a 15 dias e
 
 ### Orientações para obter uma amostra adequada
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/binZx6N9iXo"
+    title="Espermograma: como colher?"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
+
 Para assegurar um resultado confiável, **siga estas orientações**:
 
 * Abstinência sexual por 2 a 4 dias antes da coleta. Em outras palavras, **última ejaculação deve acontecer cerca de 3 dias antes da coleta**.
