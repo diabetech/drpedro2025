@@ -141,9 +141,9 @@ A decisão requer análise personalizada de um **[urologista especializado](http
 
 **A cirurgia robótica pode ser realizada atualmente para todos os casos de câncer renal**, sobretudo para quando planejamos preservar o rim. Quando o paciente não pode fazer a cirurgia robótica em São Paulo, indicamos a **[cirurgia por vídeo Manaus](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia-como-e-feita/)**.
 
-A robótica, embora desejável sempre atualmente, está especialmente indicada quando:
+A robótica, embora possa ser realizada em todos os casos de câncer, está especialmente indicada quando:
 
-* Pacientes com função renal já comprometida.
+* Pacientes com insuficiência renal.
 * Pessoas com apenas um rim.
 * Pacientes com tumores renais complexos.
 * Pacientes com múltiplos tumores renais.
