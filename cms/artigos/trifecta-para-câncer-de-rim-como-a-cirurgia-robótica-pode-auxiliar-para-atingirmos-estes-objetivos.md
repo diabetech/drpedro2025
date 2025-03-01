@@ -21,7 +21,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Para o tratamento moderno do **[câncer renal,](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** recomendamos uma cirurgia que concilie cura oncológica, preservação da função renal e segurança pós-operatória — a **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indicava-se a nefrectomia radical, ou seja, a remoção total do rim.
+Para o tratamento moderno do **[câncer renal,](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** recomendamos uma cirurgia que concilie cura oncológica, preservação da função renal e segurança pós-operatória — a chamada **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indicava-se a nefrectomia radical, ou seja, a remoção total do rim.
 
 ## O que significa Trifecta no tratamento do câncer de rim?
 
@@ -31,15 +31,15 @@ O termo Trifecta se refere aos três objetivos principais do tratamento cirúrgi
 2. **Preservação máxima da função renal:** ou seja, perda de função renal < 10% em relação a antes da cirurgia.
 3. **Ausência de complicações graves:** como sangramento, vazamento de urina ou necessidade de nova cirurgia.
 
-Alcançar estes três objetivos simultaneamente otimiza as chances de cura, reduz o risco de diálise no futuro, reduz risco cardiovascular e está associada a melhor qualidade de vida após o procedimento. Estudos comprovam que atingir a Trifecta reduz em 40% o risco de declínio renal futuro e eleva em 65% as taxas de satisfação pós-cirúrgica (Journal of Urology, 2023).
+Alcançar estes três objetivos simultaneamente otimiza as chances de cura, reduz o risco de diálise no futuro, reduz risco cardiovascular e melhora a qualidade de vida após o procedimento. Estudos comprovam que atingir a Trifecta reduz em 40% o risco de declínio renal futuro e eleva em 65% as taxas de satisfação pós-cirúrgica (Journal of Urology, 2023).
 
 ## Por que é importante preservar o rim durante a cirurgia?
 
-Porque a perda de função renal está associada a **maior risco de problemas cardiovasculares e menor sobrevida**, pois aumenta o risco de o paciente morrer de causas não relacionadas ao câncer de rim. Cerca de 25% dos pacientes com câncer de rim já apresentam algum comprometimento renal no diagnóstico, tornando ainda mais importante preservar o tecido renal saudável.
+Porque a perda de função renal **aumenta o risco de problemas cardiovasculares e diminui a  sobrevida**, ou seja, aumenta o risco de o paciente morrer de causas não relacionadas ao câncer de rim. Cerca de 25% dos pacientes com câncer de rim já apresentam algum comprometimento renal antes do diagnóstico, tornando ainda mais importante preservar o tecido renal saudável.
 
 ![](/assets/images/kidneeyy.png)
 
-Nefrectomia parcial: preservação do rim com retirada apenas da parte com o tumor.
+*Nefrectomia parcial: preservação do rim com retirada apenas da parte onde está o tumor.*
 
 ## Como a cirurgia robótica ajuda a atingir a Trifecta?
 
