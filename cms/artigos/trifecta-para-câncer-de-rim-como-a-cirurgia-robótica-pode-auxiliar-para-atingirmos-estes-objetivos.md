@@ -59,6 +59,7 @@ A **cirurgia robótica** supera as técnicas tradicionais em três aspectos:
 
 * Menor sangramento durante a cirurgia.
 * Incisões menores e recuperação mais rápida.
+* Recursos que facilitam o controle de intercorrências no momento da cirurgia, como sangramento.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -86,15 +87,13 @@ A **cirurgia robótica** supera as técnicas tradicionais em três aspectos:
 
 A precisão da **[cirurgia robótica](https://uroconsult.com.br/artigos/o-que-e-uma-prostatectomia-robotica-para-cancer-de-prostata/)** tem revolucionado também o tratamento de outros cânceres urológicos, como o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**. 
 
-Assim como buscamos a **Trifecta no câncer renal,** a tecnologia robótica viabiliza a **[Pentafecta nos casos prostáticos](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** — 5 objetivos fundamentais que incluem cura oncológica, segurança cirúrgica, preservação da continência urinária, recuperação da função erétil e margens livres de tumor. Estes demonstram como a precisão robótica preserva estruturas nervosas críticas, reduzindo riscos de incontinência e disfunção erétil, enquanto mantém taxas elevadas de controle do câncer.
+Assim como buscamos a **Trifecta no câncer renal,** a tecnologia robótica viabiliza a **[Pentafecta nos casos prostáticos](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** — 5 objetivos fundamentais que incluem cura oncológica, segurança cirúrgica, preservação da continência urinária, recuperação da função erétil e margens livres de tumor. A precisão  da robótica permite, em muitos casos, preservarmos estruturas nervosas críticas, reduzindo riscos de incontinência e disfunção erétil, enquanto mantém taxas elevadas de controle do câncer.
 
 ### O que dizem as diretrizes médicas sobre este tipo de cirurgia?
 
-As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da[**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação de parte do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
+As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da[**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
 
 **Dentre as técnicas operatórias, a cirurgia robótica é citada como a melhor opção.**
-
-## Posso fazer cirurgia robótica morando em Manaus?
 
 [](https://www.youtube.com/watch?v=EtSwm4qoiHo)<div style="text-align: center; margin-bottom: 20px;">
 
@@ -120,6 +119,8 @@ As principais diretrizes urológicas mundiais, como a da **[Associação Europei
       }
     }  </script>
 </div>
+
+## Posso fazer cirurgia robótica morando em Manaus?
 
 Sim. Embora o robô cirúrgico ainda não esteja disponível em Manaus, nossos pacientes têm acesso a este tratamento através de parcerias com centros de referência em São Paulo. O processo funciona assim:
 
