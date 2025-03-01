@@ -35,7 +35,7 @@ Alcançar estes três objetivos simultaneamente otimiza as chances de cura, redu
 
 ## Por que é importante preservar o rim durante a cirurgia?
 
-Porque a perda de função renal **aumenta o risco de problemas cardiovasculares e diminui a  sobrevida**, ou seja, aumenta o risco de o paciente morrer de causas não relacionadas ao câncer de rim. Cerca de 25% dos pacientes com câncer de rim já apresentam algum comprometimento renal antes do diagnóstico, tornando ainda mais importante preservar o tecido renal saudável.
+Porque a perda de função renal **aumenta o risco de problemas cardiovasculares e diminui a  sobrevida**, ou seja, aumenta o risco de o paciente morrer de causas não relacionadas ao câncer de rim. Cerca de 25% dos pacientes com câncer de rim já apresentam algum comprometimento renal antes do diagnóstico, o que ressalta a importância de preservar o tecido renal saudável sem tumor.
 
 ![](/assets/images/kidneeyy.png)
 
@@ -52,7 +52,7 @@ A **cirurgia robótica** supera as técnicas tradicionais em três aspectos:
 
 **Para preservar o rim:**
 
-* Redução do tempo em que o rim fica sem circulação sanguínea.
+* Redução do tempo de clampeamento do rim, ou seja, do tempo em que o rim fica sem circulação sanguínea.
 * Capacidade de reconstruir estruturas delicadas com maior precisão e rapidez.
 
 **Para reduzir complicações:**
