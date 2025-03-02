@@ -6,7 +6,7 @@ published-on: 2025-03-02T00:23:38.444Z
 f_destaque: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/nefrectomia-parcial-1-.png
+  url: /assets/images/câncer-de-rim.jpg
 f_post-summary: O câncer de rim representa o 14º tipo de câncer mais comum
   mundialmente. No Brasil, ocupa a 10ª posição entre os tipos mais frequentes,
   com cerca de 12.000 casos anuais registrados.
@@ -18,13 +18,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-O **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** representa o 14º tipo de câncer mais comum mundialmente. No Brasil, ocupa a 10ª posição entre os tipos mais frequentes, com cerca de 12.000 casos anuais registrados. **No Brasil, o câncer de rim matou mais de 10.000 pessoas nos últimos 3 anos.**
+O **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** é o 14º tipo de câncer mais comum mundialmente. No Brasil, ocupa a 10ª posição entre os tipos mais frequentes, com cerca de 12.000 casos anuais registrados. **No Brasil, o câncer de rim matou mais de 10.000 pessoas nos últimos 3 anos.**
 
 ### Panorama epidemiológico do câncer renal na região amazônica
 
-A incidência do câncer renal tem taxa de aumento anual de 2,4% segundo dados da **[Agência Internacional de Pesquisa sobre Câncer (IARC)](https://www.iarc.who.int/)**. No Amazonas, embora os dados sejam mais escassos, o Sistema de Informação sobre Mortalidade (SIM) registrou 262 óbitos por esta doença em 2020, representando uma taxa de mortalidade de 4,6 por 100.000 habitantes.
-
-Os dados epidemiológicos sobre o câncer renal, especificamente na região amazônica, são limitados. No entanto, algumas percepções podem ser extraídas da literatura disponível. Um estudo focado na Bacia Amazônica do Equador analisou a incidência de câncer em relação à proximidade de campos de petróleo. Esse estudo descobriu que o risco relativo de câncer renal era significativamente elevado em populações que viviam próximas aos campos de petróleo em comparação com aquelas em áreas não expostas. Isso sugere uma possível influência ambiental na incidência de câncer renal nessa região, possivelmente ligada às atividades de extração de petróleo e à poluição ambiental associada.
+A incidência do câncer renal vem aumentando em 2,4% a cada ano, segundo dados da **[Agência Internacional de Pesquisa sobre Câncer (IARC)](https://www.iarc.who.int/)**. No Amazonas, embora os dados sejam mais escassos, o Sistema de Informação sobre Mortalidade (SIM) registrou 262 óbitos por esta doença em 2020, representando uma taxa de mortalidade de 4,6 por 100.000 habitantes.
 
 A distribuição geográfica do câncer renal no Brasil mostra maior incidência nas regiões Sul e Sudeste, com taxas comparativamente menores no Norte e Nordeste. Entretanto, **esta menor incidência pode estar relacionada a subnotificação e diagnósticos tardios**, reflexo das dificuldades de acesso a serviços especializados de saúde em regiões mais remotas.
 
@@ -53,11 +51,15 @@ Diversos fatores elevam o risco de desenvolvimento do câncer renal:
 * Histórico familiar de câncer renal.
 * Síndromes genéticas específicas (como a doença de Von Hippel-Lindau).
 
+### Existem outros fatores de risco no Amazonas?
+
 Na região amazônica, a **exposição a agentes químicos utilizados em garimpos e na agricultura, além da exposição a derivados do petróleo em determinadas regiões** também podem ser fatores de risco.
+
+Um estudo focado na Bacia Amazônica do Equador analisou a incidência de câncer em relação à proximidade de campos de petróleo. Esse estudo descobriu que o risco relativo de câncer renal era significativamente elevado em populações que viviam próximas aos campos de petróleo em comparação com aquelas em áreas não expostas. Isso sugere uma possível influência ambiental na incidência de câncer renal nessa região, possivelmente ligada às atividades de extração de petróleo e à poluição ambiental associada.
 
 ### Diagnóstico precoce do câncer de rim: como é feito?
 
-O diagnóstico do câncer renal baseia-se principalmente em exames de imagem. Os principais métodos diagnósticos incluem:
+O diagnóstico do câncer renal baseia-se principalmente em exames de imagem, ou seja, **o paciente não sente nada** e descobre o tumor renal quando realizada um dos exames abaixo:
 
 * **Ultrassonografia abdominal:** geralmente o primeiro exame realizado, detecta a presença de massas renais.
 * **Tomografia computadorizada (TC):** essencial para caracterizar detalhadamente o tumor e planejar o tratamento.
