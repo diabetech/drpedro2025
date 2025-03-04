@@ -4,7 +4,7 @@ created-on: 2025-02-13T16:07:13.178Z
 updated-on: 2025-02-13T16:07:13.221Z
 published-on: 2025-02-13T16:07:13.250Z
 f_destaque: false
-f_especialidades: cms/especialidades/prostata.md
+f_especialidades: cms/especialidades/urologia-feminina.md
 f_main-image:
   url: /assets/images/endoscopia6-1-.jpg
 f_post-summary: >
