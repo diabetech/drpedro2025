@@ -1,19 +1,19 @@
 ---
-title: Tratamento da perda de urina em mulheres
 created-on: 2024-12-02T18:09:53.004Z
-updated-on: 2024-12-02T18:09:53.004Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
-f_especialidades: cms/especialidades/urologia-feminina.md
+f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fef_sintomas-da-infeccao-urinaria-1030x684-1201.jpg
   alt: null
+tags: artigos
+layout: "[artigos].html"
+slug: tratamento-da-perda-de-urina-em-mulheres
+title: Tratamento da perda de urina em mulheres
+updated-on: 2024-12-02T18:09:53.004Z
 f_post-summary: Explicação sobre a incontinência urinária feminina e seu
   tratamento moderno através do Sling vaginal, incluindo procedimento cirúrgico
   e benefícios do método.
-layout: "[artigos].html"
-slug: tratamento-da-perda-de-urina-em-mulheres
-tags: artigos
 date: 2025-01-04T16:30:25.423Z
 ---
 A perda de urina em mulheres, ou incontinência urinária feminina em termos técnicos, é caracterizada pelo vazamento involuntário de urina em menor ou maior quantidade. O tipo mais comum ocorre durante a realização de algum esforço físico, tosse ou espirro: **é a chamada incontinência urinária de esforço.**
