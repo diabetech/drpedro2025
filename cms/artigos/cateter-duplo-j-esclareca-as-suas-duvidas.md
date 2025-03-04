@@ -1,5 +1,5 @@
 ---
-title: "Cateter duplo J: esclareça as suas dúvidas"
+title: "Cateter duplo J: guia para o paciente"
 created-on: 2024-12-02T20:36:20.218Z
 updated-on: 2024-12-02T20:36:20.218Z
 published-on: 2024-12-22T14:26:25.060Z
@@ -8,18 +8,30 @@ f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07003_screenshot-2020-03-16-19.12.42-e1584400691226.png
   alt: Cateter duplo J
-f_post-summary: Guia informativo sobre o cateter duplo J. Assista em
+f_post-summary: Guia informativo sobre o cateter duplo J. Assista um
   procedimento de retirada de duplo J.
 layout: "[artigos].html"
 slug: cateter-duplo-j-esclareca-as-suas-duvidas
 tags: artigos
 date: 2025-01-03T21:32:42.538Z
 ---
-Após cirurgias para **[cálculos urinários](https://uroconsult.com.br/artigos/laser-para-tratamento-de-calculos-no-rim-e-ureter/)**, é comum o canal do ureter fechar-se pela inflamação decorrente do próprio procedimento e da obstrução pelo cálculo, impedindo a passagem de urina. A não passagem de urina do rim para a bexiga causaria forte dor no pós-operatório. **Para evitar isto, utilizamos o cateter duplo J**, que é um tubo bem fino que conduz a urina dos rins até bexiga. Recebe este nome por possuir uma curva em forma de J em cada extremidade.
+Após cirurgias para **[cálculos urinários](https://uroconsult.com.br/artigos/laser-para-tratamento-de-calculos-no-rim-e-ureter/)**, é comum o canal do ureter fechar-se pela inflamação (edema) decorrente do próprio procedimento e da obstrução pelo cálculo, impedindo a passagem de urina. A dificuldade de passagem de urina do rim para a bexiga causaria forte dor no pós-operatório. **Para evitar isto, utilizamos o cateter duplo J**, que é um tubo bem fino que conduz a urina dos rins até bexiga. Recebe este nome por possuir uma curva em forma de J em cada extremidade.
 
-## Quais são as consequências/incômodos causados pelo Duplo J?
+![](/assets/images/cateter-duplo-j-em-pdf.jpg)
 
-O duplo J é colocado em benefício do paciente, para evitar dor no pós-operatório e outras complicações como estenose (obstrução por cicatrização anômala) do ureter. Porém, por ser um corpo estranho, pode causar alguns sintomas adversos como dor ao urinar, urgência miccional (necessidade de correr para urinar), dor nas costas ao urinar, frequência miccional elevada e sangramento na urina. Estes sintomas costumam ser leves e são aliviados com os remédios prescritos no pós-operatório.‍
+*O duplo J: uma extremidade fica na bexiga e a outra no rim.*
+
+## Quais são os sintomas causados pelo Duplo J?
+
+O duplo J é colocado em benefício do paciente, para evitar dor no pós-operatório e outras complicações como estenose (obstrução por cicatrização anômala) do ureter. Porém, por ser um corpo estranho, pode causar alguns sintomas adversos como:
+
+* Dor ao urinar.
+* Urgência miccional, ou seja, necessidade de correr para urinar.
+* Dor nas costas ao urinar.
+* Frequência miccional elevada
+*  Sangramento na urina.
+
+**Estes sintomas costumam ser leves e são aliviados com os remédios prescritos no pós-operatório.‍**
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -47,7 +59,7 @@ O duplo J é colocado em benefício do paciente, para evitar dor no pós-operat�
 
 ## Por quanto tempo o duplo J fica dentro do corpo após a cirurgia?
 
-Isto depende da cirurgia. O período varia de 7 a 28 dias. Apenas em casos excepcionais é necessário deixar o cateter por mais tempo. **A média de tempo na maior parte dos casos é de 7-14 dias**.
+Isto depende da cirurgia. O período varia de 7 a 25 dias. Apenas em casos excepcionais é necessário deixar o cateter por mais tempo. **A maioria dos pacientes fica com o cateter durante 2 semanas.**
 
 ## Como é retirado o duplo J?
 
