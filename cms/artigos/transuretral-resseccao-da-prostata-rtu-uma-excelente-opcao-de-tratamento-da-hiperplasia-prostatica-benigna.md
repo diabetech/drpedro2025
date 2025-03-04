@@ -5,7 +5,7 @@ created-on: 2025-02-04T01:58:11.433Z
 updated-on: 2025-02-04T01:58:11.451Z
 published-on: 2025-02-04T01:58:11.481Z
 f_destaque: false
-f_especialidades: cms/especialidades/prostata.md
+f_especialidades: cms/especialidades/urologia-feminina.md
 f_main-image:
   url: /assets/images/transuretral-resseccao-da-prostata.jpg
   alt: Transuretral Ressecção da Próstata
