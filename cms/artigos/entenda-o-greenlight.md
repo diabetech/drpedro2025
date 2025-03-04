@@ -1,19 +1,19 @@
 ---
-title: 'Laser Verde "GreenLight" para tratamento da hiperplasia da próstata:
-  quando fazer?'
 created-on: 2024-12-02T10:15:41.536Z
-updated-on: 2024-12-26T05:17:32.240Z
 published-on: 2024-12-26T05:17:32.240Z
 f_destaque: false
-f_especialidades: cms/especialidades/prostata.md
+f_especialidades: cms/especialidades/urologia-feminina.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06f52_green-light-pedro-henrique.jpg
   alt: null
-f_post-summary: Excelente técnica para tratamento da HPB que temos oferecido aos
-  nossos pacientes em Manaus.
+tags: artigos
 layout: "[artigos].html"
 slug: entenda-o-greenlight-vaporizacao-da-prostata-para-tratamento-da-hiperplasia-prostatica-benigna
-tags: artigos
+title: 'Laser Verde "GreenLight" para tratamento da hiperplasia da próstata:
+  quando fazer?'
+updated-on: 2024-12-26T05:17:32.240Z
+f_post-summary: Excelente técnica para tratamento da HPB que temos oferecido aos
+  nossos pacientes em Manaus.
 date: 2025-01-03T23:51:27.601Z
 ---
 **A hiperplasia prostática benigna (HPB), ou aumento benigno da próstata, é uma condição que afeta milhares de homens no Brasil. Como urologista dedicado a** **[cirurgias minimamente invasivas](https://uroconsult.com.br/artigos/cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens/), tenho visto o impacto que esta condição causa na qualidade de vida dos meus pacientes. Neste artigo, apresentarei o tratamento GreenLight (Vaporização da próstata com laser de luz verde), uma excelente técnica para tratamento cirúrgico da HPB que temos oferecido aos nossos pacientes em Manaus.**
