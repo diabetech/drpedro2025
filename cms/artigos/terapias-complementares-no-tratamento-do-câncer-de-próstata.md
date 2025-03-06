@@ -48,4 +48,6 @@ O impacto emocional do diagnóstico e tratamento do câncer pode ser significati
 
 ## Considerações finais
 
-Antes de adotar qualquer terapia complementar, é essencial conversar com um **[Uro-oncologista](https://uroconsult.com.br/artigos/urologista-em-manaus/)**. Algumas práticas podem interagir com os tratamentos convencionais e devem ser avaliadas caso a caso. O importante é buscar uma abordagem integrada, combinando avanços da medicina moderna com estratégias que promovam o bem-estar físico e emocional do paciente. Se você ou alguém que conhece está enfrentando o câncer de próstata, busque informações de fontes confiáveis e consulte um especialista para um plano de tratamento personalizado.
+Antes de adotar qualquer terapia complementar, é essencial conversar com um **[Uro-oncologista](https://uroconsult.com.br/artigos/urologista-em-manaus/)**. Algumas práticas podem interagir com os tratamentos convencionais e devem ser avaliadas caso a caso. O importante é buscar uma abordagem integrada, combinando avanços da medicina moderna com estratégias que promovam o bem-estar físico e emocional do paciente.
+
+Se você ou alguém que conhece está enfrentando o câncer de próstata, busque informações de fontes confiáveis e consulte um especialista para um plano de tratamento personalizado.  Cuidar da sua saúde é sempre o melhor caminho!  **[Clique aqui para falar com nossa assistente](https://api.whatsapp.com/send?phone=5592982252490)!**
