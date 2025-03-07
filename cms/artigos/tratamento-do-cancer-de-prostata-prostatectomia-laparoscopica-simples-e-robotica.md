@@ -1,6 +1,6 @@
 ---
-title: "Tratamento do câncer de próstata: prostatectomia laparoscópica versus
-  prostatectomia robótica"
+title: "Cirurgias para o câncer de próstata: prostatectomia laparoscópica,
+  robótica e outras técnicas"
 created-on: 2024-12-02T18:36:45.619Z
 updated-on: 2024-12-02T18:36:45.619Z
 published-on: 2024-12-22T14:26:25.060Z
@@ -9,9 +9,8 @@ f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06ff3_cirugia-1030x585-1201.jpg
   alt: Centro cirurgico
-f_post-summary: Detalhamento das técnicas de prostatectomia radical, incluindo
-  comparação entre métodos cirúrgicos, taxas de cura e possíveis efeitos
-  colaterais como impotência e incontinência urinária.
+f_post-summary: Entenda quais são as técnicas cirúrgicas atualmente disponíveis
+  para tratar o câncer de próstata.
 layout: "[artigos].html"
 slug: tratamento-do-cancer-de-prostata-prostatectomia-laparoscopica-simples-e-robotica
 tags: artigos
