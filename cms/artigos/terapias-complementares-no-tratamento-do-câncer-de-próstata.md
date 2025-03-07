@@ -8,8 +8,8 @@ f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/images/pexels-vlada-karpovich-8939892.jpg
 f_post-summary: As medidas complementares não substituem o tratamento
-  convencional, elas podem trazer benefícios significativos e contribuir para o
-  bem-estar do paciente.
+  convencional, mas podem ser benéficas e contribuir para o bem-estar do
+  paciente.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-06T16:35:42.325Z
