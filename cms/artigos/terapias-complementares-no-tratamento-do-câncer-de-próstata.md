@@ -24,15 +24,17 @@ Embora as terapias complementares não substituam o tratamento convencional, ela
 
 ### Alimentação e suplementação
 
-![](/assets/images/mediterranean-diet-healthy-balanced-food-2021-09-24-00-29-27-utc-1.jpg.webp)
+Uma dieta equilibrada é essencial para a saúde da próstata. Alimentos ricos em antioxidantes, como tomate (licopeno), peixes com ômega-3 e vegetais crucíferos (brócolis, couve-flor) podem auxiliar na redução da inflamação e no fortalecimento do sistema imunológico. Além disso, alguns suplementos, como omega 3, vitamina D e selênio, vêm sendo estudados por seu potencial papel para auxiliar no controle do câncer.
 
-Uma dieta equilibrada é essencial para a saúde da próstata. Alimentos ricos em antioxidantes, como tomate (licopeno), peixes com ômega-3 e vegetais crucíferos (brócolis, couve-flor) podem auxiliar na redução da inflamação e no fortalecimento do sistema imunológico. Além disso, alguns suplementos, como vitamina D e selênio, vêm sendo estudados por seu potencial papel para auxiliar no controle do câncer.
+![](/assets/images/mediterranean-diet-healthy-balanced-food-2021-09-24-00-29-27-utc-1.jpg.webp)
 
 ### Exercício físico e bem-estar
 
+A prática regular de atividades físicas é uma grande aliada da saúde e melhora sensação de bem estar em pacientes oncológicos. Exercícios aeróbicos e de resistência ajudam a controlar o peso, reduzir os efeitos colaterais do tratamento e melhorar o humor. Além disso, práticas como ioga e alongamentos podem aliviar dores e aumentar a flexibilidade.
+
 ![](/assets/images/pexels-rdne-7187827.jpg)
 
-A prática regular de atividades físicas é uma grande aliada da saúde e melhora sensação de bem estar em pacientes oncológicos. Exercícios aeróbicos e de resistência ajudam a controlar o peso, reduzir os efeitos colaterais do tratamento e melhorar o humor. Além disso, práticas como ioga e alongamentos podem aliviar dores e aumentar a flexibilidade.
+
 
 ### Acupuntura
 
