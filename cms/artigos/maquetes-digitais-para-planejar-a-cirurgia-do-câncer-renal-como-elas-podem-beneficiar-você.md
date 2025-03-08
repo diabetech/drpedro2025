@@ -7,9 +7,10 @@ published-on: 2025-03-07T22:24:55.593Z
 f_destaque: false
 f_main-image:
   url: /assets/images/tumorrenal.png
-f_post-summary: As maquetes digitais tridimensionais realizadas antes da
-  cirurgia transformaram o planejamento cirúrgico do câncer renal, oferecendo um
-  entendimento detalhado da anatomia da paciente.
+f_post-summary: As maquetes digitais são reconstruções tridimensionais do rim e
+  do tumor a partir de exames como tomografia computadorizada e ressonância
+  magnética. Elas permitem uma compreensão espacial completa da relação entre o
+  tumor e os vasos sanguíneos.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-07T22:24:55.625Z
@@ -18,11 +19,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A tendência atual para o tratamento do câncer renal é preservar o rim. Isto é desafiador porque **o cirurgião precisa remover completamente o tumor e, ao mesmo tempo, preservar o máximo de tecido renal saudável possível.**
+A tendência atual para o tratamento do câncer renal é preservar o rim. Isto é desafiador porque o **cirurgião precisa remover completamente o tumor e, ao mesmo tempo, preservar o máximo possdvel de tecido renal saudável.**
 
-As maquetes digitais tridimensionais realizadas antes da cirurgia transformaram o planejamento cirúrgico do câncer renal, oferecendo um entendimento detalhado da anatomia da paciente, da localização do tumor renal e da sua relação com os vasos sanguíneos e estruturas próximas ao tumor.
+As maquetes digitais tridimensionais feitas antes da cirurgia permitem planejarmos a cirurgia, pois oferecem um entendimento detalhado da anatomia da paciente, da localização do tumor renal e da sua relação com os vasos sanguíneos e estruturas próximas ao tumor.
 
-Como Uro-oncologista que trata pacientes com câncer de rim, venho disponibilizando esta tecnologia aos meus pacientes com tumores renais complexos e indicação de **[nefrectomia parcial robótica](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)**. Entenda o que são estas maquetes.
+Como Uro-oncologista que trata pacientes com câncer de rim, venho disponibilizando esta tecnologia aos meus pacientes com tumores renais complexos e indicação de **[nefrectomia parcial robótica](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)** ou laparoscópica.
 
 ## O que são modelos digitais para planejamento cirúrgico?
 
