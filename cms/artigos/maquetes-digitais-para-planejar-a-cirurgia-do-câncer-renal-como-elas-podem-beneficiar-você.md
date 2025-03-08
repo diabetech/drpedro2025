@@ -1,10 +1,11 @@
 ---
-title: "Maquetes digitais para planejar a cirurgia do câncer renal: como elas
-  podem beneficiar você?"
+title: "Inovação na cirurgia do câncer renal: como as maquetes digitais podem
+  beneficiar você?"
 created-on: 2025-03-07T22:24:55.528Z
 updated-on: 2025-03-07T22:24:55.556Z
 published-on: 2025-03-07T22:24:55.593Z
 f_destaque: false
+f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/tumorrenal.png
 f_post-summary: As maquetes digitais são reconstruções tridimensionais do rim e
