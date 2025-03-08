@@ -8,9 +8,9 @@ f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/robô-eu-na-frente-2-1-.png
 f_post-summary: >
-  A cirurgia robótica representa uma evolução no tratamento cirúrgico do câncer
-  prostático e do câncer renal, combinando precisão de  movimentos, visão
-  tridimensional em 3d e recuperação acelerada.
+  A cirurgia robótica está consolidada na Urologia para o tratamento cirúrgico
+  do câncer de rim, do câncer de próstata e do câncer de bexiga. Representa uma
+  evolução da vídeo-cirurgia convencional.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-08T13:41:46.963Z
@@ -126,9 +126,9 @@ Realidade: Enquanto o investimento inicial é significativo, análises de custo-
 * Elimina o efeito fulcro (movimento inverso) presente na laparoscopia.
 * Proporciona ergonomia superior para o cirurgião, reduzindo a fadiga em cirurgias complexas.
 
-### Mito 9: Os resultados da cirurgia robótica independem da experiência do cirurgião
+### Mito 9: Os resultados da cirurgia robótica independem do cirurgião
 
-Realidade: A experiência do cirurgião é determinante para os resultados. A tecnologia robótica disponibiliza ao **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus/)** rolamentos para uma cirurgia de qualidade superior, mas não substitui opera sozinho. Estudos publicados no** [Journal of Endourology](https://www.endourology.org/journals/journal-of-endourology)** mostram que os melhores resultados funcionais são obtidos por cirurgiões com mais de 250 casos realizados.
+Realidade: A experiência do cirurgião é determinante para os resultados. A tecnologia robótica disponibiliza ao **[urologista](https://uroconsult.com.br/artigos/urologista-em-manaus/)** recursos para uma cirurgia de qualidade superior, mas não o substitui ou opera de forma autônoma. Estudos publicados no** [Journal of Endourology](https://www.endourology.org/journals/journal-of-endourology)** mostram que os melhores resultados funcionais são obtidos por cirurgiões com mais de 250 casos realizados.
 
 ### Mito 10: A cirurgia robótica não está disponível para pacientes de Manaus
 
