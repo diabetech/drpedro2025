@@ -1,5 +1,5 @@
 ---
-title: 10 Mitos e verdades sobre a cirurgia robótica na urologia
+title: 10 Mitos sobre a cirurgia robótica na Urologia
 created-on: 2025-03-08T13:41:46.869Z
 updated-on: 2025-03-08T13:41:46.910Z
 published-on: 2025-03-08T13:41:46.937Z
