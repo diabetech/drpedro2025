@@ -21,7 +21,7 @@ seo:
 ---
 A tendência atual para o tratamento do câncer renal é preservar o rim. Isto é desafiador porque o **cirurgião precisa remover completamente o tumor e, ao mesmo tempo, preservar o máximo possdvel de tecido renal saudável.**
 
-As maquetes digitais tridimensionais feitas antes da cirurgia permitem planejarmos a cirurgia, pois oferecem um entendimento detalhado da anatomia da paciente, da localização do tumor renal e da sua relação com os vasos sanguíneos e estruturas próximas ao tumor.
+As maquetes digitais tridimensionais feitas antes da cirurgia permitem planejarmos a cirurgia, pois oferecem um entendimento detalhado da anatomia da paciente, da localização do tumor renal e da sua relação com estruturas próximas ao tumor.
 
 Como Uro-oncologista que trata pacientes com câncer de rim, venho disponibilizando esta tecnologia aos meus pacientes com tumores renais complexos e indicação de **[nefrectomia parcial robótica](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)** ou laparoscópica.
 
@@ -33,15 +33,15 @@ As maquetes digitais são reconstruções tridimensionais do rim e do tumor a pa
 
 ![](/assets/images/tumorrenal.png)
 
-**Foto de um caso pessoal:** veja o tumor renal (rosa), a artéria renal (vermelho) e a veia renal. Fica mais fácil compreender a exata localização do tumor e sua relação com os vasos sanguíneos.
+***Foto de um caso pessoal:** veja o tumor renal (rosa), a artéria renal (vermelho) e a veia renal. Fica mais fácil compreender a exata localização do tumor e sua relação com os vasos sanguíneos.*
 
 ### Como a maquete digital me ajuda a planejar sua cirurgia?
 
 A tecnologia de reconstrução 3D auxilia na cirurgia para tratamento do **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** através de diversos aspectos:
 
-* **Planejamento preciso da ressecção do tumor:** visualizo exatamente onde está o tumor e planejo a retirada com margens de segurança.
+* **Planejamento preciso da ressecção do tumor:** visualizo exatamente onde está o tumor e planejo como retirá-lo com margens de segurança.
 * **Identificação antecipada de variações anatômicas:** identifico os vasos sanguíneos do rim e sua relação com o tumor.
-* **Simulação pré-operatória:** posso estudar diferentes abordagens cirúrgicas antes de entrar na sala de cirurgia.
+* **Simulação pré-operatória:** posso estudar diferentes abordagens e possibilidades cirúrgicas antes de entrar na sala de cirurgia.
 * **Melhor comunicação com a equipe cirúrgica:** todos os envolvidos têm uma compreensão clara do plano operatório.
 
 A utilização de modelos 3D no planejamento cirúrgico contribui para otimizar a estratégia operatória, especialmente em casos complexos, facilitando a retirada do tumor e o planejamento da reconstrução do rim.
@@ -81,8 +81,6 @@ Como paciente, você se beneficia diretamente desta tecnologia avançada:
 
 ### Tecnologias disponíveis para criação de maquetes digitais
 
-![](/assets/images/03.jpg)
-
 Plataformas avançadas, como o **[DocDo](https://www.docdo.com.br/v4/home%7D)**, criam modelos 3D interativos a partir de seus exames de imagem. O processo envolve:
 
 1. Processamento de imagens de tomografia ou ressonância magnética.
@@ -91,6 +89,10 @@ Plataformas avançadas, como o **[DocDo](https://www.docdo.com.br/v4/home%7D)**,
 4. Criação de modelo digital manipulável.
 
 O modelo resultante pode ser visualizado em diferentes dispositivos, desde computadores até tablets, e inclusive durante o procedimento cirúrgico. Permite até mesmo a impressão física do modelo em materiais especiais, criando uma representação do rim e do tumor.
+
+![](/assets/images/03.jpg)
+
+
 
 ## Maquetes digitais para cirurgias renais em Manaus
 
