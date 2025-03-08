@@ -6,7 +6,7 @@ published-on: 2025-03-08T13:41:46.937Z
 f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/robô-eu-nas-frente-do-robô.jpg
+  url: /assets/images/screenshot-2025-03-08-at-19.05.46.png
 f_post-summary: >
   A cirurgia robótica está consolidada na Urologia para o tratamento cirúrgico
   do câncer de rim, do câncer de próstata e do câncer de bexiga. Representa uma
