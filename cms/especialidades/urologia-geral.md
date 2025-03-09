@@ -3,7 +3,7 @@ title: Urologia geral
 created-on: 2025-02-01T15:53:33.946Z
 updated-on: 2025-02-01T15:53:33.957Z
 published-on: 2025-02-01T15:53:33.965Z
-f_color: "#e4bc16"
+f_color: "#ac8400"
 tags: especialidades
 layout: "[especialidades].html"
 date: 2025-02-01T15:53:33.974Z
