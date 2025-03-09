@@ -8,21 +8,22 @@ f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/robô-na-mesa-cirúrgica-1-.jpg
   alt: Cirurgia robótica para câncer de próstata
-f_post-summary: Análise das vantagens e desvantagens da cirurgia robótica para
-  câncer de próstata, incluindo benefícios em relação à qualidade de vida
-  pós-operatória e considerações sobre disponibilidade e acesso ao tratamento.
+f_post-summary: O robô cirúrgico é um recurso tecnológico cientificamente
+  estabelecido, amplamente testado em sua segurança e eficácia ao longo dos
+  últimos 20 anos.  Aprenda sobre suas vantagens na cirurgia para o câncer de
+  próstata.
 layout: "[artigos].html"
 slug: cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens
 tags: artigos
 date: 2025-01-03T22:04:29.845Z
 ---
-Ao contrário de modismos na Medicina, que surgem e desaparecem rápido, o robô cirúrgico é um recurso tecnológico que veio para ficar, amplamente testado em sua segurança e eficácia ao longo dos últimos 20 anos. Desde o seu lançamento no mercado americano em 1999, a tecnologia robótica vem se expandindo pelo globo e é aceita hoje como padrão-ouro (ou seja, como melhor método) para tratamento de muitos tumores urológicos, sobretudo do câncer de próstata.
+Ao contrário de modismos na Medicina, que surgem e desaparecem rápido, o robô cirúrgico é um recurso tecnológico cientificamente estabelecido, amplamente testado em sua segurança e eficácia ao longo dos últimos 20 anos. Desde o seu lançamento no mercado americano em 1999, a tecnologia robótica vem se expandindo pelo globo e é aceita hoje como padrão-ouro (ou seja, como melhor método) para tratamento de muitos tumores urológicos, como o câncer de próstata e o câncer de rim.
 
 ### Por que fala-se tanto em robô para próstata e não para outros órgãos? Quais as vantagens?
 
-Primeiro, porque o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)** é o câncer visceral mais comum em homens com mais de 40 anos. Em segundo lugar, porque a cirurgia para câncer de próstata apresenta um desafio principal a mais: o órgão deve ser retirado por inteiro, mas preservando-se o máximo possível duas estruturas fundamentais: 1. os nervos da ereção que estão em contato direto com a próstata; 2. o músculo que nos possibilita segurar a urina.
+Primeiro, porque o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)** é o câncer visceral mais comum em homens com mais de 45 anos. Em segundo lugar, porque a cirurgia para câncer de próstata apresenta um desafio adicional: o órgão deve ser retirado por inteiro, mas preservando duas estruturas distantes apenas alguns milímetros do tumor: os nervos da ereção e o músculo esfíncter urinário responsável pelo controle da urina.
 
-Nos anos 80, quando surgiu a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** a céu aberto para o câncer de próstata, era comum os pacientes usarem fraldas por perda de urina grave após a cirurgia, bem como ficarem sem a capacidade de obter ereções satisfatórias. <div style="text-align: center; margin-bottom: 20px;">
+Desde os anos 80, quando surgiu a **[prostatectomia](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** a céu aberto para o câncer de próstata, era comum os pacientes usarem fraldas por perda de urina grave após a cirurgia, bem como ficarem sem a capacidade de obter ereções satisfatórias. <div style="text-align: center; margin-bottom: 20px;">
 
   <iframe
     width="100%"
@@ -47,9 +48,11 @@ Nos anos 80, quando surgiu a **[prostatectomia](https://uroconsult.com.br/artigo
     }  </script>
 </div>
 
-Atualmente, estes efeitos adversos ainda podem ocorrer, pois não dependem apenas da técnica cirúrgica, mas de determinadas características do paciente (idade, peso, presença de doenças como o diabetes), do câncer e da cicatrização após a cirurgia. Mas a realidade é que se tornaram bem menos frequentes e de menor duração. Em outras palavras, a qualidade de vida após as modernas cirurgias robóticas é superior e um número maior de pacientes ficam potentes e continentes após a cirurgia. Isto está comprovado de modo consistente na literatura médica.
+Atualmente, estes efeitos adversos ainda podem ocorrer, pois não dependem apenas da técnica cirúrgica, mas de determinadas características do paciente (idade, peso, presença de doenças como o diabetes), do câncer e da cicatrização após a cirurgia. **Mas a realidade é que se tornaram bem menos frequentes e com menor duração**. 
 
-Antes de indicar a cirurgia robótica, o cirurgião urológico habilitado nesta tecnologia apresenta o método ao seu paciente, esclarecendo dúvidas, mostrando fotos e vídeos, falando dos riscos e dos benefícios.
+Em outras palavras, a qualidade de vida após as modernas cirurgias robóticas é superior e um número maior de pacientes ficam potentes e continentes após a cirurgia. Isto está comprovado de modo consistente na literatura médica.
+
+Antes de indicar a cirurgia robótica, sempre explico esta tecnologia aos meus pacientes, esclarecendo dúvidas, mostrando fotos e vídeos, falando dos riscos e dos benefícios.
 
 ### Quais as desvantagens?
 
