@@ -16,7 +16,7 @@ slug: cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens
 tags: artigos
 date: 2025-01-03T22:04:29.845Z
 ---
-Ao contrário de modismos na Medicina, que surgem e desaparecem rápido, o robô cirúrgico é um recurso tecnológico que veio para ficar, amplamente testado em sua segurança e eficácia ao longo dos últimos 20 anos. Desde o seu lançamento no mercado americano em 1999, a tecnologia robótica vem se expandindo pelo globo e é aceita hoje como padrão-ouro (ou seja, como melhor método) para tratamento de muitos tumores urológicos, sobretudo do câncer de próstata.
+Ao contrário de modismos na Medicina, que surgem e desaparecem rápido, o robô cirúrgico é um recurso tecnológico cientificamente estabelecido, amplamente testado em sua segurança e eficácia ao longo dos últimos 20 anos. Desde o seu lançamento no mercado americano em 1999, a tecnologia robótica vem se expandindo pelo globo e é aceita hoje como padrão-ouro (ou seja, como melhor método) para tratamento de muitos tumores urológicos, sobretudo do câncer de próstata.
 
 ### Por que fala-se tanto em robô para próstata e não para outros órgãos? Quais as vantagens?
 
