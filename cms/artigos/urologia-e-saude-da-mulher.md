@@ -8,9 +8,8 @@ f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fa6_mulher-no-dia-a-dia2201.png
   alt: null
-f_post-summary: O Urologista também trata pacientes do sexo feminino e não
-  apenas homens, como é a ideia de muitos. Afinal, as mulheres também podem ter
-  doenças no sistema urinário.
+f_post-summary: O Urologista não cuida apenas dos homens. Saiba quais são as
+  principais doenças urológicas em mulheres.
 layout: "[artigos].html"
 slug: urologia-e-saude-da-mulher
 tags: artigos
