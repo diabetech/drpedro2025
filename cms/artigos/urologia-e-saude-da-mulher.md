@@ -21,10 +21,11 @@ A Urologia não é uma especialidade médica exclusiva para homens. O Urologista
 Dentre as principais doenças urológicas que acometem as mulheres estão:
 
 1. **[Infecções urinárias](https://uroconsult.com.br/artigos/infeccoes-urinarias-de-repeticao/).**
-2. Cálculos renais.
-3. Síndrome da bexiga dolorosa.
-4. Tumores de rim e de bexiga.
-5. Bexiga hiperativa.
-6. **[Incontinência urinária (perda de urina)](https://uroconsult.com.br/artigos/tratamento-da-perda-de-urina-em-mulheres/)**, em geral desencadeada por esforços ou após tossir ou espirrar, para o qual existe um tratamento cirúrgico minimamente invasivo. Este tratamento, que temos realizado em nossos pacientes, chama-se **SLING VAGINAL** e possui excelentes resultados. Nesta cirurgia, coloca-se um tipo especial de tela sintética em baixo do canal da urina através de uma incisão de apenas 2,5 cm no interior vagina. O pós-operatório costuma ser tranquilo e pouco doloroso.
+2. **[Cálculos renais](https://uroconsult.com.br/artigos/laser-de-alta-potencia-moses-tecnologia-avancada-para-tratamento-de-calculos-urinarios/)**.
+3. **[Sangramento na urina](https://uroconsult.com.br/artigos/hematuria-diagnostico-e-tratamento-do-sangramento-urinario/)**.
+4. Síndrome da bexiga dolorosa.
+5. **[Tumores de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** e **[de bexiga](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-bexiga-diagn%C3%B3stico-e-tratamento-do-quarto-c%C3%A2ncer-mais-comum-em-homens/)**.
+6. Bexiga hiperativa.
+7. **[Incontinência urinária (perda de urina)](https://uroconsult.com.br/artigos/tratamento-da-perda-de-urina-em-mulheres/)**, em geral desencadeada por esforços ou após tossir ou espirrar, para o qual existe um tratamento cirúrgico minimamente invasivo. Este tratamento, que temos realizado em nossos pacientes, chama-se **SLING VAGINAL** e possui excelentes resultados. Nesta cirurgia, coloca-se um tipo especial de tela sintética em baixo do canal da urina através de uma incisão de apenas 2,5 cm no interior vagina. O pós-operatório costuma ser tranquilo e pouco doloroso.
 
-   Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/) Estamos aqui para ajudar você a cuidar da sua saúde com excelência e tecnologia de ponta.
+   Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Busque ajuda especializada quando necessário. **Se você tem** **dúvidas sobre sua saúde urológica ou precisa de uma avaliação especializada**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/)
