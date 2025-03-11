@@ -1,19 +1,18 @@
 ---
+title: Tratamento da perda de urina em mulheres
 created-on: 2024-12-02T18:09:53.004Z
+updated-on: 2024-12-02T18:09:53.004Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06fef_sintomas-da-infeccao-urinaria-1030x684-1201.jpg
   alt: null
-tags: artigos
+f_post-summary: "Explicação sobre a perda de urina em mulheres e seu tratamento
+  minimamente invasivo atual: o sling vaginal."
 layout: "[artigos].html"
 slug: tratamento-da-perda-de-urina-em-mulheres
-title: Tratamento da perda de urina em mulheres
-updated-on: 2024-12-02T18:09:53.004Z
-f_post-summary: Explicação sobre a incontinência urinária feminina e seu
-  tratamento moderno através do Sling vaginal, incluindo procedimento cirúrgico
-  e benefícios do método.
+tags: artigos
 date: 2025-01-04T16:30:25.423Z
 ---
 A perda de urina em mulheres, ou incontinência urinária feminina em termos técnicos, é caracterizada pelo vazamento involuntário de urina em menor ou maior quantidade. O tipo mais comum ocorre durante a realização de algum esforço físico, tosse ou espirro: **é a chamada incontinência urinária de esforço.**
@@ -24,7 +23,7 @@ A incontinência urinária de esforço pode prejudicar muito a vida da mulher à
 
 A paciente em geral opera de manhã cedo e recebe alta no fim da tarde, no mesmo dia da cirurgia.
 
-Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. Não hesite em buscar ajuda quando necessário. **Se você tem** **dúvidas sobre oa ou precisa de uma avaliação especializada para tratamento da perda de urina**, [**entre em contato conosco**.](https://uroconsult.com.br/contato/)
+Lembre-se: cuidar da saúde urológica é fundamental para o seu bem-estar geral. **Se você tem** **incontinência urinária e precisa de uma avaliação especializada para tratamento**, **[entre em contato conosco.](https://uroconsult.com.br/contato/)** Ficaremos felizes em auxiliar você,
 
 ![Sling – tela que é colocada sob a uretra para restaurar a continência urinária em mulheres.](/assets/external/676820d6d8cdd7cccbd06ff0_674df79acc90b144c69b4b8c_sling25201.jpeg "Sling – tela que é colocada sob a uretra para restaurar a continência urinária em mulheres.")
 
