@@ -1,31 +1,35 @@
 ---
-title: Quais são os tipos de biópsia de próstata?
 created-on: 2024-12-02T20:59:47.954Z
-updated-on: 2024-12-02T20:59:47.954Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700e_tiposbiopsia-1.png
   alt: null
-f_post-summary: Conheça os diferentes tipos de biópsia de próstata e entenda por
-  que a técnica transperineal com fusão de imagens está revolucionando o
-  diagnóstico do câncer de próstata em Manaus. Descubra as vantagens deste
-  método minimamente invasivo e mais seguro.
+tags: artigos
 layout: "[artigos].html"
 slug: quais-sao-os-tipos-de-biopsia-de-prostata
-tags: artigos
+title: Quais são os tipos de biópsia de próstata?
+updated-on: 2024-12-02T20:59:47.954Z
+f_post-summary: Conheça os diferentes tipos de biópsia de próstata e entenda por
+  que a técnica transperineal com fusão de imagens é a mais indicada para o
+  diagnóstico do câncer de próstata. Descubra as vantagens deste método
+  minimamente invasivo e mais seguro.
 date: 2025-01-04T00:44:28.397Z
 ---
-**Com justa razão, a saúde masculina tem ganhado cada vez mais atenção nos últimos anos. Dentre as diversas questões de saúde, o câncer de próstata destaca-se como o mais prevalente nos homens. Neste cenário, a biópsia de próstata é um recurso fundamental para o diagnóstico precoce. Quando o câncer de próstata é diagnosticado precocemente e o tumor ainda está confinado à próstata, curamos 9 em cada 10 pacientes. Quando a doença já avançou para fora da próstata, a chance de cura é muito baixa.**
+Nos últimos anos, a saúde masculina ganhou maior visibilidade e atenção. Neste cenário, **o câncer de próstata destaca-se como o mais prevalente nos homens**. 
 
-**Vamos explorar os diferentes tipos de biópsia disponíveis, com um olhar especial para os últimos avanços.**
+Para o diagnóstico precoce do tumor de próstata, é fundamental realizar uma biópsia de próstata. Quando o câncer de próstata é diagnosticado precocemente e o tumor ainda está confinado à próstata, curamos 9 em cada 10 pacientes. Quando a doença já avançou para fora da próstata, a chance de cura é muito baixa.
+
+**Vamos explicar os diferentes tipos de biópsia disponíveis, com um olhar especial para os últimos avanços.**
 
 ## **Introdução à biópsia de próstata: importância no diagnóstico do câncer**
 
-A[ **biópsia de próstata**](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/) é um procedimento médico essencial para detectar a presença de células cancerosas na glândula prostática. Segundo o Instituto Nacional de Câncer (INCA), o Brasil registra cerca de 65.840 novos casos de câncer de próstata anualmente. Estes números ressaltam a importância de um método diagnóstico eficaz.
+A[ **biópsia de próstata**](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/) é o procedimento médico que permite confirmar o diagnóstico de câncer de próstata. Segundo o Instituto Nacional de Câncer (INCA), o Brasil registra cerca de 65.840 novos casos de câncer de próstata anualmente. Estes números ressaltam a importância de um método diagnóstico eficaz.
 
-A biópsia é realizada quando exames como o toque retal, o teste de PSA (Antígeno Prostático Específico) ou a ressonância magnética da próstata mostram alterações suspeitas para câncer. A biópsia é o único método capaz de confirmar com certeza a presença de câncer, permitindo um diagnóstico precoce e, consequentemente, melhores chances de tratamento e cura.
+### Quando devo realizar a b**iópsia de próstata?**
+
+A biópsia é realizada quando exames como o toque retal, [o teste de PSA](https://uroconsult.com.br/artigos/exame-de-psa-para-check-up-de-prostata/) (Antígeno Prostático Específico) ou a ressonância magnética da próstata mostram alterações suspeitas para câncer. A biópsia é o único método capaz de confirmar com certeza a presença de câncer, permitindo um diagnóstico precoce do tipo de tumor e da sua agressividade.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
