@@ -1,23 +1,23 @@
 ---
-title: "PSA elevado: causas comuns além do câncer de próstata"
 created-on: 2024-12-02T21:54:03.559Z
-updated-on: 2024-12-02T21:54:03.559Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07014_blood-test-5601437_640.jpg
   alt: Exame PSA
-f_post-summary: Descubra as diversas causas que podem elevar o PSA além do
-  câncer de próstata, incluindo condições benignas e temporárias. Conheça os
-  exames modernos disponíveis para investigação e quando você deve se preocupar
-  com um PSA alterado.
+tags: artigos
 layout: "[artigos].html"
 slug: psa-elevado-causas-comuns-alem-do-cancer-de-prostata
-tags: artigos
+title: "PSA elevado: causas comuns além do câncer de próstata"
+updated-on: 2024-12-02T21:54:03.559Z
+f_post-summary: A elevação do PSA é fonte de preocupação para muitos homens, mas
+  é importante entender que existem diversas causas. Embora o PSA seja um
+  importante marcador do tumor de próstata, sua elevação nem sempre significa
+  câncer.
 date: 2025-01-04T00:44:21.740Z
 ---
-A elevação do PSA no exame de sangue causa muita preocupação nos pacientes, mas é importante entender suas diversas causas. Embora o PSA seja um importante marcador para detectar alterações na próstata, sua elevação nem sempre significa câncer. Neste artigo vou esclarecer dúvidas comuns e explicar tecnologias que auxiliam no diagnóstico preciso das alterações da próstata.
+A elevação do PSA é fonte de preocupação para muitos homens, mas é importante entender que existem diversas causas. Embora o PSA seja um importante marcador do tumor de próstata, sua elevação nem sempre significa câncer. Neste artigo, vou esclarecer dúvidas comuns e explicar novas tecnologias que auxiliam na investigação do paciente com PSA elevado.
 
 ## **O que é o PSA e quando se eleva?**
 
