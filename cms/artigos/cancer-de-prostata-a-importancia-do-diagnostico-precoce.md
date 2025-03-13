@@ -1,20 +1,19 @@
 ---
-title: "Câncer de próstata: a importância do diagnóstico precoce"
 created-on: 2024-12-02T21:04:18.695Z
-updated-on: 2024-12-02T21:04:18.695Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: true
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/images/biopsia.jpg
   alt: Idoso em consulta no urologista
-f_post-summary: Entenda como o diagnóstico precoce é fundamental para o
-  tratamento bem-sucedido do câncer de próstata. Conheça os fatores de risco, os
-  exames de rastreamento e as mais recentes tecnologias disponíveis para
-  detecção da doença.
+tags: artigos
 layout: "[artigos].html"
 slug: cancer-de-prostata-a-importancia-do-diagnostico-precoce
-tags: artigos
+title: "Câncer de próstata: a importância do diagnóstico precoce"
+updated-on: 2024-12-02T21:04:18.695Z
+f_post-summary: Entenda como o diagnóstico precoce é fundamental para o
+  tratamento bem-sucedido do câncer de próstata. Conheça os fatores de risco, os
+  exames de rastreamento e as novas tecnologias para detecção da doença.
 date: 2025-01-03T20:59:50.846Z
 ---
 Como urologista especializado em câncer de próstata, tenho visto de perto o impacto positivo do diagnóstico precoce no tratamento dos meus pacientes. O câncer de próstata é o mais comum entre os homens, e **quando detectado cedo, as chances de cura são altas pois a doença ainda está confinada na próstata.**
