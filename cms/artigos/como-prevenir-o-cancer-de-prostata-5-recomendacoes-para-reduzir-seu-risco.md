@@ -1,19 +1,19 @@
 ---
-title: Como prevenir o câncer de próstata? 5 recomendações para reduzir seu risco
 created-on: 2024-12-02T20:56:43.689Z
-updated-on: 2024-12-02T20:56:43.689Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700d_uuu.jpeg
   alt: Idoso praticando atividade física.
-f_post-summary: Guia abrangente sobre prevenção do câncer de próstata, incluindo
-  recomendações baseadas em evidências científicas sobre dieta, exercícios,
-  controle de peso, estilo de vida e importância dos exames preventivos.
+tags: artigos
 layout: "[artigos].html"
 slug: como-prevenir-o-cancer-de-prostata-5-recomendacoes-para-reduzir-seu-risco
-tags: artigos
+title: Como prevenir o câncer de próstata? 5 recomendações que podem reduzir seu risco
+updated-on: 2024-12-02T20:56:43.689Z
+f_post-summary: Não existe um hábito, remédio ou alimento específico que possa
+  prevenir o câncer de próstata, mas a adoção de algumas práticas pode reduzir o
+  risco de câncer de próstata ou mesmo auxiliar no controle da doença.
 date: 2025-01-03T22:31:07.547Z
 ---
 Os principais fatores de risco para o câncer de próstata são a idade, a raça negra e o histórico familiar de câncer de próstata (predisposição genética). Ao contrário de outros tipos de câncer associados a um hábito específico, como ocorre com câncer de pulmão e tabagismo, **não existe um hábito, remédio ou alimento específico que possa prevenir o** [**câncer de próstata**.](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)
@@ -95,7 +95,7 @@ Embora não seja propriamente uma medida preventiva, a realização de exames re
 Os principais exames para detecção do câncer de próstata são:
 
 1. **[PSA](https://uroconsult.com.br/artigos/o-exame-de-psa/)**: medido por um simples exame de sangue, o PSA (Antígeno Prostático Específico) eleva-se quando o homem tem câncer de próstata.
-2. **Toque retal**: no toque, o Urologista detecta um nódulo endurecido indicativo de câncer.
+2. **[Toque retal](https://uroconsult.com.br/artigos/exame-de-toque-retal/)**: no toque, o Urologista detecta um nódulo endurecido indicativo de câncer.
 3. **Ressonância magnética**: este exame mostra áreas suspeitas de câncer de próstata.
 4. **[Biópsia de próstata](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)**: realizada apenas quando há suspeita de câncer, para confirmação do diagnóstico
 
@@ -113,6 +113,6 @@ Se você se enquadra em alguma dessas categorias, **as recomendações que estam
 
 ## **A prevenção está em suas mãos**
 
-Seguir estas nossas recomendações pode reduzir significativamente seu risco de desenvolver câncer de **próstata**. Lembre-se, a prevenção é sempre o melhor caminho para uma vida longa e saudável.
+Seguir estas nossas recomendações pode reduzir seu risco de desenvolver câncer de **próstata**. Lembre-se, a prevenção é sempre o melhor caminho para uma vida longa e saudável.
 
-Você tem dúvidas ou preocupações sobre o câncer de próstata? Não hesite em **[entrar em contato conosco](https://api.whatsapp.com/send?phone=5592981270310)** e agendar uma consulta para obter informações personalizadas sobre o seu caso. Seu bem-estar é nossa prioridade, e estamos aqui para apoiá-lo!
+Você tem dúvidas ou preocupações sobre o câncer de próstata? Não hesite em **[entrar em contato conosco](https://api.whatsapp.com/send?phone=5592981270310)** e agendar uma consulta para obter informações personalizadas sobre o seu caso.
