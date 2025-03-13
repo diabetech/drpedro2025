@@ -1,19 +1,18 @@
 ---
-title: Oito motivos para consultar um urologista
 created-on: 2024-12-02T21:06:05.322Z
-updated-on: 2024-12-02T21:06:05.322Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07013_decfef.jpg
   alt: null
-f_post-summary: Descubra os oito sinais fundamentais que indicam a necessidade
-  de consultar um urologista. Entenda por que a avaliação preventiva é crucial,
-  mesmo sem sintomas, e como o diagnóstico precoce pode salvar vidas.
+tags: artigos
 layout: "[artigos].html"
 slug: oito-motivos-para-consultar-um-urologista
-tags: artigos
+title: Oito motivos para consultar um urologista
+updated-on: 2024-12-02T21:06:05.322Z
+f_post-summary: Estes oito sinais indicam doenças potencialmente graves, mesmo
+  na ausência de sintomas.
 date: 2025-01-04T00:30:38.239Z
 ---
 Na minha experiência como urologista, tenho observado um padrão preocupante: muitos homens subestimam alguns sintomas. Esta hesitação em buscar ajuda médica pode ter consequências significativas, postergando tratamentos e reduzindo as chances de cura do câncer e de outras doenças urológicas.
