@@ -23,9 +23,11 @@ Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vid
 
 ## O mito da prevenção absoluta
 
-Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida. **O [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com fatores modificáveis** e muitos casos ocorrem independentemente dos hábitos pessoais.
+
 
 ### Por que desenvolvi câncer de rim se tenho hábitos saudáveis?
+
+Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida. **O [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com fatores modificáveis** e muitos casos ocorrem independentemente dos hábitos pessoais.
 
 Diferentemente do câncer de pulmão (fortemente associado ao tabagismo) ou do câncer colorretal (frequentemente ligado à dieta e ao tabagismo), o câncer renal frequentemente resulta de **mutações genéticas aleatórias** no interior das células renais. Existe sim uma relação definida com hipertensão arterial, obesidade e tabagismo, porém **mais da metade dos pacientes com câncer de rim não têm nenhum fatores de risco.**
 
