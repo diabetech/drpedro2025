@@ -8,9 +8,9 @@ f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/1708690317kidney-cancer-symptoms-diagnosis-and-treatment.jpg
 f_post-summary: >
-  Enquanto outros tumores estão fortemente associados a hábitos ou fatores
-  específicos, o câncer renal segue caminhos menos previsíveis. Compreender esta
-  realidade é essencial para uma abordagem realista sobre prevenção.
+  Existe sim uma relação definida do câncer de rim com hipertensão arterial,
+  obesidade e tabagismo, porém mais da metade dos pacientes com câncer de rim
+  não tem nenhum fatores de risco.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-13T22:06:17.893Z
