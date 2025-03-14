@@ -19,17 +19,15 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vida, o câncer renal segue caminhos menos previsíveis. Compreender esta realidade é essencial para uma abordagem realista sobre prevenção.
-
-## O mito da prevenção absoluta
-
-
+Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vida, o câncer renal segue caminhos menos previsíveis. Compreender isto é essencial para uma abordagem realista sobre prevenção.
 
 ### Por que desenvolvi câncer de rim se tenho hábitos saudáveis?
 
-Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida. **O [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com fatores modificáveis** e muitos casos ocorrem independentemente dos hábitos pessoais.
+Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida.  Mas **o [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com hábitos ou causas modificáveis** e muitos casos ocorrem independentemente do modo de vida do indivíduo.
 
-Diferentemente do câncer de pulmão (fortemente associado ao tabagismo) ou do câncer colorretal (frequentemente ligado à dieta e ao tabagismo), o câncer renal frequentemente resulta de **mutações genéticas aleatórias** no interior das células renais. Existe sim uma relação definida com hipertensão arterial, obesidade e tabagismo, porém **mais da metade dos pacientes com câncer de rim não têm nenhum fatores de risco.**
+Isto porque o câncer renal frequentemente resulta de **mutações genéticas aleatórias** no interior das células renais. Existe sim uma relação definida com hipertensão arterial, obesidade e tabagismo, porém **mais da metade dos pacientes com câncer de rim não têm nenhum fatores de risco.**
+
+Diferentemente do câncer de pulmão (fortemente associado ao tabagismo) ou do câncer colorretal (frequentemente ligado à dieta e ao tabagismo), 
 
 ### Fatores de risco e medidas preventivas
 
