@@ -25,11 +25,9 @@ Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vid
 
 Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida.  Mas **o [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com hábitos ou causas modificáveis** e muitos casos ocorrem independentemente do modo de vida do indivíduo. Isto ocorre porque o câncer renal frequentemente resulta de **mutações genéticas aleatórias** no interior das células dos ttúbulos renais, sem uma causa definida.
 
-Este cenário é bem diverso do do câncer de pulmão, por exemplo, fortemente associado ao tabagismo), ou do câncer de intestino, muito ligado à dieta e ao tabagismo), 
+Este cenário é bem diverso do do câncer de pulmão, por exemplo, fortemente associado ao tabagismo, ou do câncer de intestino, muito ligado à dieta e ao hábito de fumar.
 
-Existe sim uma relação definida com hipertensão arterial, obesidade e tabagismo, porém **mais da metade dos pacientes com câncer de rim não têm nenhum fatores de risco.**
-
-Diferentemente 
+Existe sim uma relação definida do câncer de rim com hipertensão arterial, obesidade e tabagismo, porém **mais da metade dos pacientes com câncer de rim não tem nenhum fatores de risco.**
 
 ### Fatores de risco e medidas preventivas
 
@@ -96,6 +94,6 @@ Quando diagnosticado, o câncer renal tem hoje opções de tratamento altamente 
 
 ## Tratamento avançado de câncer renal em Manaus
 
-Muitos pacientes com câncer de rim não metastático ficam curados com o tratamento cirúrgico. Temos realizado** [vídeo-cirurgias](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia-como-e-feita/)** para tratamento do câncer renal em Manaus há mais de 10 anos, com ótimos resultados. Contamos com os recursos e infraestrutura adequada para tratamento da grande maioria dos casos de câncer renal na cidade. Nos casos com necessidade de cirurgia robótica, fazemos a cirurgia em São Paulo. 
+Muitos pacientes com **câncer de rim localizado (não metastático) ficam curados com o tratamento cirúrgico**. Temos realizado** [vídeo-cirurgias](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia-como-e-feita/)** para tratamento do câncer renal em Manaus há mais de 10 anos, com ótimos resultados. Contamos com os recursos e infraestrutura adequada para tratamento da grande maioria dos casos de câncer renal na cidade. Nos casos com necessidade de cirurgia robótica, fazemos a cirurgia em São Paulo. 
 
 **[Agende uma avaliação com nossa assistente dedicada.](https://api.whatsapp.com/send?phone=5592981270310)** Ficaremos felizes em atendê-lo.
