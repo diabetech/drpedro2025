@@ -23,7 +23,7 @@ Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vid
 
 ## O mito da prevenção absoluta
 
-Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida. O **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** tem uma relação menos direta com fatores modificáveis, com muitos casos ocorrendo independentemente dos hábitos pessoais.
+Muitos pacientes se culpam por acharem que o seu câncer de rim poderia ter sido evitado através de mudanças no estilo de vida. **O [câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/) tem uma relação menos direta com fatores modificáveis** e muitos casos ocorrem independentemente dos hábitos pessoais.
 
 ### Por que desenvolvi câncer de rim se tenho hábitos saudáveis?
 
