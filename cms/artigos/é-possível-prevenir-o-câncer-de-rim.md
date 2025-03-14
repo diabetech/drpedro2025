@@ -19,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Enquanto alguns tumores estão fortemente associados a hábitos ou fatores específicos, o câncer renal segue caminhos menos previsíveis. Compreender esta realidade é essencial para uma abordagem realista sobre prevenção.
+Enquanto alguns tumores estão fortemente associados a hábitos ou estilo de vida, o câncer renal segue caminhos menos previsíveis. Compreender esta realidade é essencial para uma abordagem realista sobre prevenção.
 
 ## O mito da prevenção absoluta
 
