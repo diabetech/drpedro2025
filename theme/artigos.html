@@ -296,7 +296,7 @@ margin: 0rem !important;
                                 <div class="filters2_filter-all"><label fs-cmsfilter-reset="categoria" fs-cmsfilter-element="reset" class="filters2_form_radio1 w-radio">
                                     <div class="w-form-formradioinput w-form-formradioinput--inputType-custom filters2_form_radio1-icon w-radio-input w--redirected-checked"></div><input type="radio" name="Filter-Two" id="Option-1" data-name="Filter Two" style="opacity:0;position:absolute;z-index:-1" checked="" value="Option 1"><span for="Option-1" class="filters2_form_radio1-label w-form-label">{{ texts.-6973eba2 }}</span>
                                   </label></div>
-                                {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" -%}<div class="filters2_list-wrapper w-dyn-list">
+                                  {%- assign collection = collections.especialidades | sort: "title" -%}<div class="filters2_list-wrapper w-dyn-list">
                                   {%- unless collection.length == 0 -%}<div role="list" class="filters2_list w-dyn-items">
                                     {%- for item in collection -%}<div role="listitem" class="filters2_item w-dyn-item"><label class="filters2_form_radio1 w-radio">
                                         <div class="w-form-formradioinput w-form-formradioinput--inputType-custom filters2_form_radio1-icon w-radio-input"></div><input type="radio" name="Filter-Two" id="Option-2-3" data-name="Filter Two" style="opacity:0;position:absolute;z-index:-1" value="Option 2"><span for="Option-2-3" fs-cmsfilter-field="categoria" class="filters2_form_radio1-label w-form-label">{{ item.data.title }}</span>
@@ -365,7 +365,7 @@ margin: 0rem !important;
                         <div>{{ texts.3d503d2b }}</div>
                       </div>{%- endif -%}
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" | reverse -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques w-dyn-items">
                         {%- for item in collection -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
