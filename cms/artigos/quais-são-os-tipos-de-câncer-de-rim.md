@@ -63,6 +63,10 @@ O adenocarcinoma de células renais representa cerca de 90% de todos os tumores 
    * Carcinoma medular renal (<1%).
    * Carcinoma com diferenciação sarcomatoide (não é um subtipo específico, mas uma transformação agressiva que pode ocorrer em qualquer tipo).
 
+![](/assets/images/screenshot-2025-03-16-at-11.40.48.png)
+
+*Câncer renal de células claras. Veja como o tumor é claro, motivo pelo qual recebe este nome. Foto de arquivo pessoal.*
+
 ### Como é feito o diagnóstico e classificação dos tipos de câncer renal?
 
 Aproximadamente 90% dos casos de câncer renal são descobertos incidentalmente, durante exames de imagem solicitados por outros motivos. O diagnóstico definitivo e a classificação do tipo específico dependem de:
