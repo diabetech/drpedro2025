@@ -21,13 +21,11 @@ seo:
 ---
 ## Por que devo fazer cirurgia robótica para tratar o câncer de rim?
 
-A cirurgia
-
 A literatura médica moderna estabeleceu três pilares essenciais para o tratamento do câncer renal, conhecidos como **[Trifecta](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)**: ressecção completa do tumor com margens livres, preservação da parte do rim livre do tumor sem retirar todo o órgão e pós-operatório isento de complicações.
 
 **A cirurgia robótica para tratamento do câncer de rim é a melhor e mais avançada ferramenta que nós, Uro-oncologistas que tratamos câncer de rim, dispomos para atingir estes três objetivos.**
 
-Em Manaus, ainda não há cirurgia robótica. Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura e eficaz. **Afirmamos isso pois realizamos cirurgias renais robóticas em São Paulo há mais de 7 anos**, com resultados excelentes. Temos um protocolo de acompanhamento antes e depois da cirurgia comigo aqui mesmo em Manaus, próximo da família e no conforto do lar.
+Em Manaus, ainda não há cirurgia robótica. Para pacientes de Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se uma opção segura e eficaz. **Afirmamos isso pois realizamos cirurgias renais robóticas em São Paulo há mais de 8 anos**, com resultados excelentes. Temos um protocolo de acompanhamento antes e depois da cirurgia comigo aqui mesmo em Manaus, próximo da família e no conforto do lar.
 
 ## Como é realizada a cirurgia robótica para câncer de rim
 
@@ -105,7 +103,7 @@ A cirurgia robótica representa uma inovação no tratamento do câncer de rim, 
 
 Desenvolvemos um protocolo específico para **atender pacientes de Manaus com câncer renal.**
 
-![](/assets/images/imagem-do-whatsapp-de-2025-03-14-à-s-22.22.36_8e703219.jpg)
+![](/assets/images/nefrectomia-em-são-paulo.jpeg)
 
 ### 1ª ETAPA
 
