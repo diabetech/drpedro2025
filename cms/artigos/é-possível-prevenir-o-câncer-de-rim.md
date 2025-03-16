@@ -6,7 +6,7 @@ published-on: 2025-03-13T22:06:17.880Z
 f_destaque: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/1708690317kidney-cancer-symptoms-diagnosis-and-treatment.jpg
+  url: /assets/images/zamithfilho_phc-2110.jpg
 f_post-summary: >
   Existe sim uma relação definida do câncer de rim com hipertensão arterial,
   obesidade e tabagismo, porém mais da metade dos pacientes com câncer de rim
