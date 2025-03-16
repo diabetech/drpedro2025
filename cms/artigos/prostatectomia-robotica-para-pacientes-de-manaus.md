@@ -4,7 +4,7 @@ title: "Prostatectomia robótica para pacientes de Manaus: como realizar sua
 created-on: ""
 updated-on: ""
 published-on: 2025-01-14T14:21:20.285Z
-f_destaque: false
+f_destaque: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/outro-robô-2-1-.jpeg
