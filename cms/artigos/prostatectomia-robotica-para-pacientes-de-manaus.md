@@ -72,7 +72,7 @@ A cirurgia robótica representa um avanço significativo no tratamento do cânce
 
 Desenvolvemos um **protocolo específico para** **atender pacientes de Manaus**.
 
-![](/assets/images/fluxograma-versão-final.png)
+![](/assets/images/imagem-do-whatsapp-de-2025-03-14-à-s-22.22.36_8e703219.jpg)
 
 ### **1**ª **ETAPA**
 
