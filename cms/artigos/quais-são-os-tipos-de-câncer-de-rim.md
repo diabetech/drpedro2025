@@ -6,7 +6,7 @@ published-on: 2025-03-16T13:19:29.842Z
 f_destaque: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/rimm.jpg
+  url: /assets/images/1708690317kidney-cancer-symptoms-diagnosis-and-treatment.jpg
 f_post-summary: >
   O câncer de rim não é uma doença única, mas um grupo de tumores com
   características biológicas e comportamentos clínicos distintos. Existem
