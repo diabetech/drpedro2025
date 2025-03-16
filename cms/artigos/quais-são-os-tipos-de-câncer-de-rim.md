@@ -8,9 +8,9 @@ f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/rimm.jpg
 f_post-summary: >
-  Ao contrário do que muitos pensam, o câncer de rim não se trata de uma doença
-  única, mas de um grupo de tumores com características biológicas e
-  comportamentos clínicos distintos.
+  O câncer de rim não é uma doença única, mas um grupo de tumores com
+  características biológicas e comportamentos clínicos distintos. Existem
+  tumores benignos e outros muito agressivos.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-16T13:19:29.859Z
@@ -19,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Ao contrário do que muitos pensam, o **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-no-amazonas-qual-a-preval%C3%AAncia-na-regi%C3%A3o/)** não se trata de uma doença única, mas de um grupo de tumores com características biológicas e comportamentos clínicos distintos.
+Ao contrário do que muitos pensam, o **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-no-amazonas-qual-a-preval%C3%AAncia-na-regi%C3%A3o/)** não é uma doença única, mas um grupo de tumores com características biológicas e comportamentos clínicos distintos. Existem tumores benignos e outros malignos e muito agressivos.
 
 ### Por que saber o tipo de câncer renal é importante?
 
@@ -67,7 +67,7 @@ O adenocarcinoma de células renais representa cerca de 90% de todos os tumores 
 
 Aproximadamente 90% dos casos de câncer renal são descobertos incidentalmente, durante exames de imagem solicitados por outros motivos. O diagnóstico definitivo e a classificação do tipo específico dependem de:
 
-* **Exames de imagem**: tomografia computadorizada e ressonância magnética revelam características sugestivas de cada subtipo.
+* **Exames de imagem**: tomografia computadorizada e ressonância magnética revelam características sugestivas de cada tipo.
 * **Análise patológica:** após a cirurgia ou por meio de biópsia, o patologista examina o tecido tumoral para determinar o tipo exato.
 * **Estudos moleculares:** em casos selecionados, análises genéticas complementam o diagnóstico convencional.
 
@@ -135,6 +135,8 @@ A escolha da terapia sistêmica é fortemente influenciada pelo subtipo histoló
 
 ### Tratamento especializado para câncer renal em Manaus
 
-Como uro-oncologista especializado no tratamento do câncer renal, tenho operado pacientes com este tumor em Manaus há mais de 10 anos. Para pacientes que requerem cirurgia robótica, há protocolos específicos para realização do **procedimento em São Paulo, com acompanhamento pré e pós-operatório em Manaus.**
+Como uro-oncologista especializado no tratamento do câncer renal, tenho operado pacientes com este tumor em Manaus há mais de 10 anos. 
+
+Para pacientes que requerem cirurgia robótica, há protocolos específicos para realização do **procedimento em São Paulo, com acompanhamento pré e pós-operatório em Manaus.**
 
 Se você recebeu diagnóstico de câncer renal ou apresenta sintomas suspeitos, **[entre em contato com nossa assistente dedicada a cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para agendar uma avaliação. Ficaremos felizes em auxiliar.
