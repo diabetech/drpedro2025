@@ -23,23 +23,25 @@ Ao contrário do que muitos pensam, o **[câncer de rim](https://uroconsult.com.
 
 ### Por que saber o tipo de câncer renal é importante?
 
-Saber o tipo de câncer renal é fundamental porque influencia diretamente o tratamento e o prognóstico da doença. Existem diferentes tipos de câncer de rim, e cada um tem características específicas, taxas de crescimento distintas e respostas variadas às terapias.
+Porque influencia diretamente o tratamento e o prognóstico da doença. Existem diferentes tipos de câncer de rim, e cada um tem características específicas, taxas de crescimento distintas e respostas variadas às terapias.
 
 Os principais motivos para identificar o tipo de câncer renal incluem:
 
 **Escolha do Tratamento Adequado** 
 
 * **Prognóstico Preciso:** alguns tipos são mais agressivos e propensos a metástases, enquanto outros têm evolução mais lenta.
-* **Personalização da Terapia:** novos tratamentos são cada vez mais direcionados a mutações e características específicas de cada tipo de tumor, aumentando as chances de sucesso.
+* **Personalização da Terapia:** novos tratamentos são cada vez mais direcionados a mutações e características específicas de cada tipo de tumor, aumentando as chances de sucesso. Chamamos isso de **medicina de precisão**.
 * **Prevenção de Recorrências** – Conhecendo o tipo de câncer, é possível adotar estratégias mais eficazes para terapia adjuvante e diagnóstico precoce de recidivas.
+
+  Devemos enfatizar sempre que o câncer de rim é resistente a radioterapia e quimioterapia. Por este motivo, o tratamento consiste em remover cirurgicamente o tumor sempre que possível.
 
 ## Os principais tipos de câncer de rim
 
 O adenocarcinoma de células renais representa cerca de 90% de todos os tumores malignos do rim. Dentro desta classificação, encontramos diferentes subtipos:
 
-1. **Carcinoma de células claras (70-75% dos casos):**
+1. **Carcinoma de células claras (75% dos casos):**
 
-   * É o subtipo mais comum.
+   * É o cancer de rim mais comum.
    * Recebe este nome pela aparência clara devido ao alto conteúdo de gordura e glicogênio.
    * Tende a responder melhor à imunoterapia moderna.
    * Agressividade biológica moderada.
