@@ -9,9 +9,9 @@ f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/outro-robô-2-1-.jpeg
   alt: Robô utilizado para Prostatectomia.
-f_post-summary: Este artigo oferece um guia completo para pacientes de Manaus
-  sobre como realizar a prostatectomia robótica em São Paulo, abordando desde o
-  planejamento inicial até o acompanhamento a longo prazo.
+f_post-summary: Este artigo demonstra nosso protocolo para pacientes de Manaus
+  com câncer de próstata  que necessitam realizar prostatectomia robótica em São
+  Paulo, desde o planejamento inicial até o pós-operatório.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-01-14T14:21:20.307Z
