@@ -4,7 +4,7 @@ title: "Cirurgia robótica para câncer de rim: como pacientes de Manaus podem
 created-on: 2025-03-16T12:45:41.250Z
 updated-on: 2025-03-16T12:45:41.280Z
 published-on: 2025-03-16T12:45:41.309Z
-f_destaque: false
+f_destaque: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/davinci-robotica-850x560.jpg
