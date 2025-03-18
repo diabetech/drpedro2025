@@ -21,7 +21,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Para o tratamento moderno do **[câncer renal,](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** recomendamos uma cirurgia que concilie cura oncológica, preservação da função renal e segurança pós-operatória — a chamada **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão submilimétrica para possibilitar nefrectomias parciais em situações onde antigamente indicava-se a nefrectomia radical, ou seja, a remoção total do rim.
+Para o tratamento moderno do **[câncer renal,](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** recomendamos uma cirurgia que concilie cura oncológica, preservação da função renal e segurança pós-operatória — a chamada **Trifecta**. A **[cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)** combina visão tridimensional ampliada, instrumentos articulados e precisão milimétrica para possibilitar nefrectomias parciais em situações onde antigamente indicava-se a nefrectomia radical, ou seja, a remoção total do rim.
 
 ## O que significa Trifecta no tratamento do câncer de rim?
 
