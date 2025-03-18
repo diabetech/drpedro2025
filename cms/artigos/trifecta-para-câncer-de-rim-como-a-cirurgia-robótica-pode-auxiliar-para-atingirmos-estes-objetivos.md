@@ -11,8 +11,7 @@ f_main-image:
 f_post-summary: O câncer renal, quando detectado precocemente, permite uma
   abordagem que une cura oncológica, preservação funcional e segurança
   pós-operatória — a Trifecta. A cirurgia robótica possibilita nefrectomias
-  parciais em situações onde antigamente indica-se a nefrectomia radical, ou
-  seja, a remoção total do rim.
+  parciais em situações onde antigamente indicava-se a remoção total do rim.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-02-27T16:35:53.847Z
@@ -91,7 +90,7 @@ Assim como buscamos a **Trifecta no câncer renal,** a tecnologia robótica viab
 
 ### O que dizem as diretrizes médicas sobre este tipo de cirurgia?
 
-As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da[**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
+As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da [**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
 
 **Dentre as técnicas operatórias, a cirurgia robótica é citada como a melhor opção.**
 
@@ -129,7 +128,7 @@ Sim. Embora o robô cirúrgico ainda não esteja disponível em Manaus, nossos p
 3. **Cirurgia em São Paulo.**
 4. **Acompanhamento pós-operatório em Manaus.**
 
-Este protocolo permite que pacientes da região amazônica tenham acesso às técnicas mais modernas para tratamento do câncer renal.
+[Este nosso protocolo](https://uroconsult.com.br/artigos/cirurgia-rob%C3%B3tica-para-c%C3%A2ncer-de-rim-como-pacientes-de-manaus-podem-realizar-o-procedimento-em-s%C3%A3o-paulo/) permite que pacientes da região amazônica tenham acesso às técnicas mais modernas para tratamento do câncer renal.
 
 ## Sou candidato à cirurgia robótica para meu câncer de rim?
 
