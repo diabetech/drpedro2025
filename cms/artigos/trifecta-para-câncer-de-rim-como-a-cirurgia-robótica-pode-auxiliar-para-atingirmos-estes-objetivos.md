@@ -91,7 +91,7 @@ Assim como buscamos a **Trifecta no câncer renal,** a tecnologia robótica viab
 
 ### O que dizem as diretrizes médicas sobre este tipo de cirurgia?
 
-As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da[**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
+As principais diretrizes urológicas mundiais, como a da **[Associação Europeia de Urologia](https://uroweb.org/)** e da [**Associação Americana de Urologia**,](https://www.auanet.org/) recomendam a **nefrectomia parcial** (preservação do rim) como primeira escolha para tumores menores que 4 cm e como opção preferencial para tumores de 4-7 cm.
 
 **Dentre as técnicas operatórias, a cirurgia robótica é citada como a melhor opção.**
 
