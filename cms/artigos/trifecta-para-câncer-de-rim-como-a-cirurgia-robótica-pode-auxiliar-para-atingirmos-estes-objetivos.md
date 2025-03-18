@@ -4,7 +4,7 @@ title: "Trifecta no câncer renal: como a cirurgia robótica contribui para
 created-on: 2025-02-27T16:35:53.738Z
 updated-on: 2025-02-27T16:35:53.784Z
 published-on: 2025-02-27T16:35:53.817Z
-f_destaque: false
+f_destaque: true
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/cirurgiarobotica.png
