@@ -7,8 +7,8 @@ f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/drpedroo.jpg
-f_post-summary: O angiomiolipoma renal é um tumor benigno composto por vasos
-  sanguíneos, músculo liso e gordura.
+f_post-summary: Mesmo sendo um tumor benigno, o angiomiolipoma pode crescer,
+  causar sintomas e, principalmente, pode sangrar.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-18T16:30:47.523Z
