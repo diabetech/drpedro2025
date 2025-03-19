@@ -6,7 +6,7 @@ published-on: 2025-03-18T16:30:47.511Z
 f_destaque: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
-  url: /assets/images/drpedroo.jpg
+  url: /assets/images/no-consultório.jpg
 f_post-summary: Mesmo sendo um tumor benigno, o angiomiolipoma pode crescer,
   causar sintomas e, principalmente, pode sangrar.
 tags: artigos
