@@ -11,7 +11,6 @@ f_main-image:
 f_post-summary: "A próstata é uma glândula do sistema reprodutor masculino. Está
   localizada abaixo da bexiga e envolve a uretra. "
 f_aparecer-na-landing-page: false
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: a-prostata-e-sua-importancia-na-saude-masculina
 tags: artigos

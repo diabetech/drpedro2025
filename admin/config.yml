@@ -195,6 +195,12 @@ collections:
         required: false
         default: false
       - hint: ''
+        name: f_aparecer-na-landing-page
+        label: Aparecer na Landing Page
+        widget: boolean
+        required: false
+        default: false
+      - hint: ''
         name: f_especialidades
         label: Especialidades
         widget: relation
