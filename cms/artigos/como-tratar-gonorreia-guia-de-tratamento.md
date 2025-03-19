@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: Este texto apresenta as informações mais importantes que você
   precisa conhecer sobre o tratamento da gonorréia.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-26T21:14:40.930Z
 seo:

@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07013_decfef.jpg
   alt: null
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: oito-motivos-para-consultar-um-urologista
 title: Oito motivos para consultar um urologista

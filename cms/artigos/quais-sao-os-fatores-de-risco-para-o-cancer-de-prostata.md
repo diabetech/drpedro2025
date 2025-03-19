@@ -12,6 +12,7 @@ f_post-summary: Descubra os principais fatores de risco para o câncer de
   próstata. Entenda como a detecção precoce e mudanças de hábitos podem reduzir
   seu risco. Informações baseadas em evidências científicas sobre prevenção e
   diagnóstico.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: quais-sao-os-fatores-de-risco-para-o-cancer-de-prostata
 tags: artigos

@@ -11,6 +11,7 @@ f_main-image:
 f_post-summary: Explicação sobre cistos renais, abordando tipos, diagnóstico
   diferencial com tumores e indicações de cirurgia videolaparoscópica, incluindo
   vantagens e resultados do procedimento.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: cistos-renais-o-que-sao-e-quando-operar
 tags: artigos

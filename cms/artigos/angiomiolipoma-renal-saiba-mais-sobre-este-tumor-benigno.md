@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: Mesmo sendo um tumor benigno, o angiomiolipoma pode crescer,
   causar sintomas e, principalmente, pode sangrar.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-18T16:30:47.523Z
 seo:

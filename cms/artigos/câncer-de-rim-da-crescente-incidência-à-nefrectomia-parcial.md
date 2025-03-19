@@ -11,6 +11,7 @@ f_post-summary: Através dos exames de imagem modernos, podemos diagnosticar a
   doença em fases iniciais, permitindo a cura do paciente através de cirurgias
   preservadoras renais - as chamadas nefrectomias parciais.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-22T01:18:48.315Z
 seo:

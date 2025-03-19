@@ -11,6 +11,7 @@ f_post-summary: Como urologista especializado em procedimentos minimamente
   invasivos em Manaus, apresento neste artigo as informações fundamentais sobre
   a vasectomia.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-22T17:14:30.263Z
 seo:

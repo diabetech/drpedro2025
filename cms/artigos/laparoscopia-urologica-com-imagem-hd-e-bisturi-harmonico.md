@@ -13,6 +13,7 @@ f_post-summary: A laparoscopia é uma técnica de cirurgia minimamente invasiva 
   qual são feitas pequenas incisões, através das quais o cirurgião introduz os
   instrumentos no interior do abdome para realização do procedimento.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-04T02:18:43.081Z
 seo:

@@ -13,6 +13,7 @@ f_post-summary: A varicocele é a causa reversível mais comum de infertilidade
   microcirúrgica, é considerada a técnica padrão-ouro por sua eficácia e baixo
   índice de complicações.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-03T00:19:28.355Z
 seo:

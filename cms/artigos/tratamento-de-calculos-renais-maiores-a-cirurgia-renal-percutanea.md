@@ -10,6 +10,7 @@ f_main-image:
   alt: null
 f_post-summary: O urologista introduz um tubo fino dentro do rim, através do
   qual as pedras são quebradas e removidas.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: tratamento-de-calculos-renais-maiores-a-cirurgia-renal-percutanea
 tags: artigos

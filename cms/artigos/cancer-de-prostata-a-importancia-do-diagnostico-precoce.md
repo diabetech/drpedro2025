@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/images/biopsia.jpg
   alt: Idoso em consulta no urologista
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: cancer-de-prostata-a-importancia-do-diagnostico-precoce
 title: "Câncer de próstata: a importância do diagnóstico precoce "

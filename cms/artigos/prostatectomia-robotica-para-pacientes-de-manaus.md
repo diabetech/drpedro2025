@@ -13,6 +13,7 @@ f_post-summary: Este artigo demonstra nosso protocolo para pacientes de Manaus
   com câncer de próstata  que necessitam realizar prostatectomia robótica em São
   Paulo, desde o planejamento inicial até o pós-operatório.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-14T14:21:20.307Z
 seo:

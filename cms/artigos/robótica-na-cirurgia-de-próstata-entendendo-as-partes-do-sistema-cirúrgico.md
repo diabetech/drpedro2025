@@ -12,6 +12,7 @@ f_post-summary: A grande vantagem da cirurgia robótica está na tecnologia
   enquanto as pinças são capazes de movimentos precisos e articulados no
   interior do corpo humano durante a cirurgia.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-25T15:51:38.551Z
 seo:

@@ -11,6 +11,7 @@ f_post-summary: A infecção do trato urinário (ITU) é a infecção bacteriana
   comum em mulheres. Muitas experimentam episódios recorrentes, com impacto
   significativo à sua qualidade de vida.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-17T03:04:13.879Z
 seo:

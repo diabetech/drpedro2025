@@ -12,6 +12,7 @@ f_post-summary: >
   características biológicas e comportamentos clínicos distintos. Existem
   tumores benignos e outros muito agressivos.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-16T13:19:29.859Z
 seo:

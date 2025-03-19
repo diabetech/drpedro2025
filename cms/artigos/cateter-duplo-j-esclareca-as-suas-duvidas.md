@@ -10,6 +10,7 @@ f_main-image:
   alt: Cateter duplo J
 f_post-summary: Guia informativo sobre o cateter duplo J. Assista um
   procedimento de retirada de duplo J.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: cateter-duplo-j-esclareca-as-suas-duvidas
 tags: artigos

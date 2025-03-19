@@ -10,6 +10,7 @@ f_main-image:
   alt: Dr. Pedro Henrique Cabral | Urologista
 f_post-summary: Saiba mais sobre as principais doenças e tratamentos realizados
   por um Urologista.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: o-que-e-urologia-entenda-essa-especialidade-medica-essencial
 tags: artigos

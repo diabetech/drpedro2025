@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: A presença de sangue na urina - condição denominada hematúria -
   é um sinal de alerta que requer avaliação urológica especializada.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-14T16:50:52.318Z
 seo:

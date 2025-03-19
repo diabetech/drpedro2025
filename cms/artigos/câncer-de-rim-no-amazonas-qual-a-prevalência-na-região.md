@@ -11,6 +11,7 @@ f_post-summary: O câncer de rim representa o 14º tipo de câncer mais comum
   mundialmente. No Brasil, ocupa a 10ª posição entre os tipos mais frequentes,
   com cerca de 12.000 casos anuais registrados.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-02T00:23:38.460Z
 seo:

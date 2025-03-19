@@ -12,6 +12,7 @@ f_main-image:
 f_post-summary: Aprenda sobre a Urologia como especialidade, sobre as doenças
   tratadas por esta especialidade e os principais tratamentos oferecidos aos
   pacientes.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: urologista-em-manaus-faca-um-procedimento-urologico-minimamente-invasivo-com-dr-pedro-henrique-cabral
 tags: artigos

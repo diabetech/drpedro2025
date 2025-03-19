@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: "A vacinação contra o vírus HPV é uma medida comprovadamente
   eficaz para a prevenção da DST mais comum no mundo: a infecção por HPV. "
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-19T01:41:01.164Z
 seo:

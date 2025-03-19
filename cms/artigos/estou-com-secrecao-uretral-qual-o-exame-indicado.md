@@ -11,6 +11,7 @@ f_main-image:
 f_post-summary: Entenda sobre o exame de PCR e sua importância para o
   diagnóstico do corrimento uretral.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-30T11:54:12.159Z
 seo:

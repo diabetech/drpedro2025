@@ -11,6 +11,7 @@ f_post-summary: "A urofluxometria é um exame bastante simples e näo-invasivo,
   porém de fundamental importância principalmente para pacientes com dificuldade
   miccional. "
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-04T13:00:28.596Z
 seo:

@@ -10,6 +10,7 @@ f_main-image:
   alt: null
 f_post-summary: Aprenda sobre infecções urinárias de repetição em mulheres,
   incluindo sintomas, diagnóstico e medidas preventivas.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: infeccoes-urinarias-de-repeticao
 tags: artigos

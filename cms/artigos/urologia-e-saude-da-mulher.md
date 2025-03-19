@@ -10,6 +10,7 @@ f_main-image:
   alt: null
 f_post-summary: O Urologista não cuida apenas dos homens. Saiba quais são as
   principais doenças urológicas em mulheres.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: urologia-e-saude-da-mulher
 tags: artigos

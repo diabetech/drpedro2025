@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700d_uuu.jpeg
   alt: Idoso praticando atividade física.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: como-prevenir-o-cancer-de-prostata-5-recomendacoes-para-reduzir-seu-risco
 title: Como prevenir o câncer de próstata? 5 recomendações que podem reduzir seu risco

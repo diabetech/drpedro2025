@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700a_mwaqyl0z.jpeg
   alt: null
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: biopsia-de-prostata-transperineal-em-manaus
 title: Biópsia de próstata transperineal em Manaus

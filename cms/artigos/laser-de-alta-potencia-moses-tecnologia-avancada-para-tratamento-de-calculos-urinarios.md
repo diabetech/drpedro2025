@@ -12,6 +12,7 @@ f_main-image:
 f_post-summary: Os lasers de alta potência trouxeram avanços significativos no
   tratamento de cálculos urinários. Este sistema inovador permite procedimentos
   minimamente invasivos com segurança e alta eficácia aos pacientes.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: laser-de-alta-potencia-moses-tecnologia-avancada-para-tratamento-de-calculos-urinarios
 tags: artigos

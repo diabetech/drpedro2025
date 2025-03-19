@@ -10,6 +10,7 @@ f_main-image:
   alt: null
 f_post-summary: "Explicação sobre a perda de urina em mulheres e seu tratamento
   minimamente invasivo atual: o sling vaginal."
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: tratamento-da-perda-de-urina-em-mulheres
 tags: artigos

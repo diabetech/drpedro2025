@@ -10,6 +10,7 @@ f_main-image:
   alt: Laparoscopia para rim
 f_post-summary: Aprenda as indicações para nefrectomia total e parcial e sobre
   as vantagens da vídeo-cirurgia para tratar o câncer de rim.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: retirada-do-rim-por-laparoscopia---como-e-feita
 tags: artigos

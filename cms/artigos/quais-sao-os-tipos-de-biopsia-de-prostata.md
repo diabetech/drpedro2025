@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700e_tiposbiopsia-1.png
   alt: null
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: quais-sao-os-tipos-de-biopsia-de-prostata
 title: Quais são os tipos de biópsia de próstata?

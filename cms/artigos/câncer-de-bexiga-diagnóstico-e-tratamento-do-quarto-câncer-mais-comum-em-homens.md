@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: O câncer de bexiga ocupa a quarta posição entre os tipos de
   câncer mais comuns em homens.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-25T11:18:44.909Z
 seo:

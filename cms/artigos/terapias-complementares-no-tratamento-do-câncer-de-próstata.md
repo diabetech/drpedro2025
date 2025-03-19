@@ -11,6 +11,7 @@ f_post-summary: As medidas complementares não substituem o tratamento
   convencional, mas podem ser benéficas e contribuir para o bem-estar do
   paciente.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-06T16:35:42.325Z
 seo:

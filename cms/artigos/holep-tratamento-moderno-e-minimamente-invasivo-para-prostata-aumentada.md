@@ -12,6 +12,7 @@ f_post-summary: O HoLEP (Holmium Laser Enucleation of the Prostate), permite a
   remoção completa do tecido prostático obstrutivo através de um procedimento
   minimamente invasivo, sem necessidade de cortes externos.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-10T21:08:27.417Z
 seo:

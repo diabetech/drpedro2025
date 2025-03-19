@@ -12,6 +12,7 @@ f_post-summary: A cistoscopia é o exame de endoscopia da bexiga. Permite a
   visualização precisa do interior da bexiga e da uretra sem incisões. Está
   indicada principalmente para investigação da hematúria (sangramento na urina).
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-10T19:59:43.175Z
 seo:

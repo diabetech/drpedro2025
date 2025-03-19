@@ -10,6 +10,7 @@ f_main-image:
   alt: Idoso em consulta no urologista.
 f_post-summary: No Amazonas, o câncer de próstata é mais ou menos comum do que
   no restante do país?
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: cancer-prostata-no-estado-do-amazonas-e-comum
 tags: artigos

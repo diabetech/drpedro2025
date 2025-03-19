@@ -9,6 +9,7 @@ f_main-image:
   url: /assets/images/analysis-2030265_640.jpg
 f_post-summary: Este artigo ensina como colher uma amostra adequada para espermograma.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-09T17:52:23.252Z
 seo:

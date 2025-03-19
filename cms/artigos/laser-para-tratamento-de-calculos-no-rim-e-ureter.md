@@ -11,6 +11,7 @@ f_main-image:
 f_post-summary: Explicação detalhada da cirurgia de laser para cálculos
   urinários, incluindo procedimento, vantagens, recuperação pós-operatória e
   disponibilidade do tratamento em Manaus.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: laser-para-tratamento-de-calculos-no-rim-e-ureter
 tags: artigos

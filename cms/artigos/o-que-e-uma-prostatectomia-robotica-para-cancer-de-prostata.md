@@ -14,6 +14,7 @@ f_post-summary: >-
 
   Este artigo explica o que você precisa saber antes de operar.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-08T22:31:06.262Z
 seo:

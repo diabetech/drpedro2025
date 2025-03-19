@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd07014_blood-test-5601437_640.jpg
   alt: Exame PSA
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: psa-elevado-causas-comuns-alem-do-cancer-de-prostata
 title: "PSA elevado: causas comuns além do câncer de próstata"

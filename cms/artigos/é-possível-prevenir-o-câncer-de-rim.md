@@ -12,6 +12,7 @@ f_post-summary: >
   obesidade e tabagismo, porém mais da metade dos pacientes com câncer de rim
   não tem nenhum fatores de risco.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-13T22:06:17.893Z
 seo:

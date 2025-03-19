@@ -12,6 +12,7 @@ f_post-summary: "Em Manaus, ainda não há cirurgia robótica. Para pacientes de
   Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se
   uma opção segura e eficaz. "
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-16T12:45:41.332Z
 seo:

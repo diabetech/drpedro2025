@@ -12,6 +12,7 @@ f_post-summary: >
   60 anos. Em Manaus, existem diversas opções modernas de tratamento minimamente
   invasivo quando a cirurgia se torna necessária.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-13T16:07:13.288Z
 seo:

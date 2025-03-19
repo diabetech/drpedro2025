@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: Este artigo explica os principais sintomas, formas de
   diagnóstico e a importância do tratamento precoce da gonorréia.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-25T22:01:30.901Z
 seo:

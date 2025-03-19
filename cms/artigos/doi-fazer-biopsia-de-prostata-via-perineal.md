@@ -11,6 +11,7 @@ f_main-image:
 f_post-summary: Guia informativo sobre biópsia de próstata transperineal,
   abordando procedimento, anestesia, recuperação e medidas para reduzir
   ansiedade e desconforto do paciente.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: doi-fazer-biopsia-de-prostata-via-perineal
 tags: artigos

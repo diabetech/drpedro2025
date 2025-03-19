@@ -10,6 +10,7 @@ f_main-image:
 f_post-summary: Fatores genéticos, ambientais e comportamentais contribuem para
   o desenvolvimento do câncer de rim.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-17T22:21:05.226Z
 seo:

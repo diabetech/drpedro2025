@@ -10,6 +10,7 @@ f_main-image:
   alt: ""
 f_post-summary: O exame de toque retal é necessário?
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-04T02:11:48.184Z
 seo:

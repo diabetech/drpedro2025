@@ -10,6 +10,7 @@ f_main-image:
   alt: null
 f_post-summary: Abordarei o motivo pelo qual este simples exame de sangue é tão
   importante para diagnóstico do câncer de próstata.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: o-exame-de-psa
 tags: artigos

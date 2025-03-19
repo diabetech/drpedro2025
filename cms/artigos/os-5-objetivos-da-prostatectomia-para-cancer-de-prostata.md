@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/images/robô-em-preto-1-1-1-.jpg
   alt: Paciente pronto para prostectomia.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: os-5-objetivos-da-prostatectomia-para-cancer-de-prostata
 title: "Pentafecta: os 5 objetivos da prostatectomia robótica para câncer de próstata"

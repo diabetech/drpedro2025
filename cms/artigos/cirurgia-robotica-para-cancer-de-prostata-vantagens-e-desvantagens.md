@@ -12,6 +12,7 @@ f_post-summary: O robô cirúrgico é um recurso tecnológico cientificamente
   estabelecido, amplamente testado em sua segurança e eficácia ao longo dos
   últimos 20 anos.  Aprenda sobre suas vantagens na cirurgia para o câncer de
   próstata.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: cirurgia-robotica-para-cancer-de-prostata-vantagens-e-desvantagens
 tags: artigos

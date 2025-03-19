@@ -12,6 +12,7 @@ f_post-summary: >
   do câncer de rim, do câncer de próstata e do câncer de bexiga. Representa uma
   evolução da vídeo-cirurgia convencional.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-08T13:41:46.963Z
 seo:

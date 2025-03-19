@@ -7,6 +7,7 @@ f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06f52_green-light-pedro-henrique.jpg
   alt: null
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: entenda-o-greenlight-vaporizacao-da-prostata-para-tratamento-da-hiperplasia-prostatica-benigna
 title: 'Laser Verde "GreenLight" para tratamento da hiperplasia da próstata:

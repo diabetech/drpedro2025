@@ -13,6 +13,7 @@ f_post-summary: O câncer renal, quando detectado precocemente, permite uma
   pós-operatória — a Trifecta. A cirurgia robótica possibilita nefrectomias
   parciais em situações onde antigamente indicava-se a remoção total do rim.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-27T16:35:53.847Z
 seo:

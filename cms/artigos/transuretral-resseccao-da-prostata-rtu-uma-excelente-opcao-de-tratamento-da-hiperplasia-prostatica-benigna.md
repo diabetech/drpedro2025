@@ -13,6 +13,7 @@ f_post-summary: A Ressecção Transuretral da Próstata (RTU) é a cirurgia mais
   frequentemente realizada no mundo para tratar problemas urinários causados
   pelo crescimento benigno da próstata.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-04T01:58:11.492Z
 seo:

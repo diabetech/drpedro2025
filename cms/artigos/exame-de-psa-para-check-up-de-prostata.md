@@ -11,6 +11,7 @@ f_main-image:
 f_post-summary: Guia informativo sobre o exame de PSA, incluindo sua importância
   no diagnóstico do câncer de próstata, indicações, interpretação dos resultados
   e recomendações para realização do exame.
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: exame-de-psa-para-check-up-de-prostata
 tags: artigos

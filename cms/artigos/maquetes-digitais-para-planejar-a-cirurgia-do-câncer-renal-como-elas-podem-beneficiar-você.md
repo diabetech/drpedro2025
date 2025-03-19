@@ -12,6 +12,7 @@ f_post-summary: As maquetes digitais são reconstruções tridimensionais do rim
   do tumor usando exames como a tomografia. Elas permitem uma melhor compreensão
   espacial da relação entre o tumor e os vasos sanguíneos.
 tags: artigos
+f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-07T22:24:55.625Z
 seo:
