@@ -3,7 +3,7 @@ title: Cirurgia robótica para câncer de próstata. Vantagens e desvantagens?
 created-on: 2024-12-02T19:20:41.246Z
 updated-on: 2024-12-26T05:17:16.017Z
 published-on: 2024-12-26T05:17:16.017Z
-f_destaque: true
+f_destaque: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/robô-na-mesa-cirúrgica-1-.jpg
