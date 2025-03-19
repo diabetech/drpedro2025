@@ -336,7 +336,7 @@ margin: 0rem !important;
                         </div>
                       </div>
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 4 -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 8 -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques-on w-dyn-items">
                         {%- for item in collection -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
