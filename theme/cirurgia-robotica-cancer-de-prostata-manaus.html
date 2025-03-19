@@ -563,6 +563,7 @@ margin: 0rem !important;
                     </div>
                   </div>
                 </div>
+                {%- assign collection = collections.artigos | filter: "f_especialidades,eq,cms/especialidades/cirurgia-robotica", "ANY", page.inputPath | sort: "-created-on" -%}
                 <div class="blog_list-wrapper w-dyn-list">
                   <div role="list" class="blog-home_list is-body w-dyn-items">
                     <div role="listitem" class="blog_item-home w-dyn-item">
