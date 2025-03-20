@@ -4,6 +4,7 @@ created-on: 2025-03-06T16:35:42.204Z
 updated-on: 2025-03-06T16:35:42.258Z
 published-on: 2025-03-06T16:35:42.297Z
 f_destaque: false
+f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/images/pexels-vlada-karpovich-8939892.jpg
@@ -11,7 +12,6 @@ f_post-summary: As medidas complementares não substituem o tratamento
   convencional, mas podem ser benéficas e contribuir para o bem-estar do
   paciente.
 tags: artigos
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-06T16:35:42.325Z
 seo:
