@@ -5,6 +5,7 @@ created-on: ""
 updated-on: ""
 published-on: 2025-01-14T14:21:20.285Z
 f_destaque: true
+f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/outro-robô-2-1-.jpeg
@@ -13,7 +14,6 @@ f_post-summary: Este artigo demonstra nosso protocolo para pacientes de Manaus
   com câncer de próstata  que necessitam realizar prostatectomia robótica em São
   Paulo, desde o planejamento inicial até o pós-operatório.
 tags: artigos
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-01-14T14:21:20.307Z
 seo:
