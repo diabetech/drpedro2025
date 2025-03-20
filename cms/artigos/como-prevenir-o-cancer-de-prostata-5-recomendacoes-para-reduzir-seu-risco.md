@@ -1,20 +1,20 @@
 ---
+title: Como prevenir o câncer de próstata? 5 recomendações que podem reduzir seu risco
 created-on: 2024-12-02T20:56:43.689Z
+updated-on: 2024-12-02T20:56:43.689Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
+f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700d_uuu.jpeg
   alt: Idoso praticando atividade física.
-tags: artigos
-f_aparecer-na-landing-page: false
-layout: "[artigos].html"
-slug: como-prevenir-o-cancer-de-prostata-5-recomendacoes-para-reduzir-seu-risco
-title: Como prevenir o câncer de próstata? 5 recomendações que podem reduzir seu risco
-updated-on: 2024-12-02T20:56:43.689Z
 f_post-summary: Não existe um hábito, remédio ou alimento específico que possa
   prevenir o câncer de próstata, mas a adoção de algumas práticas pode reduzir o
   risco de câncer de próstata ou mesmo auxiliar no controle da doença.
+layout: "[artigos].html"
+slug: como-prevenir-o-cancer-de-prostata-5-recomendacoes-para-reduzir-seu-risco
+tags: artigos
 date: 2025-01-03T22:31:07.547Z
 ---
 Os principais fatores de risco para o câncer de próstata são a idade, a raça negra e o histórico familiar de câncer de próstata (predisposição genética). Ao contrário de outros tipos de câncer associados a um hábito específico, como ocorre com câncer de pulmão e tabagismo, **não existe um hábito, remédio ou alimento específico que possa prevenir o** [**câncer de próstata**.](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)
