@@ -5,13 +5,13 @@ created-on: 2024-12-02T18:36:45.619Z
 updated-on: 2024-12-02T18:36:45.619Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
+f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/prostata.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd06ff3_cirugia-1030x585-1201.jpg
   alt: Centro cirurgico
 f_post-summary: Entenda quais são as técnicas cirúrgicas atualmente disponíveis
   para tratar o câncer de próstata.
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 slug: tratamento-do-cancer-de-prostata-prostatectomia-laparoscopica-simples-e-robotica
 tags: artigos
