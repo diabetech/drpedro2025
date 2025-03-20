@@ -1,20 +1,20 @@
 ---
+title: Quais são os tipos de biópsia de próstata?
 created-on: 2024-12-02T20:59:47.954Z
+updated-on: 2024-12-02T20:59:47.954Z
 published-on: 2024-12-22T14:26:25.060Z
 f_destaque: false
+f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/external/676820d6d8cdd7cccbd0700e_tiposbiopsia-1.png
   alt: null
-tags: artigos
-f_aparecer-na-landing-page: false
-layout: "[artigos].html"
-slug: quais-sao-os-tipos-de-biopsia-de-prostata
-title: Quais são os tipos de biópsia de próstata?
-updated-on: 2024-12-02T20:59:47.954Z
 f_post-summary: Conheça os diferentes tipos de biópsia de próstata e entenda por
   que a técnica transperineal com fusão de imagens é considerada atualmente a
   melhor opção para o diagnóstico do câncer de próstata.
+layout: "[artigos].html"
+slug: quais-sao-os-tipos-de-biopsia-de-prostata
+tags: artigos
 date: 2025-01-04T00:44:28.397Z
 ---
 Nos últimos anos, a saúde masculina ganhou maior visibilidade e atenção. Neste cenário, **o câncer de próstata destaca-se como o mais prevalente nos homens**. 
