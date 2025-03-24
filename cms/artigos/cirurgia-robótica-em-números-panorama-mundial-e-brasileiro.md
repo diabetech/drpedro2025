@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A cirurgia robótica melhorou o resultado do tratamento de diversas doenças urológicas, incluindo o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, **[o câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)**, o **[câncer de bexiga](https://uroconsult.com.br/artigos/cancer-de-bexiga-diagnostico-e-tratamento-do-quarto-cancer-mais-comum-em-homens/)** e a hiperplasia prostática benigna. Esta tecnologia avançada disponibiliza ao cirurgião devidamente treinado a precisão de pinças robóticas articuladas combinada com uma imagem em 3D de alta definição, resultando em procedimentos mais precisos, recuperação mais rápida e com menor risco de complicações para os pacientes.
+A cirurgia robótica melhorou o resultado do tratamento de diversas doenças urológicas, incluindo o **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, **[o câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)**, o **[câncer de bexiga](https://uroconsult.com.br/artigos/cancer-de-bexiga-diagnostico-e-tratamento-do-quarto-cancer-mais-comum-em-homens/)** e a hiperplasia prostática benigna. Esta tecnologia avançada disponibiliza ao cirurgião devidamente treinado a precisão de pinças robóticas articuladas combinada com uma imagem em 3D de alta definição, resultando em procedimentos mais precisos, com recuperação mais rápida e menor risco de complicações para os pacientes.
 
 ### A expansão global da cirurgia robótica
 
