@@ -8,10 +8,8 @@ f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/cirurgiaroboticanumeros.jpg
-f_post-summary: Esta tecnologia avançada disponibiliza ao cirurgião devidamente
-  treinado a precisão de pinças robóticas articuladas combinada com uma imagem
-  em 3D de alta definição, resultando em procedimentos mais precisos,
-  recuperação mais rápida e com menor risco de complicações para os pacientes.
+f_post-summary: A robótica cirúrgica não é apenas uma tendência tecnológica, mas
+  uma modalidade terapêutica convincentemente validada cientificamente.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-23T21:59:07.355Z
@@ -40,6 +38,30 @@ Estudos publicados em periódicos de alto impacto como o** [Journal of Urology](
 * Redução no tempo de internação hospitalar.
 * Recuperação pós-operatória mais rápida.
 * Menos dor pós-operatória.
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/shorts/dR80F-_fJZQ"
+    title="A cirurgia robótica é experimental?"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### A inovação na cirurgia de próstata
 
