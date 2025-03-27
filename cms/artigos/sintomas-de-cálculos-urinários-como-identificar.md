@@ -1,5 +1,5 @@
 ---
-title: "Sintomas de cálculos urinários: como identificar?"
+title: "Cálculos urinários: como identificar a doença?"
 created-on: 2025-03-26T19:21:33.320Z
 updated-on: 2025-03-26T19:21:33.360Z
 published-on: 2025-03-26T19:21:33.395Z
@@ -8,8 +8,8 @@ f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/images/2547659-1-.jpg
-f_post-summary: "Os cálculos urinários são estruturas sólidas formadas pela
-  agregação de cristais normalmente presentes na urina. "
+f_post-summary: Cálculos urinários devem ser idealmente identificados e tratados
+  antes ocorrência de complicações graves ou dor intensa.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-26T19:21:33.426Z
@@ -18,11 +18,11 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Identificar os sinais precoces dos cálculos urinários contribui para o diagnóstico e sucesso do tratamento, evitando complicações como infecções graves ou danos permanentes aos rins.
+Cálculos urinários devem ser idealmente identificados e tratados antes ocorrência de complicações graves ou dor intensa. A suspeição clínica em pacientes com sintomas e fatores de risco para litíase urinária é importantíssima, mas a maioria das pessoas são assintomáticos e acabam descobrindo ter a doença durante uma cólica renal de forte intensidade.
 
 ### O que são os cálculos urinários?
 
-Os cálculos urinários são estruturas sólidas formadas pela agregação de cristais normalmente presentes na urina. Quando determinados minerais e sais estão em concentração elevada, eles podem se agregar e formar pedras de diversos tamanhos.
+Os cálculos urinários são estruturas sólidas formadas pela agregação de cristais normalmente presentes na urina. Quando determinados minerais e sais estão em concentração elevada, sem água em quantidade suficiente para diluí-los, eles se agregam e formam pedras de diversos tamanhos.
 
 A formação dos cálculos está relacionada a diversos fatores:
 
@@ -35,9 +35,13 @@ A formação dos cálculos está relacionada a diversos fatores:
 
 ### Principais sintomas clássicos dos cálculos urinários
 
-O sintoma mais característico dos cálculos urinários é a cólica renal, considerada uma das dores mais intensas que o ser humano pode experimentar. Esta dor apresenta características específicas:
+O sintoma mais característico dos cálculos urinários é a **cólica renal**, considerada uma das dores mais intensas que o ser humano pode experimentar. Esta dor apresenta características específicas:
 
 * **Localização:** geralmente na região lombar ou no flanco (parte lateral do abdome), podendo irradiar para o baixo ventre,  região inguinal (“virilha") ou região genital. Homens com cólica renal podem ter dor testicular.
+
+  ![](/assets/images/cólica-renal.jpg)
+
+  *Localização típica da dor durante uma crise de cólica renal.*
 * **Intensidade:** a dor costuma ser intensa e de início súbito.
 * **Padrão:** surge em ondas, com períodos de intensificação e alívio relativo.
 * **Duração:** pode durar de 20-60 minutos cada episódio, com intervalos variáveis.
@@ -46,7 +50,7 @@ Outros sintomas frequentemente associados incluem:
 
 * Náuseas e vômitos durante as crises de dor.
 * Agitação e incapacidade de encontrar posição confortável.
-* Sudorese excessiva durante as crises.
+* Sudorese excessiva e palidez durante as crises.
 * Urgência miccional e micções sucessivas de baixo volume.
 
 ### Variação dos sintomas conforme a localização do cálculo
@@ -84,7 +88,7 @@ Este sintoma ocorre devido ao trauma mecânico causado pelo cálculo ao se movim
 
 ### Quando buscar atendimento de emergência
 
-Certos sintomas exigem atenção médica imediata. **Recomendo procurar atendimento de emergência nas seguintes situações:**
+Certos sintomas exigem atenção médica imediata. Recomendo **procurar atendimento de emergência nas seguintes situações:**
 
 * Dor severa que não responde a analgésicos comuns.
 * Febre (> 37,8°C) associada a sintomas urinários e dor (indicativo de infecção).
@@ -96,8 +100,6 @@ Certos sintomas exigem atenção médica imediata. **Recomendo procurar atendime
 Estes sintomas são sinais de alerta para complicações dos cálculos urinários, como pielonefrite (infecção renal) e obstrução do trato urinário, condições que exigem intervenção imediata para evitar dano renal ou infecção sistêmica (sepse).
 
 ### Sintomas atípicos e silenciosos dos cálculos urinários
-
-Nem sempre os cálculos urinários se manifestam de forma clássica. Manifestações menos comuns incluem:
 
 * **Cálculos silenciosos:** principalmente os localizados nos cálices renais (estruturas internas do rim), podem não causar sintomas até atingirem tamanho considerável.
 * **Dor lombar leve e intermitente do lado em que está localizado o cálculo.**
