@@ -39,7 +39,10 @@ O sintoma mais característico dos cálculos urinários é a **cólica renal**, 
 
 * **Localização:** geralmente na região lombar ou no flanco (parte lateral do abdome), podendo irradiar para o baixo ventre,  região inguinal (“virilha") ou região genital. Homens com cólica renal podem ter dor testicular.
 
-  *Localização típica da dor durante uma crise de cólica renal.*
+![](/assets/images/cólica-renal.jpg)
+
+*Localização típica da dor durante uma crise de cólica renal.*
+
 * **Intensidade:** a dor costuma ser intensa e de início súbito.
 * **Padrão:** surge em ondas, com períodos de intensificação e alívio relativo.
 * **Duração:** pode durar de 20-60 minutos cada episódio, com intervalos variáveis.
