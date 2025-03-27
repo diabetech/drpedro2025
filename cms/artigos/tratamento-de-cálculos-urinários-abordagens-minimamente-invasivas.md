@@ -8,8 +8,9 @@ f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/endourologia.md
 f_main-image:
   url: /assets/images/26032025.png
-f_post-summary: |
-  O tratamento varia conforme o tamanho e localização dos cálculos urinários.
+f_post-summary: >
+  Hoje, com o uso das novas tecnologias, praticamente todos os pacientes podem
+  ser tratados através de procedimentos minimamente invasivos.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-03-26T21:48:49.930Z
@@ -18,17 +19,19 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Os cálculos urinários afetam aproximadamente 10% da população em regiões de clima quente como Manaus, podendo causar desconforto lombar, **[sangramento urinário](https://uroconsult.com.br/artigos/hematuria-diagnostico-e-tratamento-do-sangramento-urinario/)**, obstrução do sistema urinário e crise de cólica renal. 
+Os cálculos urinários afetam aproximadamente 10% da população em regiões de clima quente como Manaus, podendo causar desconforto lombar, **[sangramento urinário](https://uroconsult.com.br/artigos/hematuria-diagnostico-e-tratamento-do-sangramento-urinario/)**, obstrução do aparelho urinário e crise de cólica renal. 
 
 Atualmente, **praticamente todos os casos de cálculo urinário podem ser tratados através de procedimentos minimamente invasivos**, realizados sob anestesia, por dentro do canal da urina, sem cortes. Estes procedimentos são eficazes, seguros e com recuperação geralmente mais rápida e menos dolorosa.
 
 ### Como se formam os cálculos urinários?
 
-Os cálculos urinários formam-se quando há **concentração elevada de cristais na urina** que se agregam formando os cálculos. Isto ocorre por fatores como baixa ingestão de líquidos, predisposição genética, dieta rica em sódio ou proteínas, infecções urinárias de repetição e alterações metabólicas específicas.
+Os cálculos urinários se formam quando a urina apresenta uma alta concentração de determinadas substâncias, chamadas de cristais, como cálcio, oxalato ou ácido úrico. Em alta concentração e sem água para dissolvê-los, esses cristais **vão se juntando até formar pedras na urina.**
+
+Isto ocorre por fatores como baixa ingestão de líquidos, predisposição genética, dieta rica em sódio ou proteínas, infecções urinárias de repetição e alterações metabólicas específicas.
 
 ### Quando devo procurar um urologista por causa de cálculos urinários?
 
-É desejável que todo paciente com cálculos com mais de 4 mm procurem um **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/)** para serem avaliados, mesmo quando assintomáticos, pois frequentemente **a manifestação clínica inicial de um cálculo urinária é uma crise de cólica renal intensa, que poderia ser evitada com o tratamento no tempo correto.**
+É desejável que **todo paciente com cálculos com mais de 4 mm procure** um **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/)** para ser avaliados, mesmo quando assintomático, pois frequentemente **a manifestação clínica inicial de um cálculo urinária é uma crise de cólica renal intensa, que poderia ser evitada com o tratamento no tempo correto.**
 
 Nas seguintes situações, a avaliação com Urologista deve ser imediata:
 
@@ -44,13 +47,14 @@ O tratamento varia conforme o **tamanho e localização** dos cálculos:
 
 #### 1. Para cálculos pequenos (até 5mm)
 
-Quando os cálculos são pequenos, especialmente se já estiverem no ureter, o tratamento pode ser expectante, pois boa parte dos pacientes conseguem eliminar estes cálculos espontaneamente. A taxa de eliminação espontânea é de aproximadamente 80% para cálculos de até 4mm.
+Quando os cálculos são pequenos, especialmente se já estiverem no ureter, o tratamento pode ser expectante, pois boa parte dos pacientes conseguem eliminar estes cálculos espontaneamente. A taxa de eliminação espontânea é de aproximadamente 80% para cálculos de até 4 mm.
 
 #### 2. Para cálculos de tamanho médio (5mm a 2cm)
 
-Para estes casos, a **[ureterolitotripsia com laser](https://uroconsult.com.br/artigos/laser-para-tratamento-de-calculos-no-rim-e-ureter/)** é minha recomendação principal:
+Para estes casos, a **[ureterorrenolitotripsia com laser](https://uroconsult.com.br/artigos/laser-para-tratamento-de-calculos-no-rim-e-ureter/)** é minha recomendação principal, em linha com as recomendações das principais diretrizes médicas mundiais ([](https://uroweb.org/guidelines/urolithiasis)[EAU - Associação Européia de Urologia).](https://uroweb.org/guidelines/urolithiasis)
 
-* Procedimento minimamente invasivo realizado pelo canal da urina.
+Procedimento minimamente invasivo realizado pelo canal da urina.
+
 * Não requer cortes externos.
 * Utilização de laser para fragmentar o cálculo.
 * Alta hospitalar no mesmo dia ou no dia seguinte.
@@ -112,7 +116,7 @@ Estas vantagens traduzem-se em maior segurança e maiores taxas de pacientes com
 
 #### 3. Para cálculos grandes (acima de 2cm)
 
-Para cálculos maiores que 2cm, cálculos complexos e coraliformes ou quando a ureterolitotripsia não é viável, indico a **[cirurgia renal percutânea](https://uroconsult.com.br/artigos/tratamento-de-calculos-renais-maiores-a-cirurgia-renal-percutanea/#:~:text=Na%20Cirurgia%20Renal%20Percut%C3%A2nea%2C%20o,de%20um%20aparelho%20chamado%20Nefrosc%C3%B3pio.)**. Este procedimento permite o acesso direto ao sistema coletor do rim através de uma pequena incisão (1,5cm) na região lombar. Utilizando instrumentos especializados, é possível visualizar, fragmentar e remover completamente os cálculos.
+Para cálculos maiores que 2cm, cálculos complexos e coraliformes ou quando a ureterolitotripsia não é viável, indico a **[cirurgia renal percutânea](https://uroconsult.com.br/artigos/tratamento-de-calculos-renais-maiores-a-cirurgia-renal-percutanea/#:~:text=Na%20Cirurgia%20Renal%20Percut%C3%A2nea%2C%20o,de%20um%20aparelho%20chamado%20Nefrosc%C3%B3pio.)**. Este procedimento permite o acesso direto ao sistema coletor do rim (parte interna do rim onde circula a urina e onde o cálculo fica alojado) através de uma pequena incisão (1,5cm) na região lombar. Utilizando instrumentos especializados, é possível visualizar, fragmentar e remover completamente os cálculos.
 
 O procedimento proporciona altas taxas de sucesso (superior a 90%). É a opção ideal para casos complexos onde outras abordagens não seriam eficazes.
 
