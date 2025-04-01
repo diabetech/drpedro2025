@@ -24,7 +24,7 @@ A** [biópsia de próstata transperineal com fusão de imagens](https://uroconsu
 
 ## O que é a biópsia transperineal?
 
-Esta **técnica minimamente invasiva** coleta amostras da próstata através da pele do períneo (região entre o escroto e o ânus), evitando a passagem pelo reto. A principal vantagem é a redução drástica do risco de infecção na próstata, chamada prostatite, após a biópsia. Na biópsia transperineal, ocorre menos de 1 caso a cada 1.000 procedimentos realizados.
+É uma **técnica minimamente invasiva** de coleta amostras da próstata através da pele do períneo (região entre o escroto e o ânus), evitando o reto. A principal vantagem é a redução drástica do risco de infecção na próstata, chamada prostatite, após a biópsia. Na biópsia transperineal, ocorre menos de 1 caso a cada 1.000 procedimentos realizados.
 
 ## O que é a fusão de imagens?
 
