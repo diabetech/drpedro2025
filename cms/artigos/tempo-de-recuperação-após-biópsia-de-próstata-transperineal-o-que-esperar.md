@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A** [biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)**  um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação aos métodos tradicionais. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
+A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)**  um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação aos métodos tradicionais. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
 
 ## O que é a biópsia transperineal?
 
@@ -122,6 +122,6 @@ Embora complicações sejam raras na biópsia transperineal, contate um **[urolo
 
 ## Biópsia transperineal de próstata em Manaus
 
-Ofereço aos **[pacientes de Manaus](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)** acesso a esta tecnologia avançada para diagnóstico preciso do** [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/).** O procedimento é realizado em ambiente apropriado, sempre com anestesista presente para garantir seu conforto e segurança. Fomos os pioneiros nesta técnica na Região Norte.
+Ofereço aos **[pacientes de Manaus](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)** acesso a esta tecnologia avançada para diagnóstico preciso do **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**. O procedimento é realizado em ambiente apropriado, sempre com anestesista presente para garantir seu conforto e segurança. Fomos os pioneiros nesta técnica na Região Norte.
 
-Se você necessita realizar uma biópsia de próstata, **[entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490).** Mesmo que você já tenha um urologista, pode realizar a biópsia transperineal conosco e seguir seu tratamento com seu médico de confiança.
+Se você necessita realizar uma biópsia de próstata, **[entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Mesmo que você já tenha um urologista, pode realizar a biópsia transperineal conosco e seguir seu tratamento com seu médico de confiança.
