@@ -70,7 +70,7 @@ Redução significativa dos sintomas iniciais, com remissão do sangramento urin
 
 ### Dias 6-10
 
-Recuperação completa para a maioria dos pacientes, com normalização da coloração da urina e ausência de desconforto significativo. A micção ainda se apresenta um pouco enfraquecida, mas após 10 dias, já se assemelha ao seu padrão anterior à biópsia.
+Recuperação quase completa para a maioria dos pacientes, com normalização da coloração da urina e melhora do desconforto local. A micção ainda se apresenta um pouco enfraquecida, mas após 10 dias, já se assemelha ao seu padrão anterior à biópsia.
 
 ## Sintomas esperados e sua duração
 
