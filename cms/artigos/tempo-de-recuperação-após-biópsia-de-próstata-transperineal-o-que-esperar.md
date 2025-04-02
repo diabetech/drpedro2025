@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)**  um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação aos métodos tradicionais. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
+A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)** é um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação aos métodos tradicionais. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
 
 ## O que é a biópsia transperineal?
 
