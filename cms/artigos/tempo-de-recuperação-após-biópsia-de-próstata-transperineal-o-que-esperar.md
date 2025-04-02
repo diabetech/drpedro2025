@@ -62,7 +62,7 @@ Após a biópsia, você passará por um **período de recuperação** da sedaç�
 
 ### Primeiras 24-48 horas
 
-Você pode sentir desconforto no períneo, ter um pouco de dificuldade para urinar e sangramento discreto na urina. Nesta fase, recomendo repouso domiciliar, hidratação com ingestão de 2 a 3 litros de líquidos durante o dia e evitar esforço físico. 
+Você pode sentir desconforto no períneo, ter um pouco de dificuldade para urinar e sangramento discreto na urina. Nesta fase, recomendo repouso domiciliar,  evitar esforço físico e hidratação com 2 a 3 litros de líquidos durante o dia.
 
 ### Dias 3-5
 
