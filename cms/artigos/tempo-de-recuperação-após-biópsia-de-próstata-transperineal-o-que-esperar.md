@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)** é um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação aos métodos tradicionais. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
+A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)** é um avanço significativo no diagnóstico do câncer prostático, oferecendo maior segurança e precisão em comparação ao método tradicional transretal. Uma das principais preocupações dos pacientes refere-se ao tempo necessário para recuperação após o procedimento.
 
 ## O que é a biópsia transperineal?
 
@@ -28,11 +28,11 @@ A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsu
 
 ## O que é a fusão de imagens?
 
-A tecnologia de fusão de imagens combina as imagens da ressonância magnética com ultrassom em tempo real, permitindo identificação precisa de áreas suspeitas e coleta direcionada de amostras, resultando em diagnóstico mais acurado com menor trauma.
+A tecnologia de fusão de imagens combina as imagens da ressonância magnética com ultrassom em tempo real, permitindo identificação precisa de áreas suspeitas e coleta mais precisa de amostras, resultando em diagnóstico mais acurado.
 
 ## Experiência imediata pós-procedimento
 
-Após a biópsia, você passará por um **período de recuperação** da sedação (30-60 minutos) sob monitoramento da equipe médica. Avaliamos sua capacidade de urinar antes de você ser liberado. É essencial contar com acompanhante para levá-lo para casa, pois os efeitos residuais da sedação impedem a condução segura de veículos nas primeiras 24 horas.
+Após a biópsia, você passará por um **período de recuperação** da sedação (30-60 minutos) sob monitoramento da equipe médica. Avaliaremos sua capacidade de urinar antes de você ser liberado. É essencial contar com acompanhante para levá-lo para casa, pois os efeitos residuais da sedação impedem a condução segura de veículos durante 24 horas.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -62,7 +62,7 @@ Após a biópsia, você passará por um **período de recuperação** da sedaç�
 
 ### Primeiras 24-48 horas
 
-Você pode sentir desconforto no períneo, ter um pouco de dificuldade para urinar e sangramento discreto na urina. Nesta fase, recomendo repouso domiciliar, hidratação com ingestão de 2 a 3 litros de líquidos durante o dia e evitar esforço físico. 
+Você pode sentir desconforto no períneo, ter um pouco de dificuldade para urinar e sangramento discreto na urina. Nesta fase, recomendo repouso domiciliar,  evitar esforço físico e hidratação com 2 a 3 litros de líquidos durante o dia.
 
 ### Dias 3-5
 
@@ -70,7 +70,7 @@ Redução significativa dos sintomas iniciais, com remissão do sangramento urin
 
 ### Dias 6-10
 
-Recuperação completa para a maioria dos pacientes, com normalização da coloração da urina e ausência de desconforto significativo. A micção ainda se apresenta um pouco enfraquecida, mas após 10 dias, já se assemelha ao seu padrão anterior à biópsia.
+Recuperação quase completa para a maioria dos pacientes, com normalização da coloração da urina e melhora do desconforto local. A micção ainda se apresenta um pouco enfraquecida, mas após 10 dias, já se assemelha ao seu padrão anterior à biópsia.
 
 ## Sintomas esperados e sua duração
 
