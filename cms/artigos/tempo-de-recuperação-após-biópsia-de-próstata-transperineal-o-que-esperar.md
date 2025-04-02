@@ -28,11 +28,11 @@ A **[biópsia de próstata transperineal com fusão de imagens](https://uroconsu
 
 ## O que é a fusão de imagens?
 
-A tecnologia de fusão de imagens combina as imagens da ressonância magnética com ultrassom em tempo real, permitindo identificação precisa de áreas suspeitas e coleta direcionada de amostras, resultando em diagnóstico mais acurado com menor trauma.
+A tecnologia de fusão de imagens combina as imagens da ressonância magnética com ultrassom em tempo real, permitindo identificação precisa de áreas suspeitas e coleta mais precisa de amostras, resultando em diagnóstico mais acurado.
 
 ## Experiência imediata pós-procedimento
 
-Após a biópsia, você passará por um **período de recuperação** da sedação (30-60 minutos) sob monitoramento da equipe médica. Avaliamos sua capacidade de urinar antes de você ser liberado. É essencial contar com acompanhante para levá-lo para casa, pois os efeitos residuais da sedação impedem a condução segura de veículos nas primeiras 24 horas.
+Após a biópsia, você passará por um **período de recuperação** da sedação (30-60 minutos) sob monitoramento da equipe médica. Avaliaremos sua capacidade de urinar antes de você ser liberado. É essencial contar com acompanhante para levá-lo para casa, pois os efeitos residuais da sedação impedem a condução segura de veículos durante 24 horas.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
