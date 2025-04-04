@@ -182,7 +182,7 @@ margin: 0rem !important;
     </div>
     <div data-animation="default" class="navbar_component-internas w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease-in" data-collapse="medium" data-w-id="c199b781-7c32-7e67-e459-197a69803cb8" role="banner" data-duration="400">
       <div class="navbar2_container">
-        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 991px) 100vw, 855.9942626953125px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
+        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 767px) 99vw, (max-width: 991px) 100vw, 856.0014038085938px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
         <nav role="navigation" id="w-node-c199b781-7c32-7e67-e459-197a69803cbc-69803cb8" class="navbar2_menu is-page-height-tablet text-align-center fix w-nav-menu">
           <a href="{{ links.2f }}" class="navbar2_link w-nav-link">{{ texts.2268ff }}</a>
           <div data-hover="false" data-delay="0" class="drop w-dropdown">
@@ -202,8 +202,8 @@ margin: 0rem !important;
               <div>{{ texts.-2fa2f280 }}</div>
             </div>
             <nav class="w-dropdown-list">
-              <a href="{{ links.7e950f3e }}" class="link-dropdown w-dropdown-link">{{ texts.-d4e8f82 }}</a>
-              <a href="{{ links.4c8768db }}" class="link-dropdown w-dropdown-link">{{ texts.3f48486b }}</a>
+              <a href="{{ links.3f4952a9 }}" class="link-dropdown w-dropdown-link">{{ texts.-d4e8f82 }}</a>
+              <a href="{{ links.-566d8a1c }}" aria-current="page" class="link-dropdown w-dropdown-link w--current">{{ texts.3f48486b }}</a>
               <a href="{{ links.3b27cd14 }}" class="link-dropdown w-dropdown-link">{{ texts.5cbb328a }}</a>
             </nav>
           </div>
@@ -270,7 +270,7 @@ margin: 0rem !important;
                       </div>
                     </div>
                   </div>
-                  <a href="{{ links.23 }}" class="layout20_lightbox w-inline-block w-lightbox"><img sizes="(max-width: 767px) 100vw, 735.9942626953125px" alt="{{ images.-76992096.alt | escape }}" src="{{ images.-76992096.url }}" loading="lazy" class="layout20_lightbox-image">
+                  <a href="{{ links.23 }}" class="layout20_lightbox w-inline-block w-lightbox"><img sizes="(max-width: 767px) 100vw, 736.0014038085938px" alt="{{ images.-76992096.alt | escape }}" src="{{ images.-76992096.url }}" loading="lazy" class="layout20_lightbox-image">
                     <div class="lightbox-play-icon">
                       <div class="icon-embed-large w-embed"><svg width="100%" height="100%" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path fill-rule="evenodd" clip-rule="evenodd" d="M5.33301 32C5.33301 17.2724 17.2721 5.33334 31.9997 5.33334C39.0721 5.33334 45.8549 8.14286 50.8559 13.1438C55.8568 18.1448 58.6663 24.9276 58.6663 32C58.6663 46.7276 46.7273 58.6667 31.9997 58.6667C17.2721 58.6667 5.33301 46.7276 5.33301 32ZM27.1198 43.4134L42.6664 33.7067C43.2482 33.3341 43.6001 32.6909 43.6001 32C43.6001 31.3092 43.2482 30.6659 42.6664 30.2934L27.0664 20.5867C26.452 20.1993 25.6758 20.1755 25.0388 20.5244C24.4018 20.8734 24.004 21.5403 23.9998 22.2667V41.7334C23.9912 42.4774 24.3963 43.1647 25.0514 43.5174C25.7065 43.8702 26.5033 43.8301 27.1198 43.4134Z" fill="CurrentColor"></path>
@@ -550,59 +550,59 @@ margin: 0rem !important;
             </div>
           </div>
         </div>
-        <section class="section_blog39">
-          <div class="padding-global">
-            <div class="container-large">
-              <div class="padding-section-small">
-                <div class="blog_component">
-                  <div class="margin-bottom margin-xxlarge">
-                    <div class="max-width-large">
-                      <div class="margin-bottom margin-small">
-                        <h2 class="heading-style-h2-4"><strong>{{ texts.-2665dd27 }}</strong></h2>
-                      </div>
+      </section>
+      <section class="section_blog39">
+        <div class="padding-global">
+          <div class="container-large">
+            <div class="padding-section-small">
+              <div class="blog_component">
+                <div class="margin-bottom margin-xxlarge">
+                  <div class="max-width-large">
+                    <div class="margin-bottom margin-small">
+                      <h2 class="heading-style-h2-4"><strong>{{ texts.-2665dd27 }}</strong></h2>
                     </div>
                   </div>
-                  {%- assign collection = collections.artigos | filter: "f_especialidades,eq,cms/especialidades/cirurgia-robotica; f_aparecer-na-landing-page,eq,true", "ALL", page.inputPath | sort: "-created-on" -%}
-                  <div class="blog_list-wrapper w-dyn-list">
-                    {%- unless collection.length == 0 -%}<div role="list" class="blog-home_list is-body w-dyn-items">
-                      {%- for item in collection -%}<div role="listitem" class="blog_item-home w-dyn-item">
-                        <a href="{{ item.url }}" class="blog-home_item-link w-inline-block">
-                          <div class="blog_image-wrapper"><img loading="lazy" alt="{{ images.-2044eef5.alt | escape }}" src="{{ item.data.f_main-image.url }}" class="blog39_image"></div>
-                          <div class="blog_item-content-2">
-                            <div class="blog-home_item-content-top">
-                              <div class="margin-bottom margin-xxsmall">
-                                {%- assign ref = item.data.f_especialidades | resolveReference -%}<div class="tag-2 is-text text-colo-gray">{{ ref.data.title }}</div>
-                              </div>
-                              <div class="margin-bottom">
-                                <h3 class="heading-style-h5">{{ item.data.title }}</h3>
-                              </div>
-                              <div class="text-size-regular text-colo-gray _2">{{ item.data.f_post-summary }}</div>
+                </div>
+                {%- assign collection = collections.artigos | filter: "f_especialidades,eq,cms/especialidades/cirurgia-robotica", "ALL", page.inputPath | sort: "-created-on" -%}<div class="blog_list-wrapper w-dyn-list">
+                  {%- unless collection.length == 0 -%}<div role="list" class="blog-home_list is-body w-dyn-items">
+                    {%- for item in collection -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item-home w-dyn-item">
+                      <a href="{{ item.url }}" class="blog-home_item-link w-inline-block">
+                        <div class="blog_image-wrapper"><img loading="lazy" alt="{{ images.-2044eef5.alt | escape }}" src="{{ item.data.f_main-image.url }}" class="blog39_image"></div>
+                        <div class="blog_item-content-2">
+                          <div class="blog-home_item-content-top">
+                            <div class="margin-bottom margin-xxsmall">
+                              <div class="tag-2 is-text text-colo-gray">{{ ref.data.title }}</div>
                             </div>
-                            <div class="margin-top margin-small">
-                              <div class="blog39_author-wrapper">
-                                <div class="blog39_author-image-wrapper"><img loading="lazy" src="{{ images.-58c0260a.url }}" alt="{{ images.-58c0260a.alt | escape }}" class="blog39_author-image"></div>
-                                <div class="blog39_author-text">
-                                  <div class="text-size-small-2 text-weight-semibold">{{ texts.-21351074 }}</div>
-                                </div>
+                            <div class="margin-bottom">
+                              <h3 class="heading-style-h5">{{ item.data.title }}</h3>
+                            </div>
+                            <div class="text-size-regular text-colo-gray _2">{{ item.data.f_post-summary }}</div>
+                          </div>
+                          <div class="margin-top margin-small">
+                            <div class="blog39_author-wrapper">
+                              <div class="blog39_author-image-wrapper"><img loading="lazy" src="{{ images.-58c0260a.url }}" alt="{{ images.-58c0260a.alt | escape }}" class="blog39_author-image"></div>
+                              <div class="blog39_author-text">
+                                <div class="text-size-small-2 text-weight-semibold">{{ texts.-21351074 }}</div>
                               </div>
                             </div>
                           </div>
-                        </a>
-                      </div>{%- endfor -%}
-                    </div>{%- endunless -%}
-                    {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-                      <div>{{ texts.-57e1cd6f }}</div>
-                    </div>{%- endif -%}
-                  </div>
-                  <div class="margin-top margin-xxlarge">
-                    <div class="button-group-19 is-right">
-                      <a href="{{ links.23 }}" class="button-8 is-alternate w-button">{{ texts.-3310c5c7 }}</a>
-                    </div>
+                        </div>
+                      </a>
+                    </div>{%- endfor -%}
+                  </div>{%- endunless -%}
+                  {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                    <div>{{ texts.-57e1cd6f }}</div>
+                  </div>{%- endif -%}
+                </div>
+                <div class="margin-top margin-xxlarge">
+                  <div class="button-group-19 is-right">
+                    <a href="{{ links.-10acee67 }}" class="button-8 is-alternate w-button">{{ texts.-3310c5c7 }}</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+        </div>
       </section>
       <section class="section_faq6">
         <div class="padding-global">
