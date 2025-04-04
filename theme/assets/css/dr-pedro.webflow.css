@@ -6412,7 +6412,7 @@ figcaption {
 }
 
 @media screen and (max-width: 480px) {
-  .blog_item {
+  .blog_item w-dyn-item {
     max-width: 24rem;
     margin-left: auto;
     margin-right: auto;
