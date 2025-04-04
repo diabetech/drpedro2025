@@ -186,7 +186,7 @@ margin: 0rem !important;
     </div>
     <div data-animation="default" class="navbar_component-internas w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease-in" data-collapse="medium" data-w-id="c199b781-7c32-7e67-e459-197a69803cb8" role="banner" data-duration="400">
       <div class="navbar2_container">
-        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 767px) 99vw, (max-width: 991px) 100vw, 856.0014038085938px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
+        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 991px) 100vw, 855.9942626953125px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
         <nav role="navigation" id="w-node-c199b781-7c32-7e67-e459-197a69803cbc-69803cb8" class="navbar2_menu is-page-height-tablet text-align-center fix w-nav-menu">
           <a href="{{ links.2f }}" class="navbar2_link w-nav-link">{{ texts.2268ff }}</a>
           <div data-hover="false" data-delay="0" class="drop w-dropdown">
@@ -336,7 +336,7 @@ margin: 0rem !important;
                         </div>
                       </div>
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 4 -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 8 -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques-on w-dyn-items">
                         {%- for item in collection -%}{%- assign especialidadesOfArtigos_f_especialidades = item.data.f_especialidades | resolveReference -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
@@ -365,7 +365,7 @@ margin: 0rem !important;
                         <div>{{ texts.3d503d2b }}</div>
                       </div>{%- endif -%}
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" | reverse -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques w-dyn-items">
                         {%- for item in collection -%}{%- assign especialidadesOfArtigos_f_especialidades = item.data.f_especialidades | resolveReference -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
