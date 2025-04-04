@@ -186,7 +186,7 @@ margin: 0rem !important;
     </div>
     <div data-animation="default" class="navbar_component-internas w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease-in" data-collapse="medium" data-w-id="c199b781-7c32-7e67-e459-197a69803cb8" role="banner" data-duration="400">
       <div class="navbar2_container">
-        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 991px) 100vw, 855.9942626953125px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
+        <a href="{{ links.2f }}" class="navbar2_logo-link w-nav-brand"><img sizes="(max-width: 479px) 98vw, (max-width: 767px) 99vw, (max-width: 991px) 100vw, 856.0014038085938px" alt="{{ images.-a351e28.alt | escape }}" src="{{ images.-a351e28.url }}" loading="lazy" class="navbar2_logo"></a>
         <nav role="navigation" id="w-node-c199b781-7c32-7e67-e459-197a69803cbc-69803cb8" class="navbar2_menu is-page-height-tablet text-align-center fix w-nav-menu">
           <a href="{{ links.2f }}" class="navbar2_link w-nav-link">{{ texts.2268ff }}</a>
           <div data-hover="false" data-delay="0" class="drop w-dropdown">
@@ -325,7 +325,7 @@ margin: 0rem !important;
                     </div>
                     <a data-w-id="a749980e-7415-4272-a828-8cd1b09e2f06" href="{{ links.23 }}" class="filters2_tablet-modal-close-button w-inline-block"><img alt="{{ images.2f5f56db.alt | escape }}" src="{{ images.2f5f56db.url }}" class="icon-1x1-small"></a>
                   </div>
-                  <a data-w-id="3461e806-cee2-1a8a-b3c2-a14c65e1a094" href="{{ links.23 }}" class="filters2_tablet-filters-button w-inline-block"><img loading="lazy" src="{{ images.10427e48.url }}" alt="{{ images.10427e48.alt | escape }}" class="button-icon-left">
+                  <a data-w-id="a749980e-7415-4272-a828-8cd1b09e2f08" href="{{ links.23 }}" class="filters2_tablet-filters-button w-inline-block"><img loading="lazy" src="{{ images.10427e48.url }}" alt="{{ images.10427e48.alt | escape }}" class="button-icon-left">
                     <div>{{ texts.30496c4b }}</div>
                   </a>
                   <div id="w-node-a749980e-7415-4272-a828-8cd1b09e2f0c-cbd06f3a" class="filters2_feed">
@@ -336,15 +336,15 @@ margin: 0rem !important;
                         </div>
                       </div>
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 8 -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,eq,true", "ALL", page.inputPath | sort: "published-on" | limit: 4 -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques-on w-dyn-items">
-                        {%- for item in collection -%}{%- assign especialidadesOfArtigos_f_especialidades = item.data.f_especialidades | resolveReference -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item w-dyn-item">
+                        {%- for item in collection -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
                             <div class="blog42_image-wrapper"><img loading="lazy" alt="{{ images.0.alt | escape }}" src="{{ item.data.f_main-image.url }}" class="dicas_image"></div>
                           </a>
                           <div class="blog42_meta-wrapper">
-                            <a href="{{ links.23 }}" class="blog42_category-link w-inline-block" style="background-color: {{especialidadesOfArtigos_f_especialidades.data.f_color}};">
-                              <div fs-cmsfilter-field="categoria" class="text-color-alternate">{{ ref.data.title }}</div>
+                            {%- assign especialidadesOfArtigos = item.data.f_especialidades | resolveReference -%}<a href="{{ links.23 }}" class="blog42_category-link w-inline-block" style="background-color: {{especialidadesOfArtigos.data.f_color}};">
+                              {%- assign ref = item.data.f_especialidades | resolveReference -%}<div fs-cmsfilter-field="categoria" class="text-color-alternate">{{ ref.data.title }}</div>
                             </a>
                           </div>
                           <a href="{{ item.url }}" class="blog42_title-link w-inline-block">
@@ -365,15 +365,15 @@ margin: 0rem !important;
                         <div>{{ texts.3d503d2b }}</div>
                       </div>{%- endif -%}
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" | reverse -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques w-dyn-items">
-                        {%- for item in collection -%}{%- assign especialidadesOfArtigos_f_especialidades = item.data.f_especialidades | resolveReference -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item w-dyn-item">
+                        {%- for item in collection -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
                             <div class="blog42_image-wrapper"><img loading="lazy" alt="{{ images.0.alt | escape }}" src="{{ item.data.f_main-image.url }}" class="dicas_image"></div>
                           </a>
                           <div class="blog42_meta-wrapper">
-                            <a href="{{ links.23 }}" class="blog42_category-link w-inline-block" style="background-color: {{especialidadesOfArtigos_f_especialidades.data.f_color}};">
-                              <div fs-cmsfilter-field="categoria" class="text-color-alternate">{{ ref.data.title }}</div>
+                            {%- assign especialidadesOfArtigos = item.data.f_especialidades | resolveReference -%}<a href="{{ links.23 }}" class="blog42_category-link w-inline-block" style="background-color: {{especialidadesOfArtigos.data.f_color}};">
+                              {%- assign ref = item.data.f_especialidades | resolveReference -%}<div fs-cmsfilter-field="categoria" class="text-color-alternate">{{ ref.data.title }}</div>
                             </a>
                           </div>
                           <a href="{{ item.url }}" class="blog42_title-link w-inline-block">
@@ -552,7 +552,7 @@ margin: 0rem !important;
               </div>
             </div>
             <div class="padding-bottom padding-large">
-              <div class="footer15_image-wrapper"><img sizes="(max-width: 2210px) 100vw, 2210px" alt="{{ images.-6fb6021a.alt | escape }}" src="{{ images.-6fb6021a.url }}" loading="lazy" class="footer_image max-width-full"></div>
+              <div class="footer15_image-wrapper"><img sizes="100vw" alt="{{ images.-6fb6021a.alt | escape }}" src="{{ images.-6fb6021a.url }}" loading="lazy" class="footer_image max-width-full"></div>
             </div>
             <div class="line-divider"></div>
             <div class="padding-top padding-medium">
