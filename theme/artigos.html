@@ -365,7 +365,7 @@ margin: 0rem !important;
                         <div>{{ texts.3d503d2b }}</div>
                       </div>{%- endif -%}
                     </div>
-                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" -%}<div class="blog_list-wrapper w-dyn-list">
+                    {%- assign collection = collections.artigos | filter: "f_destaque,ne,true", "ALL", page.inputPath | sort: "published-on" | reverse -%}<div class="blog_list-wrapper w-dyn-list">
                       {%- unless collection.length == 0 -%}<div fs-cmsload-element="list" fs-cmsload-mode="render-all" fs-cmsfilter-element="list" role="list" class="blog_list destaques w-dyn-items">
                         {%- for item in collection -%}{%- assign especialidadesOfArtigos_f_especialidades = item.data.f_especialidades | resolveReference -%}{%- assign ref = item.data.f_especialidades | resolveReference -%}<div role="listitem" class="blog_item w-dyn-item">
                           <a href="{{ item.url }}" class="blog42_image-link w-inline-block">
