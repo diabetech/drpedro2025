@@ -113,8 +113,6 @@ A **[biópsia transperineal guiada por fusão de imagens](https://uroconsult.com
 
 ### Prostatectomia robótica
 
-[Os 5 objetivos da prostatectomia para câncer de próstata](https://youtu.be/j2zaLQv1bWo)
-
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
