@@ -1,6 +1,6 @@
 ---
-title: "Medicina de precisão no câncer de próstata: o que é e como pode
-  beneficiar seu tratamento?"
+title: "Medicina de precisão no câncer de próstata: como pode beneficiar seu
+  tratamento?"
 created-on: 2025-04-07T14:38:03.672Z
 updated-on: 2025-04-07T14:38:03.682Z
 published-on: 2025-04-07T14:38:03.690Z
