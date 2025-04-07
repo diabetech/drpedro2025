@@ -7,6 +7,8 @@ published-on: 2025-04-07T14:38:03.690Z
 f_destaque: false
 f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/prostata.md
+f_main-image:
+  url: /assets/images/roboticaadrpedro.jpg
 f_post-summary: A oncologia de precisão é uma abordagem moderna do tratamento do
   câncer que usa informações genéticas do tumor para escolher terapias mais
   específicas e eficazes, com menos efeitos colaterais.
@@ -78,7 +80,29 @@ A integração entre a medicina de precisão e os procedimentos minimamente inva
 
 ### Biópsia transperineal com fusão de imagens
 
-[Demonstração real de uma biópsia de próstata com fusão de imagens](https://youtu.be/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6)
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/WHQ7VUIqQzU"
+    title="Demonstração real de uma biópsia de próstata com fusão de imagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 A **[biópsia transperineal guiada por fusão de imagens](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)** combina ressonância magnética com ultrassom em tempo real, permitindo a coleta de amostras precisamente das áreas suspeitas. Estas amostras podem ser submetidas a testes genéticos como o Decipher, acima mencionados. A biópsia com fusão de imagens como temos realizado:
 
@@ -90,6 +114,30 @@ A **[biópsia transperineal guiada por fusão de imagens](https://uroconsult.com
 ### Prostatectomia robótica
 
 [Os 5 objetivos da prostatectomia para câncer de próstata](https://youtu.be/j2zaLQv1bWo)
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/j2zaLQv1bWo"
+    title="Os 5 objetivos da prostatectomia para câncer de próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 A **[cirurgia robótica para câncer de próstata](https://uroconsult.com.br/artigos/os-5-objetivos-da-prostatectomia-para-cancer-de-prostata/)** beneficia-se diretamente do conhecimento molecular do tumor, por que permite ao cirurgião personalizar a cirurgia para cada paciente. Veja alguns exemplos:
 
