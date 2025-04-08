@@ -31,7 +31,29 @@ A biópsia consiste na coleta de pequenas amostras de tecido prostático para an
 
 Na minha prática em Manaus, utilizo preferencialmente a **[biópsia transperineal com fusão de imagens](https://uroconsult.com.br/artigos/biopsia-de-prostata-transperineal-em-manaus/)**, técnica que combina a ressonância magnética prévia com ultrassom em tempo real. Este método proporciona maior precisão diagnóstica e menor risco de complicações como infecções.
 
-<https://youtu.be/83WBx2stFfs?si=uzZ-PSFTzq2xoCp4>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/83WBx2stFfs"
+    title="Biópsia transperineal de próstata com fusão de imagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## Evidências científicas sobre biópsia de próstata e função erétil
 
@@ -55,9 +77,31 @@ A** [biópsia transperineal](https://uroconsult.com.br/artigos/doi-fazer-biopsia
 
 * **Menor trauma no esfíncter anal:** ao evitar a passagem pelo reto, há menor desconforto na região, o que pode facilitar o retorno mais rápido à atividade sexual.
 * **Redução significativa do risco de infecções:** infecções prostáticas (prostatites) podem afetar negativamente a função sexual. A via transperineal reduz drasticamente esse risco.
-* **Menor ansiedade:** ao saber que o procedimento é mais seguro e confortável, muitos pacientes experimentam menos ansiedade, fator que contribui para melhor função sexual no pós-procedimento.
+* **Menor ansiedade:** ao saber que o procedimento é mais seguro e confortável, muitos pacientes experimentam menos ansiedade, fator que contribui para melhor função sexual no pós-procedimento
 
-[Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata](https://youtu.be/6sktWZbS5pc?si=ks7-gUNN3mjzArZd)
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/6sktWZbS5pc"
+    title="Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## Quando se preocupar com alterações na função erétil após a biópsia?
 
