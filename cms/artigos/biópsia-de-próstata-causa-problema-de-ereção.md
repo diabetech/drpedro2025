@@ -20,7 +20,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A biópsia de próstata é o único procedimento capaz de confirmar o diagnóstico do câncer de próstata. Um receio frequente entre os pacientes que necessitam realizar este exame é o possível impacto na função sexual. Este artigo esclarece o que as principais diretrizes médicas mundiais e a literatura científica demonstram sobre essa questão.
+A biópsia de próstata é o único exame capaz de confirmar o diagnóstico do câncer de próstata. Um receio frequente entre os pacientes que necessitam de uma biópsia é o possível impacto na função sexual. Este artigo esclarece o que a literatura científica esclarece sobre essa questão.
 
 ## O que é a biópsia de próstata e como é realizada?
 
@@ -55,9 +55,11 @@ Na minha prática em Manaus, utilizo preferencialmente a **[biópsia transperine
     }  </script>
 </div>
 
-## Evidências científicas sobre biópsia de próstata e função erétil
+### Evidências científicas sobre biópsia de próstata e função erétil
 
-As principais associações urológicas mundiais, como a **[Associação Europeia de Urologia (EAU)](https://uroweb.org/guidelines/prostate-cancer)** e a **[Associação Americana de Urologia (AUA)](https://www.auanet.org/guidelines/guidelines/prostate-cancer-early-detection)**, são unânimes em suas diretrizes:
+Vários estudos científicos avaliaram a função erétil após biópsias de próstata e observaram que, embora exista um risco mínimo de disfunção erétil temporária após o procedimento, a função erétil geralmente retorna ao padrão basal dentro de três a seis meses. Isso sugere que, embora possa ocorrer disfunção erétil após a biópsia, ela é leve e transitória, não podendo muitas vezes ser atribuída à biópsia.
+
+Por este motivo, explico aos pacientes que:
 
 * A biópsia de próstata **não causa disfunção erétil permanente.**
 * Alterações na função sexual após o procedimento são tipicamente **temporárias e autolimitadas.**
@@ -66,18 +68,15 @@ As principais associações urológicas mundiais, como a **[Associação Europei
 
 Quando ocorrem alterações temporárias na ereção após a biópsia, elas geralmente estão relacionadas a fatores como:
 
-1. **Fatores psicológicos:** a ansiedade relacionada ao procedimento e ao possível diagnóstico de câncer pode afetar temporariamente a função sexual.
+1. **Fatores psicológicos:** a ansiedade relacionada ao procedimento e ao possível diagnóstico de câncer pode prejudicar a função sexual.
 2. **Desconforto local:** sensibilidade na região perineal e presença de sangue no esperma (hematospermia) podem reduzir o interesse sexual nas primeiras semanas.
 3. **Inflamação temporária:** o procedimento pode causar edema e inflamação temporária na próstata e tecidos adjacentes.
-4. **Medicamentos:** alguns analgésicos e antibióticos utilizados após o procedimento podem afetar temporariamente a libido e a função erétil.
 
-## Biópsia transperineal: vantagens para a preservação da função sexual
+### **Biópsia transperineal traz vantagens para a preservação da função sexual?**
 
-A** [biópsia transperineal](https://uroconsult.com.br/artigos/doi-fazer-biopsia-de-prostata-via-perineal/)** oferece algumas vantagens em relação à transretal quando consideramos o impacto na função sexual:
+A **[biópsia transperineal](https://uroconsult.com.br/artigos/doi-fazer-biopsia-de-prostata-via-perineal/)** tem algumas vantagens potenciais, teóricas e ainda não demonstradas claramente na literatura. Alguns pesquisadores argumentam que, ao reduzir **significativamente o risco de** infecções prostáticas (prostatites), a biópsia transperineal evite o prejuízo à função sexual advindo desta complicação.
 
-* **Menor trauma no esfíncter anal:** ao evitar a passagem pelo reto, há menor desconforto na região, o que pode facilitar o retorno mais rápido à atividade sexual.
-* **Redução significativa do risco de infecções:** infecções prostáticas (prostatites) podem afetar negativamente a função sexual. A via transperineal reduz drasticamente esse risco.
-* **Menor ansiedade:** ao saber que o procedimento é mais seguro e confortável, muitos pacientes experimentam menos ansiedade, fator que contribui para melhor função sexual no pós-procedimento
+No entanto, apesar de ser um especialista em biópsias pela via perineal, **preciso deixar claro que as evidências atuais não demonstraram uma diferença significativa na preservação da função erétil em relação à técnica transretal.**
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -105,15 +104,14 @@ A** [biópsia transperineal](https://uroconsult.com.br/artigos/doi-fazer-biopsia
 
 ## Quando se preocupar com alterações na função erétil após a biópsia?
 
-A maioria dos homens pode esperar retorno completo à função erétil normal dentro de algumas semanas após a biópsia. No entanto, recomendo consultar um [urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/) se você notar:
+A maioria dos homens não tem suas ereções prejudicadas pelo biópsia e, quando isso ocorre, pode esperar retorno completo à função erétil normal dentro de algumas semanas após a biópsia. No entanto, recomendo consultar um **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/)** se você notar:
 
-* Problemas de ereção que persistam por mais de 3 meses após o procedimento.
-* Alterações significativas na qualidade das ereções comparadas ao período pré-biópsia.
-* Dor durante a ereção ou ejaculação que não diminua com o tempo.
+* Problemas de ereção que persistam por **mais de 3 meses após o procedimento.**
+* Alterações significativas na **qualidade das ereções** comparadas ao período pré-biópsia.
 
 É importante distinguir se eventuais problemas estão relacionados ao procedimento em si ou a outros fatores, como estresse pelo diagnóstico de **[câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, que podem afetar a função sexual.
 
-## Como minimizar o impacto da biópsia na função sexual
+### Como minimizar o impacto da biópsia na função sexual
 
 Para otimizar sua recuperação e minimizar qualquer impacto temporário na função sexual, recomendo:
 
@@ -130,9 +128,9 @@ A **[biópsia por fusão de imagens](https://uroconsult.com.br/artigos/tempo-de-
 
 * Menor trauma tecidual.
 * Recuperação mais rápida.
-* Redução das complicações em geral, incluindo eventuais efeitos na função sexual.
+* Possível redução do chances de disfunção sexual após a biópsia de próstata.
 
-Este método de diagnóstico avançado, que está disponível para nossos pacientes em Manaus, combina o melhor da tecnologia para garantir não apenas precisão diagnóstica, mas também qualidade de vida pós-procedimento.
+Em dezembro de 2023, inauguramos em Manaus este método de diagnóstico avançado, disponível desde então para os nossos pacientes.
 
 ## Biópsia de próstata em Manaus
 
