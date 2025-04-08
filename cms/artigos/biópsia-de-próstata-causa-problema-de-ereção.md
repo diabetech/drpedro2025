@@ -134,4 +134,4 @@ Em dezembro de 2023, inauguramos em Manaus este método de diagnóstico avançad
 
 ## Biópsia de próstata em Manaus
 
-Se você precisa realizar uma biópsia de próstata e tem preocupações sobre possíveis efeitos na função sexual,** [entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Estamos prontos para oferecer esclarecimentos adicionais e o suporte necessário para que você enfrente este procedimento com tranquilidade e segurança.
+Se você precisa realizar uma biópsia de próstata e tem preocupações sobre possíveis efeitos na função sexual,**[entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Estamos prontos para oferecer esclarecimentos adicionais e o suporte necessário para que você enfrente este procedimento com tranquilidade e segurança.
