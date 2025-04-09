@@ -8,10 +8,9 @@ f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/images/biópsia-precisão-ilustração.webp
-f_post-summary: Um receio frequente entre os pacientes que necessitam
-  realizar  biópsia de próstata é o possível impacto na função sexual. Este
-  artigo esclarece o que as principais diretrizes médicas mundiais e a
-  literatura científica demonstram sobre essa questão.
+f_post-summary: Muitos pacientes que necessitam de uma biópsia questionam sobre
+  o impacto do exame na função sexual. Este artigo esclarece o que a literatura
+  científica esclarece sobre essa questão.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-04-08T21:32:24.332Z
@@ -20,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A biópsia de próstata é o único exame capaz de confirmar o diagnóstico do câncer de próstata. Um receio frequente entre os pacientes que necessitam de uma biópsia é o possível impacto na função sexual. Este artigo esclarece o que a literatura científica esclarece sobre essa questão.
+A biópsia de próstata é o único exame capaz de confirmar o diagnóstico do câncer de próstata. Muitos pacientes que necessitam de uma biópsia questionam sobre o impacto do exame na função sexual. Este artigo esclarece o que a literatura científica esclarece sobre essa questão.
 
 ## O que é a biópsia de próstata e como é realizada?
 
