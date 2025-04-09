@@ -1,5 +1,5 @@
 ---
-title: Biópsia de próstata causa problema de ereção?
+title: "Biópsia de próstata causa problema de ereção? "
 created-on: 2025-04-08T21:32:24.281Z
 updated-on: 2025-04-08T21:32:24.302Z
 published-on: 2025-04-08T21:32:24.321Z
@@ -9,7 +9,7 @@ f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/images/biópsia-precisão-ilustração.webp
 f_post-summary: Muitos pacientes que necessitam de uma biópsia questionam sobre
-  o impacto do exame na função sexual. Este artigo esclarece o que a literatura
+  o impacto do exame na função sexual. Este artigo explica o que a literatura
   científica esclarece sobre essa questão.
 tags: artigos
 layout: "[artigos].html"
@@ -19,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A biópsia de próstata é o único exame capaz de confirmar o diagnóstico do câncer de próstata. Muitos pacientes que necessitam de uma biópsia questionam sobre o impacto do exame na função sexual. Este artigo esclarece o que a literatura científica esclarece sobre essa questão.
+A biópsia de próstata é o único exame capaz de confirmar o diagnóstico do câncer de próstata. Muitos pacientes que necessitam de uma biópsia questionam sobre o impacto do exame na função sexual. Este artigo explica o que a literatura científica esclarece sobre essa questão.
 
 ## O que é a biópsia de próstata e como é realizada?
 
