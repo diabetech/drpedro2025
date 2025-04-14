@@ -93,4 +93,4 @@ A **[recuperação após biópsia transperineal](https://uroconsult.com.br/artig
 ## **Biópsia transperineal de próstata em Manaus**
 
 A biópsia transperineal representa um progresso em termos de segurança quando comparada à via transretal. Com menor risco de infecções graves, eliminação do sangramento retal e maior precisão diagnóstica, especialmente quando combinada com a tecnologia de fusão de imagens, esta técnica tem se estabelecido como primeira escolha para o diagnóstico do câncer de próstata.
-Se você necessita realizar uma **biópsia de próstata** ou tem dúvidas sobre o procedimento,** [entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Ficaremos felizes em auxiliá-lo com esta tecnologia avançada, disponível para os pacientes de Manaus e região.
+Se você necessita realizar uma **biópsia de próstata** ou tem dúvidas sobre o procedimento,**[entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Ficaremos felizes em auxiliá-lo com esta tecnologia avançada, disponível para os pacientes de Manaus e região.
