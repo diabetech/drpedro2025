@@ -38,7 +38,7 @@ Tecnicamente, é possível realizar o procedimento apenas com anestesia local, m
 2. A região perineal possui rica inervação sensitiva, e a coleta de múltiplas amostras pode causar desconforto, mesmo com anestesia local.
 3. A movimentação do paciente durante o exame dificulta a fusão de imagens e pode prejudicar a precisão do exame.
 
-[https://youtu.be/6sktWZbS5pc?si=h0XP8SxcEHHNgQfA](https://youtu.be/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6)
+<iframe width="788" height="443" src="https://www.youtube.com/embed/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6" title="Demonstração real de uma biópsia de próstata com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### **Qual tipo de anestesia é utilizada na biópsia transperineal?**
 
