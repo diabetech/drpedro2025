@@ -30,7 +30,29 @@ A principal diferença está na via de acesso à próstata:
 
 Esta distinção aparentemente simples gera diferenças significativas em termos de segurança e resultados clínicos.
 
-<iframe width="788" height="595" src="https://www.youtube.com/embed/6sktWZbS5pc" title="Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/6sktWZbS5pc"
+    title="Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Por que a via transperineal é considerada mais segura?**
 
@@ -66,7 +88,29 @@ Esta é uma preocupação frequente, mas infundada. Realizamos todas as **[bióp
 
 O desconforto pós-procedimento é geralmente leve e bem controlado com analgésicos comuns.
 
-<iframe width="788" height="595" src="https://www.youtube.com/embed/TgSXaEAzg6c" title="Biópsia de próstata via transperineal com fusão de imagens: conheça as vantagens #BiópsiaDePróstata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/TgSXaEAzg6c"
+    title="Biópsia de próstata via transperineal com fusão de imagens: conheça as vantagens #BiópsiaDePróstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **A recuperação é diferente entre as técnicas?**
 
