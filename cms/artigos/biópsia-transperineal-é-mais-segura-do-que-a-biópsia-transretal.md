@@ -62,7 +62,7 @@ A superioridade da biópsia transperineal em termos de segurança está bem esta
 
 ### **Biópsia transperineal com fusão de imagens: precisão e segurança combinadas**
 
-A combinação da via [transperineal com a tecnologia de fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/) representa o **padrão-ouro atual para diagnóstico do câncer de próstata**. Esta técnica avançada:
+A combinação da via **[transperineal com a tecnologia de fusão de imagens](https://uroconsult.com.br/biopsia-de-prostata-transperineal-com-fusao-de-imagens-manaus/)** representa o **padrão-ouro atual para diagnóstico do câncer de próstata**. Esta técnica avançada:
 
 * **Utiliza imagens de ressonância magnética** previamente obtidas.
 * **Associa ultrassom em tempo real** durante o procedimento.
@@ -80,28 +80,6 @@ Esta é uma preocupação frequente, mas infundada. Realizamos todas as **[bióp
 * **Maior conforto e segurança** para o paciente.
 * **Procedimento mais preciso**, pois o paciente permanece imóvel.
   O desconforto pós-procedimento é geralmente leve e bem controlado com analgésicos comuns.
-    <iframe
-      width="100%"
-      height="500"
-      src="https://www.youtube.com/embed/TgSXaEAzg6c"
-      title="Biópsia de próstata via transperineal com fusão de imagens: conheça as vantagens #BiópsiaDePróstata"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      id="responsive-video"
-      style="max-width: 800px; margin: 0 auto; display: block;"
-    ></iframe>
-    <script>
-      function adjustIframeHeight() {
-        var iframe = document.getElementById('responsive-video');
-        if (window.innerWidth < 768) {
-          iframe.style.height = '300px'; // Altura para celular
-        } else {
-          iframe.style.height = '500px'; // Altura para desktop
-        }
-      }  </script>
-  </div>
 
 ### **A recuperação é diferente entre as técnicas?**
 
