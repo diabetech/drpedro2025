@@ -8,6 +8,9 @@ f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/images/fe647b4f-ab91-45d3-8d1c-23628541b929.jpg
+f_post-summary: >
+  Com a evolução das técnicas diagnósticas, a abordagem transperineal emergiu
+  como alternativa mais segura à tradicional biópsia transretal.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-04-14T17:47:09.783Z
