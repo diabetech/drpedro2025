@@ -39,7 +39,28 @@ Com base na minha experiência clínica e nas diretrizes médicas, recomendo:
 
 Esta recomendação é parte das** [orientações para biópsia transperineal](https://uroconsult.com.br/artigos/orienta%C3%A7%C3%B5es-para-bi%C3%B3psia-transperineal-de-pr%C3%B3stata/)**  que forneço a todos os meus pacientes.
 
-<https://youtu.be/6sktWZbS5pc?si=h0XP8SxcEHHNgQfA>
+ <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/6sktWZbS5pc"
+    title="Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Outros fatores que podem influenciar o retorno à direção**
 
