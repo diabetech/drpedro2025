@@ -60,7 +60,6 @@ Em nossa prática em Manaus, **todas as biópsias transperineais são realizadas
       }
     }  </script>
 </div>
-
 ### **Como é o processo de sedação para a biópsia?**
 O processo de sedação segue um protocolo específico:
 1. Avaliação pré-anestésica para identificar possíveis riscos.
