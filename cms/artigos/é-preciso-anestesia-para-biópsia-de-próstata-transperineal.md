@@ -62,32 +62,35 @@ Tecnicamente, é possível realizar o procedimento apenas com anestesia local, m
     }  </script>
 </div>
 
-### **Qual tipo de anestesia é utilizada na biópsia transperineal?**
+<!--StartFragment-->
 
-Em nossa prática em Manaus, **todas as biópsias transperineais são realizadas sob sedação anestésica**, administrada por um médico anestesista presente durante todo o procedimento. As vantagens são:
+### Qual tipo de anestesia é utilizada na biópsia transperineal?
+
+Em nossa prática em Manaus, todas as biópsias transperineais são realizadas sob sedação anestésica, administrada por um médico anestesista presente durante todo o procedimento. As vantagens são:
 
 * Ausência completa de dor durante o procedimento.
 * Paciente permanece imóvel, garantindo maior precisão na fusão de imagens.
 * Redução significativa da ansiedade relacionada ao exame.
 * Maior qualidade das amostras coletadas.
 
-### **Como é o processo de sedação para a biópsia?**
+### Como é o processo de sedação para a biópsia?
 
 O processo de sedação segue um protocolo específico:
 
 1. Avaliação pré-anestésica para identificar possíveis riscos.
-2. Jejum pré-procedimento conforme **[orientações específicas.](https://uroconsult.com.br/artigos/orientações-para-biópsia-transperineal-de-próstata/)**
+2. Jejum pré-procedimento conforme [**orientações específicas**.](https://uroconsult.com.br/artigos/orienta%C3%A7%C3%B5es-para-bi%C3%B3psia-transperineal-de-pr%C3%B3stata/)
 3. Instalação de acesso venoso para administração dos medicamentos.
 4. Monitorização dos sinais vitais (pressão arterial, frequência cardíaca, oxigenação).
 5. Aplicação dos medicamentos sedativos pelo anestesista.
 6. Monitoramento contínuo durante todo o procedimento.
-   A sedação induz um estado semelhante ao sono, no qual o paciente não sente dor nem terá memória do procedimento.
 
-### **Quanto tempo dura o efeito da anestesia?**
+A sedação induz um estado semelhante ao sono, no qual o paciente não sente dor nem terá memória do procedimento.
+
+### Quanto tempo dura o efeito da anestesia?
 
 Após o término do procedimento, o paciente é encaminhado para a sala de recuperação, onde permanece sob observação até o despertar completo. Este período dura geralmente entre 30 e 60 minutos. Como explico no artigo sobre **[tempo de recuperação](https://uroconsult.com.br/artigos/tempo-de-recupera%C3%A7%C3%A3o-ap%C3%B3s-bi%C3%B3psia-de-pr%C3%B3stata-transperineal-o-que-esperar/)**, os efeitos residuais da sedação podem persistir por até 24 horas, motivo pelo qual o paciente não deve dirigir neste período.
 
-### **Quais são os riscos da anestesia para biópsia de próstata?**
+### Quais são os riscos da anestesia para biópsia de próstata?
 
 A sedação para biópsia de próstata é considerada segura, com riscos mínimos quando realizada por um anestesista experiente. Os principais riscos incluem:
 
@@ -95,17 +98,19 @@ A sedação para biópsia de próstata é considerada segura, com riscos mínimo
 * Alterações transitórias da pressão arterial.
 * Náuseas ou vômitos (pouco frequentes).
 * Complicações respiratórias leves (facilmente manejáveis pelo anestesista).
-  Em minha experiência com mais de 100 procedimentos, as complicações relacionadas à anestesia são raras e leves.
 
-### **A sedação interfere nos resultados da biópsia?**
+Em minha experiência com mais de 100 procedimentos, as complicações relacionadas à anestesia são raras e leves.
+
+### A sedação interfere nos resultados da biópsia?
 
 Não. Na verdade, a sedação contribui para melhores resultados, pois:
 
 * Permite que o paciente permaneça imóvel, essencial para a coleta precisa de imagens.
 * Facilita a fusão de imagens.
-  Como discutido no artigo sobre **[efeitos colaterais da biópsia](https://uroconsult.com.br/artigos/quais-sao-os-efeitos-colaterais-e-complicacoes-da-biopsia-de-prostata-transperineal/)**, a qualidade técnica do procedimento tem impacto direto no resultado
 
-### **Como me preparar para a anestesia da biópsia?**
+Como discutido no artigo sobre** [efeitos colaterais da biópsia](https://uroconsult.com.br/artigos/quais-sao-os-efeitos-colaterais-e-complicacoes-da-biopsia-de-prostata-transperineal/),** a qualidade técnica do procedimento tem impacto direto no resultado.
+
+### Como me preparar para a anestesia da biópsia?
 
 A preparação adequada para a anestesia inclui:
 
@@ -114,8 +119,9 @@ A preparação adequada para a anestesia inclui:
 * Comunicar experiências anteriores com anestesia.
 * Relatar alergias conhecidas.
 * Organizar um acompanhante para levá-lo para casa após o procedimento.
-  Recomendo também conversar abertamente sobre suas preocupações durante a consulta pré-biópsia. O esclarecimento de dúvidas contribui para reduzir a ansiedade associada ao procedimento.
 
-## **Biópsia transperineal com anestesia em Manaus: conforto e segurança para seu diagnóstico**
+Recomendo também conversar abertamente sobre suas preocupações durante a consulta pré-biópsia. O esclarecimento de dúvidas contribui para reduzir a ansiedade associada ao procedimento.
 
-Se você precisa realizar uma biópsia de próstata e está em Manaus ou região, **[entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490)**. Ficaremos felizes em auxiliá-lo com todas as informações sobre o procedimento.
+## Biópsia transperineal com anestesia em Manaus: conforto e segurança para seu diagnóstico
+
+Se você precisa realizar uma biópsia de próstata e está em Manaus ou região,** [entre em contato com nossa assistente dedicada a biópsias e cirurgias](https://api.whatsapp.com/send?phone=5592982252490).** Ficaremos felizes em auxiliá-lo com todas as informações sobre o procedimento.
