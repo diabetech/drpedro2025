@@ -2,7 +2,7 @@
 title: Quanto tempo dura uma biópsia transperineal de próstata?
 created-on: 2025-04-18T20:33:09.048Z
 updated-on: 2025-04-18T20:33:09.081Z
-published-on: 2025-04-19T11:33:00.000Z
+published-on: 2025-04-19T09:30:34.581Z
 f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
