@@ -12,7 +12,7 @@ f_post-summary: Neste artigo, detalho o tempo necessário para realizar
   a  biópsia transperineal de próstata de forma completa e segura.
 tags: artigos
 layout: "[artigos].html"
-date: 2025-04-18T20:33:09.122Z
+date: 2025-04-19T09:33:09.122Z
 seo:
   noindex: false
   twitter:title: summary
