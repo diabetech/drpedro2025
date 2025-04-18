@@ -30,7 +30,29 @@ Uma recente** [revisão citada nas diretrizes da Associação Europeia de Urolog
 
 Esta diferença de 13% na capacidade de detectar tumores representa um avanço na prática diagnóstica. Em outras palavras, **[a técnica transperineal](https://uroconsult.com.br/artigos/bi%C3%B3psia-transperineal-%C3%A9-mais-segura-do-que-a-bi%C3%B3psia-transretal/)** **identifica mais casos relevantes de [câncer de próstata](https://uroconsult.com.br/artigos/cancer-de-prostata-a-importancia-do-diagnostico-precoce/)**, o que pode ser determinante para o sucesso do tratamento.
 
-***<https://youtu.be/83WBx2stFfs?si=mszlyY6-bTnIzAPh>***
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/6sktWZbS5pc"
+    title="Como funciona a biópsia de próstata transperineal com fusão de imagens? #biopsiadeprostata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Segurança superior com menor risco de infecções**
 
