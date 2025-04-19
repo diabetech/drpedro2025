@@ -2,7 +2,7 @@
 title: "Sangramento após biópsia de próstata transperineal: o que esperar?"
 created-on: 2025-04-18T20:39:09.505Z
 updated-on: 2025-04-18T20:39:09.534Z
-published-on: 2025-04-18T20:39:09.559Z
+published-on: 2025-04-18T13:15:09.559Z
 f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
