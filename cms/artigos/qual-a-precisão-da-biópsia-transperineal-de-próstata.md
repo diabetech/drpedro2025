@@ -7,9 +7,9 @@ f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
-  url: /assets/images/biópsia-de-próstata-fusão-de-imagens-perfeita-2-1-.png
-f_post-summary: Entre as técnicas disponíveis, a **biópsia transperineal com
-  fusão de imagens** destaca-se como a abordagem mais moderna e segura para o
+  url: /assets/images/biópsia-de-próstata-fusão-de-imagens-perfeita-2-2-1-.png
+f_post-summary: Entre as técnicas disponíveis, a biópsia transperineal com fusão
+  de imagens destaca-se como a abordagem mais moderna e segura para o
   diagnóstico preciso do câncer de próstata.
 tags: artigos
 layout: "[artigos].html"
@@ -23,7 +23,7 @@ Entre as técnicas disponíveis, a **biópsia transperineal com fusão de imagen
 
 ## **A precisão diagnóstica da biópsia transperineal**
 
-Uma recente** [revisão citada nas diretrizes da Associação Europeia de Urologia (EAU*)*](https://uroweb.org/guidelines/prostate-cancer/chapter/diagnostic-evaluation#note_375)**, envolvendo 8 estudos comparativos, revelou dados sobre a eficácia das diferentes técnicas de biópsia. Os resultados são contundentes:
+Uma recente **[revisão citada nas diretrizes da Associação Europeia de Urologia (EAU*)*](https://uroweb.org/guidelines/prostate-cancer/chapter/diagnostic-evaluation#note_375)**, envolvendo 8 estudos comparativos, revelou dados sobre a eficácia das diferentes técnicas de biópsia. Os resultados são contundentes:
 
 * **Biópsia transperineal**: sensibilidade de 86% para detecção de câncer clinicamente significativo.
 * **Biópsia transretal**: sensibilidade de 73% para detecção de câncer clinicamente significativo.
@@ -85,7 +85,7 @@ A recuperação após uma **[biópsia transperineal](https://uroconsult.com.br/a
 * Sintomas transitórios leves como discreto desconforto local e sangramento mínimo na urina.
 * Menor necessidade de analgésicos e antibióticos.
 
-Para uma experiência ainda mais tranquila e informaçÕes mais detalhadas, recomendo seguir todas as **[orientações para biópsia transperineal de próstata](https://uroconsult.com.br/artigos/orienta%C3%A7%C3%B5es-para-bi%C3%B3psia-transperineal-de-pr%C3%B3stata/)** fornecidas após o procedimento.
+Para uma experiência ainda mais tranquila e informações mais detalhadas, recomendo seguir todas as **[orientações para biópsia transperineal de próstata](https://uroconsult.com.br/artigos/orienta%C3%A7%C3%B5es-para-bi%C3%B3psia-transperineal-de-pr%C3%B3stata/)** fornecidas após o procedimento.
 
 ## **Biópsia transperineal com fusão de imagens em Manaus**
 
