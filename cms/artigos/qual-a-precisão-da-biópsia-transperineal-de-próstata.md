@@ -23,7 +23,7 @@ Entre as técnicas disponíveis, a **biópsia transperineal com fusão de imagen
 
 ## **A precisão diagnóstica da biópsia transperineal**
 
-Uma recente **[revisão citada nas diretrizes da Associação Europeia de Urologia (EAU*)*](https://uroweb.org/guidelines/prostate-cancer/chapter/diagnostic-evaluation#note_375)**, envolvendo 8 estudos comparativos, revelou dados sobre a eficácia das diferentes técnicas de biópsia. Os resultados são contundentes:
+Uma recente **[revisão citada nas diretrizes da Associação Europeia de Urologia (EAU)](https://uroweb.org/guidelines/prostate-cancer/chapter/diagnostic-evaluation#note_375)**, envolvendo 8 estudos comparativos, revelou dados sobre a eficácia das diferentes técnicas de biópsia. Os resultados são contundentes:
 
 * **Biópsia transperineal**: sensibilidade de 86% para detecção de câncer clinicamente significativo.
 * **Biópsia transretal**: sensibilidade de 73% para detecção de câncer clinicamente significativo.
