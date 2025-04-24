@@ -63,7 +63,7 @@ A **varicocele** ocorre quando as válvulas das veias do cordão espermático fa
 
 ## **Qual é o tratamento recomendado pelas diretrizes médicas?**
 
-Para casos onde o tratamento é necessário, as principais diretrizes urológicas recomendam** [*i*ntervenção cirúrgica](https://uroconsult.com.br/artigos/correcao-microcirurgica-de-varicocele-quais-as-vantagens/)**, nas seguintes situações:
+Para casos onde o tratamento é necessário, as principais diretrizes urológicas recomendam **[intervenção cirúrgica](https://uroconsult.com.br/artigos/correcao-microcirurgica-de-varicocele-quais-as-vantagens/)**, nas seguintes situações:
 
 * Homens com infertilidade e alterações nos parâmetros seminais.
 * Casos de redução do tamanho testicular (hipotrofia) causada pela varicocele.
