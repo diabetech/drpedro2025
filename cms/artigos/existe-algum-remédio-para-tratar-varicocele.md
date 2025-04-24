@@ -35,11 +35,31 @@ A **varicocele** ocorre quando as válvulas das veias do cordão espermático fa
 
 * As drogas não restauram a função valvular venosa.
 * Os medicamentos não eliminam veias dilatadas já existentes.
-* Não há como reverter farmacologicamente a alteração do fluxo sanguíneo.
+* Não há como reverter farmacologicamente a alteração do fluxo sanguíneo
 
-***<https://youtu.be/h8gEaotEHeM?si=Yr9TOoDgnrhc9B3z>***
-
-<iframe width="1058" height="595" src="https://www.youtube.com/embed/h8gEaotEHeM" title="Varicocele: o que você precisa saber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/h8gEaotEHeM"
+    title="Varicocele: o que você precisa saber"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Qual é o tratamento recomendado pelas diretrizes médicas?**
 
