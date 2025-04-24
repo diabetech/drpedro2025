@@ -39,6 +39,8 @@ A **varicocele** ocorre quando as válvulas das veias do cordão espermático fa
 
 ***<https://youtu.be/h8gEaotEHeM?si=Yr9TOoDgnrhc9B3z>***
 
+<iframe width="1058" height="595" src="https://www.youtube.com/embed/h8gEaotEHeM" title="Varicocele: o que você precisa saber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Qual é o tratamento recomendado pelas diretrizes médicas?**
 
 Para casos onde o tratamento é necessário, as principais diretrizes urológicas recomendam** [*i*ntervenção cirúrgica](https://uroconsult.com.br/artigos/correcao-microcirurgica-de-varicocele-quais-as-vantagens/)**, nas seguintes situações:
