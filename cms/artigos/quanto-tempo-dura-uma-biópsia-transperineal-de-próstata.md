@@ -8,8 +8,7 @@ f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/biopsia.md
 f_main-image:
   url: /assets/images/biopsia-quanta_canon-aplio_image-fusion-1-.jpg
-f_post-summary: Neste artigo, detalho o tempo necessário para realizar
-  a  biópsia transperineal de próstata de forma completa e segura.
+f_post-summary: Neste artigo, respondemos com detalhe a esta pergunta muito comum.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-04-19T09:33:09.122Z
@@ -18,7 +17,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A duração da biópsia transperineal de próstata é um aspecto a ser considerado pelos pacientes que necessitam deste procedimento. Esta técnica minimamente invasiva, que implementamos em Manaus, oferece maior segurança e precisão diagnóstica quando comparada a métodos tradicionais. Neste artigo, detalho o tempo necessário para realizar o exame de forma completa e segura.
+Muitos pacientes para os quais indico uma biópsia transperineal de próstata perguntam sobre a duração do procedimento. Esta técnica minimamente invasiva, que implementamos em Manaus, oferece maior segurança e precisão diagnóstica quando comparada a métodos tradicionais. Neste artigo, detalho o tempo necessário para realizar o exame de forma completa e segura.
 
 ## **Duração total do procedimento**
 
