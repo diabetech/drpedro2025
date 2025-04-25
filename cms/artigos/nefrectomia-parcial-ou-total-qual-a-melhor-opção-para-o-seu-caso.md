@@ -96,12 +96,18 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
+    border: 1px solid #cfdbe6;
   }
   
   th, td {
     padding: 16px 20px;
     text-align: left;
-    border-bottom: 1px solid #e0e9f2;
+    border-bottom: 1px solid #cfdbe6;
+    border-right: 1px solid #cfdbe6;
+  }
+  
+  th:last-child, td:last-child {
+    border-right: none;
   }
   
   th {
@@ -110,7 +116,6 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
     font-weight: 600;
     letter-spacing: 0.5px;
     font-size: 15px;
-    text-transform: uppercase;
   }
   
   tr:last-child td {
@@ -128,54 +133,73 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
   td:first-child {
     font-weight: 600;
     color: #0e3b5a;
+    background-color: #e9f0f7;
   }
   
-  tr:hover {
+  tr:hover td {
     background-color: #e6f0f9;
   }
   
-  @media (max-width: 600px) {
+  .table-container {
+    max-width: 100%;
+    overflow-x: auto;
+    padding: 5px;
+  }
+  
+  .titulo-tabela {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0e3b5a;
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+  
+  .versus {
+    font-style: italic;
+  }
+  
+  @media (max-width: 768px) {
     table {
       font-size: 14px;
-      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
     }
     th, td {
       padding: 12px 15px;
-    }
-    th {
-      font-size: 13px;
     }
   }
 </style>
 </head>
 <body>
 
-<table>
-  <thead>
-    <tr>
-      <th>Aspectos</th>
-      <th>Nefrectomia Parcial</th>
-      <th>Nefrectomia Radical</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Preservação de função renal</td>
-      <td>Superior (parte do rim afetado é preservada)</td>
-      <td>Apenas o rim contralateral mantido</td>
-    </tr>
-    <tr>
-      <td>Controle oncológico</td>
-      <td>Excelente para tumores até 7 cm</td>
-      <td>Indicada para tumores maiores ou mais complexos</td>
-    </tr>
-    <tr>
-      <td>Complexidade técnica</td>
-      <td>Maior</td>
-      <td>Menor</td>
-    </tr>
-  </tbody>
-</table>
+<h2 class="titulo-tabela">Nefrectomia parcial <span class="versus">versus</span> radical</h2>
+
+<div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Aspectos</th>
+        <th>Nefrectomia Parcial</th>
+        <th>Nefrectomia Radical</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Preservação de função renal</td>
+        <td>Superior (parte do rim afetado é preservada)</td>
+        <td>Apenas o rim contralateral mantido</td>
+      </tr>
+      <tr>
+        <td>Controle oncológico</td>
+        <td>Excelente para tumores até 7 cm</td>
+        <td>Indicada para tumores maiores ou mais complexos</td>
+      </tr>
+      <tr>
+        <td>Complexidade técnica</td>
+        <td>Maior</td>
+        <td>Menor</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 </body>
 </html>
