@@ -151,8 +151,6 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
 </head>
 <body>
 
-<div class="tabela-titulo">Nefrectomia parcial <span class="versus">versus</span> radical</div>
-
 <table>
   <thead>
     <tr>
