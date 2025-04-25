@@ -1,6 +1,6 @@
 ---
 title: "Fatores de risco para cálculos urinários: quem tem maior chance de
-  desenvolver esta condição?"
+  desenvolver a doença?"
 created-on: 2025-04-14T17:19:33.508Z
 updated-on: 2025-04-14T17:19:33.526Z
 published-on: 2025-04-14T17:19:33.542Z
