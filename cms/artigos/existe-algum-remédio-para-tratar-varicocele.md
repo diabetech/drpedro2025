@@ -9,7 +9,7 @@ f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/pexels-polina-tankilevitch-3873168.jpg
 f_post-summary: Não existem medicamentos para tratar varicocele. A correção
-  microcirúrgica é o padrão-ouro recomendado, oferecendo alta taxa de sucesso e
+  microcirúrgica é o tratamento recomendado, com alta taxa de sucesso e
   recuperação rápida.
 tags: artigos
 layout: "[artigos].html"
