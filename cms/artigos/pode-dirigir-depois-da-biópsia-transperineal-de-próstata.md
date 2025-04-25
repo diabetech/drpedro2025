@@ -1,5 +1,5 @@
 ---
-title: Pode dirigir depois da biópsia transperineal de próstata?
+title: Posso dirigir depois da biópsia transperineal de próstata?
 created-on: 2025-04-14T17:36:14.809Z
 updated-on: 2025-04-14T17:36:14.820Z
 published-on: 2025-04-14T17:36:14.830Z
