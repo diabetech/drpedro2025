@@ -1,16 +1,16 @@
 ---
-title: "Câncer de Bexiga: diagnóstico e tratamento de um câncer muito comum"
+title: "Câncer de Bexiga: diagnóstico e tratamento"
 created-on: 2025-02-25T11:18:44.788Z
 updated-on: 2025-02-25T11:18:44.840Z
 published-on: 2025-02-25T11:18:44.883Z
 f_destaque: false
+f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/urologia-geral.md
 f_main-image:
   url: /assets/images/mcdc7_bladder_cancer-8col-1-.jpg
 f_post-summary: O câncer de bexiga ocupa a quarta posição entre os tipos de
   câncer mais comuns em homens.
 tags: artigos
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-25T11:18:44.909Z
 seo:
