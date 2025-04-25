@@ -88,34 +88,62 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
 <head>
 <style>
   table {
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     width: 100%;
-    margin: 20px 0;
-    font-family: Arial, sans-serif;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin: 25px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
   }
+  
   th, td {
-    padding: 12px 15px;
+    padding: 16px 20px;
     text-align: left;
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #e0e9f2;
   }
+  
   th {
-    background-color: #009879;
+    background-color: #0e3b5a;
     color: white;
-    font-weight: bold;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    text-transform: uppercase;
   }
+  
+  tr:last-child td {
+    border-bottom: none;
+  }
+  
   tr:nth-child(even) {
-    background-color: #f3f3f3;
+    background-color: #f2f7fb;
   }
+  
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
+  td:first-child {
+    font-weight: 600;
+    color: #0e3b5a;
+  }
+  
   tr:hover {
-    background-color: #f1f1f1;
+    background-color: #e6f0f9;
   }
+  
   @media (max-width: 600px) {
     table {
       font-size: 14px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
     }
     th, td {
-      padding: 8px 10px;
+      padding: 12px 15px;
+    }
+    th {
+      font-size: 13px;
     }
   }
 </style>
