@@ -42,7 +42,29 @@ A nefrectomia parcial, também chamada de cirurgia poupadora de néfrons (néfro
 
 Atualmente, nós Urologistas que tratamos o câncer renal, buscamos sempre alcançar a **[Trifecta](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)** em uma cirurgia para câncer de rim: 1. remoção completa do tumor com margens negativas; 2. preservação máxima da função renal; 3. pós-operatório sem complicações.
 
-*[Objetivos da cirurgia para o câncer renal](https://www.youtube.com/watch?v=r8Zo4rvU5_k)*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/r8Zo4rvU5_k"
+    title="Objetivos da cirurgia para o câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Quando a nefrectomia radical é necessária?**
 
@@ -72,27 +94,22 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
     font-family: Arial, sans-serif;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   }
-  
   th, td {
     padding: 12px 15px;
     text-align: left;
     border-bottom: 1px solid #dddddd;
   }
-  
   th {
     background-color: #009879;
     color: white;
     font-weight: bold;
   }
-  
   tr:nth-child(even) {
     background-color: #f3f3f3;
   }
-  
   tr:hover {
     background-color: #f1f1f1;
   }
-  
   @media (max-width: 600px) {
     table {
       font-size: 14px;
@@ -147,7 +164,29 @@ A resposta está no impacto da função renal na saúde geral, pacientes com fun
 * Restrições para uso de certos medicamentos que podem ser nefrotóxicos.
 * Risco de necessitarem de diálise no futuro, algo que compromete bastante a qualidade de vida.
 
-*[Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia](https://www.youtube.com/watch?v=EtSwm4qoiHo)*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EtSwm4qoiHo"
+    title="Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Fatores que influenciam a escolha da técnica**
 
