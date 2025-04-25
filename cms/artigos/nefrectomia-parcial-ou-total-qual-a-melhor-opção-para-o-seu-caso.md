@@ -97,35 +97,53 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
     border-radius: 8px;
     overflow: hidden;
   }
+  
   th, td {
     padding: 16px 20px;
     text-align: left;
-    border-bottom: 1px solid #e0e9f2;
+    border: 1px solid #e0e9f2;
   }
+  
   th {
-    background-color: #0e3b5a;
+    background-color: #10364f;
     color: white;
     font-weight: 600;
     letter-spacing: 0.5px;
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
+    padding: 20px 20px;
   }
-  tr:last-child td {
-    border-bottom: none;
-  }
+  
   tr:nth-child(even) {
     background-color: #f2f7fb;
   }
+  
   tr:nth-child(odd) {
     background-color: #ffffff;
   }
+  
   td:first-child {
     font-weight: 600;
-    color: #0e3b5a;
+    color: #10364f;
   }
+  
   tr:hover {
     background-color: #e6f0f9;
   }
+  
+  .tabela-titulo {
+    font-size: 24px;
+    color: #10364f;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: left;
+    font-style: italic;
+  }
+  
+  .versus {
+    font-style: italic;
+  }
+  
   @media (max-width: 600px) {
     table {
       font-size: 14px;
@@ -135,19 +153,21 @@ Mesmo para remoção completa, realizamos a nefrectomia radical por técnicas mi
       padding: 12px 15px;
     }
     th {
-      font-size: 13px;
+      font-size: 16px;
     }
   }
 </style>
 </head>
 <body>
 
+<div class="tabela-titulo">Nefrectomia parcial <span class="versus">versus</span> radical</div>
+
 <table>
   <thead>
     <tr>
-      <th>Aspectos</th>
-      <th>Nefrectomia Parcial</th>
-      <th>Nefrectomia Radical</th>
+      <th>ASPECTOS</th>
+      <th>NEFRECTOMIA PARCIAL</th>
+      <th>NEFRECTOMIA RADICAL</th>
     </tr>
   </thead>
   <tbody>
