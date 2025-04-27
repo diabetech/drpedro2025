@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/screenshot-2025-04-26-at-22.48.24.png
+  url: /assets/images/screenshot-2025-04-26-at-23.08.46.png
 f_post-summary: A nefrectomia parcial representa atualmente o tratamento
   cirúrgico preferencial do câncer de rim, pois preserva a função renal. Tumores
   maiores ou mais complexos podem necessitar de um nefrectomia radical.
