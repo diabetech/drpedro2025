@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/screenshot-2025-04-26-at-22.48.24.png
+  url: /assets/images/screenshot-2025-04-26-at-23.08.46.png
 f_post-summary: A nefrectomia parcial representa atualmente o tratamento
   cirúrgico preferencial do câncer de rim, pois preserva a função renal. Tumores
   maiores ou mais complexos podem necessitar de um nefrectomia radical.
@@ -23,13 +23,12 @@ Existem dois tipos de cirurgia indicados com tratamento curativo do câncer de r
 
 ## **O que é nefrectomia parcial?**
 
-A nefrectomia parcial, também chamada de cirurgia poupadora de néfrons (néfrons são as unidades filtradores que constituem o rim), é um procedimento que remove apenas o tumor e uma pequena margem de tecido saudável ao redor, preservando o máximo possível do rim funcional.
+A nefrectomia parcial, também chamada de cirurgia poupadora de néfrons (néfrons são as unidades filtradores do rim), é um procedimento que remove apenas o tumor e uma pequena margem de tecido saudável ao redor, preservando o máximo possível do rim saudável.
 
 **Principais indicações:**
 
 * Tumores menores que 7 cm (estágios T1a e T1b).
-* Pacientes com rim único
-* Paciente que já possuem função renal comprometida.
+* Paciente que já possuem função renal comprometida ou apenas um rim.
 * Pacientes com risco de desenvolver insuficiência renal no futuro.
 * Tumores bilaterais (presentes em ambos os rins).
 
