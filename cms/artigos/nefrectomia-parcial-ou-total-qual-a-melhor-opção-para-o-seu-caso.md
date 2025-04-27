@@ -1,5 +1,5 @@
 ---
-title: "Nefrectomia parcial ou total: entenda qual a escolha ideal"
+title: "Nefrectomia parcial ou total: entenda qual a melhor escolha."
 created-on: 2025-04-25T19:36:42.890Z
 updated-on: 2025-04-25T19:36:42.914Z
 published-on: 2025-04-25T19:36:42.934Z
@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/fotos-ia-def8.png
+  url: /assets/images/screenshot-2025-04-26-at-22.48.24.png
 f_post-summary: A nefrectomia parcial representa atualmente o tratamento
   cirúrgico preferencial do câncer de rim, pois preserva a função renal. Tumores
   maiores ou mais complexos podem necessitar de um nefrectomia radical.
