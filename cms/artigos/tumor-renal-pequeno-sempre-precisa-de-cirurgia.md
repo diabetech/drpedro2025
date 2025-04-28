@@ -57,7 +57,29 @@ Em casos selecionados, a vigilância ativa pode ser uma alternativa, pode ser in
 
 Nestes casos, o tumor é monitorado com exames de imagem periódicos e, caso se observe crescimento significativo ou desenvolvimento de sintomas, indica-se então o tratamento definitivo.
 
-<https://youtu.be/r8Zo4rvU5_k?si=NIg6qhWA0Hiy8LMM>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/r8Zo4rvU5_k"
+    title="Objetivos da cirurgia para o câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **A importância da preservação renal**
 
