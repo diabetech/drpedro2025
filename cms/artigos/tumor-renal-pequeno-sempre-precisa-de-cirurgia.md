@@ -22,7 +22,7 @@ O aumento na realização de exames de imagem aumentou o diagnóstico de tumores
 
 ## **O que são considerados tumores renais pequenos?**
 
-Na** [urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa-especialidade-medica-essencial/)** moderna, consideramos pequenos os tumores renais com diâmetro inferior a 4 centímetros. Estes tumores geralmente apresentam comportamento menos agressivo e menor capacidade de disseminação para outros órgãos.
+Na **[urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa-especialidade-medica-essencial/)** moderna, consideramos pequenos os tumores renais com diâmetro inferior a 4 centímetros. Estes tumores geralmente apresentam comportamento menos agressivo e menor capacidade de disseminação para outros órgãos.
 
 Outro conceito importante é que **nem todo tumor renal pequeno é maligno**. Cerca de 25% dos tumores renais pequenos são benignos, como oncocitomas ou **[angiomiolipomas](https://uroconsult.com.br/artigos/angiomiolipoma-renal-saiba-mais-sobre-este-tumor-benigno/)**. Outros 25% são tumores malignos de baixa agressividades como carcinomas cromófobos ou tumores papilares - que talvez não necessitem de remoção. O grande de desafio está em diferenciar estes tumores dos cânceres renais agressivos, **pois mesmo as modernas técnicas de imagem modernas não conseguem fazer esta distinção de modo confiável.**
 
@@ -102,7 +102,7 @@ A preservação da função renal é fundamental pois pacientes com função ren
 
 ### **Laparoscopia**
 
-Em Manaus, realizamos nefrectomias parciais por** [vídeo-laparoscopia](https://uroconsult.com.br/artigos/laparoscopia-urologica-com-imagem-hd-e-bisturi-harmonico/)** para nossos pacientes há mais de 10 anos, com excelentes resultados. Esta técnica envolve:
+Em Manaus, realizamos nefrectomias parciais por **[vídeo-laparoscopia](https://uroconsult.com.br/artigos/laparoscopia-urologica-com-imagem-hd-e-bisturi-harmonico/)** para nossos pacientes há mais de 10 anos, com excelentes resultados. Esta técnica envolve:
 
 * Pequenas incisões na parede abdominal.
 * Menor sangramento durante a cirurgia.
