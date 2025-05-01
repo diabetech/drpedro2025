@@ -8,8 +8,9 @@ f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
   url: /assets/images/imagem-do-whatsapp-de-2025-04-28-à-s-03.16.48_13f7e8cb.jpg
-f_post-summary: " Nem todo tumor renal pequeno precisa de cirurgia; em alguns
-  casos, a vigilância é segura."
+f_post-summary: Tumores renais pequenos podem ser benignos. É preciso avaliar o
+  ritmo de crescimento, as características do tumor e o perfil do paciente para
+  decidir o melhor tratamento.
 tags: artigos
 layout: "[artigos].html"
 date: 2025-04-28T11:36:57.794Z
