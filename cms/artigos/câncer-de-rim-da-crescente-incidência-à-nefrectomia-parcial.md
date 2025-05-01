@@ -4,14 +4,14 @@ created-on: 2025-02-22T01:18:48.216Z
 updated-on: 2025-02-22T01:18:48.258Z
 published-on: 2025-02-22T01:18:48.291Z
 f_destaque: false
+f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/laparoscopia-rim.jpg
+  url: /assets/images/screenshot-2025-05-01-at-12.56.11.png
 f_post-summary: Através dos exames de imagem modernos, podemos diagnosticar a
   doença em fases iniciais, permitindo a cura do paciente através de cirurgias
   preservadoras renais - as chamadas nefrectomias parciais.
 tags: artigos
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-02-22T01:18:48.315Z
 seo:
