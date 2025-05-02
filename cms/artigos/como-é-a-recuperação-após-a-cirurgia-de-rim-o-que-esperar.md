@@ -44,7 +44,7 @@ O pós-operatório imediato é realizado no Hospital. Você receberá os seguint
 
 ### **2 a 12 dias**
 
-Nesta fase, é muito comum algum desconforto abdominal à movimentação, fraqueza, indisposição e constipação intestinal, que diminuem progressivamente com o passar dos dias. No 3º ou 4º dia de pós-operatório*,* a maioria dos pacientes já está muito bem, em processo de melhora progressiva dos sintomas pós-operatórios.
+Nesta fase, é muito comum algum desconforto abdominal à movimentação, fraqueza, indisposição e constipação intestinal, que diminuem progressivamente com o passar dos dias. No 3º ou 4º dia de pós-operatório, a maioria dos pacientes já está muito bem, em processo de melhora progressiva dos sintomas pós-operatórios.
 
 Na primeira semana após a alta hospitalar, recomendo:
 
