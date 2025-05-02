@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/rim.md
 f_main-image:
-  url: /assets/images/chatgpt-image-25-de-abr.-de-2025-20_56_57-1-1-1-1-.png
+  url: /assets/images/imagem-do-whatsapp-de-2025-05-01-à-s-13.37.06_a64d65a9-1-.jpg
 f_post-summary: A recuperação após uma cirurgia renal minimamente invasiva é
   geralmente rápida e tranquila.
 tags: artigos
