@@ -1,5 +1,6 @@
 ---
-title: Como é a recuperação após a cirurgia de rim? o que esperar
+title: "Cuidados Pós-Operatórios na Cirurgia do Câncer Renal: Um Guia Prático
+  para recuperação"
 created-on: 2025-05-02T00:34:42.415Z
 updated-on: 2025-05-02T00:34:42.438Z
 published-on: 2025-05-02T00:34:42.453Z
