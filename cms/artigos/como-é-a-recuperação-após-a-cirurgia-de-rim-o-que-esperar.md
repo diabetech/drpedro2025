@@ -70,9 +70,30 @@ Nesta fase intermediária, a maioria dos pacientes está muito bem. Recomendo:
 
 ### **4 semanas em diante**
 
-Retorno pleno às suas atividades cotidianas, lembrando que estará num período de recondicionamento.
-
-<iframe width="1058" height="595" src="https://www.youtube.com/embed/EtSwm4qoiHo" title="Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Retorno pleno às suas atividades cotidianas, lembrando que estará num período de recondicionamento.\
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EtSwm4qoiHo"
+    title="Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Como garantir uma recuperação tranquila?**
 
@@ -139,7 +160,29 @@ A tecnologia robótica, disponível através de nossa parceria com hospitais de 
 
 A recuperação após estas técnicas minimamente invasivas é mais rápida e menos dolorosa quando comparada à cirurgia aberta tradicional, que raramente é necessária nos dias atuais.
 
-<iframe width="1058" height="595" src="https://www.youtube.com/embed/r8Zo4rvU5_k" title="Objetivos da cirurgia para o câncer renal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/r8Zo4rvU5_k"
+    title="Objetivos da cirurgia para o câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Recuperação após cirurgia renal em Manaus**
 
