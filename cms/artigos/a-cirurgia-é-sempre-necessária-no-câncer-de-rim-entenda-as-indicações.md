@@ -31,7 +31,29 @@ A cirurgia é recomendada como tratamento de primeira linha na maioria dos casos
 * **Tumores com características radiológicas suspeitas** para maior agressividade.
 * **Pacientes saudáveis** que podem tolerar bem o procedimento cirúrgico e com expectativa de vida longa.
 
-*[Objetivos da cirurgia para o câncer renal](https://www.youtube.com/watch?v=r8Zo4rvU5_k)*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/r8Zo4rvU5_k"
+    title="Objetivos da cirurgia para o câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Tipos de cirurgia para câncer renal**
 
@@ -68,7 +90,29 @@ A vigilância ativa consiste no monitoramento cuidadoso com exames de imagem per
 
 Nesta abordagem, realizamos exames de imagem (tomografia ou ressonância) a cada 3-6 meses no primeiro ano, e posteriormente em intervalos crescentes para monitorar cuidadosamente o comportamento do tumor.
 
-*[Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia](https://www.youtube.com/watch?v=EtSwm4qoiHo)*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EtSwm4qoiHo"
+    title="Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **O que influencia a decisão por cirurgia ou vigilância ativa?**
 
@@ -95,7 +139,29 @@ Para tumores renais complexos, especialmente aqueles localizados próximos a est
 * Planejamento cirúrgico mais detalhado.
 * Maior preservação do tecido renal saudável.
 
-*<https://www.youtube.com/watch?v=ALcCBdzmkP4>*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/ALcCBdzmkP4"
+    title="Maquetes digitais em 3D: planejando a cirurgia do câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Meu tumor renal é pequeno: devo mesmo tratá-lo?**
 
