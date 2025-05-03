@@ -107,13 +107,13 @@ Retorno pleno às suas atividades cotidianas, lembrando que você estará ainda 
 
 Recomendo uma dieta rica em proteínas de alta qualidade para cicatrização, como carnes magras, peixes e ovos. O consumo abundante de frutas e vegetais, ricos em antioxidantes e vitaminas, também é importante, assim como a ingestão de 2,5 litros de água diariamente.
 
-A hidratação adequada é particularmente importante após cirurgia renal, pois auxilia na eliminação de anestésicos e medicamentos, além de prevenir complicações urinárias. Evite alimentos ultraprocessados, ricos em sódio e açúcares durante o período de recuperação.
+A hidratação adequada é particularmente importante após cirurgia renal, pois auxilia na eliminação de anestésicos e medicamentos, e melhora a perfusão. Evite alimentos ultraprocessados, ricos em sódio e açúcares durante o período de recuperação.
 
 ### **Cuidados com as incisões**
 
-Mantenha os curativos limpos e secos nas primeiras 48 horas. Após este período, retirar os curativos no banho e lavar bem com água e sabonete líquido Fisiogel ou Cetaphil. Depois disso, enxugar com uma toalha limpa e seca. Se quiser, você poderá cobrir as incisões com gaze e micropore, mas isto em geral não é necessário.
+Mantenha os **curativos limpos e secos** nas primeiras 48 horas. Após este período, retirar os curativos no banho e lavar bem com água e sabonete líquido Fisiogel ou Cetaphil. Depois disso, enxugar com uma toalha limpa e seca. Se quiser, você poderá cobrir as incisões com gaze e micropore, mas isto em geral não é necessário.
 
-Evite exposição solar direta sobre as cicatrizes nos primeiros meses, pois isso poderá escurecer a cicatriz.
+Evite exposição solar direta sobre as cicatrizes nos primeiros meses, para não escurecer a cicatriz.
 
 ### **Retorno gradual às atividades físicas**
 
@@ -125,19 +125,19 @@ O retorno à atividade física deve ser progressivo e supervisionado. Recomendo:
 * Iniciar exercícios aeróbicos moderados somente após 2 semanas.
 * Retomar atividades de impacto ou musculação apenas após 25-30 dias.
 
-### **Quando devo me preocupar? sinais de alerta**
+### **Quando devo me preocupar? Sinais de alerta**
 
-Por favor entre em contato comigo se apresentar febre acima de 38°C, falta de ar, dor intensa, fraqueza e palidez excessivas.
+Por favor entre em contato comigo se apresentar febre acima de 38°C, falta de ar, dor forte ou palidez intensa.
 
 ### **Como é o acompanhamento médico após a cirurgia?**
 
 A primeira consulta ocorre 7-10 dias após a cirurgia, para que eu avalie o seu estado clínico e solicite seus exames.
 
-Nesta consulta, falaremos sobre o resultado anátomo-patológico ("biópsia") da peça cirúrgica.
+Nesta consulta, **falaremos sobre o resultado anátomo-patológico** ("biópsia") da peça cirúrgica.
 
 A segunda consulta, após 21 dias, com resultado dos exames.
 
-A terceira consulta, em 90 dias, envolve exames de imagem e avaliação da função renal.
+Na terceira consulta, em 90 dias, pedirei exames de imagem e sangue para avaliação da função renal e de outros parâmetros.
 
 Nos primeiros dois anos, recomendo acompanhamento semestral, passando para anual a partir do terceiro ano. Este protocolo de seguimento é adaptado para cada paciente, considerando seu diagnóstico específico e tipo de cirurgia realizada.
 
