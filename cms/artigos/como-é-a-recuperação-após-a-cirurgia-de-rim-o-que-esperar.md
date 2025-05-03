@@ -1,6 +1,6 @@
 ---
-title: "Cuidados Pós-Operatórios na Cirurgia do Câncer Renal: Um Guia Prático
-  para recuperação"
+title: "Cuidados Pós-Operatórios na Cirurgia do Câncer Renal: Um guia prático
+  para sua recuperação"
 created-on: 2025-05-02T00:34:42.415Z
 updated-on: 2025-05-02T00:34:42.438Z
 published-on: 2025-05-02T00:34:42.453Z
@@ -19,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A cirurgia renal laparoscópica ou robótica para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** produz uma agressão menor ao organismo e a recuperação costuma ser tranquila. Desde que retornei a Manaus há mais 10 de anos, venho tratando todos os meus pacientes com vídeo-cirurgia (não faço mais cirurgias abertas). Neste artigo, compartilho informações essenciais para otimizar a sua recuperação pós-operatória.
+A vídeo-cirurgia moderna para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** causa uma agressão menor ao organismo e a recuperação costuma ser tranquila. Desde que retornei a Manaus há mais 10 de anos, venho tratando todos os meus pacientes com vídeo-cirurgia (não faço mais cirurgias abertas). Neste artigo, compartilho informações essenciais para otimizar a sua recuperação pós-operatória.
 
 ### **O que impacta na sua recuperação?**
 
@@ -72,6 +72,7 @@ Nesta fase intermediária, a maioria dos pacientes está muito bem. Recomendo:
 ### **4 semanas em diante**
 
 Retorno pleno às suas atividades cotidianas, lembrando que estará num período de recondicionamento.\
+
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
