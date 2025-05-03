@@ -19,16 +19,18 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A vídeo-cirurgia moderna para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** causa uma agressão menor ao organismo e a recuperação costuma ser tranquila. Desde que retornei a Manaus há mais 10 de anos, venho tratando todos os meus pacientes com vídeo-cirurgia (não faço mais cirurgias abertas). Neste artigo, compartilho informações essenciais para otimizar a sua recuperação pós-operatória.
+A vídeo-cirurgia moderna para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** causa uma agressão menor ao organismo e a recuperação costuma ser tranquila. Desde que retornei a Manaus há mais 10 de anos, venho tratando todos os meus pacientes com nefrectomia laparoscópica aqui na cidade ou nefrectomias robóticas em São Paulo quando o cao exige isso.
+
+Neste artigo, compartilho informações essenciais para **otimizar a sua recuperação pós-operatória**.
 
 ### **O que impacta na sua recuperação?**
 
-A recuperação pós-operatória varia dependendo dos seguintes fatores:
+A recuperação pós-operatória depende dos seguintes fatores:
 
 * Duração da cirurgia.
 * Tamanho do tumor e reconstrução renal realizada.
 * Tipo de cirurgia: nefrectomia parcial ou nefrectomia radical.
-* Características dos pacientes: idade, comorbidades, fragilidade da saúde, hábitos de vida como tabagismo.
+* Características dos pacientes: idade, peso, comorbidades, fragilidade da saúde, hábitos de vida como tabagismo.
 
 ## **Cronograma de recuperação pós-operatória**
 
@@ -37,23 +39,25 @@ A recuperação pós-operatória varia dependendo dos seguintes fatores:
 O pós-operatório imediato é realizado no Hospital. Você receberá os seguintes cuidados:
 
 * Monitoramento dos sinais vitais, hidratação e remédios para controle da dor e de outros sintomas pós-operatórios.
-* Medicação para evitar trombose venosa profunda.
+* Medicação para evitar trombose venosa.
 * Uma sonda vesical (cateter urinário) permanecerá até o primeiro dia de pós-operatório.
+* Alimentação saudável precoce - **líquida** no dia da cirurgia e **leve** no dia seguinte.
 * Fisioterapia respiratória e motora (mobilização precoce).
-* Alimentação saudável - líquida no dia da cirurgia e bem leve no dia seguinte.
 * No fim deste período, você provavelmente receberá alta hospitalar.
 
 ### **2 a 12 dias**
 
-Nesta fase, é muito comum algum desconforto abdominal à movimentação, fraqueza, indisposição e constipação intestinal, que diminuem progressivamente com o passar dos dias. No 3º ou 4º dia de pós-operatório, a maioria dos pacientes já está muito bem, em processo de melhora progressiva dos sintomas pós-operatórios.
+Nesta fase, é muito comum algum desconforto abdominal à movimentação, fraqueza, indisposição e constipação intestinal, que diminuem progressivamente com o passar dos dias. 
+
+No 3º ou 4º dia de pós-operatório, a maioria dos pacientes já está muito bem, em processo de melhora progressiva dos sintomas pós-operatórios.
 
 Na primeira semana após a alta hospitalar, recomendo:
 
 * Seguir rigorosamente a prescrição médica.
-* Repouso relativo. Não é necessário o repouso restrito à cama. Você deverá levantar-se e caminhar dentro de casa cerca de 5x no dia. Não faça força ou carregue peso. Não se agache.
-* Retirar os curativos no banho e lavar bem com água e sabonete líquido Fisiogel ou Cetaphil. Depois disso, enxugar com uma toalha limpa.
-* Ingerir pelo menos 2 litros e meio de líquidos durante o dia, incluindo água, chás, sucos e água de coco. Está indicado também o consumo de frutas com alto conteúdo hídrico, como melancia, tangerina e laranja com o bagaço e uvas.
-* A dieta deve ser mais leve e saudável, com o consumo de carnes de mais fácil digestão, como lombo de peixe ou peito de frango, assados ou grelhados (evite empanados ou frituras), acompanhadas de legumes, arroz integral e grãos como feijão e grão de bico. Evitar o excesso de laticínios.
+* **Repouso relativo**. Não é necessário o repouso restrito à cama. Você deverá levantar-se e caminhar dentro de casa cerca de 5x no dia. Não faça força ou carregue peso. Não se agache.
+* **Retirar os curativos** no banho e lavar bem com água e sabonete líquido Fisiogel ou Cetaphil. Depois disso, enxugar com uma toalha limpa.
+* **Ingerir pelo menos 2 litros** e meio de líquidos durante o dia, incluindo água, chás, sucos e água de coco. Está indicado também o consumo de frutas com alto conteúdo hídrico, como melancia, tangerina e laranja com o bagaço e uvas.
+* **A dieta deve ser mais leve e saudável**, com o consumo de carnes de mais fácil digestão, como lombo de peixe ou peito de frango, assados ou grelhados (evite empanados ou frituras), acompanhadas de legumes, arroz integral e grãos como feijão e grão de bico. Evitar o excesso de laticínios.
 * No desjejum, consumir pelo menos um cereal (granola, aveia, uvas passas) e uma fruta. Ameixa seca ou in natura e mamão estão indicados nesta refeição.
 * Evite dirigir, não fume ou consuma bebidas alcoólicas.
 * Evite dirigir por pelo menos 10 dias.
@@ -64,14 +68,14 @@ Na primeira semana após a alta hospitalar, recomendo:
 
 Nesta fase intermediária, a maioria dos pacientes está muito bem. Recomendo:
 
-* Você poderá voltar a trabalhar.
+* Voltar a trabalhar com parcimônia.
 * Realizaremos exames de controle da função renal.
 * Retomar atividades leves de academia a partir de 14 dias. Você deve aguardar 25 dias para atividades com peso.
 * Atividades em piscina estão liberadas após 20 dias.
 
 ### **4 semanas em diante**
 
-Retorno pleno às suas atividades cotidianas, lembrando que estará num período de recondicionamento.\
+Retorno pleno às suas atividades cotidianas, lembrando que você estará ainda em umperíodo de recondicionamento físico.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
@@ -101,7 +105,7 @@ Retorno pleno às suas atividades cotidianas, lembrando que estará num período
 
 ### **Alimentação e hidratação**
 
-Recomendo uma dieta rica em proteínas de alta qualidade para cicatrização, como carnes magras, peixes e ovos. O consumo abundante de frutas e vegetais, ricos em antioxidantes e vitaminas, também é importante, assim como a ingestão de 2,5 a 3 litros de água diariamente.
+Recomendo uma dieta rica em proteínas de alta qualidade para cicatrização, como carnes magras, peixes e ovos. O consumo abundante de frutas e vegetais, ricos em antioxidantes e vitaminas, também é importante, assim como a ingestão de 2,5 litros de água diariamente.
 
 A hidratação adequada é particularmente importante após cirurgia renal, pois auxilia na eliminação de anestésicos e medicamentos, além de prevenir complicações urinárias. Evite alimentos ultraprocessados, ricos em sódio e açúcares durante o período de recuperação.
 
