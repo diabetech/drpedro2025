@@ -19,7 +19,9 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-A vídeo-cirurgia moderna para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** causa uma agressão menor ao organismo e a recuperação costuma ser tranquila. Desde que retornei a Manaus há mais 10 de anos, venho tratando todos os meus pacientes com nefrectomia laparoscópica aqui na cidade ou nefrectomias robóticas em São Paulo quando o cao exige isso.
+A vídeo-cirurgia moderna para tratamento de **[câncer de rim](https://uroconsult.com.br/artigos/c%C3%A2ncer-de-rim-da-crescente-incid%C3%AAncia-%C3%A0-nefrectomia-parcial/)** causa uma agressão menor ao organismo e a recuperação costuma ser tranquila. 
+
+Há mais de 10 anos, desde meu retorno a Manaus, venho realizando nefrectomias minimamente invasivas por via laparoscópica na cidade. Para casos que exigem tecnologia mais avançada, a cirurgia robótica é realizada em São Paulo, de forma personalizada e segura.
 
 Neste artigo, compartilho informações essenciais para **otimizar a sua recuperação pós-operatória**.
 
