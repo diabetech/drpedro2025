@@ -5,6 +5,7 @@ created-on: 2025-03-16T12:45:41.250Z
 updated-on: 2025-03-16T12:45:41.280Z
 published-on: 2025-03-16T12:45:41.309Z
 f_destaque: true
+f_aparecer-na-landing-page: false
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
   url: /assets/images/davinci-robotica-850x560.jpg
@@ -12,7 +13,6 @@ f_post-summary: "Em Manaus, ainda não há cirurgia robótica. Para pacientes de
   Manaus que necessitam deste procedimento, realizá-lo em São Paulo tornou-se
   uma opção segura e eficaz. "
 tags: artigos
-f_aparecer-na-landing-page: false
 layout: "[artigos].html"
 date: 2025-03-16T12:45:41.332Z
 seo:
@@ -192,4 +192,4 @@ O retorno ao trabalho pode ocorrer em aproximadamente 2 a 4 semanas, dependendo 
 
 ## Cirurgia robótica para câncer renal: precisão e preservação renal
 
-Se você foi diagnosticado com **câncer de rim e reside em Manaus**, nossa equipe está preparada para auxiliá-lo em todo o processo. Caso confie no nosso trabalho, ficaremos felizes em atender você. Entre em contato com nossa** [assistente dedicada a cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para mais informações sobre como realizar sua cirurgia robótica.
+Se você foi diagnosticado com **câncer de rim e reside em Manaus**, nossa equipe está preparada para auxiliá-lo em todo o processo. Caso confie no nosso trabalho, ficaremos felizes em atender você. Entre em contato com nossa **[assistente dedicada a cirurgias](https://api.whatsapp.com/send?phone=5592982252490)** para mais informações sobre como realizar sua cirurgia robótica.
