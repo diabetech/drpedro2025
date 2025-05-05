@@ -33,9 +33,29 @@ O **[sistema robótico](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirur
 
 Durante a cirurgia, que geralmente dura entre 2 e 3 horas, o cirurgião manipula os controles do console, traduzindo seus movimentos em ações precisas dos instrumentos dentro do corpo do paciente. As pinças cirúrgicas possuem **7 graus de liberdade de movimento**, superando a capacidade do pulso humano e permitindo manobras em espaços restritos da anatomia renal.
 
-*INCLUIR AQUI ESTE VÍDEO*
-
-<https://youtube.com/shorts/DKwedb3Vbi8>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/DKwedb3Vbi8"
+    title="Dinâmica de uma cirurgia robótica para câncer de próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **O conceito de Trifecta no tratamento do câncer renal**
 
@@ -45,7 +65,29 @@ Na ***[urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa
 2. **Preservação máxima da função renal:** mantendo a perda funcional abaixo de 10% em relação à função pré-operatória.
 3. **Ausência de complicações pós-operatórias:** como sangramento, vazamento de urina ou necessidade de reoperação.
 
-[Objetivos da cirurgia para o câncer renal](https://www.youtube.com/watch?v=r8Zo4rvU5_k)
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/r8Zo4rvU5_k"
+    title="Objetivos da cirurgia para o câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Por que preservar o rim é tão importante?**
 
@@ -90,7 +132,29 @@ A cirurgia robótica pode ser realizada para a maioria dos casos de câncer rena
 
 Como **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/)** com mais de 12 anos de experiência no tratamento cirúrgico do câncer renal, avalio individualmente cada caso, considerando fatores como tamanho e localização do tumor, função renal atual, comorbidades, e expectativas do paciente para determinar a melhor abordagem cirúrgica.
 
-*[Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia](https://www.youtube.com/watch?v=EtSwm4qoiHo)*
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EtSwm4qoiHo"
+    title="Cirurgia Robótica para Câncer de Rim #CirurgiaRobotica #CancerDeRim #UrologistaManaus #Urooncologia"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Como é a recuperação após a cirurgia robótica renal?**
 
