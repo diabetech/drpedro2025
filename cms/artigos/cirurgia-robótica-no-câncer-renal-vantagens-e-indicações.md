@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/screenshot-2025-05-03-at-19.43.32-1-.png
+  url: /assets/images/screenshot-2025-05-03-at-19.43.32-1-1-1-.png
 f_post-summary: A cirurgia robótica representa um marco no tratamento do câncer
   renal, permitindo maior preservação do órgão com controle oncológico superior.
   Conheça as vantagens desta tecnologia e suas indicações.
