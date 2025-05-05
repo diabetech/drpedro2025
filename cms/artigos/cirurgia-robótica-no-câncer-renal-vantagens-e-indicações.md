@@ -7,7 +7,7 @@ f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
 f_main-image:
-  url: /assets/images/chatgpt-image-24-de-abr.-de-2025-08_53_07-1-1-.png
+  url: /assets/images/screenshot-2025-05-03-at-19.43.32-1-.png
 f_post-summary: A cirurgia robótica representa um marco no tratamento do câncer
   renal, permitindo maior preservação do órgão com controle oncológico superior.
   Conheça as vantagens desta tecnologia e suas indicações.
@@ -59,7 +59,7 @@ Durante a cirurgia, que geralmente dura entre 2 e 3 horas, o cirurgião manipula
 
 ### **O conceito de Trifecta no tratamento do câncer renal**
 
-Na ***[urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa-especialidade-medica-essencial/)*** moderna, medimos o sucesso cirúrgico através do conceito de **[Trifecta](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)** – três objetivos fundamentais que devem ser alcançados simultaneamente:
+Na **[urologia](https://uroconsult.com.br/artigos/o-que-e-urologia-entenda-essa-especialidade-medica-essencial/)** moderna, medimos o sucesso cirúrgico através do conceito de **[Trifecta](https://uroconsult.com.br/artigos/trifecta-para-c%C3%A2ncer-de-rim-como-a-cirurgia-rob%C3%B3tica-pode-auxiliar-para-atingirmos-estes-objetivos/)** – três objetivos fundamentais que devem ser alcançados simultaneamente:
 
 1. **Remoção completa do tumor com margens cirúrgicas negativas:** garantindo a eliminação total das células cancerígenas.
 2. **Preservação máxima da função renal:** mantendo a perda funcional abaixo de 10% em relação à função pré-operatória.
