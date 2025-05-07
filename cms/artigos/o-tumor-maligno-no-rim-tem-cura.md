@@ -86,7 +86,29 @@ Na minha prática como **[urologista especializado](https://uroconsult.com.br/ci
 * **[Laparoscopia](https://uroconsult.com.br/artigos/retirada-do-rim-por-laparoscopia-como-e-feita/)**: permite a remoção do tumor através de pequenas incisões, com menor dor pós-operatória e recuperação mais rápida.
 * **[Cirurgia robótica](https://uroconsult.com.br/artigos/rob%C3%B3tica-na-cirurgia-de-pr%C3%B3stata-entendendo-as-partes-do-sistema-cir%C3%BArgico/)**: oferece visualização tridimensional e maior precisão, especialmente vantajosa para tumores complexos e nefrectomias parciais. No estágio III, sempre recomendo nefrectomia robótica aos meus pacientes de Manaus.
 
-[Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins](https://youtu.be/EkKko3Fk3g8?si=aysGSYROMV2Gx6r-)
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EkKko3Fk3g8"
+    title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 **Para tumores localmente avançados (Estágio III)**:
 
@@ -105,13 +127,57 @@ Embora não possamos modificar fatores como o tipo histológico ou o estágio em
 3. **Abordagem multidisciplinar**: o envolvimento de uma equipe de profissionais experientes permite uma estratégia de tratamento personalizada e abrangente.
 4. **Novas tecnologias cirúrgicas**: o uso de **[maquetes digitais 3D](https://uroconsult.com.br/artigos/maquetes-digitais-para-planejar-a-cirurgia-do-c%C3%A2ncer-renal-como-elas-podem-beneficiar-voc%C3%AA/)** para planejamento pré-operatório tem melhorado a precisão cirúrgica e as chances de preservação renal.
 
-<https://www.youtube.com/watch?v=ALcCBdzmkP4&t=3s>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/ALcCBdzmkP4"
+    title="Maquetes digitais em 3D: planejando a cirurgia do câncer renal"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Tratamento para câncer de rim em Manaus**
 
 Como **[uro-oncologista especializado](https://uroconsult.com.br/cirurgia-robotica-para-cancer-de-rim-dr-pedro-henrique/)** no tratamento do câncer renal, tenho realizado cirurgias minimamente invasivas em Manaus há mais de 10 anos. Para casos complexos que se beneficiam da tecnologia robótica, desenvolvemos protocolos para realizar o **[procedimento em São Paulo](https://uroconsult.com.br/artigos/cirurgia-rob%C3%B3tica-para-c%C3%A2ncer-de-rim-como-pacientes-de-manaus-podem-realizar-o-procedimento-em-s%C3%A3o-paulo/)**, mantendo o acompanhamento pré e pós-operatório em Manaus.
 
-<https://www.youtube.com/shorts/A6ADx4_Z3Ok?feature=share>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/A6ADx4_Z3Ok"
+    title="Braços do robô cirúrgico de ação"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **Busque o melhor tratamento para câncer de rim**
 
