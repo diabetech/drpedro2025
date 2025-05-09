@@ -89,7 +89,6 @@ A literatura médica demonstrou a superioridade da **[cirurgia robótica](https:
 * Melhor capacidade de reconstrução do parênquima renal.
 * Melhor controle de intercorrências como sangramento intra-operatório.
 
-\
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
@@ -146,7 +145,6 @@ Este protocolo inclui:
 3. Cirurgia robótica em São Paulo.
 4. Acompanhamento pós-operatório em Manaus, próximo à família e no conforto do lar.
 
-\
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
