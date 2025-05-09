@@ -6,6 +6,8 @@ published-on: 2025-05-09T19:16:43.684Z
 f_destaque: false
 f_aparecer-na-landing-page: true
 f_especialidades: cms/especialidades/cirurgia-robotica.md
+f_main-image:
+  url: /assets/images/robótica5-1-.jpg
 f_post-summary: >+
   A preservação órgão durante a cirurgia oncológica para câncer de rim não é uma
   escolha meramente técnica ou estética – é uma medida importante com impacto
