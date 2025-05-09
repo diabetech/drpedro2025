@@ -33,7 +33,29 @@ Na **[urologia moderna](https://uroconsult.com.br/artigos/10-mitos-e-verdades-so
 2. **Maior preservação da função renal**: perda menor que 10% em relação à função pré-operatória.
 3. **Ausência de complicações graves**: recuperação sem sangramento significativo, fístulas ou necessidade de reintervenção.
 
-[Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins](https://youtu.be/EkKko3Fk3g8?si=aysGSYROMV2Gx6r-)
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/EkKko3Fk3g8"
+    title="Cirurgia para tratamento de cálculo renal: como é feito o procedimento? #TratamentoPedrasRins"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Como a tecnologia robótica contribui para a preservação renal?**
 
@@ -63,9 +85,30 @@ A literatura médica demonstrou a superioridade da **[cirurgia robótica](https:
 * Maior preservação da função renal.
 * Maior facilidade para preservação do tecido renal saudável.
 * Melhor capacidade de reconstrução do parênquima renal.
-* Melhor controle de intercorrências como sangramento intra-operatório.
-
-<https://www.youtube.com/shorts/A6ADx4_Z3Ok?feature=share>
+* Melhor controle de intercorrências como sangramento intra-operatório.\
+  <div style="text-align: center; margin-bottom: 20px;">
+    <iframe
+      width="100%"
+      height="500"
+      src="https://www.youtube.com/embed/A6ADx4_Z3Ok"
+      title="Braços do robô cirúrgico de ação. Shorts"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+      id="responsive-video"
+      style="max-width: 800px; margin: 0 auto; display: block;"
+    ></iframe>
+    <script>
+      function adjustIframeHeight() {
+        var iframe = document.getElementById('responsive-video');
+        if (window.innerWidth < 768) {
+          iframe.style.height = '300px'; // Altura para celular
+        } else {
+          iframe.style.height = '500px'; // Altura para desktop
+        }
+      }  </script>
+  </div>
 
 ### **Pacientes que mais se beneficiam da preservação renal robótica**
 
@@ -97,9 +140,30 @@ Este protocolo inclui:
 1. Avaliação inicial e planejamento em Manaus.
 2. Criação de **[modelos digitais 3D](https://uroconsult.com.br/artigos/maquetes-digitais-para-planejar-a-cirurgia-do-c%C3%A2ncer-renal-como-elas-podem-beneficiar-voc%C3%AA/)** a partir dos exames de imagem para planejamento cirúrgico, quando necessário.
 3. Cirurgia robótica em São Paulo.
-4. Acompanhamento pós-operatório em Manaus, próximo à família e no conforto do lar.
-
-<https://www.youtube.com/watch?v=ALcCBdzmkP4&t=3s>
+4. Acompanhamento pós-operatório em Manaus, próximo à família e no conforto do lar.\
+   <div style="text-align: center; margin-bottom: 20px;">
+     <iframe
+       width="100%"
+       height="500"
+       src="https://www.youtube.com/embed/ALcCBdzmkP4"
+       title="Maquetes digitais em 3D: planejando a cirurgia do câncer renal"
+       frameborder="0"
+       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+       referrerpolicy="strict-origin-when-cross-origin"
+       allowfullscreen
+       id="responsive-video"
+       style="max-width: 800px; margin: 0 auto; display: block;"
+     ></iframe>
+     <script>
+       function adjustIframeHeight() {
+         var iframe = document.getElementById('responsive-video');
+         if (window.innerWidth < 768) {
+           iframe.style.height = '300px'; // Altura para celular
+         } else {
+           iframe.style.height = '500px'; // Altura para desktop
+         }
+       }  </script>
+   </div>
 
 ### **Preservação renal na cirurgia robótica para câncer de rim: tecnologia de ponta ao seu alcance**
 
