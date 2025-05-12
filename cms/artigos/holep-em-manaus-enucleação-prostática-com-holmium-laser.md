@@ -38,7 +38,6 @@ O **HoLEP é um procedimento minimamente invasivo** que utiliza um laser para re
 
 **Diferentemente de outras técnicas** que apenas vaporizam ou removem parcialmente o tecido prostático, o HoLEP possibilita a remoção completa da zona de transição da próstata, oferecendo resultados mais duradouros e menor risco de recorrência dos sintomas.
 
-\
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
     width="100%"
@@ -92,7 +91,7 @@ O Holep permitiu a realização da cirurgia por dentro do canal da urina mesmo p
 
 A tecnologia HoLEP está disponível aos nossos pacientes de Manaus desde o final de 2024. Como Urologista especializado, tenho oferecido o método aos meus pacientes deste então. O principal limitante tem sido o custo adicional da fibra laser, que é descartável e não coberta pelos seguros de saúde. Mesmo assim, a relação custo-benefício é favorável para muitos homens considerando os benefícios do Holep.
 
-No entanto, para um caso-padrão de hiperplasia prostática, a [ressecção endoscópica de próstata](https://uroconsult.com.br/artigos/transuretral-resseccao-da-prostata-rtu-uma-excelente-opcao-de-tratamento-da-hiperplasia-prostatica-benigna/) ou o [GreenLight](https://uroconsult.com.br/artigos/entenda-o-greenlight/) façam mais sentido para muitos pacientes, por serem boas opções terapêuticas com cobertura completa pelo plano de saúde
+No entanto, para um caso-padrão de hiperplasia prostática, a **[ressecção endoscópica de próstata](https://uroconsult.com.br/artigos/transuretral-resseccao-da-prostata-rtu-uma-excelente-opcao-de-tratamento-da-hiperplasia-prostatica-benigna/)** ou o **[GreenLight](https://uroconsult.com.br/artigos/entenda-o-greenlight/)** façam mais sentido para muitos pacientes, por serem boas opções terapêuticas com cobertura completa pelo plano de saúde
 
 ## **O que esperar durante todo o processo: da avaliação ao acompanhamento pós-operatório**
 
