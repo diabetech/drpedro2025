@@ -38,7 +38,30 @@ O **HoLEP é um procedimento minimamente invasivo** que utiliza um laser para re
 
 **Diferentemente de outras técnicas** que apenas vaporizam ou removem parcialmente o tecido prostático, o HoLEP possibilita a remoção completa da zona de transição da próstata, oferecendo resultados mais duradouros e menor risco de recorrência dos sintomas.
 
-<iframe width="1058" height="595" src="https://www.youtube.com/embed/Np8U0eQ4tpY" title="Holep: entenda a enucleação da próstata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+\
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/Np8U0eQ4tpY"
+    title="Holep: entenda a enucleação da próstata"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ## **HoLEP versus tratamentos tradicionais**
 
