@@ -130,7 +130,7 @@ A cirurgia robótica pode ser realizada para a maioria dos casos de câncer rena
 * **Pacientes com tumores múltiplos:** permitindo abordagem precisa de todas as lesões.
 * **Pacientes obesos:** a tecnologia robótica facilita a cirurgia em pacientes com maior índice de massa corporal.
 
-Como **[urologista especializado](https://uroconsult.com.br/artigos/urologista-em-manaus/)** com mais de 12 anos de experiência no tratamento cirúrgico do câncer renal, avalio individualmente cada caso, considerando fatores como tamanho e localização do tumor, função renal atual, comorbidades, e expectativas do paciente para determinar a melhor abordagem cirúrgica.
+Como **[urologista especializado](https://uroconsult.com.br/cirurgia-robotica-para-cancer-de-rim-dr-pedro-henrique/)** com mais de 12 anos de experiência no tratamento cirúrgico do câncer renal, avalio individualmente cada caso, considerando fatores como tamanho e localização do tumor, função renal atual, comorbidades, e expectativas do paciente para determinar a melhor abordagem cirúrgica.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <iframe
