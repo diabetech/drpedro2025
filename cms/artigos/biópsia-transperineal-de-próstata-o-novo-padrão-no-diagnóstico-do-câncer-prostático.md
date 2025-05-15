@@ -55,7 +55,29 @@ A principal diferença entre estas técnicas está na via de acesso à próstata
 
 As diretrizes da **[European Association of Urology (EAU)](https://uroweb.org/guidelines)** (2024) recomendam a biópsia transperineal, destacando seu menor risco de infecções e melhor acesso a todas as regiões da próstata. 
 
-<iframe width="788" height="595" src="https://www.youtube.com/embed/83WBx2stFfs" title="Biópsia transperineal de próstata com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/83WBx2stFfs"
+    title="Biópsia transperineal de próstata com fusão de imagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Quando devo considerar fazer uma biópsia de próstata?**
 
@@ -100,7 +122,29 @@ O procedimento dura aproximadamente 20-30 minutos, e o paciente recebe alta no m
 
 Clique aqui para **[orientações detalhadas para biópsia transperineal.](https://uroconsult.com.br/artigos/orienta%C3%A7%C3%B5es-para-bi%C3%B3psia-transperineal-de-pr%C3%B3stata/)**
 
-<iframe width="788" height="443" src="https://www.youtube.com/embed/WHQ7VUIqQzU?list=PL2N9o0WBU1CbmikxiHCPDmwSOgMDwncQ6" title="Demonstração real de uma biópsia de próstata com fusão de imagens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin-bottom: 20px;">
+  <iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/WHQ7VUIqQzU"
+    title="Demonstração real de uma biópsia de próstata com fusão de imagens"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    id="responsive-video"
+    style="max-width: 800px; margin: 0 auto; display: block;"
+  ></iframe>
+  <script>
+    function adjustIframeHeight() {
+      var iframe = document.getElementById('responsive-video');
+      if (window.innerWidth < 768) {
+        iframe.style.height = '300px'; // Altura para celular
+      } else {
+        iframe.style.height = '500px'; // Altura para desktop
+      }
+    }  </script>
+</div>
 
 ### **Dói fazer a biópsia transperineal?**
 
